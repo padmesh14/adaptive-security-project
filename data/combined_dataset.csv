@@ -1,0 +1,1201 @@
+row_id,source_dataset,timestamp,device_id,temperature_c,humidity_pct,motion_detected,door_status,power_usage_kw,weather_condition,pressure_hpa,wind_speed_kmh,ip_address,gps_coordinates,patient_name,owner_email,owner_ssn_like,diagnosis,insurance_provider,billing_amount,heart_rate_bpm,blood_pressure,medication,physician_name,hospital_name,admission_date,blood_type,allergy_notes,visit_type
+926,synthetic_healthcare,2024-09-16T00:22,,,,,,,,,,,,Mary Nair,mary.nair@example.com,717-73-1261,anxiety disorder,UnitedHealth,5529.02,87,112/92,albuterol,Dr. Khan,City General,2024-06-27T06:16,AB-,penicillin,outpatient
+849,synthetic_healthcare,2024-10-02T22:59,,,,,,,,,,,,Priya Johnson,priya.johnson@example.com,839-31-7004,anxiety disorder,Cigna,2197.9,86,150/90,lisinopril,Dr. Kumar,City General,2024-04-30T03:48,A-,latex,telehealth
+320,smart_home_iot,2024-10-13T11:57,dev_5937,22.3,39.7,false,closed,2.04,fog,981.8,9.4,192.200.151.246,,,,,,,,,,,,,,,,
+538,smart_home_iot,2024-02-02T21:06,dev_7502,37.4,70.7,true,open,0.65,fog,1010.0,7.2,,,,,,,,,,,,,,,,,
+512,smart_home_iot,2024-07-09T11:06,dev_6604,2.7,41.3,true,open,0.73,fog,988.5,13.6,34.40.217.177,,,,,,,,,,,,,,,,
+211,smart_home_iot,2024-08-12T08:00,dev_3281,30.3,76.9,true,locked,1.82,rain,1015.8,10.1,,,,,,,,,,,,,,,,,
+1138,synthetic_healthcare,2024-05-26T09:17,,,,,,,,,,,,Mary Garcia,,,influenza,Cigna,8950.64,128,148/94,none,Dr. Smith,City General,2024-11-11T09:50,O+,latex,inpatient
+440,smart_home_iot,2024-07-17T06:08,dev_4869,2.8,66.9,false,open,3.0,storm,999.5,5.9,,,,,,,,,,,,,,,,,
+281,smart_home_iot,2024-04-24T02:39,dev_1950,-4.8,39.1,true,locked,3.85,storm,1027.1,46.8,112.219.206.110,,,,,,,,,,,,,,,,
+560,smart_home_iot,2024-09-27T19:25,dev_2158,19.6,62.2,true,closed,1.35,cloudy,1037.9,51.9,219.106.83.100,,,,,,,,,,,,,,,,
+627,synthetic_healthcare,2024-02-16T17:30,,,,,,,,,,,,Michael Smith,michael.smith@example.com,611-94-6810,migraine,UnitedHealth,6333.68,106,148/94,albuterol,Dr. Nair,City General,2024-07-25T15:34,A+,penicillin,inpatient
+905,synthetic_healthcare,2024-07-18T12:19,,,,,,,,,,,,David Garcia,,219-95-2072,migraine,UnitedHealth,5536.15,85,152/91,lisinopril,Dr. Chen,City General,2024-05-10T11:03,A+,latex,outpatient
+93,smart_home_iot,2024-08-30T05:50,dev_7929,34.1,70.5,false,locked,1.63,clear,1014.7,12.8,,,,,,,,,,,,,,,,,
+453,smart_home_iot,2024-04-05T02:51,dev_4869,16.8,76.0,true,closed,4.92,cloudy,1015.7,49.3,,,,,,,,,,,,,,,,,
+1160,synthetic_healthcare,2024-03-09T22:34,,,,,,,,,,,,Patricia Chen,patricia.chen@example.com,915-21-5731,hypertension,UnitedHealth,13474.3,92,159/80,none,Dr. Brown,City General,2024-08-02T16:17,A+,latex,emergency
+466,smart_home_iot,2024-12-06T10:31,dev_6880,10.0,41.2,true,locked,4.99,fog,985.4,32.1,,"-7.2649,95.9429",,,,,,,,,,,,,,,
+419,smart_home_iot,2024-10-13T15:35,dev_3906,38.5,72.5,false,open,0.56,rain,999.4,53.9,,,,,,,,,,,,,,,,,
+255,smart_home_iot,2024-09-07T04:29,dev_4695,2.3,25.2,true,closed,0.2,rain,1037.1,4.5,97.82.38.141,,,,,,,,,,,,,,,,
+234,smart_home_iot,2024-06-17T21:51,dev_7033,21.6,54.5,true,locked,4.51,cloudy,989.0,55.9,139.177.4.244,,,,,,,,,,,,,,,,
+263,smart_home_iot,2024-10-26T11:40,dev_3422,32.5,38.1,true,open,2.0,storm,1013.1,51.4,,,,,,,,,,,,,,,,,
+1166,synthetic_healthcare,2024-08-04T12:34,,,,,,,,,,,,Linda Williams,linda.williams@example.com,122-21-3174,anxiety disorder,Cigna,6861.92,121,136/95,lisinopril,Dr. Chen,City General,2024-04-20T05:15,A-,none,outpatient
+852,synthetic_healthcare,2024-01-05T09:26,,,,,,,,,,,,Michael Nair,michael.nair@example.com,838-75-9467,anxiety disorder,BlueCross,9307.42,76,122/69,sertraline,Dr. Khan,Riverside Medical,2024-07-09T12:59,AB-,latex,telehealth
+230,smart_home_iot,2024-06-29T15:24,dev_8457,18.0,23.9,true,closed,0.87,clear,1033.7,40.4,190.1.22.220,,,,,,,,,,,,,,,,
+937,synthetic_healthcare,2024-09-20T12:02,,,,,,,,,,,,Jennifer Chen,jennifer.chen@example.com,545-30-8984,hypertension,Cigna,14424.68,63,160/80,none,Dr. Garcia,Riverside Medical,2024-02-21T12:15,B-,none,telehealth
+568,smart_home_iot,2024-08-07T03:22,dev_8974,8.6,76.9,false,locked,3.4,fog,1020.5,48.3,35.7.97.29,,,,,,,,,,,,,,,,
+397,smart_home_iot,2024-08-12T08:37,dev_8245,23.0,50.8,true,open,3.46,cloudy,1025.5,51.2,14.124.75.223,,,,,,,,,,,,,,,,
+262,smart_home_iot,2024-08-13T20:01,dev_3415,0.4,73.0,true,open,4.86,cloudy,987.6,25.4,,,,,,,,,,,,,,,,,
+130,smart_home_iot,2024-06-27T20:10,dev_4279,0.5,79.7,false,open,4.5,storm,1039.8,48.6,,,,,,,,,,,,,,,,,
+1045,synthetic_healthcare,2024-05-11T14:32,,,,,,,,,,,,Fatima Khan,fatima.khan@example.com,381-77-3456,anxiety disorder,BlueCross,8479.98,85,126/69,albuterol,Dr. Khan,St. Mary's,2024-04-27T02:32,AB-,none,emergency
+630,synthetic_healthcare,2024-05-29T14:09,,,,,,,,,,,,David Williams,david.williams@example.com,213-26-9789,anxiety disorder,BlueCross,11167.69,104,157/73,lisinopril,Dr. Brown,Riverside Medical,2024-06-06T08:37,O-,penicillin,emergency
+175,smart_home_iot,2024-03-28T03:18,dev_6269,29.9,46.6,false,closed,1.38,snow,1033.0,28.0,,,,,,,,,,,,,,,,,
+308,smart_home_iot,2024-11-01T14:37,dev_2016,26.1,40.7,true,closed,4.09,clear,1017.0,40.5,,,,,,,,,,,,,,,,,
+256,smart_home_iot,2024-02-03T21:33,dev_6536,21.7,63.0,false,locked,0.25,fog,989.9,53.4,26.169.105.250,,,,,,,,,,,,,,,,
+726,synthetic_healthcare,2024-02-03T22:57,,,,,,,,,,,,James Chen,james.chen@example.com,111-90-3507,hypertension,Kaiser,10637.03,65,136/84,metformin,Dr. Williams,Lakeside Clinic,2024-08-19T00:01,AB-,penicillin,inpatient
+1102,synthetic_healthcare,2024-07-25T09:25,,,,,,,,,,,,Priya Brown,priya.brown@example.com,858-62-3804,type-2 diabetes,BlueCross,12007.09,129,104/100,albuterol,Dr. Brown,St. Mary's,2024-03-27T02:10,B+,peanuts,emergency
+460,smart_home_iot,2024-12-12T01:29,dev_2995,26.9,28.4,true,closed,3.32,fog,1014.0,58.0,,,,,,,,,,,,,,,,,
+86,smart_home_iot,2024-10-05T14:02,dev_4394,21.4,76.9,true,closed,3.89,snow,980.2,51.5,34.128.89.29,,,,,,,,,,,,,,,,
+43,smart_home_iot,2024-07-13T11:14,dev_1441,35.8,61.4,true,open,3.25,cloudy,1032.0,10.9,,,,,,,,,,,,,,,,,
+640,synthetic_healthcare,2024-11-17T20:13,,,,,,,,,,,,Fatima Nair,fatima.nair@example.com,971-95-8899,type-2 diabetes,Cigna,343.32,129,128/84,sertraline,Dr. Brown,City General,2024-03-25T16:32,A+,none,outpatient
+267,smart_home_iot,2024-11-08T11:22,dev_2609,38.8,36.0,false,locked,2.27,rain,996.2,25.0,,,,,,,,,,,,,,,,,
+164,smart_home_iot,2024-01-22T00:30,dev_8575,25.3,41.6,true,closed,1.35,clear,1024.7,34.7,89.32.30.240,,,,,,,,,,,,,,,,
+422,smart_home_iot,2024-08-18T01:15,dev_9154,17.2,32.6,true,locked,1.52,cloudy,980.1,1.4,,"62.6526,107.8432",,,,,,,,,,,,,,,
+637,synthetic_healthcare,2024-01-06T20:08,,,,,,,,,,,,David Smith,david.smith@example.com,114-53-4148,type-2 diabetes,UnitedHealth,14384.48,67,151/70,none,Dr. Williams,City General,2024-05-31T08:16,A-,peanuts,emergency
+554,smart_home_iot,2024-04-12T07:25,dev_6907,36.7,39.8,false,locked,4.16,rain,1011.0,26.1,189.251.77.143,,,,,,,,,,,,,,,,
+325,smart_home_iot,2024-04-24T00:54,dev_5033,30.4,69.9,false,closed,4.22,cloudy,1020.8,19.9,,,,,,,,,,,,,,,,,
+137,smart_home_iot,2024-03-17T18:04,dev_7825,22.8,22.1,false,locked,4.79,storm,994.7,48.4,,,,,,,,,,,,,,,,,
+850,synthetic_healthcare,2024-05-04T16:18,,,,,,,,,,,,Michael Garcia,michael.garcia@example.com,438-67-5225,fracture,Kaiser,613.31,72,109/93,albuterol,Dr. Smith,St. Mary's,2024-11-16T11:02,AB-,none,emergency
+978,synthetic_healthcare,2024-07-31T11:25,,,,,,,,,,,,Michael Khan,michael.khan@example.com,,fracture,Aetna,14725.14,117,138/66,ibuprofen,Dr. Chen,Lakeside Clinic,2024-04-24T00:16,A-,penicillin,inpatient
+632,synthetic_healthcare,2024-05-06T06:13,,,,,,,,,,,,Fatima Kumar,fatima.kumar@example.com,500-88-3869,anxiety disorder,UnitedHealth,2759.31,110,129/84,none,Dr. Williams,City General,2024-05-23T06:54,A+,penicillin,inpatient
+652,synthetic_healthcare,2024-04-10T18:23,,,,,,,,,,,,Mary Nair,mary.nair@example.com,130-84-4846,covid-19,BlueCross,10118.24,67,100/63,albuterol,Dr. Smith,City General,2024-02-05T06:13,B-,none,outpatient
+306,smart_home_iot,2024-08-24T16:32,dev_3913,17.7,68.6,false,locked,0.67,rain,1013.7,35.0,,,,,,,,,,,,,,,,,
+218,smart_home_iot,2024-10-01T23:19,dev_4836,14.3,26.4,true,open,1.15,clear,988.0,13.6,,"35.2075,114.1592",,,,,,,,,,,,,,,
+1156,synthetic_healthcare,2024-04-03T00:12,,,,,,,,,,,,Arjun Chen,arjun.chen@example.com,923-89-7972,influenza,Kaiser,988.94,95,130/97,none,Dr. Williams,Lakeside Clinic,2024-02-08T02:28,AB+,latex,inpatient
+194,smart_home_iot,2024-07-17T15:46,dev_3947,25.7,58.5,false,locked,1.13,rain,1029.9,4.1,,,,,,,,,,,,,,,,,
+994,synthetic_healthcare,2024-09-28T00:07,,,,,,,,,,,,Fatima Khan,fatima.khan@example.com,,asthma,Kaiser,5619.3,112,125/81,sertraline,Dr. Garcia,Riverside Medical,2024-08-14T09:07,AB-,peanuts,emergency
+1168,synthetic_healthcare,2024-01-28T04:06,,,,,,,,,,,,Mary Khan,mary.khan@example.com,789-92-3370,fracture,Aetna,9159.59,130,125/68,ibuprofen,Dr. Kumar,St. Mary's,2024-02-29T05:51,B+,none,telehealth
+514,smart_home_iot,2024-01-04T17:45,dev_2581,30.2,84.4,true,locked,4.52,cloudy,1020.2,1.8,192.142.178.91,,,,,,,,,,,,,,,,
+629,synthetic_healthcare,2024-03-05T16:12,,,,,,,,,,,,James Davis,james.davis@example.com,,asthma,Aetna,13677.27,104,118/73,lisinopril,Dr. Kumar,City General,2024-06-14T12:54,A+,peanuts,outpatient
+931,synthetic_healthcare,2024-01-19T04:53,,,,,,,,,,,,Fatima Johnson,fatima.johnson@example.com,,asthma,BlueCross,12277.86,118,138/71,ibuprofen,Dr. Kumar,City General,2024-06-10T02:46,B+,none,outpatient
+1026,synthetic_healthcare,2024-08-19T05:09,,,,,,,,,,,,Robert Brown,robert.brown@example.com,498-55-4080,asthma,BlueCross,7374.59,90,127/63,albuterol,Dr. Smith,Lakeside Clinic,2024-06-17T18:50,B+,none,outpatient
+227,smart_home_iot,2024-03-14T23:34,dev_3545,19.1,47.4,true,closed,3.52,fog,1037.2,14.3,112.59.232.157,,,,,,,,,,,,,,,,
+330,smart_home_iot,2024-09-24T22:33,dev_8921,37.3,22.8,false,open,0.41,rain,994.0,40.1,,,,,,,,,,,,,,,,,
+91,smart_home_iot,2024-07-19T17:38,dev_4522,14.4,82.2,false,closed,4.15,storm,1005.0,5.7,,,,,,,,,,,,,,,,,
+935,synthetic_healthcare,2024-06-18T06:44,,,,,,,,,,,,Jennifer Nair,jennifer.nair@example.com,,covid-19,BlueCross,2358.06,104,126/61,lisinopril,Dr. Nair,Lakeside Clinic,2024-11-12T20:21,B+,latex,emergency
+786,synthetic_healthcare,2024-11-16T11:32,,,,,,,,,,,,David Nair,david.nair@example.com,181-55-9284,type-2 diabetes,Cigna,9827.68,84,128/86,lisinopril,Dr. Davis,St. Mary's,2024-12-03T01:02,B-,latex,inpatient
+1197,synthetic_healthcare,2024-01-19T11:05,,,,,,,,,,,,Michael Williams,michael.williams@example.com,324-26-3139,covid-19,BlueCross,5438.89,71,144/66,lisinopril,Dr. Nair,St. Mary's,2024-01-16T02:00,B+,none,outpatient
+307,smart_home_iot,2024-09-02T11:37,dev_9747,7.9,79.3,true,locked,0.62,storm,988.7,40.2,193.82.146.175,,,,,,,,,,,,,,,,
+198,smart_home_iot,2024-02-08T13:45,dev_1172,-0.6,35.5,true,closed,1.93,storm,1026.3,35.3,,,,,,,,,,,,,,,,,
+1200,synthetic_healthcare,2024-10-25T23:33,,,,,,,,,,,,Michael Johnson,michael.johnson@example.com,734-59-7420,influenza,UnitedHealth,8546.94,80,160/67,ibuprofen,Dr. Garcia,City General,2024-07-01T10:34,A+,peanuts,telehealth
+862,synthetic_healthcare,2024-09-13T10:36,,,,,,,,,,,,Linda Brown,linda.brown@example.com,,migraine,Aetna,4881.94,103,120/95,sertraline,Dr. Brown,St. Mary's,2024-08-12T20:17,O-,peanuts,outpatient
+1100,synthetic_healthcare,2024-08-16T13:13,,,,,,,,,,,,Michael Garcia,michael.garcia@example.com,238-58-3535,hypertension,Cigna,2205.29,66,132/89,ibuprofen,Dr. Khan,St. Mary's,2024-09-22T14:57,A-,latex,outpatient
+104,smart_home_iot,2024-04-27T16:14,dev_6179,1.8,24.8,false,locked,1.58,rain,1015.5,21.1,119.231.19.15,,,,,,,,,,,,,,,,
+398,smart_home_iot,2024-04-14T17:49,dev_1225,10.4,76.3,false,closed,2.41,rain,992.5,32.3,134.132.247.160,,,,,,,,,,,,,,,,
+1048,synthetic_healthcare,2024-10-05T02:38,,,,,,,,,,,,Linda Khan,linda.khan@example.com,,fracture,UnitedHealth,2390.53,63,109/85,sertraline,Dr. Kumar,St. Mary's,2024-07-08T22:53,AB+,latex,emergency
+1117,synthetic_healthcare,2024-06-13T09:02,,,,,,,,,,,,Patricia Chen,patricia.chen@example.com,905-49-2063,migraine,BlueCross,8884.63,99,123/78,ibuprofen,Dr. Williams,St. Mary's,2024-04-01T11:43,O-,none,inpatient
+1187,synthetic_healthcare,2024-05-17T06:04,,,,,,,,,,,,Robert Nair,robert.nair@example.com,,influenza,Cigna,12440.36,64,131/73,ibuprofen,Dr. Nair,Riverside Medical,2024-02-17T08:01,O+,penicillin,emergency
+587,smart_home_iot,2024-06-13T23:39,dev_6553,39.2,76.4,true,closed,1.57,fog,1027.1,42.9,,,,,,,,,,,,,,,,,
+861,synthetic_healthcare,2024-04-20T13:03,,,,,,,,,,,,Patricia Williams,,413-52-6798,migraine,BlueCross,4675.61,127,125/86,metformin,Dr. Chen,City General,2024-05-28T20:02,AB-,penicillin,telehealth
+11,smart_home_iot,2024-08-09T17:15,dev_4258,1.9,73.4,true,locked,1.69,clear,986.7,21.8,,,,,,,,,,,,,,,,,
+948,synthetic_healthcare,2024-09-12T12:38,,,,,,,,,,,,Mary Davis,mary.davis@example.com,,anxiety disorder,UnitedHealth,2351.66,55,158/100,none,Dr. Davis,Riverside Medical,2024-04-06T17:15,AB-,none,telehealth
+840,synthetic_healthcare,2024-09-15T03:24,,,,,,,,,,,,Patricia Brown,patricia.brown@example.com,165-88-5715,covid-19,Kaiser,6357.81,97,134/84,ibuprofen,Dr. Khan,City General,2024-05-04T20:44,AB-,peanuts,emergency
+1151,synthetic_healthcare,2024-01-28T22:14,,,,,,,,,,,,Mary Williams,mary.williams@example.com,298-29-8331,fracture,Kaiser,9252.47,117,143/99,none,Dr. Johnson,Lakeside Clinic,2024-06-08T14:41,O+,penicillin,inpatient
+254,smart_home_iot,2024-09-23T17:25,dev_7875,38.6,81.9,false,closed,1.82,storm,986.1,28.8,,,,,,,,,,,,,,,,,
+653,synthetic_healthcare,2024-10-04T04:53,,,,,,,,,,,,Michael Garcia,,584-53-8036,migraine,Cigna,10253.35,98,120/75,albuterol,Dr. Chen,Lakeside Clinic,2024-08-10T09:19,A+,peanuts,emergency
+1107,synthetic_healthcare,2024-05-23T13:50,,,,,,,,,,,,James Smith,james.smith@example.com,306-12-5556,fracture,UnitedHealth,13844.37,65,152/96,sertraline,Dr. Nair,City General,2024-06-16T13:25,A-,peanuts,inpatient
+296,smart_home_iot,2024-08-29T15:35,dev_7305,1.7,77.9,true,open,3.25,cloudy,1010.3,28.2,,,,,,,,,,,,,,,,,
+892,synthetic_healthcare,2024-06-30T23:38,,,,,,,,,,,,Mary Nair,mary.nair@example.com,460-88-9818,asthma,Cigna,12443.95,67,158/65,none,Dr. Chen,Riverside Medical,2024-08-14T09:22,O-,penicillin,telehealth
+809,synthetic_healthcare,2024-07-09T23:55,,,,,,,,,,,,Jennifer Williams,jennifer.williams@example.com,866-80-7850,anxiety disorder,Aetna,4507.53,110,118/77,sertraline,Dr. Nair,Riverside Medical,2024-07-24T06:39,B+,penicillin,emergency
+433,smart_home_iot,2024-07-19T00:25,dev_6218,7.2,86.0,false,locked,1.3,clear,998.7,53.5,,"-84.7813,145.1853",,,,,,,,,,,,,,,
+797,synthetic_healthcare,2024-08-17T17:59,,,,,,,,,,,,Priya Brown,priya.brown@example.com,753-54-8933,influenza,Cigna,12623.12,92,142/91,ibuprofen,Dr. Chen,Riverside Medical,2024-07-16T20:25,O-,peanuts,outpatient
+197,smart_home_iot,2024-02-09T19:41,dev_5067,24.6,44.9,true,locked,4.92,fog,1018.8,58.0,,,,,,,,,,,,,,,,,
+311,smart_home_iot,2024-03-12T12:46,dev_4170,8.2,32.4,true,open,4.82,fog,1010.8,22.6,,,,,,,,,,,,,,,,,
+613,synthetic_healthcare,2024-05-03T15:36,,,,,,,,,,,,Wei Smith,,,asthma,Aetna,1612.13,63,137/72,sertraline,Dr. Williams,Riverside Medical,2024-05-09T09:27,O+,latex,telehealth
+483,smart_home_iot,2024-11-23T01:02,dev_1083,13.8,23.1,false,locked,3.87,clear,1005.5,23.7,,,,,,,,,,,,,,,,,
+1088,synthetic_healthcare,2024-12-10T10:50,,,,,,,,,,,,Priya Brown,priya.brown@example.com,989-98-4641,migraine,Kaiser,9150.43,102,106/74,sertraline,Dr. Johnson,Lakeside Clinic,2024-05-14T10:23,AB-,none,telehealth
+470,smart_home_iot,2024-12-02T17:09,dev_2180,-3.3,29.9,true,closed,4.55,snow,982.7,42.1,45.25.157.211,,,,,,,,,,,,,,,,
+896,synthetic_healthcare,2024-03-10T23:48,,,,,,,,,,,,David Williams,david.williams@example.com,,anxiety disorder,Cigna,10624.65,101,151/76,ibuprofen,Dr. Nair,Riverside Medical,2024-11-23T16:46,B-,peanuts,emergency
+847,synthetic_healthcare,2024-06-16T23:49,,,,,,,,,,,,Arjun Johnson,arjun.johnson@example.com,922-87-6427,influenza,UnitedHealth,6976.21,63,100/62,none,Dr. Chen,Lakeside Clinic,2024-11-09T21:44,O+,none,telehealth
+111,smart_home_iot,2024-02-20T02:03,dev_3538,-1.5,79.1,true,locked,3.88,fog,1033.0,2.3,,,,,,,,,,,,,,,,,
+1087,synthetic_healthcare,2024-03-21T21:35,,,,,,,,,,,,Linda Khan,linda.khan@example.com,686-23-6573,anxiety disorder,UnitedHealth,3970.07,96,111/94,albuterol,Dr. Garcia,St. Mary's,2024-11-28T18:15,AB-,latex,inpatient
+418,smart_home_iot,2024-08-07T15:35,dev_5889,9.9,26.1,true,closed,4.97,cloudy,1020.3,36.7,,,,,,,,,,,,,,,,,
+499,smart_home_iot,2024-03-12T01:14,dev_9625,5.0,85.5,false,open,0.21,snow,1031.0,40.6,,,,,,,,,,,,,,,,,
+506,smart_home_iot,2024-06-23T22:32,dev_8144,34.1,64.0,false,locked,4.11,rain,1010.8,34.5,,,,,,,,,,,,,,,,,
+331,smart_home_iot,2024-05-21T07:12,dev_8695,36.3,81.7,true,locked,1.69,fog,1038.1,38.0,,,,,,,,,,,,,,,,,
+77,smart_home_iot,2024-07-25T01:09,dev_1803,36.0,72.2,false,open,3.07,rain,993.1,11.4,,,,,,,,,,,,,,,,,
+922,synthetic_healthcare,2024-07-12T04:20,,,,,,,,,,,,Fatima Smith,fatima.smith@example.com,792-22-2070,type-2 diabetes,Aetna,209.34,61,121/65,albuterol,Dr. Nair,St. Mary's,2024-09-27T17:32,B+,penicillin,emergency
+148,smart_home_iot,2024-02-23T19:17,dev_4968,-3.6,86.4,true,open,0.19,rain,1005.1,24.8,129.241.31.181,"-52.6785,-62.9822",,,,,,,,,,,,,,,
+151,smart_home_iot,2024-09-08T07:24,dev_9011,9.3,44.4,false,closed,0.7,fog,1012.6,53.7,,,,,,,,,,,,,,,,,
+1000,synthetic_healthcare,2024-05-27T19:01,,,,,,,,,,,,David Williams,david.williams@example.com,524-70-1501,migraine,Cigna,1843.94,85,131/91,ibuprofen,Dr. Davis,St. Mary's,2024-05-27T13:43,O+,penicillin,emergency
+402,smart_home_iot,2024-02-27T03:55,dev_1301,10.6,44.6,false,open,4.98,snow,996.6,3.7,,,,,,,,,,,,,,,,,
+636,synthetic_healthcare,2024-09-02T18:37,,,,,,,,,,,,Arjun Brown,arjun.brown@example.com,552-99-1782,type-2 diabetes,BlueCross,10379.97,111,103/98,metformin,Dr. Smith,Lakeside Clinic,2024-10-06T07:08,B-,penicillin,emergency
+1070,synthetic_healthcare,2024-09-25T14:23,,,,,,,,,,,,Patricia Smith,patricia.smith@example.com,564-62-3903,asthma,Kaiser,14245.4,107,140/69,metformin,Dr. Nair,St. Mary's,2024-08-20T02:35,AB+,peanuts,outpatient
+634,synthetic_healthcare,2024-01-27T15:35,,,,,,,,,,,,Wei Garcia,wei.garcia@example.com,490-53-7542,asthma,BlueCross,643.6,87,107/68,albuterol,Dr. Garcia,Lakeside Clinic,2024-06-16T23:23,A-,none,inpatient
+1078,synthetic_healthcare,2024-09-25T23:36,,,,,,,,,,,,James Garcia,james.garcia@example.com,904-99-9922,anxiety disorder,BlueCross,10236.72,70,129/90,none,Dr. Smith,Lakeside Clinic,2024-11-09T10:41,O-,penicillin,telehealth
+776,synthetic_healthcare,2024-08-02T04:07,,,,,,,,,,,,David Kumar,david.kumar@example.com,947-20-1978,fracture,Kaiser,5808.33,57,155/84,ibuprofen,Dr. Garcia,City General,2024-03-22T17:15,B-,latex,inpatient
+812,synthetic_healthcare,2024-06-04T03:53,,,,,,,,,,,,Priya Kumar,priya.kumar@example.com,,fracture,Kaiser,8151.97,80,104/97,lisinopril,Dr. Johnson,St. Mary's,2024-04-11T22:33,B+,peanuts,outpatient
+830,synthetic_healthcare,2024-02-18T14:46,,,,,,,,,,,,David Nair,david.nair@example.com,389-96-7956,anxiety disorder,Kaiser,1149.12,117,142/97,metformin,Dr. Brown,St. Mary's,2024-10-06T13:31,B-,peanuts,emergency
+925,synthetic_healthcare,2024-03-07T04:53,,,,,,,,,,,,Jennifer Smith,jennifer.smith@example.com,603-95-6633,migraine,Aetna,13306.44,63,111/68,sertraline,Dr. Kumar,Lakeside Clinic,2024-11-29T18:48,B+,none,inpatient
+864,synthetic_healthcare,2024-09-30T00:04,,,,,,,,,,,,Mary Nair,,893-62-3486,influenza,Kaiser,4538.93,80,135/65,ibuprofen,Dr. Brown,Riverside Medical,2024-07-27T12:37,AB+,none,emergency
+887,synthetic_healthcare,2024-02-11T01:59,,,,,,,,,,,,Wei Garcia,,,covid-19,Cigna,3431.53,68,105/98,sertraline,Dr. Nair,St. Mary's,2024-11-12T12:35,O-,latex,telehealth
+658,synthetic_healthcare,2024-11-07T17:04,,,,,,,,,,,,David Brown,david.brown@example.com,328-43-2895,fracture,Aetna,1741.83,98,147/97,lisinopril,Dr. Johnson,Riverside Medical,2024-02-16T09:23,AB-,latex,outpatient
+30,smart_home_iot,2024-09-04T09:43,dev_9785,9.9,21.9,false,open,2.94,rain,982.3,35.8,,,,,,,,,,,,,,,,,
+319,smart_home_iot,2024-06-06T15:49,dev_6183,-4.2,67.1,true,locked,3.63,clear,1025.4,35.1,,"77.0486,-141.7912",,,,,,,,,,,,,,,
+261,smart_home_iot,2024-11-11T15:02,dev_8779,20.8,36.5,false,open,2.03,fog,982.1,34.3,,,,,,,,,,,,,,,,,
+129,smart_home_iot,2024-02-11T07:19,dev_1424,28.1,54.9,false,locked,0.68,rain,1022.2,12.9,,,,,,,,,,,,,,,,,
+973,synthetic_healthcare,2024-10-08T09:51,,,,,,,,,,,,Wei Smith,wei.smith@example.com,478-45-7443,fracture,BlueCross,9780.49,98,119/94,sertraline,Dr. Nair,Riverside Medical,2024-11-07T10:24,O-,none,telehealth
+907,synthetic_healthcare,2024-06-27T20:30,,,,,,,,,,,,Mary Nair,mary.nair@example.com,674-71-7370,fracture,BlueCross,14884.93,91,149/63,sertraline,Dr. Smith,St. Mary's,2024-12-10T17:05,A-,peanuts,inpatient
+556,smart_home_iot,2024-07-23T04:49,dev_8949,15.6,27.9,true,open,1.81,cloudy,1032.1,10.8,131.139.108.150,,,,,,,,,,,,,,,,
+980,synthetic_healthcare,2024-03-21T06:12,,,,,,,,,,,,Priya Davis,priya.davis@example.com,684-44-6792,asthma,UnitedHealth,422.47,129,120/74,lisinopril,Dr. Chen,St. Mary's,2024-07-16T05:32,A+,penicillin,outpatient
+530,smart_home_iot,2024-10-05T11:49,dev_6563,2.5,41.0,false,open,2.54,clear,1030.4,32.2,,"89.3210,-35.2702",,,,,,,,,,,,,,,
+1161,synthetic_healthcare,2024-11-07T17:43,,,,,,,,,,,,Arjun Williams,arjun.williams@example.com,299-50-6068,anxiety disorder,Kaiser,4800.57,67,102/60,lisinopril,Dr. Smith,Lakeside Clinic,2024-10-31T02:58,O+,penicillin,outpatient
+394,smart_home_iot,2024-02-18T03:05,dev_6507,-1.3,60.0,true,locked,2.06,clear,1003.9,26.1,,,,,,,,,,,,,,,,,
+477,smart_home_iot,2024-03-05T04:44,dev_3617,25.2,23.0,false,closed,1.13,rain,1000.1,48.3,,"43.2750,152.9501",,,,,,,,,,,,,,,
+855,synthetic_healthcare,2024-03-07T12:19,,,,,,,,,,,,Fatima Brown,fatima.brown@example.com,,influenza,Aetna,14692.31,89,135/77,metformin,Dr. Brown,City General,2024-11-25T21:58,B+,none,emergency
+122,smart_home_iot,2024-09-10T04:24,dev_8840,23.4,76.8,true,locked,3.9,storm,982.2,12.1,,,,,,,,,,,,,,,,,
+27,smart_home_iot,2024-09-05T07:59,dev_5088,25.0,44.8,false,locked,3.77,cloudy,1031.9,58.6,,,,,,,,,,,,,,,,,
+654,synthetic_healthcare,2024-11-12T22:54,,,,,,,,,,,,Fatima Chen,fatima.chen@example.com,,type-2 diabetes,Kaiser,4249.66,86,123/88,sertraline,Dr. Garcia,Lakeside Clinic,2024-08-28T09:09,B-,none,emergency
+838,synthetic_healthcare,2024-04-03T12:27,,,,,,,,,,,,Fatima Johnson,fatima.johnson@example.com,956-65-2907,asthma,Kaiser,3973.76,93,139/92,sertraline,Dr. Brown,City General,2024-05-16T06:07,O-,penicillin,telehealth
+473,smart_home_iot,2024-09-10T12:19,dev_7060,19.9,50.7,true,open,0.59,fog,1016.7,46.7,125.41.3.2,,,,,,,,,,,,,,,,
+186,smart_home_iot,2024-04-30T18:41,dev_7288,29.0,29.8,true,locked,3.75,rain,983.2,26.2,,,,,,,,,,,,,,,,,
+689,synthetic_healthcare,2024-12-12T18:35,,,,,,,,,,,,Arjun Smith,arjun.smith@example.com,270-86-5491,influenza,Cigna,758.04,127,103/72,none,Dr. Chen,Lakeside Clinic,2024-09-06T06:56,A-,penicillin,telehealth
+1017,synthetic_healthcare,2024-01-07T05:36,,,,,,,,,,,,Wei Nair,wei.nair@example.com,764-53-7808,hypertension,Cigna,12941.14,65,108/66,sertraline,Dr. Khan,City General,2024-08-03T20:42,B+,latex,telehealth
+735,synthetic_healthcare,2024-10-20T23:24,,,,,,,,,,,,Wei Johnson,wei.johnson@example.com,687-92-7909,anxiety disorder,Cigna,12215.85,80,112/63,ibuprofen,Dr. Garcia,City General,2024-04-09T21:52,O+,none,outpatient
+405,smart_home_iot,2024-09-06T01:18,dev_4314,33.8,41.6,true,closed,4.98,cloudy,1019.4,33.9,18.60.94.82,,,,,,,,,,,,,,,,
+611,synthetic_healthcare,2024-07-08T04:59,,,,,,,,,,,,Linda Johnson,linda.johnson@example.com,,type-2 diabetes,BlueCross,8717.7,65,103/62,ibuprofen,Dr. Nair,City General,2024-10-11T22:52,B+,none,telehealth
+690,synthetic_healthcare,2024-10-10T18:15,,,,,,,,,,,,David Chen,david.chen@example.com,721-44-4390,influenza,Aetna,2467.25,82,137/60,sertraline,Dr. Garcia,Riverside Medical,2024-04-20T11:14,B-,peanuts,emergency
+400,smart_home_iot,2024-12-10T03:04,dev_1136,-2.0,66.2,false,open,0.19,fog,1003.2,58.8,,,,,,,,,,,,,,,,,
+516,smart_home_iot,2024-12-01T03:15,dev_9260,33.3,53.2,true,closed,3.4,clear,990.9,21.3,,,,,,,,,,,,,,,,,
+1183,synthetic_healthcare,2024-05-08T20:07,,,,,,,,,,,,Fatima Davis,fatima.davis@example.com,790-56-1459,asthma,Aetna,798.32,105,118/99,lisinopril,Dr. Kumar,City General,2024-03-15T00:08,A-,none,emergency
+866,synthetic_healthcare,2024-10-20T11:30,,,,,,,,,,,,Jennifer Smith,jennifer.smith@example.com,951-77-1987,migraine,Aetna,8520.46,59,132/80,sertraline,Dr. Garcia,Riverside Medical,2024-07-28T06:48,AB-,none,outpatient
+167,smart_home_iot,2024-03-22T01:53,dev_1056,29.0,88.5,false,locked,3.62,storm,1011.9,49.4,89.79.141.49,,,,,,,,,,,,,,,,
+768,synthetic_healthcare,2024-07-15T19:17,,,,,,,,,,,,Patricia Smith,patricia.smith@example.com,329-47-5118,anxiety disorder,Cigna,1093.86,75,118/64,sertraline,Dr. Davis,St. Mary's,2024-11-06T15:20,AB+,latex,outpatient
+888,synthetic_healthcare,2024-10-07T07:53,,,,,,,,,,,,Michael Kumar,,357-91-9320,migraine,BlueCross,10031.32,87,122/65,metformin,Dr. Johnson,Lakeside Clinic,2024-03-29T09:07,O-,penicillin,telehealth
+345,smart_home_iot,2024-12-03T02:18,dev_8133,-1.0,38.4,false,open,3.08,fog,1003.1,59.1,,,,,,,,,,,,,,,,,
+427,smart_home_iot,2024-01-25T02:34,dev_3446,7.6,22.2,false,locked,2.72,cloudy,1014.3,23.4,,,,,,,,,,,,,,,,,
+663,synthetic_healthcare,2024-11-22T16:00,,,,,,,,,,,,Robert Brown,,323-35-1149,migraine,Kaiser,1601.06,73,124/87,none,Dr. Williams,City General,2024-02-04T23:16,AB-,latex,inpatient
+12,smart_home_iot,2024-03-28T04:21,dev_1949,5.8,59.7,true,open,3.69,clear,1038.7,32.0,169.243.84.68,,,,,,,,,,,,,,,,
+523,smart_home_iot,2024-02-05T01:46,dev_2253,24.7,56.4,false,closed,1.09,fog,1009.9,30.3,,,,,,,,,,,,,,,,,
+289,smart_home_iot,2024-04-30T08:51,dev_4842,-4.9,67.0,true,locked,3.38,cloudy,1037.0,46.8,186.51.131.165,,,,,,,,,,,,,,,,
+1074,synthetic_healthcare,2024-07-05T21:14,,,,,,,,,,,,Wei Nair,wei.nair@example.com,235-69-9122,migraine,BlueCross,1889.26,82,128/64,none,Dr. Khan,Riverside Medical,2024-04-21T19:27,AB+,none,outpatient
+985,synthetic_healthcare,2024-04-02T19:34,,,,,,,,,,,,Patricia Brown,patricia.brown@example.com,,covid-19,UnitedHealth,2594.64,129,141/93,sertraline,Dr. Khan,St. Mary's,2024-11-03T23:36,A+,latex,emergency
+61,smart_home_iot,2024-05-26T13:10,dev_5460,17.5,54.6,true,locked,0.3,storm,1024.1,36.2,59.10.137.148,"46.1284,-10.6197",,,,,,,,,,,,,,,
+429,smart_home_iot,2024-07-10T04:23,dev_5953,2.9,46.2,true,open,4.58,storm,1010.4,47.9,,,,,,,,,,,,,,,,,
+425,smart_home_iot,2024-06-23T10:30,dev_8774,30.9,65.2,false,open,3.17,snow,1033.8,27.7,,,,,,,,,,,,,,,,,
+1149,synthetic_healthcare,2024-09-24T18:09,,,,,,,,,,,,Jennifer Nair,jennifer.nair@example.com,,anxiety disorder,Kaiser,797.56,125,122/100,lisinopril,Dr. Nair,Riverside Medical,2024-12-11T03:38,B+,peanuts,inpatient
+743,synthetic_healthcare,2024-01-11T09:47,,,,,,,,,,,,Jennifer Khan,,563-55-5351,type-2 diabetes,Kaiser,1334.28,110,113/69,ibuprofen,Dr. Khan,Lakeside Clinic,2024-07-03T22:19,AB-,none,telehealth
+639,synthetic_healthcare,2024-08-24T15:18,,,,,,,,,,,,Priya Nair,priya.nair@example.com,144-18-4580,anxiety disorder,Cigna,11531.77,118,106/94,sertraline,Dr. Williams,Riverside Medical,2024-02-04T11:53,AB-,latex,inpatient
+752,synthetic_healthcare,2024-01-06T16:14,,,,,,,,,,,,Jennifer Smith,jennifer.smith@example.com,322-46-3022,hypertension,BlueCross,4642.86,110,122/60,metformin,Dr. Kumar,St. Mary's,2024-05-07T12:15,AB+,none,inpatient
+176,smart_home_iot,2024-10-04T07:12,dev_6246,36.1,45.9,false,open,2.86,cloudy,1024.5,1.0,,,,,,,,,,,,,,,,,
+21,smart_home_iot,2024-04-25T04:28,dev_5272,4.2,70.1,true,closed,2.04,fog,1018.7,27.4,,,,,,,,,,,,,,,,,
+177,smart_home_iot,2024-09-19T03:33,dev_7841,8.3,33.7,true,closed,2.89,cloudy,1010.0,39.3,,,,,,,,,,,,,,,,,
+252,smart_home_iot,2024-01-01T15:42,dev_7415,33.3,74.0,true,open,3.05,snow,993.3,33.9,,"44.1618,-94.3215",,,,,,,,,,,,,,,
+1002,synthetic_healthcare,2024-04-16T02:29,,,,,,,,,,,,Patricia Nair,patricia.nair@example.com,782-83-2433,hypertension,UnitedHealth,13401.77,97,106/62,sertraline,Dr. Johnson,City General,2024-08-11T16:23,A+,penicillin,inpatient
+549,smart_home_iot,2024-04-14T20:15,dev_9096,12.2,50.2,true,locked,1.16,rain,1023.6,11.4,203.74.14.75,,,,,,,,,,,,,,,,
+668,synthetic_healthcare,2024-02-15T09:47,,,,,,,,,,,,Arjun Kumar,arjun.kumar@example.com,472-79-3811,anxiety disorder,Aetna,3785.19,60,160/93,albuterol,Dr. Khan,Lakeside Clinic,2024-02-20T22:04,O-,peanuts,emergency
+45,smart_home_iot,2024-01-15T15:46,dev_1508,37.7,34.0,true,locked,0.85,cloudy,1008.4,6.9,,,,,,,,,,,,,,,,,
+715,synthetic_healthcare,2024-02-09T10:45,,,,,,,,,,,,David Chen,david.chen@example.com,304-61-6385,type-2 diabetes,Cigna,5188.96,117,113/90,metformin,Dr. Kumar,Lakeside Clinic,2024-01-14T22:30,B+,latex,inpatient
+934,synthetic_healthcare,2024-11-28T22:49,,,,,,,,,,,,Patricia Davis,patricia.davis@example.com,,migraine,BlueCross,5423.04,116,123/91,albuterol,Dr. Garcia,Riverside Medical,2024-07-17T18:17,B-,penicillin,inpatient
+500,smart_home_iot,2024-05-23T14:31,dev_4185,17.1,62.2,true,locked,1.87,cloudy,1023.0,25.7,,"-27.9144,-69.0893",,,,,,,,,,,,,,,
+951,synthetic_healthcare,2024-05-01T13:56,,,,,,,,,,,,Linda Garcia,linda.garcia@example.com,837-59-6363,covid-19,BlueCross,9059.05,76,158/91,ibuprofen,Dr. Khan,Riverside Medical,2024-10-16T10:50,B-,none,outpatient
+1158,synthetic_healthcare,2024-08-23T05:27,,,,,,,,,,,,Wei Khan,,611-13-7420,influenza,Kaiser,3214.55,77,133/92,metformin,Dr. Davis,St. Mary's,2024-03-02T02:06,B+,none,outpatient
+236,smart_home_iot,2024-03-25T06:38,dev_9515,13.6,82.7,false,locked,0.52,clear,1010.3,38.2,,,,,,,,,,,,,,,,,
+1091,synthetic_healthcare,2024-03-04T04:09,,,,,,,,,,,,Patricia Davis,patricia.davis@example.com,319-63-8796,type-2 diabetes,UnitedHealth,11998.15,112,154/80,metformin,Dr. Smith,Riverside Medical,2024-12-12T21:05,B+,none,emergency
+37,smart_home_iot,2024-11-09T06:38,dev_2746,30.0,35.3,false,open,2.83,clear,1007.4,48.1,,,,,,,,,,,,,,,,,
+959,synthetic_healthcare,2024-12-09T01:51,,,,,,,,,,,,Robert Brown,robert.brown@example.com,800-52-9014,type-2 diabetes,Cigna,10999.27,102,135/85,sertraline,Dr. Chen,St. Mary's,2024-07-29T02:04,AB-,latex,outpatient
+1062,synthetic_healthcare,2024-02-15T04:43,,,,,,,,,,,,James Johnson,james.johnson@example.com,783-57-8397,hypertension,Kaiser,12348.07,119,123/96,sertraline,Dr. Johnson,Riverside Medical,2024-04-14T01:02,B+,none,telehealth
+808,synthetic_healthcare,2024-11-08T15:01,,,,,,,,,,,,Fatima Johnson,fatima.johnson@example.com,207-64-2269,anxiety disorder,UnitedHealth,11372.75,75,133/67,lisinopril,Dr. Brown,Lakeside Clinic,2024-11-12T15:59,A-,none,telehealth
+321,smart_home_iot,2024-04-18T12:27,dev_7113,38.1,20.8,true,open,0.3,snow,1015.8,32.2,,,,,,,,,,,,,,,,,
+117,smart_home_iot,2024-02-20T02:21,dev_1627,7.9,78.1,true,locked,2.4,snow,980.3,4.8,,,,,,,,,,,,,,,,,
+110,smart_home_iot,2024-09-25T23:30,dev_9624,-0.8,66.9,false,open,1.88,cloudy,1037.1,20.5,,,,,,,,,,,,,,,,,
+457,smart_home_iot,2024-04-09T05:55,dev_6488,7.2,76.2,false,locked,2.96,storm,1026.4,44.9,,,,,,,,,,,,,,,,,
+989,synthetic_healthcare,2024-06-19T18:46,,,,,,,,,,,,Robert Williams,robert.williams@example.com,,fracture,BlueCross,3747.17,77,145/67,none,Dr. Brown,St. Mary's,2024-08-21T01:35,A+,none,telehealth
+178,smart_home_iot,2024-10-26T03:10,dev_9005,38.5,64.9,false,closed,0.92,rain,990.2,43.2,,,,,,,,,,,,,,,,,
+723,synthetic_healthcare,2024-05-18T17:55,,,,,,,,,,,,Mary Brown,,976-70-3038,migraine,BlueCross,6240.99,105,100/83,lisinopril,Dr. Khan,Riverside Medical,2024-04-07T10:24,AB+,peanuts,telehealth
+1171,synthetic_healthcare,2024-03-05T16:06,,,,,,,,,,,,Arjun Williams,arjun.williams@example.com,,fracture,Aetna,951.49,117,133/93,lisinopril,Dr. Williams,Riverside Medical,2024-09-18T01:54,O-,penicillin,outpatient
+113,smart_home_iot,2024-09-30T22:29,dev_8355,5.5,36.7,false,open,1.9,snow,1039.1,27.7,,,,,,,,,,,,,,,,,
+120,smart_home_iot,2024-07-10T12:46,dev_9914,17.8,89.2,true,closed,4.38,clear,1018.1,58.9,,"51.9336,-55.8711",,,,,,,,,,,,,,,
+1130,synthetic_healthcare,2024-03-03T19:59,,,,,,,,,,,,James Smith,james.smith@example.com,365-79-1767,anxiety disorder,BlueCross,4857.36,66,153/71,lisinopril,Dr. Chen,City General,2024-04-19T01:33,O+,none,outpatient
+495,smart_home_iot,2024-03-04T20:18,dev_3514,2.3,28.2,false,locked,0.72,rain,1002.2,12.3,,,,,,,,,,,,,,,,,
+349,smart_home_iot,2024-01-02T16:38,dev_5277,2.9,55.4,true,locked,1.54,clear,1028.2,57.4,,,,,,,,,,,,,,,,,
+1027,synthetic_healthcare,2024-03-15T05:10,,,,,,,,,,,,David Johnson,david.johnson@example.com,394-28-5643,fracture,UnitedHealth,6438.19,56,130/93,metformin,Dr. Davis,Lakeside Clinic,2024-05-06T15:29,AB+,penicillin,telehealth
+376,smart_home_iot,2024-02-11T02:47,dev_4866,23.5,42.7,true,closed,2.97,storm,1027.3,0.5,201.243.79.96,,,,,,,,,,,,,,,,
+247,smart_home_iot,2024-10-05T04:22,dev_4594,20.9,88.8,false,closed,4.68,cloudy,990.6,35.6,,,,,,,,,,,,,,,,,
+579,smart_home_iot,2024-07-03T04:35,dev_9165,28.0,27.0,false,closed,4.11,clear,1030.9,26.3,,,,,,,,,,,,,,,,,
+53,smart_home_iot,2024-04-30T10:29,dev_6764,26.6,39.0,false,open,0.69,cloudy,998.9,44.6,,,,,,,,,,,,,,,,,
+324,smart_home_iot,2024-04-25T16:51,dev_8960,15.3,63.1,false,locked,2.96,snow,1014.0,48.5,,,,,,,,,,,,,,,,,
+341,smart_home_iot,2024-07-29T10:31,dev_9561,0.3,20.5,true,locked,4.04,storm,1001.7,9.3,,,,,,,,,,,,,,,,,
+272,smart_home_iot,2024-08-06T20:51,dev_1138,5.1,62.6,false,locked,4.84,fog,996.5,53.7,,,,,,,,,,,,,,,,,
+780,synthetic_healthcare,2024-01-04T05:30,,,,,,,,,,,,Jennifer Smith,jennifer.smith@example.com,467-71-4569,anxiety disorder,Aetna,8727.19,65,117/99,sertraline,Dr. Nair,City General,2024-06-09T08:37,B+,peanuts,emergency
+85,smart_home_iot,2024-05-10T14:08,dev_1992,12.9,33.3,true,closed,0.55,cloudy,1018.5,35.8,202.170.124.254,"11.6240,-155.3003",,,,,,,,,,,,,,,
+390,smart_home_iot,2024-07-30T22:57,dev_5093,5.5,76.8,true,locked,2.06,cloudy,1024.1,43.4,,,,,,,,,,,,,,,,,
+719,synthetic_healthcare,2024-06-30T20:13,,,,,,,,,,,,Patricia Johnson,patricia.johnson@example.com,911-96-7658,fracture,Kaiser,10856.51,112,160/68,none,Dr. Garcia,City General,2024-01-14T06:49,B-,penicillin,telehealth
+220,smart_home_iot,2024-10-23T03:19,dev_3181,23.9,67.4,true,locked,2.86,snow,1019.0,26.4,,,,,,,,,,,,,,,,,
+3,smart_home_iot,2024-05-03T21:09,dev_5552,2.0,87.0,false,open,0.55,clear,1001.5,20.6,,"-7.3035,-135.0626",,,,,,,,,,,,,,,
+60,smart_home_iot,2024-10-27T23:12,dev_3330,-1.8,31.6,false,locked,3.77,snow,1035.3,26.3,,,,,,,,,,,,,,,,,
+529,smart_home_iot,2024-08-02T01:55,dev_1364,39.4,46.4,false,closed,2.91,storm,986.0,40.5,,,,,,,,,,,,,,,,,
+1082,synthetic_healthcare,2024-02-17T07:51,,,,,,,,,,,,Michael Davis,michael.davis@example.com,445-88-9391,type-2 diabetes,Aetna,4310.8,112,140/94,sertraline,Dr. Garcia,City General,2024-09-10T03:27,O-,none,emergency
+248,smart_home_iot,2024-11-28T18:28,dev_1462,26.7,44.6,true,locked,4.75,storm,1012.5,10.5,15.119.112.6,,,,,,,,,,,,,,,,
+426,smart_home_iot,2024-01-21T09:31,dev_9537,8.5,70.7,false,locked,2.73,cloudy,1014.6,19.9,,,,,,,,,,,,,,,,,
+526,smart_home_iot,2024-05-22T11:58,dev_5315,17.3,88.0,false,closed,1.67,clear,1015.4,7.7,,,,,,,,,,,,,,,,,
+969,synthetic_healthcare,2024-08-26T22:30,,,,,,,,,,,,Robert Davis,,523-24-1651,asthma,UnitedHealth,2279.02,72,147/85,metformin,Dr. Nair,City General,2024-07-04T18:09,A+,none,emergency
+1108,synthetic_healthcare,2024-07-26T17:14,,,,,,,,,,,,Mary Smith,,897-29-3743,migraine,Aetna,1459.73,80,130/77,none,Dr. Khan,St. Mary's,2024-01-21T15:21,B-,none,telehealth
+533,smart_home_iot,2024-01-07T18:33,dev_9457,33.8,60.4,true,locked,4.81,fog,1036.3,16.1,,,,,,,,,,,,,,,,,
+1114,synthetic_healthcare,2024-05-10T17:07,,,,,,,,,,,,Arjun Nair,arjun.nair@example.com,,fracture,UnitedHealth,3243.23,58,116/64,none,Dr. Williams,City General,2024-02-21T06:43,O-,none,telehealth
+379,smart_home_iot,2024-03-10T02:17,dev_4057,19.5,42.7,false,closed,4.35,snow,1034.9,33.3,40.230.151.210,,,,,,,,,,,,,,,,
+224,smart_home_iot,2024-02-11T01:10,dev_4949,17.5,61.6,true,closed,4.68,cloudy,1003.2,50.3,,,,,,,,,,,,,,,,,
+1144,synthetic_healthcare,2024-06-10T07:49,,,,,,,,,,,,Patricia Khan,patricia.khan@example.com,129-83-8382,fracture,Cigna,14474.19,79,150/92,sertraline,Dr. Smith,Lakeside Clinic,2024-02-17T15:26,B-,peanuts,emergency
+1056,synthetic_healthcare,2024-11-29T18:00,,,,,,,,,,,,James Davis,james.davis@example.com,,migraine,Kaiser,11897.87,72,156/63,metformin,Dr. Kumar,City General,2024-10-21T08:53,A-,none,emergency
+570,smart_home_iot,2024-02-12T09:37,dev_3721,35.6,71.7,false,closed,2.41,storm,1015.1,12.1,,,,,,,,,,,,,,,,,
+882,synthetic_healthcare,2024-01-31T04:58,,,,,,,,,,,,Arjun Williams,arjun.williams@example.com,507-75-4192,influenza,UnitedHealth,11656.6,80,146/82,sertraline,Dr. Davis,St. Mary's,2024-07-23T22:32,A+,none,emergency
+562,smart_home_iot,2024-06-11T04:20,dev_7358,16.4,59.4,false,open,3.81,rain,1016.8,26.0,,"-28.4859,-13.1310",,,,,,,,,,,,,,,
+87,smart_home_iot,2024-01-10T09:16,dev_3159,-4.3,75.3,true,locked,1.69,cloudy,995.9,7.6,,"-78.5596,-18.6209",,,,,,,,,,,,,,,
+101,smart_home_iot,2024-09-08T01:54,dev_6928,-1.0,79.1,true,closed,2.99,snow,984.7,52.2,,,,,,,,,,,,,,,,,
+1188,synthetic_healthcare,2024-03-07T21:48,,,,,,,,,,,,Priya Smith,priya.smith@example.com,742-33-3448,asthma,UnitedHealth,4671.11,67,104/60,none,Dr. Smith,City General,2024-08-22T03:56,O+,none,emergency
+1115,synthetic_healthcare,2024-06-23T12:16,,,,,,,,,,,,Linda Khan,linda.khan@example.com,606-45-1988,influenza,Kaiser,9321.82,111,146/65,ibuprofen,Dr. Chen,City General,2024-05-30T03:05,B-,penicillin,inpatient
+435,smart_home_iot,2024-04-30T23:57,dev_4246,27.1,67.0,true,closed,2.88,clear,1028.8,55.2,,,,,,,,,,,,,,,,,
+368,smart_home_iot,2024-04-20T12:39,dev_1172,-5.0,77.1,true,closed,1.51,snow,980.5,55.3,,,,,,,,,,,,,,,,,
+1051,synthetic_healthcare,2024-10-23T15:08,,,,,,,,,,,,Arjun Khan,arjun.khan@example.com,123-38-2785,migraine,UnitedHealth,8376.87,119,133/71,albuterol,Dr. Nair,St. Mary's,2024-06-18T13:11,A+,peanuts,outpatient
+240,smart_home_iot,2024-11-07T20:51,dev_6370,1.7,69.8,false,closed,2.62,fog,997.9,49.2,104.231.127.25,,,,,,,,,,,,,,,,
+42,smart_home_iot,2024-06-26T18:12,dev_4595,7.3,54.0,false,closed,3.38,storm,1023.5,50.4,,,,,,,,,,,,,,,,,
+13,smart_home_iot,2024-08-08T20:29,dev_7932,38.4,85.0,true,locked,1.63,fog,1019.0,26.3,,"-49.5545,-58.2892",,,,,,,,,,,,,,,
+298,smart_home_iot,2024-06-11T18:32,dev_6178,0.3,54.8,true,open,2.08,clear,1013.4,0.0,155.155.105.168,,,,,,,,,,,,,,,,
+1025,synthetic_healthcare,2024-02-11T00:01,,,,,,,,,,,,Priya Smith,priya.smith@example.com,767-36-2814,hypertension,BlueCross,1675.75,81,128/69,lisinopril,Dr. Johnson,Riverside Medical,2024-04-28T08:52,O+,latex,emergency
+537,smart_home_iot,2024-09-20T01:04,dev_8960,30.2,23.9,true,closed,3.05,clear,1034.0,24.4,,,,,,,,,,,,,,,,,
+900,synthetic_healthcare,2024-02-13T13:48,,,,,,,,,,,,Mary Davis,mary.davis@example.com,165-77-7778,influenza,UnitedHealth,3792.09,77,153/71,metformin,Dr. Garcia,City General,2024-04-30T19:13,A-,none,telehealth
+138,smart_home_iot,2024-09-07T17:11,dev_1981,2.1,49.1,false,open,1.77,cloudy,998.8,43.1,,,,,,,,,,,,,,,,,
+335,smart_home_iot,2024-02-28T16:59,dev_7732,-4.0,23.0,true,open,3.18,clear,1033.4,8.8,47.207.9.225,,,,,,,,,,,,,,,,
+787,synthetic_healthcare,2024-05-04T08:41,,,,,,,,,,,,Patricia Johnson,,183-62-7898,influenza,Kaiser,7453.47,80,157/71,ibuprofen,Dr. Smith,St. Mary's,2024-02-13T23:28,O+,peanuts,telehealth
+1131,synthetic_healthcare,2024-06-30T22:18,,,,,,,,,,,,Wei Davis,wei.davis@example.com,376-31-7938,influenza,BlueCross,10914.99,105,137/90,none,Dr. Smith,Riverside Medical,2024-01-16T16:55,AB-,penicillin,outpatient
+593,smart_home_iot,2024-02-14T12:55,dev_9970,10.7,80.9,false,closed,2.91,snow,1007.1,20.3,,,,,,,,,,,,,,,,,
+589,smart_home_iot,2024-01-29T10:12,dev_7050,25.5,48.2,false,closed,2.96,fog,1005.4,26.4,,,,,,,,,,,,,,,,,
+443,smart_home_iot,2024-05-05T08:13,dev_2462,21.2,62.8,false,open,4.28,clear,1002.2,32.9,181.183.56.221,,,,,,,,,,,,,,,,
+78,smart_home_iot,2024-10-06T10:15,dev_3240,23.3,83.2,true,closed,3.96,clear,1014.8,43.9,76.167.212.45,,,,,,,,,,,,,,,,
+277,smart_home_iot,2024-05-10T12:35,dev_9311,8.5,31.9,true,closed,0.58,cloudy,1024.5,43.5,,,,,,,,,,,,,,,,,
+49,smart_home_iot,2024-09-24T04:00,dev_9548,38.4,38.9,false,closed,2.23,fog,1015.5,19.3,23.142.230.63,,,,,,,,,,,,,,,,
+445,smart_home_iot,2024-11-01T19:42,dev_7835,1.9,89.8,true,open,0.16,fog,980.9,43.3,,,,,,,,,,,,,,,,,
+601,synthetic_healthcare,2024-01-07T18:43,,,,,,,,,,,,Michael Khan,michael.khan@example.com,700-96-2663,asthma,Kaiser,9801.14,71,119/96,ibuprofen,Dr. Garcia,City General,2024-11-04T02:53,B-,penicillin,emergency
+609,synthetic_healthcare,2024-05-11T14:35,,,,,,,,,,,,Arjun Smith,arjun.smith@example.com,838-38-1769,fracture,BlueCross,8023.56,95,100/85,lisinopril,Dr. Nair,City General,2024-11-16T10:25,A+,penicillin,telehealth
+1013,synthetic_healthcare,2024-04-04T00:07,,,,,,,,,,,,Robert Kumar,,787-42-7808,influenza,BlueCross,3125.07,75,123/66,albuterol,Dr. Kumar,City General,2024-01-28T18:04,B+,none,outpatient
+225,smart_home_iot,2024-03-03T21:41,dev_8717,38.0,73.9,true,locked,0.43,rain,992.9,55.4,,,,,,,,,,,,,,,,,
+612,synthetic_healthcare,2024-06-06T05:28,,,,,,,,,,,,Mary Johnson,mary.johnson@example.com,793-17-1855,fracture,BlueCross,6073.11,107,114/98,none,Dr. Davis,City General,2024-06-14T01:58,O+,latex,telehealth
+1073,synthetic_healthcare,2024-03-14T18:30,,,,,,,,,,,,Patricia Chen,patricia.chen@example.com,211-69-9924,type-2 diabetes,BlueCross,238.77,76,143/66,metformin,Dr. Davis,St. Mary's,2024-01-01T04:03,O+,none,inpatient
+79,smart_home_iot,2024-10-13T08:39,dev_9837,34.4,45.6,false,open,1.36,storm,1038.0,17.7,,,,,,,,,,,,,,,,,
+759,synthetic_healthcare,2024-07-03T03:47,,,,,,,,,,,,Jennifer Chen,jennifer.chen@example.com,156-25-5913,anxiety disorder,BlueCross,14741.83,85,153/94,albuterol,Dr. Davis,Lakeside Clinic,2024-11-08T20:47,A-,latex,inpatient
+1126,synthetic_healthcare,2024-12-12T19:28,,,,,,,,,,,,James Garcia,,591-83-5360,asthma,UnitedHealth,12477.27,96,127/71,lisinopril,Dr. Khan,Riverside Medical,2024-07-31T05:08,A-,none,telehealth
+608,synthetic_healthcare,2024-03-23T23:59,,,,,,,,,,,,Arjun Kumar,arjun.kumar@example.com,296-96-1378,fracture,Kaiser,13255.88,55,160/87,none,Dr. Smith,Riverside Medical,2024-06-06T11:39,O+,peanuts,outpatient
+798,synthetic_healthcare,2024-11-22T12:31,,,,,,,,,,,,Michael Chen,,557-51-5053,anxiety disorder,Aetna,2708.82,95,142/67,albuterol,Dr. Chen,St. Mary's,2024-10-08T16:32,O-,latex,telehealth
+467,smart_home_iot,2024-08-23T20:29,dev_4327,2.9,22.8,false,locked,1.04,fog,1003.4,6.4,,,,,,,,,,,,,,,,,
+1072,synthetic_healthcare,2024-02-28T14:35,,,,,,,,,,,,Priya Davis,priya.davis@example.com,168-43-1372,anxiety disorder,Kaiser,10145.52,88,104/72,lisinopril,Dr. Brown,Lakeside Clinic,2024-03-25T12:14,A-,penicillin,emergency
+340,smart_home_iot,2024-10-04T06:25,dev_2600,14.1,37.8,true,open,1.49,snow,1004.5,11.3,,,,,,,,,,,,,,,,,
+432,smart_home_iot,2024-08-20T14:21,dev_4438,9.4,33.5,false,locked,1.66,storm,1020.3,16.4,30.7.52.53,,,,,,,,,,,,,,,,
+259,smart_home_iot,2024-11-21T19:33,dev_5341,-0.9,58.1,true,closed,4.44,rain,991.2,2.7,,,,,,,,,,,,,,,,,
+578,smart_home_iot,2024-06-15T10:30,dev_2817,38.9,74.7,true,locked,0.31,clear,990.0,7.1,93.80.149.182,,,,,,,,,,,,,,,,
+420,smart_home_iot,2024-11-03T00:57,dev_2063,8.2,29.4,false,closed,2.68,snow,992.6,12.5,147.44.247.186,,,,,,,,,,,,,,,,
+1080,synthetic_healthcare,2024-01-06T09:36,,,,,,,,,,,,Patricia Khan,patricia.khan@example.com,558-23-5340,anxiety disorder,Kaiser,2323.08,64,133/71,metformin,Dr. Davis,St. Mary's,2024-04-29T04:47,O+,latex,outpatient
+352,smart_home_iot,2024-04-05T21:11,dev_5067,7.9,47.9,false,open,2.82,cloudy,1008.6,21.2,,,,,,,,,,,,,,,,,
+10,smart_home_iot,2024-04-16T20:38,dev_8123,2.1,20.2,false,locked,3.83,snow,1034.8,52.2,,,,,,,,,,,,,,,,,
+56,smart_home_iot,2024-04-01T22:11,dev_8827,0.1,24.6,false,open,2.93,fog,983.2,9.0,,,,,,,,,,,,,,,,,
+107,smart_home_iot,2024-07-09T19:22,dev_9564,22.4,45.5,false,closed,2.1,rain,1020.7,3.1,,,,,,,,,,,,,,,,,
+342,smart_home_iot,2024-11-07T06:54,dev_9783,14.1,45.6,false,locked,2.05,cloudy,1004.8,47.0,,,,,,,,,,,,,,,,,
+610,synthetic_healthcare,2024-03-12T16:20,,,,,,,,,,,,Robert Nair,robert.nair@example.com,418-18-2584,hypertension,BlueCross,6524.68,58,137/100,albuterol,Dr. Kumar,St. Mary's,2024-02-09T06:19,O-,penicillin,emergency
+1066,synthetic_healthcare,2024-01-07T08:54,,,,,,,,,,,,Michael Smith,michael.smith@example.com,,influenza,Kaiser,9181.3,98,101/95,lisinopril,Dr. Chen,Riverside Medical,2024-07-17T05:55,B+,latex,emergency
+987,synthetic_healthcare,2024-03-25T09:38,,,,,,,,,,,,Mary Davis,mary.davis@example.com,153-83-3882,fracture,Kaiser,7096.11,109,157/70,lisinopril,Dr. Smith,St. Mary's,2024-08-07T09:53,A-,none,outpatient
+914,synthetic_healthcare,2024-02-25T14:24,,,,,,,,,,,,Patricia Kumar,patricia.kumar@example.com,,asthma,Aetna,5918.37,74,160/78,sertraline,Dr. Johnson,St. Mary's,2024-03-07T23:29,B-,peanuts,telehealth
+1113,synthetic_healthcare,2024-05-07T10:07,,,,,,,,,,,,Fatima Chen,fatima.chen@example.com,959-18-1020,asthma,Kaiser,8975.35,71,149/97,ibuprofen,Dr. Smith,City General,2024-03-24T07:50,O-,none,inpatient
+100,smart_home_iot,2024-07-28T15:03,dev_8033,20.8,69.7,false,closed,0.66,clear,1038.0,10.3,,,,,,,,,,,,,,,,,
+384,smart_home_iot,2024-11-20T04:42,dev_7814,32.0,75.6,true,locked,1.4,clear,1024.1,50.1,56.49.51.186,,,,,,,,,,,,,,,,
+1106,synthetic_healthcare,2024-11-10T04:49,,,,,,,,,,,,James Khan,james.khan@example.com,,hypertension,Cigna,11434.07,117,138/89,sertraline,Dr. Khan,Lakeside Clinic,2024-05-07T04:20,B-,peanuts,emergency
+336,smart_home_iot,2024-08-28T22:24,dev_5644,37.6,35.2,false,closed,0.94,storm,1016.1,47.7,,,,,,,,,,,,,,,,,
+1029,synthetic_healthcare,2024-09-08T04:30,,,,,,,,,,,,Mary Kumar,mary.kumar@example.com,982-94-9462,fracture,BlueCross,382.87,127,156/66,lisinopril,Dr. Kumar,Riverside Medical,2024-10-21T19:21,B-,none,inpatient
+209,smart_home_iot,2024-10-26T12:05,dev_1681,29.2,50.9,true,closed,0.6,fog,1025.1,17.9,,,,,,,,,,,,,,,,,
+501,smart_home_iot,2024-06-11T05:30,dev_2435,4.7,82.1,false,closed,1.51,fog,1038.2,25.4,,"15.6924,-149.0119",,,,,,,,,,,,,,,
+736,synthetic_healthcare,2024-08-03T05:43,,,,,,,,,,,,David Brown,david.brown@example.com,,hypertension,Kaiser,14820.29,114,118/68,ibuprofen,Dr. Smith,City General,2024-05-02T20:09,A+,none,telehealth
+839,synthetic_healthcare,2024-03-08T14:47,,,,,,,,,,,,Michael Khan,michael.khan@example.com,,influenza,Cigna,4148.38,107,113/61,ibuprofen,Dr. Williams,Riverside Medical,2024-04-07T05:32,O-,none,emergency
+917,synthetic_healthcare,2024-06-12T17:17,,,,,,,,,,,,Fatima Brown,fatima.brown@example.com,799-72-5096,migraine,BlueCross,7228.61,74,129/94,albuterol,Dr. Brown,St. Mary's,2024-04-14T10:39,B+,latex,emergency
+810,synthetic_healthcare,2024-08-11T13:12,,,,,,,,,,,,Fatima Nair,,,covid-19,BlueCross,3222.41,97,159/68,lisinopril,Dr. Khan,Lakeside Clinic,2024-01-04T13:49,AB-,latex,inpatient
+424,smart_home_iot,2024-04-27T22:29,dev_1100,0.1,43.3,false,locked,2.89,clear,1029.9,11.6,,,,,,,,,,,,,,,,,
+1152,synthetic_healthcare,2024-09-04T00:58,,,,,,,,,,,,Fatima Williams,fatima.williams@example.com,601-31-1503,asthma,Kaiser,8120.33,76,152/64,ibuprofen,Dr. Nair,City General,2024-08-26T11:57,A+,none,telehealth
+278,smart_home_iot,2024-12-10T18:20,dev_6499,24.4,35.6,true,locked,4.37,storm,1027.3,19.9,,,,,,,,,,,,,,,,,
+1003,synthetic_healthcare,2024-06-27T12:49,,,,,,,,,,,,Mary Kumar,mary.kumar@example.com,707-47-9619,type-2 diabetes,Kaiser,4323.92,63,129/98,albuterol,Dr. Williams,City General,2024-06-29T17:44,B-,peanuts,outpatient
+1101,synthetic_healthcare,2024-06-09T00:43,,,,,,,,,,,,Mary Garcia,mary.garcia@example.com,,asthma,UnitedHealth,6688.04,82,159/96,none,Dr. Davis,St. Mary's,2024-11-01T01:20,A+,peanuts,inpatient
+44,smart_home_iot,2024-06-14T13:13,dev_6355,10.2,81.6,false,closed,1.34,clear,1008.2,44.9,90.114.35.200,,,,,,,,,,,,,,,,
+442,smart_home_iot,2024-07-29T10:02,dev_8326,3.8,67.7,false,closed,2.89,fog,998.3,56.6,,,,,,,,,,,,,,,,,
+970,synthetic_healthcare,2024-11-16T12:55,,,,,,,,,,,,Robert Nair,,349-71-4498,asthma,BlueCross,7215.87,82,106/71,ibuprofen,Dr. Khan,City General,2024-02-23T04:44,B+,none,inpatient
+515,smart_home_iot,2024-07-01T06:36,dev_4962,17.7,24.8,true,locked,1.16,cloudy,1037.9,10.3,,"40.5629,152.7236",,,,,,,,,,,,,,,
+370,smart_home_iot,2024-06-02T17:35,dev_4924,18.2,76.0,false,closed,3.28,snow,1028.5,24.8,,,,,,,,,,,,,,,,,
+423,smart_home_iot,2024-05-30T23:06,dev_7783,-3.0,44.5,true,open,3.24,fog,996.9,47.4,,,,,,,,,,,,,,,,,
+97,smart_home_iot,2024-09-02T09:13,dev_2336,7.2,66.3,false,locked,2.27,rain,992.9,30.7,,"32.0792,33.5283",,,,,,,,,,,,,,,
+448,smart_home_iot,2024-05-13T14:37,dev_1548,39.0,59.8,false,open,2.94,fog,984.8,43.8,,,,,,,,,,,,,,,,,
+731,synthetic_healthcare,2024-06-07T18:22,,,,,,,,,,,,Arjun Chen,arjun.chen@example.com,297-42-3833,asthma,Cigna,14431.12,68,137/97,albuterol,Dr. Williams,St. Mary's,2024-09-19T21:27,O-,latex,telehealth
+185,smart_home_iot,2024-04-24T12:00,dev_1256,38.3,61.1,false,open,1.57,snow,994.4,50.1,,,,,,,,,,,,,,,,,
+134,smart_home_iot,2024-03-07T06:01,dev_3114,14.5,83.7,true,open,2.64,rain,989.9,19.4,,,,,,,,,,,,,,,,,
+1199,synthetic_healthcare,2024-08-05T19:16,,,,,,,,,,,,Mary Chen,mary.chen@example.com,799-97-2212,covid-19,Cigna,5721.55,60,155/70,sertraline,Dr. Khan,St. Mary's,2024-02-13T10:44,A+,peanuts,inpatient
+393,smart_home_iot,2024-04-28T23:53,dev_9231,26.4,30.7,false,closed,3.79,snow,1010.3,13.3,,,,,,,,,,,,,,,,,
+344,smart_home_iot,2024-09-11T14:40,dev_3650,-0.5,55.6,false,locked,3.11,fog,1022.4,9.6,,"-73.6041,-127.6818",,,,,,,,,,,,,,,
+680,synthetic_healthcare,2024-06-20T09:01,,,,,,,,,,,,David Nair,david.nair@example.com,406-56-8017,influenza,Kaiser,12188.23,68,128/88,lisinopril,Dr. Williams,Riverside Medical,2024-09-29T00:10,O+,none,emergency
+469,smart_home_iot,2024-06-30T22:18,dev_9748,38.4,76.8,true,open,1.76,rain,1027.3,2.6,207.234.76.190,,,,,,,,,,,,,,,,
+600,smart_home_iot,2024-01-19T21:19,dev_4318,5.8,61.8,true,closed,2.59,snow,1003.1,6.9,119.208.33.124,"24.0374,148.9446",,,,,,,,,,,,,,,
+285,smart_home_iot,2024-03-17T21:24,dev_1359,21.5,31.8,false,locked,3.29,clear,1002.5,38.4,,,,,,,,,,,,,,,,,
+1148,synthetic_healthcare,2024-07-29T09:14,,,,,,,,,,,,Priya Nair,priya.nair@example.com,554-11-5476,covid-19,UnitedHealth,14913.7,107,150/76,lisinopril,Dr. Chen,City General,2024-02-23T14:54,A-,penicillin,outpatient
+867,synthetic_healthcare,2024-10-11T04:53,,,,,,,,,,,,Mary Khan,mary.khan@example.com,,covid-19,Kaiser,9780.6,79,148/64,none,Dr. Chen,Riverside Medical,2024-06-18T13:28,O-,penicillin,emergency
+691,synthetic_healthcare,2024-01-17T14:34,,,,,,,,,,,,Arjun Brown,arjun.brown@example.com,398-15-3427,fracture,UnitedHealth,4114.89,61,141/75,lisinopril,Dr. Khan,City General,2024-01-01T12:13,AB-,none,emergency
+582,smart_home_iot,2024-06-07T00:58,dev_2007,12.7,22.6,true,locked,0.38,fog,1038.8,47.9,,,,,,,,,,,,,,,,,
+770,synthetic_healthcare,2024-11-25T06:06,,,,,,,,,,,,Priya Smith,priya.smith@example.com,454-19-7819,type-2 diabetes,Kaiser,7223.27,71,117/62,metformin,Dr. Smith,Lakeside Clinic,2024-07-03T19:30,B-,peanuts,telehealth
+447,smart_home_iot,2024-05-20T01:41,dev_6821,5.2,49.7,true,locked,2.54,fog,994.2,30.1,,,,,,,,,,,,,,,,,
+98,smart_home_iot,2024-07-10T20:25,dev_6053,-3.0,47.7,true,open,1.1,cloudy,1026.0,45.8,,"-0.4706,-24.9642",,,,,,,,,,,,,,,
+1140,synthetic_healthcare,2024-04-23T10:56,,,,,,,,,,,,Arjun Chen,arjun.chen@example.com,680-49-2479,migraine,Cigna,8858.21,95,151/63,metformin,Dr. Johnson,St. Mary's,2024-09-20T00:15,B+,none,telehealth
+602,synthetic_healthcare,2024-03-30T06:15,,,,,,,,,,,,Arjun Chen,arjun.chen@example.com,668-67-1684,hypertension,BlueCross,14419.83,92,141/70,metformin,Dr. Smith,Lakeside Clinic,2024-04-09T12:09,AB+,latex,emergency
+478,smart_home_iot,2024-03-05T00:55,dev_3589,30.3,54.0,true,open,4.49,fog,1006.7,34.8,,,,,,,,,,,,,,,,,
+1034,synthetic_healthcare,2024-08-17T01:13,,,,,,,,,,,,Linda Smith,linda.smith@example.com,,influenza,Aetna,13899.32,117,152/73,ibuprofen,Dr. Nair,City General,2024-02-02T07:09,B-,none,emergency
+455,smart_home_iot,2024-06-22T09:40,dev_9724,5.5,67.8,false,closed,1.39,snow,1032.2,0.7,,,,,,,,,,,,,,,,,
+171,smart_home_iot,2024-09-04T03:00,dev_7999,20.0,23.3,false,locked,3.39,snow,999.1,25.0,97.94.242.62,,,,,,,,,,,,,,,,
+1069,synthetic_healthcare,2024-10-04T21:24,,,,,,,,,,,,David Khan,,306-19-2330,asthma,Kaiser,5075.83,58,103/64,ibuprofen,Dr. Khan,City General,2024-08-10T20:19,AB+,none,emergency
+105,smart_home_iot,2024-04-14T12:31,dev_2257,24.0,88.4,true,locked,3.01,storm,1007.8,33.3,,,,,,,,,,,,,,,,,
+374,smart_home_iot,2024-05-20T02:24,dev_8257,6.1,89.6,true,closed,3.7,clear,1011.3,58.9,,,,,,,,,,,,,,,,,
+70,smart_home_iot,2024-08-25T09:25,dev_3492,17.3,22.6,false,open,4.38,storm,986.0,54.6,37.209.79.20,,,,,,,,,,,,,,,,
+55,smart_home_iot,2024-07-20T11:19,dev_5786,26.4,28.8,false,open,4.38,snow,997.1,28.7,,,,,,,,,,,,,,,,,
+728,synthetic_healthcare,2024-11-21T17:10,,,,,,,,,,,,Robert Johnson,robert.johnson@example.com,179-73-6921,asthma,BlueCross,1582.02,57,126/64,ibuprofen,Dr. Johnson,St. Mary's,2024-09-07T06:02,O+,latex,emergency
+863,synthetic_healthcare,2024-09-20T04:21,,,,,,,,,,,,Jennifer Davis,,,covid-19,UnitedHealth,4259.73,130,124/63,metformin,Dr. Smith,Riverside Medical,2024-04-10T12:07,AB-,latex,emergency
+1196,synthetic_healthcare,2024-04-11T11:42,,,,,,,,,,,,Jennifer Kumar,jennifer.kumar@example.com,,type-2 diabetes,Aetna,6368.19,101,136/98,none,Dr. Brown,City General,2024-09-02T01:52,B+,none,inpatient
+859,synthetic_healthcare,2024-02-04T10:20,,,,,,,,,,,,Jennifer Nair,jennifer.nair@example.com,753-97-9824,influenza,UnitedHealth,11699.57,84,113/79,sertraline,Dr. Kumar,Riverside Medical,2024-10-06T01:05,O-,none,emergency
+965,synthetic_healthcare,2024-12-02T18:36,,,,,,,,,,,,Arjun Smith,arjun.smith@example.com,,covid-19,UnitedHealth,13541.75,92,154/70,metformin,Dr. Kumar,Riverside Medical,2024-06-04T08:50,A-,penicillin,outpatient
+404,smart_home_iot,2024-08-10T23:39,dev_4726,13.8,60.1,false,closed,4.56,rain,1007.0,7.9,,,,,,,,,,,,,,,,,
+1016,synthetic_healthcare,2024-10-22T13:41,,,,,,,,,,,,David Brown,david.brown@example.com,,type-2 diabetes,UnitedHealth,12530.91,118,135/89,ibuprofen,Dr. Nair,Riverside Medical,2024-03-13T11:52,A+,none,telehealth
+599,smart_home_iot,2024-04-28T10:26,dev_3973,-3.8,24.1,false,open,1.67,storm,1033.6,15.5,,,,,,,,,,,,,,,,,
+33,smart_home_iot,2024-05-26T12:13,dev_5844,19.9,33.4,false,locked,3.77,cloudy,1016.9,18.1,,"-38.3555,-25.2403",,,,,,,,,,,,,,,
+196,smart_home_iot,2024-05-25T22:17,dev_9755,17.8,84.4,false,locked,0.28,rain,1022.1,48.7,,,,,,,,,,,,,,,,,
+910,synthetic_healthcare,2024-05-15T08:41,,,,,,,,,,,,David Smith,david.smith@example.com,259-28-5033,fracture,BlueCross,10231.5,94,113/77,ibuprofen,Dr. Smith,Lakeside Clinic,2024-10-26T20:19,O+,latex,emergency
+751,synthetic_healthcare,2024-05-04T23:34,,,,,,,,,,,,Priya Johnson,priya.johnson@example.com,543-68-6685,fracture,Aetna,14544.49,118,159/69,ibuprofen,Dr. Williams,Riverside Medical,2024-08-15T02:48,B+,peanuts,telehealth
+921,synthetic_healthcare,2024-07-25T13:57,,,,,,,,,,,,Wei Williams,wei.williams@example.com,379-97-3553,anxiety disorder,Kaiser,11745.33,80,109/86,albuterol,Dr. Garcia,St. Mary's,2024-11-12T00:57,B+,latex,emergency
+143,smart_home_iot,2024-07-20T10:08,dev_5728,-1.7,55.3,false,locked,3.43,clear,987.7,5.8,,,,,,,,,,,,,,,,,
+673,synthetic_healthcare,2024-11-22T10:21,,,,,,,,,,,,James Williams,james.williams@example.com,425-59-3960,migraine,Kaiser,8310.94,106,130/97,lisinopril,Dr. Kumar,City General,2024-09-07T00:06,B+,penicillin,inpatient
+22,smart_home_iot,2024-01-04T09:23,dev_8508,23.0,59.4,true,open,2.73,snow,995.9,56.0,,,,,,,,,,,,,,,,,
+6,smart_home_iot,2024-04-08T06:50,dev_4598,25.8,79.0,true,open,4.13,rain,1004.1,4.0,,,,,,,,,,,,,,,,,
+1081,synthetic_healthcare,2024-09-05T06:12,,,,,,,,,,,,Michael Brown,michael.brown@example.com,540-89-9877,fracture,Kaiser,13031.72,75,108/62,albuterol,Dr. Smith,St. Mary's,2024-08-29T03:23,O+,none,emergency
+20,smart_home_iot,2024-11-06T11:10,dev_9701,2.1,87.3,true,open,0.44,clear,1020.5,14.1,146.126.20.159,"28.3272,23.4817",,,,,,,,,,,,,,,
+670,synthetic_healthcare,2024-05-19T00:03,,,,,,,,,,,,Wei Williams,wei.williams@example.com,509-68-2364,fracture,BlueCross,14107.77,73,134/73,metformin,Dr. Kumar,St. Mary's,2024-09-17T02:54,AB-,none,inpatient
+903,synthetic_healthcare,2024-01-11T01:38,,,,,,,,,,,,Priya Davis,priya.davis@example.com,483-18-3824,asthma,Kaiser,7513.16,123,113/82,metformin,Dr. Williams,Riverside Medical,2024-07-27T23:33,B+,latex,inpatient
+740,synthetic_healthcare,2024-04-12T03:24,,,,,,,,,,,,Patricia Garcia,patricia.garcia@example.com,331-21-5322,fracture,Aetna,5346.9,86,142/73,none,Dr. Johnson,City General,2024-06-29T01:55,A+,penicillin,outpatient
+1014,synthetic_healthcare,2024-10-07T11:19,,,,,,,,,,,,Michael Williams,michael.williams@example.com,216-67-6530,type-2 diabetes,Kaiser,11508.72,123,129/92,metformin,Dr. Garcia,Riverside Medical,2024-10-12T23:46,A-,peanuts,outpatient
+626,synthetic_healthcare,2024-06-21T17:42,,,,,,,,,,,,Linda Khan,linda.khan@example.com,701-80-8679,covid-19,Cigna,11895.37,95,154/72,ibuprofen,Dr. Chen,St. Mary's,2024-06-08T17:15,O-,none,outpatient
+977,synthetic_healthcare,2024-09-18T01:36,,,,,,,,,,,,Michael Davis,michael.davis@example.com,570-78-6593,influenza,Cigna,9121.28,87,107/84,sertraline,Dr. Chen,City General,2024-01-25T05:29,B-,peanuts,telehealth
+502,smart_home_iot,2024-03-16T15:38,dev_5968,16.4,80.7,false,open,4.67,snow,1025.4,5.3,,,,,,,,,,,,,,,,,
+791,synthetic_healthcare,2024-07-30T02:36,,,,,,,,,,,,Arjun Chen,,392-51-7292,migraine,UnitedHealth,14306.42,60,152/73,ibuprofen,Dr. Khan,Riverside Medical,2024-07-28T09:37,AB-,none,emergency
+147,smart_home_iot,2024-09-07T12:13,dev_1436,21.9,38.6,true,locked,0.35,storm,990.2,37.7,,,,,,,,,,,,,,,,,
+1191,synthetic_healthcare,2024-06-01T13:58,,,,,,,,,,,,Wei Williams,wei.williams@example.com,,covid-19,Cigna,5357.55,78,104/76,ibuprofen,Dr. Garcia,City General,2024-09-10T00:09,B+,none,telehealth
+756,synthetic_healthcare,2024-03-29T08:16,,,,,,,,,,,,Priya Khan,priya.khan@example.com,,fracture,Aetna,11349.6,105,108/85,none,Dr. Smith,Lakeside Clinic,2024-10-20T23:52,O-,none,outpatient
+981,synthetic_healthcare,2024-04-08T04:55,,,,,,,,,,,,Jennifer Johnson,jennifer.johnson@example.com,197-41-7658,asthma,UnitedHealth,6935.84,76,157/71,lisinopril,Dr. Kumar,City General,2024-01-02T03:41,B-,peanuts,telehealth
+837,synthetic_healthcare,2024-10-27T13:57,,,,,,,,,,,,Fatima Khan,fatima.khan@example.com,,type-2 diabetes,Cigna,5642.11,73,138/100,metformin,Dr. Chen,City General,2024-05-02T23:30,AB+,latex,telehealth
+1121,synthetic_healthcare,2024-07-12T13:59,,,,,,,,,,,,Arjun Nair,arjun.nair@example.com,557-64-8036,fracture,BlueCross,522.89,70,135/60,albuterol,Dr. Brown,St. Mary's,2024-08-08T23:43,O+,penicillin,telehealth
+822,synthetic_healthcare,2024-04-22T01:26,,,,,,,,,,,,Wei Brown,wei.brown@example.com,,hypertension,BlueCross,10612.24,77,117/68,sertraline,Dr. Nair,Lakeside Clinic,2024-03-23T06:28,B-,peanuts,inpatient
+23,smart_home_iot,2024-05-14T12:58,dev_5669,2.1,78.4,false,locked,4.92,fog,1011.7,40.1,,,,,,,,,,,,,,,,,
+246,smart_home_iot,2024-01-22T07:58,dev_8728,18.8,73.7,true,open,0.59,fog,994.5,32.0,,,,,,,,,,,,,,,,,
+898,synthetic_healthcare,2024-08-13T07:12,,,,,,,,,,,,Jennifer Garcia,jennifer.garcia@example.com,705-65-2059,influenza,Aetna,8434.58,126,141/63,albuterol,Dr. Garcia,St. Mary's,2024-01-24T05:17,AB-,none,emergency
+964,synthetic_healthcare,2024-10-09T22:57,,,,,,,,,,,,Fatima Garcia,fatima.garcia@example.com,321-88-7727,type-2 diabetes,Aetna,10282.65,130,155/61,sertraline,Dr. Garcia,City General,2024-07-01T19:10,B+,latex,emergency
+354,smart_home_iot,2024-02-13T15:30,dev_2285,25.4,66.4,true,locked,4.79,storm,1002.3,18.9,,,,,,,,,,,,,,,,,
+569,smart_home_iot,2024-09-10T10:01,dev_4083,33.7,34.6,true,locked,1.28,fog,1031.5,32.3,198.237.75.122,,,,,,,,,,,,,,,,
+67,smart_home_iot,2024-02-19T16:49,dev_2143,7.4,75.3,false,closed,4.68,snow,996.0,0.2,,,,,,,,,,,,,,,,,
+229,smart_home_iot,2024-02-16T05:08,dev_5403,28.0,28.3,true,closed,4.05,rain,1011.4,15.8,,,,,,,,,,,,,,,,,
+1064,synthetic_healthcare,2024-04-17T04:34,,,,,,,,,,,,James Khan,james.khan@example.com,,influenza,UnitedHealth,1696.65,83,118/69,ibuprofen,Dr. Chen,City General,2024-05-28T11:34,A+,none,telehealth
+1120,synthetic_healthcare,2024-01-20T14:50,,,,,,,,,,,,Jennifer Brown,jennifer.brown@example.com,440-20-1783,fracture,Cigna,14551.94,90,131/79,lisinopril,Dr. Chen,St. Mary's,2024-02-11T13:56,B-,none,outpatient
+54,smart_home_iot,2024-03-10T17:42,dev_4545,28.2,39.4,false,open,4.18,rain,993.6,10.8,137.64.140.12,,,,,,,,,,,,,,,,
+1143,synthetic_healthcare,2024-05-17T00:28,,,,,,,,,,,,David Kumar,david.kumar@example.com,904-81-8125,anxiety disorder,BlueCross,6204.07,96,150/87,albuterol,Dr. Williams,City General,2024-10-25T14:56,AB+,peanuts,telehealth
+564,smart_home_iot,2024-07-25T23:56,dev_1781,19.8,84.2,true,locked,2.18,clear,1007.9,43.2,,,,,,,,,,,,,,,,,
+762,synthetic_healthcare,2024-01-04T07:41,,,,,,,,,,,,Robert Nair,,612-74-4453,migraine,Kaiser,5908.11,63,111/69,albuterol,Dr. Davis,Riverside Medical,2024-06-16T07:00,B+,peanuts,emergency
+605,synthetic_healthcare,2024-06-27T00:44,,,,,,,,,,,,David Khan,david.khan@example.com,183-93-2270,hypertension,BlueCross,10109.91,100,152/84,sertraline,Dr. Nair,Lakeside Clinic,2024-03-05T12:16,A+,none,telehealth
+299,smart_home_iot,2024-12-12T00:19,dev_6584,11.4,23.8,true,closed,1.73,snow,1016.0,43.0,,,,,,,,,,,,,,,,,
+268,smart_home_iot,2024-03-17T23:09,dev_7671,28.3,73.2,false,open,2.62,cloudy,983.9,42.6,,,,,,,,,,,,,,,,,
+869,synthetic_healthcare,2024-10-06T12:57,,,,,,,,,,,,Patricia Khan,patricia.khan@example.com,568-93-4282,migraine,Kaiser,2356.86,73,113/79,lisinopril,Dr. Johnson,City General,2024-07-13T05:06,A+,penicillin,emergency
+273,smart_home_iot,2024-03-20T10:44,dev_8646,8.6,56.4,false,locked,0.6,snow,1040.0,58.0,,,,,,,,,,,,,,,,,
+777,synthetic_healthcare,2024-08-28T10:41,,,,,,,,,,,,Michael Smith,michael.smith@example.com,654-54-1425,migraine,Cigna,12168.84,130,113/61,albuterol,Dr. Davis,Lakeside Clinic,2024-11-11T04:58,O+,none,outpatient
+1099,synthetic_healthcare,2024-03-15T06:12,,,,,,,,,,,,Fatima Khan,fatima.khan@example.com,574-54-1396,influenza,BlueCross,6108.06,66,142/89,lisinopril,Dr. Williams,Riverside Medical,2024-06-23T18:59,O-,peanuts,emergency
+112,smart_home_iot,2024-02-17T17:07,dev_7172,1.9,32.7,true,locked,2.24,storm,1001.9,43.2,,,,,,,,,,,,,,,,,
+513,smart_home_iot,2024-02-10T16:14,dev_2273,-4.2,53.9,false,open,1.06,clear,1027.6,30.8,31.129.22.17,,,,,,,,,,,,,,,,
+245,smart_home_iot,2024-06-23T15:32,dev_9921,30.2,44.1,false,closed,1.43,clear,999.1,13.1,,,,,,,,,,,,,,,,,
+916,synthetic_healthcare,2024-09-06T03:38,,,,,,,,,,,,Linda Smith,linda.smith@example.com,490-10-1957,anxiety disorder,Kaiser,1865.06,83,148/100,metformin,Dr. Davis,City General,2024-01-08T04:57,O-,none,telehealth
+1147,synthetic_healthcare,2024-11-06T03:01,,,,,,,,,,,,Arjun Kumar,,,hypertension,Aetna,11426.55,123,100/66,ibuprofen,Dr. Davis,Lakeside Clinic,2024-06-24T04:47,O-,none,inpatient
+66,smart_home_iot,2024-09-17T21:46,dev_5781,17.9,39.1,false,closed,1.29,snow,988.7,11.4,,,,,,,,,,,,,,,,,
+216,smart_home_iot,2024-02-17T13:08,dev_8951,30.5,82.6,true,open,0.59,storm,981.0,55.8,117.0.219.52,,,,,,,,,,,,,,,,
+257,smart_home_iot,2024-09-10T20:11,dev_9849,6.9,39.7,true,open,0.34,snow,1013.0,29.5,1.218.44.76,,,,,,,,,,,,,,,,
+598,smart_home_iot,2024-11-08T23:43,dev_9649,9.3,38.0,true,open,2.75,rain,988.6,15.3,79.208.86.16,,,,,,,,,,,,,,,,
+932,synthetic_healthcare,2024-04-05T20:24,,,,,,,,,,,,Robert Khan,robert.khan@example.com,689-34-3031,type-2 diabetes,UnitedHealth,2870.76,96,148/74,lisinopril,Dr. Chen,Riverside Medical,2024-08-07T00:27,O+,none,emergency
+557,smart_home_iot,2024-01-02T12:03,dev_9618,29.5,32.6,true,open,3.86,fog,985.7,19.7,,,,,,,,,,,,,,,,,
+876,synthetic_healthcare,2024-09-20T01:29,,,,,,,,,,,,Arjun Williams,arjun.williams@example.com,261-22-1244,migraine,UnitedHealth,1454.49,63,107/90,ibuprofen,Dr. Chen,Lakeside Clinic,2024-02-18T22:27,A+,peanuts,telehealth
+778,synthetic_healthcare,2024-12-05T12:04,,,,,,,,,,,,Wei Kumar,wei.kumar@example.com,,anxiety disorder,Kaiser,10810.77,121,116/70,ibuprofen,Dr. Garcia,St. Mary's,2024-02-18T00:19,A+,peanuts,emergency
+88,smart_home_iot,2024-05-11T19:32,dev_9408,21.7,51.6,true,locked,0.31,fog,1011.3,27.5,,"-3.7833,-35.4178",,,,,,,,,,,,,,,
+998,synthetic_healthcare,2024-08-02T17:34,,,,,,,,,,,,Arjun Kumar,arjun.kumar@example.com,925-86-5018,asthma,Aetna,6553.39,89,121/92,albuterol,Dr. Garcia,Lakeside Clinic,2024-01-19T16:08,AB+,peanuts,outpatient
+1189,synthetic_healthcare,2024-07-15T23:27,,,,,,,,,,,,Arjun Chen,arjun.chen@example.com,622-42-4980,hypertension,UnitedHealth,13305.06,69,105/84,ibuprofen,Dr. Garcia,St. Mary's,2024-10-16T07:07,B+,none,outpatient
+1028,synthetic_healthcare,2024-11-01T15:22,,,,,,,,,,,,Jennifer Chen,jennifer.chen@example.com,376-30-8870,asthma,BlueCross,13579.71,57,149/75,none,Dr. Garcia,Lakeside Clinic,2024-03-20T16:32,B+,none,emergency
+347,smart_home_iot,2024-02-27T07:46,dev_2422,39.9,74.6,false,locked,2.04,snow,992.0,0.9,,,,,,,,,,,,,,,,,
+1165,synthetic_healthcare,2024-07-08T08:10,,,,,,,,,,,,Wei Davis,,221-70-9669,covid-19,Kaiser,1163.91,58,123/97,ibuprofen,Dr. Williams,Riverside Medical,2024-06-14T03:02,A-,none,telehealth
+270,smart_home_iot,2024-09-05T00:11,dev_1500,5.9,54.2,false,open,4.81,storm,1015.2,21.0,67.46.145.8,,,,,,,,,,,,,,,,
+9,smart_home_iot,2024-06-19T09:52,dev_9669,6.3,58.7,true,locked,3.63,fog,1033.1,45.1,,,,,,,,,,,,,,,,,
+879,synthetic_healthcare,2024-09-25T02:51,,,,,,,,,,,,James Chen,james.chen@example.com,,influenza,Aetna,2212.88,59,153/75,lisinopril,Dr. Chen,Riverside Medical,2024-01-05T06:20,O-,latex,emergency
+210,smart_home_iot,2024-05-06T21:54,dev_2425,14.8,89.6,true,open,4.07,snow,1021.3,51.7,,,,,,,,,,,,,,,,,
+139,smart_home_iot,2024-05-25T04:02,dev_3142,29.2,56.0,true,closed,1.28,clear,996.0,14.9,75.196.214.64,,,,,,,,,,,,,,,,
+1097,synthetic_healthcare,2024-09-08T08:27,,,,,,,,,,,,Linda Chen,linda.chen@example.com,559-91-8226,fracture,BlueCross,2313.59,55,108/83,sertraline,Dr. Williams,Riverside Medical,2024-04-14T19:49,B-,none,inpatient
+972,synthetic_healthcare,2024-03-22T19:38,,,,,,,,,,,,Fatima Williams,fatima.williams@example.com,590-88-9348,anxiety disorder,UnitedHealth,3680.8,121,118/91,metformin,Dr. Chen,City General,2024-05-31T22:34,A-,none,outpatient
+1005,synthetic_healthcare,2024-11-14T15:06,,,,,,,,,,,,Mary Williams,mary.williams@example.com,210-67-3066,influenza,Aetna,4294.53,97,144/80,sertraline,Dr. Brown,Lakeside Clinic,2024-06-07T12:00,O+,none,emergency
+1060,synthetic_healthcare,2024-04-02T11:43,,,,,,,,,,,,Patricia Nair,patricia.nair@example.com,153-65-9340,influenza,BlueCross,8614.86,117,140/91,ibuprofen,Dr. Khan,St. Mary's,2024-08-14T03:56,B-,none,emergency
+297,smart_home_iot,2024-09-30T14:05,dev_9055,9.4,43.2,false,open,2.58,snow,1018.6,24.2,118.227.229.23,,,,,,,,,,,,,,,,
+142,smart_home_iot,2024-04-14T00:54,dev_9793,-4.6,27.5,true,closed,3.66,storm,1002.0,24.0,,,,,,,,,,,,,,,,,
+813,synthetic_healthcare,2024-08-22T18:36,,,,,,,,,,,,David Nair,david.nair@example.com,,covid-19,UnitedHealth,2588.04,84,113/65,sertraline,Dr. Williams,St. Mary's,2024-03-01T00:12,O-,none,emergency
+519,smart_home_iot,2024-11-07T10:17,dev_8011,3.5,24.9,false,locked,1.9,clear,1039.9,29.5,113.43.61.37,,,,,,,,,,,,,,,,
+692,synthetic_healthcare,2024-11-17T20:23,,,,,,,,,,,,Arjun Kumar,arjun.kumar@example.com,839-27-7690,fracture,Cigna,14780.1,56,152/82,lisinopril,Dr. Kumar,St. Mary's,2024-04-03T04:51,A+,none,outpatient
+312,smart_home_iot,2024-02-17T08:32,dev_3636,21.3,37.9,false,closed,3.58,cloudy,982.4,55.7,,,,,,,,,,,,,,,,,
+539,smart_home_iot,2024-10-09T05:03,dev_9605,6.3,81.9,true,locked,0.7,rain,999.8,35.1,,,,,,,,,,,,,,,,,
+126,smart_home_iot,2024-06-04T03:27,dev_3730,26.0,44.6,true,locked,4.36,rain,1016.9,26.1,,,,,,,,,,,,,,,,,
+302,smart_home_iot,2024-10-31T21:53,dev_3018,29.7,51.5,true,closed,0.12,fog,982.9,56.1,,,,,,,,,,,,,,,,,
+967,synthetic_healthcare,2024-07-23T21:33,,,,,,,,,,,,James Garcia,,,hypertension,Kaiser,13473.53,102,140/94,metformin,Dr. Chen,Lakeside Clinic,2024-01-13T05:02,AB+,latex,telehealth
+828,synthetic_healthcare,2024-02-02T21:54,,,,,,,,,,,,Michael Williams,michael.williams@example.com,,anxiety disorder,UnitedHealth,6951.97,73,112/71,albuterol,Dr. Kumar,City General,2024-03-08T05:00,B-,penicillin,telehealth
+871,synthetic_healthcare,2024-03-16T22:38,,,,,,,,,,,,David Smith,david.smith@example.com,557-66-7540,asthma,UnitedHealth,11583.08,130,152/67,metformin,Dr. Williams,City General,2024-02-29T07:17,B-,none,telehealth
+63,smart_home_iot,2024-06-29T09:28,dev_5722,24.8,48.0,true,closed,0.53,rain,999.4,58.2,,,,,,,,,,,,,,,,,
+950,synthetic_healthcare,2024-12-05T17:24,,,,,,,,,,,,Linda Brown,linda.brown@example.com,877-82-5892,asthma,Kaiser,12282.48,101,129/63,none,Dr. Brown,Riverside Medical,2024-03-19T22:28,A+,peanuts,outpatient
+1019,synthetic_healthcare,2024-11-05T09:06,,,,,,,,,,,,David Johnson,,643-56-2230,covid-19,Cigna,11100.34,107,101/61,albuterol,Dr. Nair,St. Mary's,2024-09-16T03:48,A-,penicillin,outpatient
+881,synthetic_healthcare,2024-05-04T15:43,,,,,,,,,,,,Arjun Kumar,arjun.kumar@example.com,164-56-7988,hypertension,Kaiser,1963.32,84,129/67,metformin,Dr. Khan,Riverside Medical,2024-02-15T23:37,AB-,peanuts,telehealth
+604,synthetic_healthcare,2024-08-19T06:11,,,,,,,,,,,,Michael Garcia,michael.garcia@example.com,379-41-6269,migraine,UnitedHealth,6940.21,97,101/68,none,Dr. Smith,Lakeside Clinic,2024-01-02T13:23,A+,penicillin,telehealth
+1177,synthetic_healthcare,2024-07-17T16:08,,,,,,,,,,,,David Smith,david.smith@example.com,863-64-8336,asthma,Kaiser,8255.47,87,157/79,sertraline,Dr. Khan,St. Mary's,2024-07-18T05:10,AB+,penicillin,emergency
+1180,synthetic_healthcare,2024-06-17T11:07,,,,,,,,,,,,Arjun Chen,arjun.chen@example.com,197-86-1312,influenza,Cigna,12097.18,111,143/84,metformin,Dr. Williams,St. Mary's,2024-08-18T18:37,A+,latex,emergency
+364,smart_home_iot,2024-09-29T23:19,dev_2311,4.5,47.8,true,open,4.69,storm,1012.9,1.6,,,,,,,,,,,,,,,,,
+733,synthetic_healthcare,2024-10-27T23:41,,,,,,,,,,,,Wei Khan,,460-60-1490,type-2 diabetes,UnitedHealth,12150.88,109,150/71,albuterol,Dr. Brown,City General,2024-03-19T08:18,AB-,peanuts,inpatient
+114,smart_home_iot,2024-07-11T01:00,dev_7859,38.5,77.2,true,closed,0.36,storm,1032.4,33.3,217.63.145.22,,,,,,,,,,,,,,,,
+382,smart_home_iot,2024-03-06T00:58,dev_1512,4.1,54.0,true,open,2.9,storm,1019.5,31.5,,,,,,,,,,,,,,,,,
+150,smart_home_iot,2024-10-19T14:25,dev_5331,22.5,33.5,true,closed,2.83,cloudy,1036.5,58.9,,,,,,,,,,,,,,,,,
+1190,synthetic_healthcare,2024-12-02T05:55,,,,,,,,,,,,Jennifer Nair,jennifer.nair@example.com,872-82-9897,covid-19,Cigna,12869.57,78,105/70,sertraline,Dr. Davis,Lakeside Clinic,2024-04-23T11:32,B+,latex,outpatient
+386,smart_home_iot,2024-09-12T18:58,dev_7997,34.7,31.7,true,locked,2.07,rain,1019.5,32.0,,,,,,,,,,,,,,,,,
+170,smart_home_iot,2024-10-08T06:32,dev_6253,5.7,81.3,true,closed,1.57,clear,1013.4,35.5,,,,,,,,,,,,,,,,,
+1095,synthetic_healthcare,2024-06-04T20:51,,,,,,,,,,,,Patricia Smith,,239-10-1645,hypertension,UnitedHealth,12040.19,102,140/74,sertraline,Dr. Brown,City General,2024-03-27T01:52,B+,none,emergency
+886,synthetic_healthcare,2024-04-23T06:57,,,,,,,,,,,,Arjun Johnson,arjun.johnson@example.com,890-90-8718,asthma,BlueCross,4538.43,70,134/99,ibuprofen,Dr. Williams,City General,2024-11-16T11:32,AB-,peanuts,outpatient
+1179,synthetic_healthcare,2024-05-24T13:36,,,,,,,,,,,,Robert Brown,robert.brown@example.com,678-33-1159,hypertension,Kaiser,14058.81,96,106/62,ibuprofen,Dr. Kumar,City General,2024-08-30T12:19,A-,penicillin,outpatient
+775,synthetic_healthcare,2024-02-19T22:16,,,,,,,,,,,,Arjun Brown,arjun.brown@example.com,412-80-4453,type-2 diabetes,Cigna,10895.67,73,102/75,none,Dr. Garcia,Lakeside Clinic,2024-12-12T23:50,A-,none,telehealth
+899,synthetic_healthcare,2024-09-21T23:16,,,,,,,,,,,,James Davis,james.davis@example.com,602-65-3184,anxiety disorder,UnitedHealth,9954.07,94,134/79,albuterol,Dr. Brown,Lakeside Clinic,2024-02-22T12:19,AB-,none,outpatient
+145,smart_home_iot,2024-08-08T17:35,dev_9446,1.3,85.2,false,open,2.03,snow,1024.4,18.0,,,,,,,,,,,,,,,,,
+660,synthetic_healthcare,2024-09-28T23:54,,,,,,,,,,,,Wei Smith,wei.smith@example.com,,type-2 diabetes,Cigna,14952.98,128,130/100,lisinopril,Dr. Garcia,Riverside Medical,2024-09-13T08:52,O+,none,emergency
+202,smart_home_iot,2024-03-08T20:40,dev_8080,12.8,71.6,true,closed,3.0,storm,980.3,12.9,,,,,,,,,,,,,,,,,
+541,smart_home_iot,2024-02-11T03:04,dev_6185,19.6,53.2,true,closed,4.41,cloudy,1001.8,42.9,,"84.0249,38.0933",,,,,,,,,,,,,,,
+1011,synthetic_healthcare,2024-06-12T13:36,,,,,,,,,,,,Linda Chen,linda.chen@example.com,102-65-1782,type-2 diabetes,Cigna,8066.04,124,160/86,metformin,Dr. Khan,Riverside Medical,2024-10-06T22:45,A+,latex,inpatient
+885,synthetic_healthcare,2024-05-22T08:36,,,,,,,,,,,,Priya Brown,,,asthma,Cigna,2175.37,106,107/97,none,Dr. Williams,St. Mary's,2024-06-10T10:19,B+,peanuts,emergency
+595,smart_home_iot,2024-05-29T03:23,dev_7344,5.5,47.7,true,locked,4.46,fog,996.6,5.3,7.158.63.165,,,,,,,,,,,,,,,,
+992,synthetic_healthcare,2024-03-30T00:24,,,,,,,,,,,,Robert Smith,,332-66-5143,covid-19,BlueCross,7037.93,114,123/73,ibuprofen,Dr. Williams,Lakeside Clinic,2024-01-19T16:40,B-,penicillin,outpatient
+991,synthetic_healthcare,2024-05-13T19:16,,,,,,,,,,,,Michael Johnson,michael.johnson@example.com,718-62-7268,anxiety disorder,Cigna,5654.46,95,131/72,metformin,Dr. Brown,Lakeside Clinic,2024-10-09T04:40,B+,latex,inpatient
+894,synthetic_healthcare,2024-08-05T17:08,,,,,,,,,,,,Wei Chen,wei.chen@example.com,972-43-3388,migraine,Kaiser,5358.69,72,158/84,metformin,Dr. Kumar,City General,2024-04-27T21:43,B-,latex,outpatient
+318,smart_home_iot,2024-01-09T15:33,dev_8523,27.3,22.7,true,open,0.97,rain,1013.5,34.5,67.208.198.116,,,,,,,,,,,,,,,,
+755,synthetic_healthcare,2024-06-08T01:37,,,,,,,,,,,,Mary Williams,mary.williams@example.com,639-66-6132,migraine,BlueCross,5364.57,114,126/86,ibuprofen,Dr. Smith,City General,2024-10-06T04:08,O+,none,inpatient
+1004,synthetic_healthcare,2024-02-29T06:37,,,,,,,,,,,,Fatima Garcia,,,fracture,Cigna,9830.06,106,126/75,albuterol,Dr. Nair,St. Mary's,2024-03-28T15:06,O-,penicillin,inpatient
+858,synthetic_healthcare,2024-04-19T02:16,,,,,,,,,,,,Michael Khan,michael.khan@example.com,354-53-5510,fracture,BlueCross,1743.13,78,131/60,albuterol,Dr. Khan,Lakeside Clinic,2024-06-29T12:15,B+,penicillin,outpatient
+996,synthetic_healthcare,2024-01-17T00:35,,,,,,,,,,,,Michael Smith,michael.smith@example.com,236-34-7854,asthma,BlueCross,12008.12,74,127/95,sertraline,Dr. Kumar,St. Mary's,2024-01-01T04:57,A-,penicillin,outpatient
+527,smart_home_iot,2024-07-31T14:46,dev_1440,29.4,63.8,false,open,2.2,rain,1004.7,3.4,61.159.43.234,,,,,,,,,,,,,,,,
+1020,synthetic_healthcare,2024-04-06T04:36,,,,,,,,,,,,Patricia Nair,,226-33-4478,type-2 diabetes,UnitedHealth,812.25,94,153/95,sertraline,Dr. Johnson,Riverside Medical,2024-11-25T23:32,AB+,none,telehealth
+121,smart_home_iot,2024-09-23T20:32,dev_2698,29.7,71.5,false,open,0.32,snow,1000.3,38.6,,,,,,,,,,,,,,,,,
+1035,synthetic_healthcare,2024-12-06T07:08,,,,,,,,,,,,Patricia Garcia,patricia.garcia@example.com,669-99-3691,hypertension,Aetna,14712.12,128,101/77,lisinopril,Dr. Williams,St. Mary's,2024-03-26T06:38,A+,penicillin,inpatient
+794,synthetic_healthcare,2024-02-01T15:01,,,,,,,,,,,,Robert Kumar,robert.kumar@example.com,849-95-2908,migraine,Aetna,11184.62,83,146/64,albuterol,Dr. Williams,Riverside Medical,2024-04-10T12:40,O-,none,outpatient
+713,synthetic_healthcare,2024-05-25T23:27,,,,,,,,,,,,David Davis,david.davis@example.com,796-26-8222,migraine,Kaiser,12684.95,95,123/65,none,Dr. Chen,Lakeside Clinic,2024-04-05T16:37,A+,none,outpatient
+721,synthetic_healthcare,2024-06-04T01:07,,,,,,,,,,,,Arjun Nair,arjun.nair@example.com,216-32-8517,anxiety disorder,Cigna,2719.28,75,134/87,ibuprofen,Dr. Kumar,Lakeside Clinic,2024-08-18T20:54,AB+,none,outpatient
+212,smart_home_iot,2024-07-27T12:38,dev_5380,37.9,56.0,true,open,4.82,storm,1035.1,59.5,,"65.8942,-90.1162",,,,,,,,,,,,,,,
+594,smart_home_iot,2024-10-30T12:50,dev_3175,29.3,55.3,false,closed,3.37,cloudy,1032.0,19.5,,,,,,,,,,,,,,,,,
+1195,synthetic_healthcare,2024-11-11T09:15,,,,,,,,,,,,James Johnson,,,covid-19,UnitedHealth,98.19,77,135/73,sertraline,Dr. Kumar,St. Mary's,2024-08-15T15:42,B-,penicillin,inpatient
+271,smart_home_iot,2024-02-29T07:30,dev_4511,33.6,65.3,true,closed,3.29,snow,981.2,46.8,,"74.0728,53.0538",,,,,,,,,,,,,,,
+83,smart_home_iot,2024-05-21T12:02,dev_8432,11.7,86.5,false,locked,3.74,cloudy,1033.1,39.3,,,,,,,,,,,,,,,,,
+596,smart_home_iot,2024-03-11T01:27,dev_9877,21.0,23.7,true,closed,2.56,clear,987.2,56.2,5.140.105.63,,,,,,,,,,,,,,,,
+1068,synthetic_healthcare,2024-05-25T03:38,,,,,,,,,,,,Arjun Williams,,346-85-6091,fracture,Aetna,12831.18,76,130/74,metformin,Dr. Smith,Lakeside Clinic,2024-08-06T14:18,O+,latex,outpatient
+729,synthetic_healthcare,2024-02-28T15:44,,,,,,,,,,,,Robert Kumar,robert.kumar@example.com,110-32-1515,type-2 diabetes,Cigna,14906.59,116,139/98,sertraline,Dr. Smith,St. Mary's,2024-07-08T23:06,AB+,none,inpatient
+1058,synthetic_healthcare,2024-02-03T13:52,,,,,,,,,,,,Michael Smith,,,anxiety disorder,Aetna,12457.38,57,149/81,lisinopril,Dr. Garcia,Lakeside Clinic,2024-06-05T01:46,O+,none,outpatient
+5,smart_home_iot,2024-04-11T04:58,dev_8428,23.6,45.5,false,closed,1.13,rain,1022.1,41.0,163.87.125.42,,,,,,,,,,,,,,,,
+369,smart_home_iot,2024-01-04T07:48,dev_8052,30.9,61.8,true,locked,1.93,storm,1032.9,26.2,184.199.193.57,,,,,,,,,,,,,,,,
+958,synthetic_healthcare,2024-08-15T13:52,,,,,,,,,,,,Robert Davis,robert.davis@example.com,449-79-3612,influenza,UnitedHealth,12384.31,105,105/86,metformin,Dr. Khan,City General,2024-07-08T04:03,A-,none,outpatient
+304,smart_home_iot,2024-08-09T17:28,dev_5067,7.3,87.5,false,closed,4.04,cloudy,1004.8,42.0,,,,,,,,,,,,,,,,,
+946,synthetic_healthcare,2024-03-16T11:01,,,,,,,,,,,,Jennifer Williams,jennifer.williams@example.com,218-43-4725,asthma,Aetna,9699.8,126,101/63,none,Dr. Brown,Lakeside Clinic,2024-01-16T10:27,A+,penicillin,inpatient
+528,smart_home_iot,2024-11-12T08:54,dev_5995,0.2,31.9,false,open,2.36,storm,1014.1,54.1,,,,,,,,,,,,,,,,,
+986,synthetic_healthcare,2024-09-14T10:46,,,,,,,,,,,,Robert Johnson,robert.johnson@example.com,730-99-1820,fracture,Aetna,7916.79,87,128/69,albuterol,Dr. Williams,Lakeside Clinic,2024-04-11T09:41,B+,penicillin,telehealth
+106,smart_home_iot,2024-06-12T17:49,dev_4084,9.5,53.3,true,open,2.31,rain,1038.9,5.1,,"37.3719,176.7550",,,,,,,,,,,,,,,
+165,smart_home_iot,2024-12-05T23:27,dev_8734,-3.6,48.6,true,locked,4.89,fog,1037.8,22.5,,,,,,,,,,,,,,,,,
+936,synthetic_healthcare,2024-08-28T22:39,,,,,,,,,,,,Robert Williams,robert.williams@example.com,707-33-4555,type-2 diabetes,Aetna,5918.07,74,117/81,lisinopril,Dr. Smith,Lakeside Clinic,2024-05-22T19:22,B+,peanuts,emergency
+829,synthetic_healthcare,2024-09-06T07:07,,,,,,,,,,,,Arjun Nair,arjun.nair@example.com,,migraine,Aetna,7104.35,105,144/73,ibuprofen,Dr. Chen,Lakeside Clinic,2024-09-14T03:04,B-,none,telehealth
+357,smart_home_iot,2024-03-09T03:21,dev_9987,6.8,38.9,false,closed,1.0,storm,992.6,42.0,,,,,,,,,,,,,,,,,
+292,smart_home_iot,2024-05-25T22:02,dev_7557,38.3,39.0,false,locked,4.27,storm,1018.9,47.8,179.30.81.27,,,,,,,,,,,,,,,,
+559,smart_home_iot,2024-04-08T01:20,dev_1095,9.8,23.1,false,closed,4.74,fog,1034.4,47.8,221.24.144.83,,,,,,,,,,,,,,,,
+184,smart_home_iot,2024-07-25T00:31,dev_2562,35.3,84.3,true,open,4.52,fog,1033.3,28.5,20.143.16.46,,,,,,,,,,,,,,,,
+990,synthetic_healthcare,2024-07-11T13:32,,,,,,,,,,,,Jennifer Chen,jennifer.chen@example.com,663-79-7617,covid-19,Kaiser,5360.72,128,145/85,albuterol,Dr. Khan,Lakeside Clinic,2024-03-01T18:21,O-,penicillin,outpatient
+974,synthetic_healthcare,2024-09-07T15:46,,,,,,,,,,,,Priya Khan,priya.khan@example.com,798-87-3248,covid-19,Cigna,1437.54,117,121/94,sertraline,Dr. Davis,City General,2024-04-01T14:27,AB+,peanuts,emergency
+997,synthetic_healthcare,2024-01-25T01:29,,,,,,,,,,,,Linda Garcia,linda.garcia@example.com,269-96-9085,type-2 diabetes,Aetna,10067.7,98,139/83,ibuprofen,Dr. Kumar,Riverside Medical,2024-08-17T22:20,AB-,none,inpatient
+1132,synthetic_healthcare,2024-10-14T16:08,,,,,,,,,,,,Priya Chen,priya.chen@example.com,215-55-7998,hypertension,BlueCross,13501.84,86,111/91,albuterol,Dr. Khan,St. Mary's,2024-05-01T08:28,O+,peanuts,outpatient
+707,synthetic_healthcare,2024-06-03T10:54,,,,,,,,,,,,Linda Kumar,linda.kumar@example.com,211-23-2274,migraine,Kaiser,11699.66,97,101/75,albuterol,Dr. Williams,City General,2024-01-24T18:46,B-,none,outpatient
+41,smart_home_iot,2024-07-28T14:27,dev_7232,16.5,86.0,false,closed,4.28,storm,1012.3,44.1,,,,,,,,,,,,,,,,,
+517,smart_home_iot,2024-03-23T20:23,dev_7677,0.1,88.9,true,closed,0.64,cloudy,1009.7,21.7,,,,,,,,,,,,,,,,,
+238,smart_home_iot,2024-01-28T04:37,dev_4321,1.1,73.9,true,open,0.62,storm,1008.0,24.4,,,,,,,,,,,,,,,,,
+493,smart_home_iot,2024-08-26T18:07,dev_6346,16.9,66.6,false,closed,1.59,cloudy,1033.9,18.4,,,,,,,,,,,,,,,,,
+96,smart_home_iot,2024-02-22T03:45,dev_7566,-1.9,71.9,true,open,3.76,cloudy,1002.6,27.2,80.166.43.227,"-61.6662,42.4217",,,,,,,,,,,,,,,
+316,smart_home_iot,2024-10-07T12:40,dev_7143,18.1,55.6,false,open,1.55,fog,991.6,30.8,,,,,,,,,,,,,,,,,
+954,synthetic_healthcare,2024-06-23T15:54,,,,,,,,,,,,Mary Williams,mary.williams@example.com,320-18-7513,anxiety disorder,Aetna,634.44,110,153/89,ibuprofen,Dr. Williams,City General,2024-07-28T23:48,A+,none,emergency
+552,smart_home_iot,2024-09-01T05:27,dev_1745,-4.8,55.3,false,closed,4.89,fog,1002.3,58.1,,,,,,,,,,,,,,,,,
+553,smart_home_iot,2024-04-04T18:27,dev_3783,17.7,85.1,false,open,0.54,fog,1011.8,8.5,12.65.255.224,,,,,,,,,,,,,,,,
+671,synthetic_healthcare,2024-10-13T19:45,,,,,,,,,,,,David Chen,,126-87-5055,type-2 diabetes,Cigna,1939.35,69,143/95,ibuprofen,Dr. Johnson,Riverside Medical,2024-08-21T01:57,A-,peanuts,emergency
+39,smart_home_iot,2024-08-20T03:58,dev_5543,29.5,56.5,true,closed,2.26,fog,997.1,16.3,,,,,,,,,,,,,,,,,
+873,synthetic_healthcare,2024-10-31T13:45,,,,,,,,,,,,Mary Chen,,968-93-5926,asthma,Aetna,9784.46,104,156/90,metformin,Dr. Kumar,Riverside Medical,2024-01-17T12:26,B+,penicillin,inpatient
+482,smart_home_iot,2024-06-17T11:41,dev_5573,-4.3,50.0,true,open,1.7,snow,993.3,55.6,,,,,,,,,,,,,,,,,
+684,synthetic_healthcare,2024-08-16T23:28,,,,,,,,,,,,Wei Williams,wei.williams@example.com,334-25-3167,anxiety disorder,Aetna,4166.02,79,159/69,ibuprofen,Dr. Smith,St. Mary's,2024-02-03T02:36,A+,latex,telehealth
+975,synthetic_healthcare,2024-12-03T10:40,,,,,,,,,,,,Patricia Brown,patricia.brown@example.com,679-34-6710,fracture,UnitedHealth,12399.97,121,143/86,albuterol,Dr. Kumar,Lakeside Clinic,2024-08-31T19:47,B-,none,inpatient
+362,smart_home_iot,2024-11-12T02:57,dev_3745,23.8,85.0,false,locked,3.1,storm,1030.9,4.3,59.160.162.168,,,,,,,,,,,,,,,,
+712,synthetic_healthcare,2024-01-25T19:36,,,,,,,,,,,,Michael Davis,michael.davis@example.com,,type-2 diabetes,UnitedHealth,10682.97,113,116/90,albuterol,Dr. Garcia,St. Mary's,2024-12-08T04:21,A-,none,telehealth
+941,synthetic_healthcare,2024-01-02T02:40,,,,,,,,,,,,Patricia Nair,patricia.nair@example.com,944-89-8906,influenza,Cigna,14353.48,117,120/98,sertraline,Dr. Brown,St. Mary's,2024-12-02T07:29,A-,peanuts,outpatient
+24,smart_home_iot,2024-02-07T17:09,dev_3200,6.9,82.3,true,closed,1.48,cloudy,1023.1,12.2,,,,,,,,,,,,,,,,,
+34,smart_home_iot,2024-07-30T03:59,dev_6279,15.9,51.0,true,locked,2.42,fog,990.2,5.1,,,,,,,,,,,,,,,,,
+339,smart_home_iot,2024-06-06T02:28,dev_9553,13.9,81.2,false,open,4.7,storm,1027.4,22.9,,,,,,,,,,,,,,,,,
+264,smart_home_iot,2024-01-05T12:02,dev_9561,30.2,27.9,true,open,2.88,snow,1025.5,56.4,,,,,,,,,,,,,,,,,
+35,smart_home_iot,2024-05-02T00:55,dev_2530,31.8,72.6,false,open,4.05,cloudy,981.5,14.7,,,,,,,,,,,,,,,,,
+597,smart_home_iot,2024-11-01T10:34,dev_8278,-1.2,57.3,false,closed,2.99,storm,1031.7,1.4,,,,,,,,,,,,,,,,,
+356,smart_home_iot,2024-01-12T20:32,dev_9232,10.6,80.2,true,closed,4.88,fog,1011.1,18.9,173.107.194.149,"-24.9116,130.2631",,,,,,,,,,,,,,,
+767,synthetic_healthcare,2024-10-28T07:28,,,,,,,,,,,,Jennifer Khan,,460-55-3258,type-2 diabetes,BlueCross,6458.48,103,155/64,sertraline,Dr. Johnson,St. Mary's,2024-10-11T20:36,AB+,none,outpatient
+614,synthetic_healthcare,2024-01-17T01:05,,,,,,,,,,,,James Williams,james.williams@example.com,419-84-8140,migraine,Cigna,8788.3,124,149/69,lisinopril,Dr. Garcia,Riverside Medical,2024-08-07T15:58,AB-,peanuts,emergency
+430,smart_home_iot,2024-05-03T19:58,dev_8921,28.0,56.7,false,open,3.87,clear,1029.3,56.3,,"40.4227,-14.6274",,,,,,,,,,,,,,,
+827,synthetic_healthcare,2024-10-04T20:42,,,,,,,,,,,,Arjun Johnson,,531-64-5413,anxiety disorder,Kaiser,506.04,120,110/79,sertraline,Dr. Khan,St. Mary's,2024-12-12T10:16,B+,penicillin,emergency
+1133,synthetic_healthcare,2024-10-17T11:50,,,,,,,,,,,,Wei Chen,wei.chen@example.com,,anxiety disorder,Cigna,12539.49,103,124/94,lisinopril,Dr. Kumar,Lakeside Clinic,2024-01-10T07:52,AB+,latex,emergency
+1119,synthetic_healthcare,2024-01-16T12:26,,,,,,,,,,,,Arjun Smith,,629-22-7000,covid-19,Aetna,2290.13,58,155/66,albuterol,Dr. Smith,Lakeside Clinic,2024-01-31T17:48,B-,none,outpatient
+459,smart_home_iot,2024-09-06T13:59,dev_8306,10.8,70.8,false,open,0.27,snow,985.5,56.3,,,,,,,,,,,,,,,,,
+305,smart_home_iot,2024-09-12T09:45,dev_9975,33.7,69.8,true,open,1.13,fog,997.4,20.7,,,,,,,,,,,,,,,,,
+732,synthetic_healthcare,2024-10-24T01:22,,,,,,,,,,,,Patricia Davis,patricia.davis@example.com,210-87-7275,anxiety disorder,UnitedHealth,8541.76,102,157/100,metformin,Dr. Garcia,St. Mary's,2024-11-19T20:07,A+,none,emergency
+1185,synthetic_healthcare,2024-05-03T23:03,,,,,,,,,,,,Robert Smith,robert.smith@example.com,,hypertension,Aetna,6160.75,117,136/96,metformin,Dr. Smith,Lakeside Clinic,2024-07-26T23:09,O+,none,outpatient
+625,synthetic_healthcare,2024-11-03T19:38,,,,,,,,,,,,Michael Brown,michael.brown@example.com,822-87-3258,fracture,Aetna,11569.54,91,152/82,ibuprofen,Dr. Chen,City General,2024-06-20T20:26,B+,latex,inpatient
+999,synthetic_healthcare,2024-11-03T11:15,,,,,,,,,,,,Linda Brown,,575-29-2615,migraine,BlueCross,11158.45,108,136/81,albuterol,Dr. Johnson,St. Mary's,2024-02-29T03:28,O-,none,emergency
+1193,synthetic_healthcare,2024-07-24T21:47,,,,,,,,,,,,Mary Chen,,208-24-9243,anxiety disorder,UnitedHealth,8070.12,97,135/95,metformin,Dr. Davis,Riverside Medical,2024-07-26T03:46,O-,latex,inpatient
+1061,synthetic_healthcare,2024-02-12T04:07,,,,,,,,,,,,Linda Kumar,linda.kumar@example.com,667-10-9647,covid-19,UnitedHealth,5191.73,85,130/95,none,Dr. Khan,St. Mary's,2024-05-28T08:24,A+,penicillin,inpatient
+476,smart_home_iot,2024-07-15T12:10,dev_9315,4.9,73.9,true,closed,0.36,clear,1027.8,41.1,,,,,,,,,,,,,,,,,
+641,synthetic_healthcare,2024-10-02T16:54,,,,,,,,,,,,Linda Davis,linda.davis@example.com,181-17-3253,migraine,BlueCross,4505.49,74,124/73,none,Dr. Smith,St. Mary's,2024-12-02T04:52,O-,peanuts,inpatient
+144,smart_home_iot,2024-07-22T02:24,dev_6990,29.0,33.9,false,locked,0.3,clear,988.2,20.0,,,,,,,,,,,,,,,,,
+824,synthetic_healthcare,2024-08-23T04:54,,,,,,,,,,,,Wei Kumar,wei.kumar@example.com,312-53-9253,fracture,Aetna,7738.03,81,116/73,ibuprofen,Dr. Kumar,City General,2024-12-01T15:51,A-,none,inpatient
+52,smart_home_iot,2024-10-15T16:45,dev_1282,-0.8,35.5,true,closed,3.35,rain,1008.4,31.9,,,,,,,,,,,,,,,,,
+8,smart_home_iot,2024-07-31T10:59,dev_7543,11.3,89.8,true,locked,2.52,clear,1031.7,9.2,175.216.32.99,,,,,,,,,,,,,,,,
+1092,synthetic_healthcare,2024-01-13T19:30,,,,,,,,,,,,Patricia Williams,patricia.williams@example.com,567-59-9670,type-2 diabetes,Kaiser,7893.92,126,103/98,none,Dr. Williams,Lakeside Clinic,2024-01-03T10:46,AB+,peanuts,inpatient
+291,smart_home_iot,2024-11-06T04:52,dev_3267,24.9,31.9,false,closed,4.78,rain,1032.7,5.6,,,,,,,,,,,,,,,,,
+468,smart_home_iot,2024-11-18T07:07,dev_8175,28.1,29.8,true,open,3.63,snow,994.3,23.3,,,,,,,,,,,,,,,,,
+290,smart_home_iot,2024-04-17T18:40,dev_5327,15.9,27.0,true,open,4.28,rain,1028.1,18.8,,"46.4767,-163.4799",,,,,,,,,,,,,,,
+746,synthetic_healthcare,2024-08-05T02:39,,,,,,,,,,,,Michael Smith,michael.smith@example.com,196-33-9245,covid-19,Cigna,12800.25,85,110/80,none,Dr. Johnson,St. Mary's,2024-03-09T05:02,AB-,latex,inpatient
+870,synthetic_healthcare,2024-04-24T19:27,,,,,,,,,,,,Linda Brown,linda.brown@example.com,306-48-3675,anxiety disorder,Cigna,3556.04,82,149/82,metformin,Dr. Williams,Lakeside Clinic,2024-02-14T19:45,O+,none,telehealth
+698,synthetic_healthcare,2024-11-16T00:43,,,,,,,,,,,,Wei Chen,wei.chen@example.com,,influenza,Aetna,3429.88,91,122/64,sertraline,Dr. Nair,City General,2024-05-11T06:02,A-,none,inpatient
+358,smart_home_iot,2024-04-11T19:26,dev_8384,3.1,29.2,true,open,3.63,cloudy,1013.3,51.4,205.76.242.207,"-14.1263,-131.5902",,,,,,,,,,,,,,,
+25,smart_home_iot,2024-06-26T20:51,dev_5114,35.7,79.2,true,locked,2.18,rain,982.6,20.0,68.82.226.142,,,,,,,,,,,,,,,,
+603,synthetic_healthcare,2024-11-02T02:00,,,,,,,,,,,,Arjun Kumar,arjun.kumar@example.com,146-30-9750,type-2 diabetes,Cigna,1418.55,70,153/68,none,Dr. Khan,Riverside Medical,2024-11-15T18:31,O+,penicillin,emergency
+71,smart_home_iot,2024-04-06T11:48,dev_6546,23.0,47.8,true,closed,4.28,snow,1002.8,19.0,,,,,,,,,,,,,,,,,
+793,synthetic_healthcare,2024-10-17T21:41,,,,,,,,,,,,Linda Smith,linda.smith@example.com,600-13-7054,asthma,Cigna,14131.74,128,127/88,sertraline,Dr. Williams,Lakeside Clinic,2024-04-17T09:14,A-,none,telehealth
+624,synthetic_healthcare,2024-11-02T18:46,,,,,,,,,,,,Arjun Khan,arjun.khan@example.com,659-92-2280,fracture,UnitedHealth,1548.26,64,123/62,sertraline,Dr. Brown,Riverside Medical,2024-03-12T14:19,AB-,peanuts,emergency
+666,synthetic_healthcare,2024-09-12T20:36,,,,,,,,,,,,David Kumar,david.kumar@example.com,685-26-2629,migraine,Aetna,10729.42,123,111/85,none,Dr. Smith,Lakeside Clinic,2024-07-21T10:55,O-,none,outpatient
+753,synthetic_healthcare,2024-02-21T22:26,,,,,,,,,,,,Fatima Brown,fatima.brown@example.com,542-84-2322,fracture,UnitedHealth,559.48,100,115/100,ibuprofen,Dr. Chen,Lakeside Clinic,2024-11-25T04:41,A-,peanuts,emergency
+1086,synthetic_healthcare,2024-09-28T18:46,,,,,,,,,,,,Patricia Nair,patricia.nair@example.com,374-42-3990,anxiety disorder,BlueCross,8936.44,80,108/82,sertraline,Dr. Kumar,St. Mary's,2024-08-20T09:33,B-,penicillin,emergency
+1036,synthetic_healthcare,2024-04-17T09:44,,,,,,,,,,,,Jennifer Smith,jennifer.smith@example.com,777-67-4696,influenza,Aetna,1838.71,81,123/100,albuterol,Dr. Chen,St. Mary's,2024-09-07T11:06,A-,penicillin,telehealth
+187,smart_home_iot,2024-10-06T23:40,dev_7499,38.6,42.8,false,closed,2.5,rain,1013.2,22.5,150.194.43.198,,,,,,,,,,,,,,,,
+1167,synthetic_healthcare,2024-07-27T03:03,,,,,,,,,,,,Patricia Williams,patricia.williams@example.com,174-69-6918,migraine,Kaiser,4770.17,70,129/91,ibuprofen,Dr. Kumar,City General,2024-09-01T06:58,B+,latex,emergency
+525,smart_home_iot,2024-04-23T18:18,dev_7374,16.9,27.7,false,locked,2.81,snow,1014.3,28.6,,,,,,,,,,,,,,,,,
+32,smart_home_iot,2024-09-27T03:15,dev_4228,11.4,24.9,false,locked,1.64,clear,1023.2,18.0,,,,,,,,,,,,,,,,,
+940,synthetic_healthcare,2024-04-24T03:03,,,,,,,,,,,,Arjun Johnson,arjun.johnson@example.com,493-28-6269,type-2 diabetes,Kaiser,7404.83,89,104/88,ibuprofen,Dr. Brown,Riverside Medical,2024-09-16T04:44,B+,peanuts,outpatient
+1127,synthetic_healthcare,2024-10-26T11:30,,,,,,,,,,,,Michael Williams,michael.williams@example.com,541-94-3286,hypertension,UnitedHealth,7051.65,120,129/94,lisinopril,Dr. Johnson,City General,2024-05-29T13:07,A+,penicillin,outpatient
+337,smart_home_iot,2024-08-28T04:05,dev_9369,6.9,70.7,false,closed,3.02,clear,993.8,23.1,52.214.76.156,"-4.3435,41.3093",,,,,,,,,,,,,,,
+392,smart_home_iot,2024-11-12T16:18,dev_4714,28.6,79.5,true,locked,3.91,storm,983.2,31.5,,,,,,,,,,,,,,,,,
+644,synthetic_healthcare,2024-02-29T18:26,,,,,,,,,,,,Fatima Brown,fatima.brown@example.com,,asthma,Cigna,4337.47,112,140/72,albuterol,Dr. Garcia,City General,2024-12-12T06:04,AB-,latex,telehealth
+119,smart_home_iot,2024-01-06T23:36,dev_9443,20.9,70.3,false,closed,0.11,rain,994.4,25.0,,"85.4378,-155.6354",,,,,,,,,,,,,,,
+1146,synthetic_healthcare,2024-03-06T21:59,,,,,,,,,,,,Jennifer Chen,jennifer.chen@example.com,,fracture,BlueCross,2084.3,95,139/64,ibuprofen,Dr. Smith,City General,2024-01-29T18:52,B+,peanuts,outpatient
+902,synthetic_healthcare,2024-08-18T11:18,,,,,,,,,,,,Mary Nair,mary.nair@example.com,,fracture,Aetna,13199.17,62,135/63,none,Dr. Nair,City General,2024-03-02T08:29,A+,none,outpatient
+213,smart_home_iot,2024-09-16T00:15,dev_6277,32.3,73.3,false,closed,0.8,fog,996.1,24.9,,,,,,,,,,,,,,,,,
+243,smart_home_iot,2024-03-19T04:13,dev_4066,7.4,51.2,true,open,3.11,snow,994.7,17.7,,,,,,,,,,,,,,,,,
+844,synthetic_healthcare,2024-10-02T13:15,,,,,,,,,,,,Jennifer Kumar,,,influenza,BlueCross,4383.04,123,153/81,ibuprofen,Dr. Williams,City General,2024-05-19T13:47,O+,latex,telehealth
+431,smart_home_iot,2024-09-16T20:12,dev_9558,0.2,41.8,true,locked,4.26,clear,1000.0,53.4,197.159.11.148,,,,,,,,,,,,,,,,
+558,smart_home_iot,2024-02-14T09:58,dev_7458,11.8,85.0,true,closed,0.85,clear,1007.6,42.5,,,,,,,,,,,,,,,,,
+487,smart_home_iot,2024-03-16T10:04,dev_2326,22.9,43.5,true,locked,4.73,fog,1001.8,3.1,,,,,,,,,,,,,,,,,
+548,smart_home_iot,2024-02-12T17:25,dev_1231,27.3,50.5,false,locked,2.52,cloudy,1022.8,11.4,,,,,,,,,,,,,,,,,
+1015,synthetic_healthcare,2024-03-09T22:07,,,,,,,,,,,,Arjun Kumar,arjun.kumar@example.com,,type-2 diabetes,UnitedHealth,2255.53,75,133/94,lisinopril,Dr. Garcia,Riverside Medical,2024-01-11T20:18,AB-,latex,telehealth
+348,smart_home_iot,2024-07-19T02:24,dev_5661,27.7,59.1,false,closed,4.82,rain,993.6,57.8,,,,,,,,,,,,,,,,,
+982,synthetic_healthcare,2024-05-20T19:03,,,,,,,,,,,,Jennifer Brown,jennifer.brown@example.com,337-22-2343,anxiety disorder,BlueCross,6682.51,104,154/99,ibuprofen,Dr. Smith,Riverside Medical,2024-03-15T16:26,O-,latex,emergency
+29,smart_home_iot,2024-06-16T14:11,dev_6728,8.7,75.7,true,open,0.22,cloudy,1003.9,16.7,198.142.179.165,,,,,,,,,,,,,,,,
+716,synthetic_healthcare,2024-01-12T09:42,,,,,,,,,,,,Priya Chen,priya.chen@example.com,163-56-8046,covid-19,UnitedHealth,886.84,57,160/87,albuterol,Dr. Kumar,St. Mary's,2024-01-31T10:25,B+,none,emergency
+449,smart_home_iot,2024-09-30T06:41,dev_5578,15.9,25.5,true,open,2.42,fog,1019.8,40.1,,,,,,,,,,,,,,,,,
+947,synthetic_healthcare,2024-02-20T03:00,,,,,,,,,,,,Arjun Nair,,430-59-7484,hypertension,Kaiser,11501.81,118,101/86,sertraline,Dr. Johnson,City General,2024-03-13T20:42,A+,penicillin,inpatient
+722,synthetic_healthcare,2024-02-07T19:07,,,,,,,,,,,,Mary Smith,mary.smith@example.com,731-62-2698,covid-19,Kaiser,13914.26,67,140/88,sertraline,Dr. Davis,City General,2024-08-31T02:32,AB+,latex,inpatient
+1007,synthetic_healthcare,2024-09-14T13:13,,,,,,,,,,,,David Nair,david.nair@example.com,869-82-4014,hypertension,UnitedHealth,14318.0,108,105/91,albuterol,Dr. Williams,City General,2024-11-17T22:25,B+,penicillin,telehealth
+237,smart_home_iot,2024-01-23T16:14,dev_8126,24.8,29.1,false,closed,4.27,storm,1022.0,44.1,,,,,,,,,,,,,,,,,
+909,synthetic_healthcare,2024-03-21T16:04,,,,,,,,,,,,Fatima Nair,fatima.nair@example.com,174-36-9114,asthma,Kaiser,9635.08,56,102/84,lisinopril,Dr. Johnson,Riverside Medical,2024-01-02T17:24,B-,peanuts,inpatient
+1118,synthetic_healthcare,2024-06-07T01:57,,,,,,,,,,,,James Johnson,james.johnson@example.com,145-81-1973,type-2 diabetes,Kaiser,1909.74,81,101/86,sertraline,Dr. Brown,City General,2024-06-12T14:16,O+,peanuts,outpatient
+437,smart_home_iot,2024-11-17T06:33,dev_6320,15.4,22.1,false,open,1.82,storm,1030.7,16.9,,,,,,,,,,,,,,,,,
+875,synthetic_healthcare,2024-02-29T02:50,,,,,,,,,,,,James Garcia,james.garcia@example.com,308-49-7613,migraine,Cigna,9358.95,58,150/61,albuterol,Dr. Smith,Lakeside Clinic,2024-01-13T11:02,B+,latex,outpatient
+615,synthetic_healthcare,2024-08-27T10:52,,,,,,,,,,,,Wei Williams,wei.williams@example.com,158-40-9308,hypertension,BlueCross,5209.74,80,140/72,metformin,Dr. Nair,St. Mary's,2024-08-31T03:51,O-,latex,emergency
+221,smart_home_iot,2024-02-25T02:43,dev_7745,22.7,51.0,true,open,4.49,cloudy,1025.1,35.4,,,,,,,,,,,,,,,,,
+821,synthetic_healthcare,2024-02-01T08:18,,,,,,,,,,,,Priya Garcia,priya.garcia@example.com,190-24-2483,influenza,Aetna,2850.03,130,140/61,lisinopril,Dr. Smith,St. Mary's,2024-08-20T06:27,AB-,latex,outpatient
+536,smart_home_iot,2024-10-28T04:26,dev_6087,15.9,59.2,false,closed,3.27,clear,992.1,16.4,203.142.90.165,,,,,,,,,,,,,,,,
+714,synthetic_healthcare,2024-10-26T00:03,,,,,,,,,,,,Arjun Smith,arjun.smith@example.com,,anxiety disorder,UnitedHealth,8586.4,64,114/84,ibuprofen,Dr. Johnson,Riverside Medical,2024-06-18T14:54,O-,none,telehealth
+976,synthetic_healthcare,2024-03-10T03:56,,,,,,,,,,,,Wei Nair,wei.nair@example.com,829-79-6261,asthma,BlueCross,8759.7,77,107/78,none,Dr. Brown,St. Mary's,2024-08-05T18:33,AB-,penicillin,telehealth
+416,smart_home_iot,2024-08-14T16:00,dev_5146,-4.5,54.8,false,locked,4.06,snow,1033.0,14.3,,,,,,,,,,,,,,,,,
+465,smart_home_iot,2024-12-08T05:04,dev_9039,16.5,48.3,true,locked,1.21,storm,1037.2,49.1,,,,,,,,,,,,,,,,,
+581,smart_home_iot,2024-05-30T12:25,dev_7706,35.4,86.6,false,open,2.27,clear,1023.1,31.0,87.161.205.252,,,,,,,,,,,,,,,,
+1111,synthetic_healthcare,2024-08-14T19:37,,,,,,,,,,,,Fatima Brown,,,anxiety disorder,BlueCross,5112.71,123,100/71,ibuprofen,Dr. Kumar,City General,2024-02-24T11:30,AB+,penicillin,outpatient
+949,synthetic_healthcare,2024-08-09T05:27,,,,,,,,,,,,Michael Nair,,300-51-5265,anxiety disorder,Aetna,9784.9,112,101/88,sertraline,Dr. Khan,Lakeside Clinic,2024-03-15T11:44,B+,none,outpatient
+414,smart_home_iot,2024-07-09T17:11,dev_7292,27.7,88.3,true,closed,2.8,clear,1026.1,54.7,,,,,,,,,,,,,,,,,
+945,synthetic_healthcare,2024-02-25T04:26,,,,,,,,,,,,Mary Khan,,267-40-2505,migraine,Cigna,5125.32,107,121/64,ibuprofen,Dr. Chen,City General,2024-07-10T00:43,O+,latex,inpatient
+250,smart_home_iot,2024-05-12T20:27,dev_2188,11.8,85.9,false,locked,0.6,rain,999.4,58.6,,,,,,,,,,,,,,,,,
+1043,synthetic_healthcare,2024-08-08T05:26,,,,,,,,,,,,James Williams,james.williams@example.com,461-50-7210,type-2 diabetes,Kaiser,9712.46,92,116/70,metformin,Dr. Khan,St. Mary's,2024-08-06T13:55,O-,peanuts,telehealth
+207,smart_home_iot,2024-02-19T17:03,dev_4196,31.7,87.5,false,closed,3.46,storm,1022.6,26.6,145.15.112.75,"-49.5282,-76.0787",,,,,,,,,,,,,,,
+76,smart_home_iot,2024-11-06T16:33,dev_8916,-0.2,46.7,false,locked,1.55,fog,997.7,58.7,,,,,,,,,,,,,,,,,
+315,smart_home_iot,2024-06-11T06:17,dev_4937,35.7,63.0,true,open,3.44,rain,1002.9,47.8,66.144.12.234,,,,,,,,,,,,,,,,
+154,smart_home_iot,2024-11-15T19:34,dev_8793,16.5,34.0,false,closed,1.5,clear,1034.5,5.4,,,,,,,,,,,,,,,,,
+769,synthetic_healthcare,2024-07-31T04:20,,,,,,,,,,,,Jennifer Kumar,jennifer.kumar@example.com,,migraine,BlueCross,3972.35,97,156/63,lisinopril,Dr. Brown,Riverside Medical,2024-12-02T11:33,A+,penicillin,telehealth
+140,smart_home_iot,2024-11-24T12:30,dev_3616,31.6,85.4,false,open,3.84,storm,1039.8,28.0,,,,,,,,,,,,,,,,,
+99,smart_home_iot,2024-02-17T00:50,dev_7229,19.0,36.1,false,open,2.05,fog,982.5,1.1,,,,,,,,,,,,,,,,,
+635,synthetic_healthcare,2024-06-20T09:48,,,,,,,,,,,,Michael Williams,,274-12-2646,influenza,Cigna,1932.34,105,110/64,none,Dr. Smith,Riverside Medical,2024-02-25T21:16,O-,peanuts,inpatient
+73,smart_home_iot,2024-01-11T12:56,dev_1753,9.6,23.9,false,closed,2.21,cloudy,1011.9,34.0,,,,,,,,,,,,,,,,,
+16,smart_home_iot,2024-01-23T01:38,dev_7596,27.8,76.0,true,open,1.04,snow,1006.9,25.3,,,,,,,,,,,,,,,,,
+923,synthetic_healthcare,2024-11-27T01:06,,,,,,,,,,,,Patricia Davis,patricia.davis@example.com,,migraine,UnitedHealth,4402.94,67,151/95,lisinopril,Dr. Williams,St. Mary's,2024-05-31T03:56,A-,none,telehealth
+765,synthetic_healthcare,2024-11-02T01:58,,,,,,,,,,,,James Williams,james.williams@example.com,428-23-8364,anxiety disorder,UnitedHealth,14833.95,128,135/72,lisinopril,Dr. Kumar,Lakeside Clinic,2024-06-08T07:03,AB+,penicillin,inpatient
+1192,synthetic_healthcare,2024-11-02T12:13,,,,,,,,,,,,Robert Brown,robert.brown@example.com,830-80-1100,influenza,UnitedHealth,6517.22,76,106/98,none,Dr. Williams,City General,2024-05-08T08:49,A-,none,telehealth
+860,synthetic_healthcare,2024-09-01T15:02,,,,,,,,,,,,Robert Nair,robert.nair@example.com,260-34-7491,influenza,UnitedHealth,9183.04,75,120/93,ibuprofen,Dr. Davis,Lakeside Clinic,2024-10-10T21:36,AB+,penicillin,emergency
+19,smart_home_iot,2024-06-03T00:17,dev_8973,2.0,40.8,true,locked,3.71,clear,1024.9,3.4,,,,,,,,,,,,,,,,,
+141,smart_home_iot,2024-02-02T18:51,dev_7442,17.7,87.7,true,locked,1.83,clear,996.9,35.9,,,,,,,,,,,,,,,,,
+1,smart_home_iot,2024-08-20T19:23,dev_2824,-3.9,39.3,true,open,3.71,fog,1024.4,32.7,,"-73.1349,-96.2421",,,,,,,,,,,,,,,
+489,smart_home_iot,2024-09-25T11:19,dev_4437,28.9,73.3,false,closed,4.5,snow,1020.8,16.6,89.231.248.129,,,,,,,,,,,,,,,,
+62,smart_home_iot,2024-08-25T04:58,dev_8245,36.2,32.7,false,locked,4.09,clear,1008.2,24.5,,"-61.0515,-31.8078",,,,,,,,,,,,,,,
+190,smart_home_iot,2024-05-20T06:15,dev_1202,8.1,47.1,true,locked,4.52,cloudy,1014.3,10.2,,"-35.7964,-2.4754",,,,,,,,,,,,,,,
+367,smart_home_iot,2024-11-15T09:54,dev_8126,18.6,64.8,false,closed,2.46,cloudy,1028.3,26.5,,,,,,,,,,,,,,,,,
+509,smart_home_iot,2024-04-08T20:02,dev_6939,-0.7,60.6,true,open,0.77,rain,1002.4,29.1,,,,,,,,,,,,,,,,,
+561,smart_home_iot,2024-04-13T17:48,dev_3525,0.4,54.4,false,locked,4.05,rain,1034.2,36.2,,"-23.8578,-108.0463",,,,,,,,,,,,,,,
+462,smart_home_iot,2024-01-27T22:35,dev_5543,30.0,46.8,false,open,1.37,rain,990.7,4.2,,,,,,,,,,,,,,,,,
+329,smart_home_iot,2024-05-24T11:09,dev_6961,17.6,66.4,true,locked,0.79,cloudy,990.7,56.9,,,,,,,,,,,,,,,,,
+1157,synthetic_healthcare,2024-10-21T23:50,,,,,,,,,,,,Mary Davis,,,influenza,Cigna,2052.44,81,153/95,none,Dr. Brown,Lakeside Clinic,2024-02-29T05:59,B-,penicillin,outpatient
+720,synthetic_healthcare,2024-08-06T19:07,,,,,,,,,,,,David Brown,david.brown@example.com,456-36-4131,hypertension,Cigna,12221.59,57,119/79,sertraline,Dr. Johnson,Lakeside Clinic,2024-08-24T06:16,O-,latex,telehealth
+607,synthetic_healthcare,2024-08-20T10:44,,,,,,,,,,,,David Johnson,david.johnson@example.com,990-45-9197,covid-19,UnitedHealth,8312.63,127,143/98,sertraline,Dr. Williams,City General,2024-08-02T03:27,B+,none,inpatient
+385,smart_home_iot,2024-05-20T07:04,dev_4104,3.7,66.0,true,locked,3.77,storm,1024.8,46.0,,,,,,,,,,,,,,,,,
+591,smart_home_iot,2024-12-01T13:54,dev_2945,22.1,48.6,true,closed,2.9,clear,1011.4,7.1,,,,,,,,,,,,,,,,,
+1037,synthetic_healthcare,2024-01-13T18:57,,,,,,,,,,,,Arjun Williams,arjun.williams@example.com,800-63-2778,type-2 diabetes,UnitedHealth,3239.83,74,126/66,ibuprofen,Dr. Brown,St. Mary's,2024-04-06T21:34,AB-,latex,inpatient
+584,smart_home_iot,2024-09-11T23:16,dev_7618,15.1,34.4,false,locked,1.79,fog,1004.3,11.8,,"-29.7913,81.0355",,,,,,,,,,,,,,,
+1172,synthetic_healthcare,2024-05-21T19:22,,,,,,,,,,,,Arjun Nair,arjun.nair@example.com,106-71-2079,hypertension,Cigna,14149.13,62,105/67,sertraline,Dr. Nair,City General,2024-08-10T05:55,B+,latex,outpatient
+706,synthetic_healthcare,2024-02-03T11:21,,,,,,,,,,,,Arjun Chen,arjun.chen@example.com,,hypertension,UnitedHealth,5932.98,126,138/64,none,Dr. Garcia,Lakeside Clinic,2024-04-24T00:41,O+,latex,inpatient
+655,synthetic_healthcare,2024-01-17T15:48,,,,,,,,,,,,Fatima Nair,fatima.nair@example.com,,covid-19,BlueCross,11108.93,65,122/87,ibuprofen,Dr. Johnson,Lakeside Clinic,2024-04-16T23:48,B-,penicillin,outpatient
+338,smart_home_iot,2024-01-15T05:06,dev_9706,17.6,28.2,false,locked,0.74,snow,1012.4,0.1,,,,,,,,,,,,,,,,,
+351,smart_home_iot,2024-04-03T20:51,dev_2106,12.2,75.2,true,locked,3.54,rain,1004.7,21.2,,,,,,,,,,,,,,,,,
+734,synthetic_healthcare,2024-04-25T23:52,,,,,,,,,,,,Fatima Smith,fatima.smith@example.com,834-52-4502,covid-19,Kaiser,11944.97,84,135/64,ibuprofen,Dr. Kumar,St. Mary's,2024-07-10T23:17,B-,none,emergency
+80,smart_home_iot,2024-06-19T12:20,dev_2233,1.3,87.7,false,locked,1.89,storm,980.8,32.2,,,,,,,,,,,,,,,,,
+685,synthetic_healthcare,2024-03-25T06:14,,,,,,,,,,,,Linda Nair,linda.nair@example.com,,anxiety disorder,Aetna,4620.01,89,123/77,albuterol,Dr. Chen,St. Mary's,2024-04-26T10:48,A+,penicillin,outpatient
+1128,synthetic_healthcare,2024-04-04T11:28,,,,,,,,,,,,Mary Khan,mary.khan@example.com,918-20-4853,migraine,Kaiser,8607.71,119,156/97,ibuprofen,Dr. Williams,City General,2024-01-31T09:38,O-,none,emergency
+439,smart_home_iot,2024-08-14T01:17,dev_4992,19.7,88.2,false,open,1.77,fog,1015.5,47.1,,,,,,,,,,,,,,,,,
+908,synthetic_healthcare,2024-07-13T12:42,,,,,,,,,,,,James Smith,james.smith@example.com,410-59-4084,migraine,Kaiser,862.33,110,147/92,sertraline,Dr. Williams,Riverside Medical,2024-09-04T23:50,A+,penicillin,outpatient
+1006,synthetic_healthcare,2024-06-21T07:07,,,,,,,,,,,,Wei Smith,wei.smith@example.com,,asthma,Cigna,1065.55,59,153/76,ibuprofen,Dr. Williams,Lakeside Clinic,2024-06-17T18:09,O+,peanuts,telehealth
+819,synthetic_healthcare,2024-02-05T11:45,,,,,,,,,,,,Arjun Kumar,arjun.kumar@example.com,,migraine,Cigna,13474.23,76,157/97,none,Dr. Nair,City General,2024-12-08T10:36,O+,latex,outpatient
+642,synthetic_healthcare,2024-10-03T21:17,,,,,,,,,,,,James Khan,james.khan@example.com,910-63-5726,hypertension,UnitedHealth,12716.27,97,121/75,lisinopril,Dr. Khan,City General,2024-11-26T02:16,B-,penicillin,telehealth
+682,synthetic_healthcare,2024-04-28T06:54,,,,,,,,,,,,David Khan,david.khan@example.com,843-59-3153,type-2 diabetes,Aetna,11907.28,71,109/82,sertraline,Dr. Smith,St. Mary's,2024-01-19T22:43,AB-,latex,outpatient
+1181,synthetic_healthcare,2024-11-30T22:21,,,,,,,,,,,,Michael Johnson,michael.johnson@example.com,798-32-1010,type-2 diabetes,UnitedHealth,2799.03,95,150/96,albuterol,Dr. Smith,City General,2024-02-27T11:49,O+,none,outpatient
+583,smart_home_iot,2024-06-01T15:56,dev_7586,34.9,69.1,false,locked,3.74,rain,980.5,16.8,,,,,,,,,,,,,,,,,
+258,smart_home_iot,2024-08-15T14:07,dev_8869,4.0,21.8,true,locked,1.53,clear,1008.4,6.9,,,,,,,,,,,,,,,,,
+327,smart_home_iot,2024-09-21T20:20,dev_2235,35.1,79.5,true,locked,2.94,snow,992.8,2.2,,,,,,,,,,,,,,,,,
+371,smart_home_iot,2024-04-15T10:31,dev_2808,23.7,63.2,false,locked,3.15,cloudy,999.2,9.1,,"85.0199,-78.4388",,,,,,,,,,,,,,,
+799,synthetic_healthcare,2024-04-07T13:09,,,,,,,,,,,,Arjun Brown,arjun.brown@example.com,971-62-1996,migraine,Cigna,10150.84,107,125/88,ibuprofen,Dr. Chen,Riverside Medical,2024-11-28T04:23,A+,peanuts,telehealth
+488,smart_home_iot,2024-01-15T21:09,dev_6989,11.5,65.4,true,locked,3.58,cloudy,988.3,20.1,,,,,,,,,,,,,,,,,
+284,smart_home_iot,2024-05-03T00:02,dev_8105,35.0,89.7,false,closed,1.86,cloudy,989.9,54.4,,"-49.6222,174.5566",,,,,,,,,,,,,,,
+322,smart_home_iot,2024-09-29T10:42,dev_6633,4.5,83.4,true,open,1.0,snow,1030.1,11.7,205.27.236.166,,,,,,,,,,,,,,,,
+920,synthetic_healthcare,2024-05-23T00:35,,,,,,,,,,,,Robert Garcia,robert.garcia@example.com,,fracture,Kaiser,6228.8,80,113/81,sertraline,Dr. Williams,Lakeside Clinic,2024-12-07T04:41,O+,penicillin,telehealth
+396,smart_home_iot,2024-09-06T07:19,dev_2467,0.1,49.0,false,closed,1.03,rain,1015.6,1.5,,,,,,,,,,,,,,,,,
+375,smart_home_iot,2024-04-23T15:15,dev_6293,2.1,71.0,true,closed,2.46,rain,991.9,53.3,,,,,,,,,,,,,,,,,
+485,smart_home_iot,2024-09-13T01:34,dev_8524,33.6,72.3,true,closed,2.37,cloudy,1032.5,24.3,,,,,,,,,,,,,,,,,
+1075,synthetic_healthcare,2024-07-29T17:41,,,,,,,,,,,,Patricia Smith,patricia.smith@example.com,244-60-5817,hypertension,Aetna,6512.9,91,103/75,ibuprofen,Dr. Brown,Riverside Medical,2024-10-29T22:07,A-,latex,telehealth
+774,synthetic_healthcare,2024-06-10T11:43,,,,,,,,,,,,Fatima Kumar,fatima.kumar@example.com,475-80-5795,asthma,Kaiser,13403.24,95,144/94,sertraline,Dr. Johnson,City General,2024-05-06T04:56,O+,none,telehealth
+1142,synthetic_healthcare,2024-02-15T18:56,,,,,,,,,,,,Mary Khan,mary.khan@example.com,,migraine,Kaiser,912.71,117,100/63,metformin,Dr. Davis,Riverside Medical,2024-10-20T19:37,B+,peanuts,emergency
+294,smart_home_iot,2024-11-20T16:20,dev_3140,16.7,54.2,false,closed,0.33,rain,1019.3,0.7,,,,,,,,,,,,,,,,,
+745,synthetic_healthcare,2024-01-13T23:50,,,,,,,,,,,,Priya Kumar,priya.kumar@example.com,344-18-9718,type-2 diabetes,Cigna,3458.86,106,125/85,metformin,Dr. Brown,Riverside Medical,2024-06-29T06:52,B-,penicillin,inpatient
+764,synthetic_healthcare,2024-06-30T20:07,,,,,,,,,,,,Wei Garcia,wei.garcia@example.com,431-39-4876,type-2 diabetes,UnitedHealth,10944.19,104,148/86,metformin,Dr. Smith,Riverside Medical,2024-02-11T16:17,A+,none,telehealth
+677,synthetic_healthcare,2024-11-17T02:25,,,,,,,,,,,,Arjun Brown,arjun.brown@example.com,279-19-7013,influenza,Kaiser,5351.11,61,127/91,ibuprofen,Dr. Williams,Riverside Medical,2024-02-11T05:26,AB-,penicillin,outpatient
+411,smart_home_iot,2024-05-24T00:54,dev_1643,20.1,56.1,true,open,1.53,storm,1033.1,46.4,,,,,,,,,,,,,,,,,
+825,synthetic_healthcare,2024-04-27T14:20,,,,,,,,,,,,Patricia Davis,patricia.davis@example.com,486-94-1554,migraine,Aetna,9471.72,56,110/86,ibuprofen,Dr. Nair,Riverside Medical,2024-08-23T21:16,A-,penicillin,emergency
+395,smart_home_iot,2024-06-24T02:21,dev_4245,17.0,65.7,true,locked,3.12,fog,1011.5,14.5,,,,,,,,,,,,,,,,,
+226,smart_home_iot,2024-04-14T07:22,dev_9209,29.5,49.7,false,open,3.24,snow,1017.0,16.6,,,,,,,,,,,,,,,,,
+74,smart_home_iot,2024-01-29T18:02,dev_7267,22.9,36.9,true,open,2.36,rain,1007.6,40.0,,,,,,,,,,,,,,,,,
+843,synthetic_healthcare,2024-02-10T06:43,,,,,,,,,,,,Priya Kumar,priya.kumar@example.com,282-30-7571,anxiety disorder,Cigna,11289.11,108,157/98,albuterol,Dr. Nair,Riverside Medical,2024-08-17T11:25,A-,peanuts,telehealth
+14,smart_home_iot,2024-08-02T04:43,dev_4770,21.5,20.5,true,open,0.43,clear,1031.6,4.3,172.248.109.139,"78.3926,25.5755",,,,,,,,,,,,,,,
+153,smart_home_iot,2024-01-19T11:35,dev_9700,5.2,36.3,true,closed,1.72,storm,986.0,46.2,141.80.208.168,,,,,,,,,,,,,,,,
+1012,synthetic_healthcare,2024-10-10T20:54,,,,,,,,,,,,Mary Brown,mary.brown@example.com,,influenza,Kaiser,9869.05,56,143/87,metformin,Dr. Nair,St. Mary's,2024-12-10T15:19,O-,none,outpatient
+576,smart_home_iot,2024-03-04T14:40,dev_9248,-3.6,24.5,false,open,3.13,clear,1013.7,29.2,,,,,,,,,,,,,,,,,
+669,synthetic_healthcare,2024-09-07T11:13,,,,,,,,,,,,Mary Smith,mary.smith@example.com,,influenza,Cigna,12852.79,82,108/98,sertraline,Dr. Brown,Riverside Medical,2024-04-10T23:55,B+,none,telehealth
+872,synthetic_healthcare,2024-04-25T08:56,,,,,,,,,,,,David Brown,david.brown@example.com,315-21-9305,migraine,BlueCross,3888.85,69,160/89,metformin,Dr. Smith,Lakeside Clinic,2024-10-19T12:19,O+,latex,outpatient
+313,smart_home_iot,2024-08-15T16:32,dev_5934,17.1,60.1,false,open,3.94,rain,1011.5,57.4,,,,,,,,,,,,,,,,,
+573,smart_home_iot,2024-06-29T03:31,dev_6681,15.2,50.5,true,closed,3.66,storm,1000.6,13.9,176.173.239.34,,,,,,,,,,,,,,,,
+235,smart_home_iot,2024-10-03T07:37,dev_7164,33.2,70.9,true,open,2.7,cloudy,1005.2,57.7,,"-39.6315,-164.1959",,,,,,,,,,,,,,,
+1038,synthetic_healthcare,2024-08-28T11:40,,,,,,,,,,,,Priya Brown,,559-64-3820,covid-19,Cigna,4790.69,82,159/61,lisinopril,Dr. Chen,Riverside Medical,2024-05-16T17:23,O-,none,outpatient
+686,synthetic_healthcare,2024-04-27T02:31,,,,,,,,,,,,Linda Kumar,linda.kumar@example.com,583-45-2650,anxiety disorder,UnitedHealth,3843.76,117,123/81,albuterol,Dr. Johnson,City General,2024-08-31T13:21,A+,none,inpatient
+498,smart_home_iot,2024-05-03T07:28,dev_2840,27.9,83.0,true,locked,2.8,rain,981.5,37.1,92.47.167.15,,,,,,,,,,,,,,,,
+7,smart_home_iot,2024-09-18T09:13,dev_6155,4.6,54.9,false,open,1.4,cloudy,1024.7,32.3,,,,,,,,,,,,,,,,,
+242,smart_home_iot,2024-04-04T05:36,dev_2228,-4.0,24.5,false,open,0.55,rain,987.4,56.5,147.221.202.128,"32.9783,-117.7894",,,,,,,,,,,,,,,
+1042,synthetic_healthcare,2024-10-09T06:42,,,,,,,,,,,,Wei Smith,wei.smith@example.com,,migraine,UnitedHealth,11382.77,129,105/65,none,Dr. Brown,Lakeside Clinic,2024-12-13T00:12,A-,latex,emergency
+283,smart_home_iot,2024-09-09T12:06,dev_6641,9.0,27.2,false,open,0.42,clear,997.9,17.4,,,,,,,,,,,,,,,,,
+784,synthetic_healthcare,2024-04-23T23:57,,,,,,,,,,,,Arjun Khan,,902-84-6636,asthma,BlueCross,12474.44,59,142/69,ibuprofen,Dr. Johnson,City General,2024-12-06T14:40,B-,none,telehealth
+701,synthetic_healthcare,2024-05-30T17:06,,,,,,,,,,,,Priya Nair,priya.nair@example.com,241-93-5028,anxiety disorder,BlueCross,8276.14,123,134/91,sertraline,Dr. Khan,St. Mary's,2024-05-20T00:55,A-,none,telehealth
+804,synthetic_healthcare,2024-09-27T16:39,,,,,,,,,,,,James Kumar,james.kumar@example.com,380-68-4320,type-2 diabetes,Cigna,14541.39,128,130/84,albuterol,Dr. Chen,City General,2024-03-21T22:04,O+,none,emergency
+279,smart_home_iot,2024-11-05T22:01,dev_2929,16.2,80.6,true,closed,4.46,snow,987.2,40.8,,,,,,,,,,,,,,,,,
+57,smart_home_iot,2024-03-31T08:43,dev_2940,20.1,49.1,true,locked,1.96,storm,997.8,35.3,,,,,,,,,,,,,,,,,
+1047,synthetic_healthcare,2024-10-18T23:55,,,,,,,,,,,,James Johnson,james.johnson@example.com,986-60-5142,type-2 diabetes,Kaiser,13735.31,55,116/100,none,Dr. Kumar,St. Mary's,2024-07-18T07:55,O-,latex,inpatient
+1123,synthetic_healthcare,2024-04-30T06:28,,,,,,,,,,,,Wei Davis,wei.davis@example.com,125-18-2908,hypertension,BlueCross,8860.63,114,107/76,metformin,Dr. Smith,Riverside Medical,2024-08-01T04:44,B-,none,outpatient
+966,synthetic_healthcare,2024-01-03T01:44,,,,,,,,,,,,David Williams,david.williams@example.com,891-58-1718,fracture,UnitedHealth,3413.47,129,154/91,lisinopril,Dr. Garcia,City General,2024-02-06T23:15,B+,penicillin,inpatient
+69,smart_home_iot,2024-03-27T22:42,dev_7274,5.5,74.3,true,closed,3.75,fog,1034.8,22.9,,,,,,,,,,,,,,,,,
+1044,synthetic_healthcare,2024-02-24T19:45,,,,,,,,,,,,Robert Kumar,robert.kumar@example.com,613-89-1695,migraine,BlueCross,7075.61,119,127/89,metformin,Dr. Smith,City General,2024-01-02T00:25,AB+,penicillin,telehealth
+1050,synthetic_healthcare,2024-04-15T19:24,,,,,,,,,,,,James Williams,james.williams@example.com,512-39-7046,migraine,Kaiser,10273.1,92,112/61,none,Dr. Johnson,Lakeside Clinic,2024-05-17T08:38,AB+,latex,emergency
+651,synthetic_healthcare,2024-03-13T02:19,,,,,,,,,,,,Jennifer Williams,jennifer.williams@example.com,614-24-8383,asthma,UnitedHealth,3078.04,78,151/72,albuterol,Dr. Chen,Lakeside Clinic,2024-08-16T05:23,A-,penicillin,outpatient
+249,smart_home_iot,2024-01-01T05:58,dev_6435,36.3,34.1,true,closed,3.61,rain,983.6,8.9,,"-70.0343,9.4662",,,,,,,,,,,,,,,
+796,synthetic_healthcare,2024-10-23T07:41,,,,,,,,,,,,Robert Garcia,robert.garcia@example.com,389-26-4253,type-2 diabetes,Kaiser,12868.78,82,100/87,metformin,Dr. Garcia,St. Mary's,2024-09-15T11:59,B+,none,telehealth
+1178,synthetic_healthcare,2024-10-17T11:13,,,,,,,,,,,,Wei Kumar,wei.kumar@example.com,515-27-9850,hypertension,Cigna,5063.17,112,152/88,albuterol,Dr. Smith,Lakeside Clinic,2024-05-11T02:39,O-,none,emergency
+672,synthetic_healthcare,2024-10-17T13:52,,,,,,,,,,,,Linda Kumar,linda.kumar@example.com,110-22-7179,asthma,BlueCross,14280.6,70,111/93,none,Dr. Kumar,Lakeside Clinic,2024-02-04T18:50,AB-,none,emergency
+381,smart_home_iot,2024-01-24T01:29,dev_9830,31.9,33.3,false,locked,0.86,rain,999.4,38.5,134.34.22.214,,,,,,,,,,,,,,,,
+217,smart_home_iot,2024-11-27T02:31,dev_3161,34.7,41.1,false,open,3.31,rain,984.9,39.9,,"22.6088,81.3558",,,,,,,,,,,,,,,
+1173,synthetic_healthcare,2024-04-24T16:22,,,,,,,,,,,,Robert Chen,,182-15-6942,asthma,BlueCross,874.34,127,108/72,metformin,Dr. Smith,Lakeside Clinic,2024-01-26T19:21,O+,none,emergency
+1033,synthetic_healthcare,2024-02-05T06:20,,,,,,,,,,,,James Kumar,james.kumar@example.com,111-85-7703,type-2 diabetes,Cigna,9673.85,112,157/73,metformin,Dr. Nair,St. Mary's,2024-08-10T17:45,A-,none,emergency
+771,synthetic_healthcare,2024-11-15T02:32,,,,,,,,,,,,Linda Smith,,,anxiety disorder,Aetna,8323.24,61,124/84,none,Dr. Williams,Lakeside Clinic,2024-09-12T08:22,O+,none,inpatient
+1175,synthetic_healthcare,2024-06-20T22:17,,,,,,,,,,,,Mary Chen,mary.chen@example.com,,influenza,BlueCross,3096.59,94,151/94,metformin,Dr. Brown,City General,2024-01-13T22:23,AB+,peanuts,outpatient
+59,smart_home_iot,2024-11-08T23:21,dev_8438,-1.8,36.3,false,locked,2.99,cloudy,1005.5,32.7,,,,,,,,,,,,,,,,,
+1116,synthetic_healthcare,2024-12-10T02:52,,,,,,,,,,,,Mary Nair,mary.nair@example.com,427-43-3598,hypertension,UnitedHealth,10541.92,91,102/75,metformin,Dr. Johnson,City General,2024-08-12T07:53,AB-,latex,telehealth
+1134,synthetic_healthcare,2024-02-25T16:29,,,,,,,,,,,,Arjun Nair,arjun.nair@example.com,204-59-3332,influenza,Cigna,8733.56,86,152/100,ibuprofen,Dr. Kumar,St. Mary's,2024-01-01T02:59,B-,peanuts,telehealth
+906,synthetic_healthcare,2024-08-26T09:45,,,,,,,,,,,,Patricia Khan,patricia.khan@example.com,676-83-9715,anxiety disorder,Kaiser,9676.52,91,120/68,ibuprofen,Dr. Brown,Riverside Medical,2024-12-09T18:57,O+,latex,telehealth
+189,smart_home_iot,2024-10-04T04:44,dev_5419,-0.4,26.1,false,closed,2.83,snow,1004.5,1.6,,"17.6479,-63.2051",,,,,,,,,,,,,,,
+853,synthetic_healthcare,2024-06-24T12:14,,,,,,,,,,,,Robert Garcia,robert.garcia@example.com,488-11-2060,migraine,UnitedHealth,4694.88,83,109/77,sertraline,Dr. Johnson,St. Mary's,2024-05-09T19:09,O-,latex,outpatient
+702,synthetic_healthcare,2024-10-22T09:10,,,,,,,,,,,,Fatima Brown,,819-21-4853,migraine,Aetna,3112.93,57,123/95,ibuprofen,Dr. Williams,City General,2024-01-22T16:35,AB-,peanuts,inpatient
+1071,synthetic_healthcare,2024-08-06T00:42,,,,,,,,,,,,Michael Chen,michael.chen@example.com,266-17-8356,influenza,BlueCross,11463.46,107,142/68,sertraline,Dr. Williams,Riverside Medical,2024-01-08T02:03,A-,latex,telehealth
+738,synthetic_healthcare,2024-01-04T18:50,,,,,,,,,,,,Robert Johnson,,430-98-8138,asthma,UnitedHealth,1393.21,102,152/94,metformin,Dr. Smith,Riverside Medical,2024-11-17T14:33,A+,none,outpatient
+580,smart_home_iot,2024-03-30T07:36,dev_8760,10.4,55.4,true,closed,1.92,storm,1001.6,39.9,193.215.116.36,,,,,,,,,,,,,,,,
+687,synthetic_healthcare,2024-05-11T13:49,,,,,,,,,,,,Fatima Davis,,641-87-7088,asthma,Cigna,3213.7,104,105/66,lisinopril,Dr. Davis,City General,2024-01-15T22:36,B-,penicillin,telehealth
+773,synthetic_healthcare,2024-03-06T18:02,,,,,,,,,,,,Michael Smith,michael.smith@example.com,421-54-5001,fracture,UnitedHealth,9123.37,116,142/67,none,Dr. Johnson,City General,2024-04-01T02:16,B-,latex,emergency
+956,synthetic_healthcare,2024-06-15T02:50,,,,,,,,,,,,Jennifer Khan,jennifer.khan@example.com,267-57-7082,influenza,Cigna,11049.11,99,126/71,sertraline,Dr. Chen,Riverside Medical,2024-06-19T04:56,AB-,peanuts,inpatient
+979,synthetic_healthcare,2024-01-20T20:14,,,,,,,,,,,,James Johnson,james.johnson@example.com,384-23-9986,fracture,UnitedHealth,11775.35,109,113/62,none,Dr. Davis,City General,2024-01-04T14:07,A-,peanuts,emergency
+1079,synthetic_healthcare,2024-11-09T03:40,,,,,,,,,,,,James Nair,james.nair@example.com,882-10-7162,influenza,Aetna,9910.95,76,111/74,none,Dr. Nair,Riverside Medical,2024-09-02T08:28,B+,none,telehealth
+300,smart_home_iot,2024-02-05T11:25,dev_4633,-4.9,44.9,false,locked,2.66,fog,986.4,53.8,,,,,,,,,,,,,,,,,
+880,synthetic_healthcare,2024-07-29T03:39,,,,,,,,,,,,David Garcia,david.garcia@example.com,319-68-5305,covid-19,Aetna,11194.81,120,159/81,albuterol,Dr. Williams,Riverside Medical,2024-05-04T03:33,O-,none,telehealth
+109,smart_home_iot,2024-09-11T07:24,dev_7421,0.8,69.6,true,closed,2.84,fog,1027.5,48.8,,,,,,,,,,,,,,,,,
+650,synthetic_healthcare,2024-03-17T06:51,,,,,,,,,,,,Fatima Chen,fatima.chen@example.com,815-49-1105,influenza,BlueCross,103.55,63,149/86,sertraline,Dr. Chen,Riverside Medical,2024-09-23T21:25,O+,penicillin,inpatient
+1170,synthetic_healthcare,2024-02-15T23:52,,,,,,,,,,,,Patricia Garcia,patricia.garcia@example.com,950-10-1295,hypertension,Aetna,9511.2,83,159/81,ibuprofen,Dr. Kumar,City General,2024-06-16T05:55,B+,penicillin,inpatient
+521,smart_home_iot,2024-04-11T09:43,dev_5472,29.0,76.1,false,closed,2.43,snow,1037.0,59.3,,"-8.1657,-136.0116",,,,,,,,,,,,,,,
+730,synthetic_healthcare,2024-07-07T14:18,,,,,,,,,,,,Arjun Williams,arjun.williams@example.com,321-56-2880,asthma,Aetna,4966.89,83,105/68,albuterol,Dr. Kumar,Lakeside Clinic,2024-03-13T12:57,A-,peanuts,emergency
+166,smart_home_iot,2024-11-29T21:52,dev_7184,11.9,67.8,true,locked,4.32,clear,990.7,32.2,,,,,,,,,,,,,,,,,
+1141,synthetic_healthcare,2024-12-04T03:31,,,,,,,,,,,,David Smith,david.smith@example.com,459-24-2153,covid-19,Aetna,6383.43,62,114/98,sertraline,Dr. Khan,Lakeside Clinic,2024-03-16T10:01,O+,peanuts,inpatient
+924,synthetic_healthcare,2024-06-19T23:08,,,,,,,,,,,,Fatima Kumar,fatima.kumar@example.com,806-41-2857,influenza,BlueCross,1528.27,60,108/84,ibuprofen,Dr. Chen,Lakeside Clinic,2024-03-03T01:29,A+,none,emergency
+820,synthetic_healthcare,2024-07-01T14:23,,,,,,,,,,,,Robert Kumar,robert.kumar@example.com,185-32-8264,hypertension,Cigna,9159.25,119,126/71,none,Dr. Smith,Riverside Medical,2024-04-09T16:10,AB-,none,emergency
+222,smart_home_iot,2024-04-24T12:10,dev_3290,6.2,65.1,true,locked,3.04,fog,1016.5,46.7,,,,,,,,,,,,,,,,,
+995,synthetic_healthcare,2024-02-14T21:23,,,,,,,,,,,,Jennifer Garcia,jennifer.garcia@example.com,543-75-1592,type-2 diabetes,UnitedHealth,13999.58,103,121/88,none,Dr. Kumar,St. Mary's,2024-02-21T18:39,B-,none,telehealth
+149,smart_home_iot,2024-08-29T02:37,dev_8837,18.6,42.0,true,closed,4.57,rain,1012.8,40.6,,,,,,,,,,,,,,,,,
+135,smart_home_iot,2024-12-08T13:44,dev_9501,35.3,79.2,false,open,3.21,snow,996.5,37.5,,"25.3777,33.0510",,,,,,,,,,,,,,,
+763,synthetic_healthcare,2024-11-01T14:08,,,,,,,,,,,,Wei Garcia,wei.garcia@example.com,485-70-3955,fracture,UnitedHealth,10490.71,130,137/82,sertraline,Dr. Davis,Lakeside Clinic,2024-01-25T14:26,A+,none,inpatient
+833,synthetic_healthcare,2024-09-06T20:58,,,,,,,,,,,,Jennifer Smith,jennifer.smith@example.com,597-93-7581,anxiety disorder,Aetna,4600.08,88,147/100,metformin,Dr. Davis,Lakeside Clinic,2024-07-01T19:04,AB-,latex,emergency
+333,smart_home_iot,2024-05-08T11:40,dev_6653,16.9,53.7,true,locked,4.42,storm,989.9,4.6,,,,,,,,,,,,,,,,,
+206,smart_home_iot,2024-08-19T09:05,dev_9804,26.2,65.2,true,locked,0.92,rain,988.4,18.9,,"-25.3729,-176.5500",,,,,,,,,,,,,,,
+490,smart_home_iot,2024-02-14T16:15,dev_8703,26.9,67.5,false,closed,3.14,fog,1036.7,48.5,,"70.5426,-15.1653",,,,,,,,,,,,,,,
+413,smart_home_iot,2024-07-17T22:34,dev_3216,12.7,42.6,true,open,2.32,fog,1033.7,53.0,83.83.63.24,"-9.1083,-49.3404",,,,,,,,,,,,,,,
+265,smart_home_iot,2024-02-06T18:28,dev_5687,34.0,81.6,false,closed,1.98,storm,1014.3,28.4,104.73.205.10,,,,,,,,,,,,,,,,
+1022,synthetic_healthcare,2024-07-23T07:45,,,,,,,,,,,,Linda Johnson,linda.johnson@example.com,442-31-4033,type-2 diabetes,Aetna,7097.11,71,110/92,lisinopril,Dr. Chen,City General,2024-09-05T02:15,AB+,none,inpatient
+269,smart_home_iot,2024-07-09T21:16,dev_1474,2.8,81.3,true,open,1.32,storm,983.0,21.6,95.237.203.163,,,,,,,,,,,,,,,,
+725,synthetic_healthcare,2024-07-29T09:21,,,,,,,,,,,,David Williams,david.williams@example.com,751-59-3846,anxiety disorder,Cigna,7797.77,110,114/66,none,Dr. Williams,City General,2024-08-17T21:36,O+,peanuts,inpatient
+446,smart_home_iot,2024-02-19T10:25,dev_2387,1.2,76.4,false,locked,3.06,storm,1017.4,27.3,,,,,,,,,,,,,,,,,
+646,synthetic_healthcare,2024-05-16T14:05,,,,,,,,,,,,Arjun Davis,arjun.davis@example.com,592-19-6459,influenza,BlueCross,3000.08,79,100/60,sertraline,Dr. Nair,Lakeside Clinic,2024-05-27T07:03,O+,latex,emergency
+683,synthetic_healthcare,2024-06-25T22:06,,,,,,,,,,,,Mary Chen,mary.chen@example.com,,influenza,UnitedHealth,4274.59,69,155/76,none,Dr. Brown,Lakeside Clinic,2024-03-13T05:45,O-,none,inpatient
+505,smart_home_iot,2024-08-26T01:06,dev_5713,13.8,54.4,true,open,0.68,rain,1009.6,58.2,,,,,,,,,,,,,,,,,
+92,smart_home_iot,2024-05-16T06:41,dev_3500,25.9,53.2,true,open,0.56,clear,1024.7,22.4,16.168.62.106,,,,,,,,,,,,,,,,
+724,synthetic_healthcare,2024-11-26T23:28,,,,,,,,,,,,David Smith,david.smith@example.com,115-13-3512,migraine,Kaiser,12314.91,95,121/70,sertraline,Dr. Chen,St. Mary's,2024-07-21T08:07,O+,penicillin,telehealth
+188,smart_home_iot,2024-10-17T13:30,dev_5037,27.1,25.7,true,closed,3.59,fog,989.3,23.4,,"79.7328,-19.8951",,,,,,,,,,,,,,,
+648,synthetic_healthcare,2024-01-13T13:31,,,,,,,,,,,,Patricia Smith,patricia.smith@example.com,814-95-3422,fracture,Kaiser,6875.62,73,116/75,sertraline,Dr. Davis,St. Mary's,2024-01-05T11:48,A-,none,telehealth
+574,smart_home_iot,2024-09-20T05:37,dev_7395,38.2,78.3,false,closed,4.02,cloudy,1017.3,16.9,,,,,,,,,,,,,,,,,
+695,synthetic_healthcare,2024-05-26T13:08,,,,,,,,,,,,Mary Khan,,240-11-2633,anxiety disorder,BlueCross,389.08,56,148/62,lisinopril,Dr. Brown,City General,2024-04-07T10:49,B+,none,outpatient
+572,smart_home_iot,2024-09-20T19:46,dev_8993,5.4,24.2,true,closed,2.92,snow,983.8,53.6,,,,,,,,,,,,,,,,,
+983,synthetic_healthcare,2024-08-12T03:31,,,,,,,,,,,,David Garcia,david.garcia@example.com,721-36-7110,influenza,Aetna,9046.23,103,110/85,lisinopril,Dr. Brown,Riverside Medical,2024-05-08T14:52,O+,peanuts,inpatient
+567,smart_home_iot,2024-09-02T04:20,dev_2742,14.5,21.3,false,open,0.17,fog,1008.6,41.5,,,,,,,,,,,,,,,,,
+857,synthetic_healthcare,2024-01-04T11:54,,,,,,,,,,,,Priya Chen,priya.chen@example.com,981-24-8252,asthma,Kaiser,12102.03,113,100/76,ibuprofen,Dr. Davis,Riverside Medical,2024-06-28T08:26,B+,peanuts,telehealth
+815,synthetic_healthcare,2024-01-29T11:19,,,,,,,,,,,,Priya Brown,priya.brown@example.com,270-91-5550,influenza,BlueCross,8442.45,117,144/76,none,Dr. Johnson,Lakeside Clinic,2024-08-25T10:04,AB-,penicillin,outpatient
+103,smart_home_iot,2024-01-28T10:26,dev_3902,37.8,64.0,false,locked,3.82,storm,1020.9,52.9,,,,,,,,,,,,,,,,,
+406,smart_home_iot,2024-02-22T23:35,dev_1483,29.4,81.6,false,closed,1.59,fog,1036.0,53.6,,,,,,,,,,,,,,,,,
+160,smart_home_iot,2024-03-27T00:50,dev_2017,25.1,52.6,true,closed,3.46,fog,1026.2,41.4,,,,,,,,,,,,,,,,,
+128,smart_home_iot,2024-01-12T18:59,dev_3513,25.6,86.4,false,closed,3.84,snow,988.3,22.0,,,,,,,,,,,,,,,,,
+504,smart_home_iot,2024-08-01T01:37,dev_5979,17.2,71.8,true,open,3.98,cloudy,995.8,57.4,,,,,,,,,,,,,,,,,
+15,smart_home_iot,2024-06-21T02:15,dev_4981,30.3,76.5,true,open,0.57,storm,1001.3,24.7,,"27.6220,52.6247",,,,,,,,,,,,,,,
+102,smart_home_iot,2024-10-10T16:02,dev_3754,-1.6,64.3,true,closed,1.82,fog,1028.9,14.2,51.88.78.195,,,,,,,,,,,,,,,,
+40,smart_home_iot,2024-02-20T09:07,dev_3471,5.4,68.6,true,open,2.13,rain,1012.6,24.9,108.199.10.220,,,,,,,,,,,,,,,,
+391,smart_home_iot,2024-10-27T15:07,dev_2562,21.8,41.0,false,open,3.92,rain,1000.9,49.0,,,,,,,,,,,,,,,,,
+205,smart_home_iot,2024-08-02T20:58,dev_2388,25.2,41.9,true,closed,0.67,rain,1021.6,30.6,,"-20.9322,-113.1287",,,,,,,,,,,,,,,
+163,smart_home_iot,2024-07-08T10:48,dev_8239,0.2,34.4,false,open,4.5,storm,1028.5,27.2,,,,,,,,,,,,,,,,,
+984,synthetic_healthcare,2024-05-18T03:37,,,,,,,,,,,,Priya Garcia,,124-97-4998,type-2 diabetes,BlueCross,10719.0,57,124/96,albuterol,Dr. Nair,Lakeside Clinic,2024-01-08T11:04,O-,latex,telehealth
+1110,synthetic_healthcare,2024-02-11T22:20,,,,,,,,,,,,Priya Johnson,priya.johnson@example.com,218-24-7268,anxiety disorder,Aetna,2012.18,78,102/67,sertraline,Dr. Smith,Lakeside Clinic,2024-02-19T12:16,AB-,none,telehealth
+1008,synthetic_healthcare,2024-09-19T10:18,,,,,,,,,,,,Robert Chen,robert.chen@example.com,139-11-6910,migraine,Kaiser,5645.52,55,106/90,sertraline,Dr. Brown,St. Mary's,2024-02-23T19:32,AB-,none,emergency
+971,synthetic_healthcare,2024-07-05T22:01,,,,,,,,,,,,Mary Davis,mary.davis@example.com,268-41-7774,migraine,UnitedHealth,12433.4,107,103/87,metformin,Dr. Nair,Lakeside Clinic,2024-01-11T01:44,B-,peanuts,telehealth
+622,synthetic_healthcare,2024-06-13T14:20,,,,,,,,,,,,Linda Chen,,323-49-7963,anxiety disorder,Kaiser,2425.56,102,116/95,metformin,Dr. Williams,City General,2024-04-17T10:10,O-,none,emergency
+399,smart_home_iot,2024-02-21T11:06,dev_1301,11.9,83.4,true,closed,0.93,rain,992.0,41.8,,,,,,,,,,,,,,,,,
+192,smart_home_iot,2024-02-19T07:55,dev_5991,-4.7,47.7,false,closed,2.26,storm,1028.9,51.6,,"-32.2803,161.0204",,,,,,,,,,,,,,,
+1155,synthetic_healthcare,2024-10-27T16:24,,,,,,,,,,,,Arjun Brown,arjun.brown@example.com,939-78-6924,type-2 diabetes,BlueCross,9073.29,82,128/95,metformin,Dr. Smith,Riverside Medical,2024-03-28T17:13,A-,penicillin,telehealth
+913,synthetic_healthcare,2024-03-24T05:55,,,,,,,,,,,,James Chen,,,asthma,BlueCross,9260.59,111,147/69,ibuprofen,Dr. Davis,City General,2024-08-29T08:18,B-,penicillin,emergency
+471,smart_home_iot,2024-06-15T02:12,dev_3796,32.6,24.5,true,open,2.54,snow,993.2,48.3,,,,,,,,,,,,,,,,,
+565,smart_home_iot,2024-08-01T04:46,dev_2339,29.6,21.1,false,open,3.95,storm,982.7,25.0,,,,,,,,,,,,,,,,,
+51,smart_home_iot,2024-04-10T14:04,dev_1166,18.2,33.4,true,locked,2.09,snow,1025.5,41.4,,,,,,,,,,,,,,,,,
+94,smart_home_iot,2024-02-09T09:37,dev_6736,33.0,45.7,false,locked,1.21,storm,1030.7,58.5,,,,,,,,,,,,,,,,,
+407,smart_home_iot,2024-10-10T15:56,dev_4079,-0.2,32.9,false,locked,2.88,cloudy,1015.8,13.9,21.244.68.129,,,,,,,,,,,,,,,,
+481,smart_home_iot,2024-10-03T19:56,dev_6629,4.9,40.7,true,locked,4.77,cloudy,1014.7,33.2,106.250.110.152,,,,,,,,,,,,,,,,
+874,synthetic_healthcare,2024-02-26T17:02,,,,,,,,,,,,Robert Garcia,,880-14-2002,asthma,Cigna,5625.82,108,152/70,ibuprofen,Dr. Williams,St. Mary's,2024-12-06T21:26,B+,penicillin,emergency
+359,smart_home_iot,2024-11-21T05:30,dev_9470,19.0,42.1,false,closed,1.33,snow,982.9,5.9,56.130.243.215,,,,,,,,,,,,,,,,
+520,smart_home_iot,2024-09-10T01:19,dev_2666,28.4,82.5,true,open,1.88,cloudy,1000.3,35.7,,"60.8596,81.0722",,,,,,,,,,,,,,,
+90,smart_home_iot,2024-04-28T09:30,dev_7240,39.8,57.1,false,locked,3.07,clear,1027.6,6.9,,,,,,,,,,,,,,,,,
+1032,synthetic_healthcare,2024-07-23T18:38,,,,,,,,,,,,James Johnson,james.johnson@example.com,205-82-3244,asthma,BlueCross,13008.95,81,129/86,sertraline,Dr. Johnson,City General,2024-09-04T22:19,O-,penicillin,inpatient
+434,smart_home_iot,2024-01-19T08:53,dev_2735,12.3,26.0,false,open,3.55,snow,1017.8,41.4,,,,,,,,,,,,,,,,,
+832,synthetic_healthcare,2024-10-26T00:24,,,,,,,,,,,,Jennifer Smith,jennifer.smith@example.com,,influenza,BlueCross,10260.51,68,129/65,albuterol,Dr. Johnson,Lakeside Clinic,2024-10-19T13:31,A+,penicillin,emergency
+133,smart_home_iot,2024-07-28T07:33,dev_2208,0.6,42.2,true,closed,2.38,snow,1000.7,52.7,,,,,,,,,,,,,,,,,
+231,smart_home_iot,2024-03-30T00:55,dev_1753,16.2,46.8,true,open,4.66,clear,1013.2,54.8,,,,,,,,,,,,,,,,,
+1077,synthetic_healthcare,2024-09-24T10:34,,,,,,,,,,,,Jennifer Davis,jennifer.davis@example.com,548-39-7979,asthma,Kaiser,3706.0,69,154/92,lisinopril,Dr. Khan,Riverside Medical,2024-05-28T16:52,A+,peanuts,inpatient
+1065,synthetic_healthcare,2024-06-15T10:54,,,,,,,,,,,,David Smith,david.smith@example.com,757-66-3849,asthma,Cigna,8459.96,84,133/98,lisinopril,Dr. Nair,Riverside Medical,2024-08-24T17:26,B-,none,inpatient
+952,synthetic_healthcare,2024-08-13T11:19,,,,,,,,,,,,James Smith,,380-10-5971,covid-19,BlueCross,10952.92,75,106/63,albuterol,Dr. Brown,St. Mary's,2024-06-03T01:40,AB-,none,emergency
+801,synthetic_healthcare,2024-11-28T03:10,,,,,,,,,,,,Patricia Khan,patricia.khan@example.com,164-93-1806,asthma,Cigna,8069.25,75,153/94,ibuprofen,Dr. Brown,Riverside Medical,2024-10-18T17:44,B+,peanuts,emergency
+878,synthetic_healthcare,2024-04-12T18:46,,,,,,,,,,,,Priya Johnson,,355-38-5106,influenza,Cigna,4983.1,114,142/97,sertraline,Dr. Khan,Riverside Medical,2024-10-03T16:03,B+,peanuts,telehealth
+708,synthetic_healthcare,2024-07-19T20:45,,,,,,,,,,,,Linda Smith,linda.smith@example.com,346-44-2393,hypertension,Kaiser,14798.49,116,102/63,albuterol,Dr. Johnson,Riverside Medical,2024-01-04T02:05,AB-,peanuts,telehealth
+486,smart_home_iot,2024-06-18T01:04,dev_1022,33.7,24.9,false,locked,0.26,storm,1025.2,41.9,,,,,,,,,,,,,,,,,
+1057,synthetic_healthcare,2024-03-25T05:33,,,,,,,,,,,,David Khan,david.khan@example.com,588-53-1432,influenza,BlueCross,2985.01,75,160/73,sertraline,Dr. Davis,St. Mary's,2024-01-27T18:15,B-,latex,emergency
+295,smart_home_iot,2024-09-27T17:53,dev_4669,39.0,66.9,false,locked,2.66,fog,1017.1,26.0,,,,,,,,,,,,,,,,,
+2,smart_home_iot,2024-08-07T04:31,dev_1434,20.3,70.1,false,open,2.3,rain,1028.6,0.4,,,,,,,,,,,,,,,,,
+179,smart_home_iot,2024-07-16T09:15,dev_1962,18.6,78.7,true,locked,0.34,clear,1004.7,50.6,182.77.4.56,,,,,,,,,,,,,,,,
+623,synthetic_healthcare,2024-07-05T12:12,,,,,,,,,,,,Priya Nair,,536-67-8660,anxiety disorder,BlueCross,5563.28,118,120/77,ibuprofen,Dr. Smith,St. Mary's,2024-06-09T19:31,B-,peanuts,outpatient
+618,synthetic_healthcare,2024-03-13T00:37,,,,,,,,,,,,Michael Williams,michael.williams@example.com,324-43-3855,migraine,Kaiser,3749.79,80,101/71,albuterol,Dr. Johnson,City General,2024-10-29T17:17,B+,latex,outpatient
+535,smart_home_iot,2024-06-07T12:29,dev_7721,9.3,78.1,true,locked,1.1,storm,996.0,17.2,176.120.207.62,"-55.4551,-91.5888",,,,,,,,,,,,,,,
+195,smart_home_iot,2024-09-02T00:34,dev_9180,1.3,41.2,false,locked,0.86,storm,1027.3,4.4,,,,,,,,,,,,,,,,,
+845,synthetic_healthcare,2024-03-22T15:01,,,,,,,,,,,,Robert Davis,robert.davis@example.com,734-74-2319,anxiety disorder,Aetna,4929.3,86,110/96,none,Dr. Garcia,City General,2024-12-12T13:21,AB-,none,telehealth
+717,synthetic_healthcare,2024-09-16T07:21,,,,,,,,,,,,Jennifer Chen,jennifer.chen@example.com,637-37-5250,influenza,Aetna,1459.22,109,121/79,lisinopril,Dr. Brown,Riverside Medical,2024-12-08T22:48,O+,latex,telehealth
+890,synthetic_healthcare,2024-01-15T12:20,,,,,,,,,,,,Patricia Garcia,patricia.garcia@example.com,972-68-9564,hypertension,BlueCross,12212.36,110,142/61,lisinopril,Dr. Davis,St. Mary's,2024-01-09T18:58,AB-,none,emergency
+454,smart_home_iot,2024-05-30T08:23,dev_7277,5.7,50.8,true,open,2.93,rain,983.3,15.9,,"-6.4773,-8.5565",,,,,,,,,,,,,,,
+1162,synthetic_healthcare,2024-12-09T12:03,,,,,,,,,,,,Patricia Davis,patricia.davis@example.com,488-66-2221,migraine,Aetna,13551.86,60,127/87,none,Dr. Chen,Lakeside Clinic,2024-04-07T19:41,A-,none,outpatient
+710,synthetic_healthcare,2024-11-18T07:01,,,,,,,,,,,,Wei Johnson,wei.johnson@example.com,835-39-4533,influenza,UnitedHealth,14901.78,119,133/98,none,Dr. Khan,Riverside Medical,2024-06-11T22:08,B+,peanuts,emergency
+656,synthetic_healthcare,2024-04-19T17:13,,,,,,,,,,,,Wei Khan,wei.khan@example.com,995-69-3753,covid-19,Aetna,7273.95,124,115/75,lisinopril,Dr. Williams,City General,2024-02-08T09:36,O+,none,inpatient
+155,smart_home_iot,2024-09-20T06:41,dev_1611,36.1,32.3,true,open,4.99,storm,1027.3,11.2,,,,,,,,,,,,,,,,,
+1135,synthetic_healthcare,2024-08-11T13:54,,,,,,,,,,,,James Chen,james.chen@example.com,,covid-19,UnitedHealth,14859.68,122,128/98,sertraline,Dr. Johnson,Lakeside Clinic,2024-01-09T00:43,A-,none,emergency
+953,synthetic_healthcare,2024-10-07T12:14,,,,,,,,,,,,James Johnson,james.johnson@example.com,409-28-5304,covid-19,UnitedHealth,1875.25,58,156/90,lisinopril,Dr. Smith,City General,2024-02-01T08:18,B-,latex,emergency
+1159,synthetic_healthcare,2024-03-24T17:56,,,,,,,,,,,,Robert Smith,robert.smith@example.com,116-18-9552,anxiety disorder,BlueCross,6554.84,69,102/61,sertraline,Dr. Davis,Lakeside Clinic,2024-09-17T06:35,O+,none,outpatient
+219,smart_home_iot,2024-11-09T05:46,dev_7919,26.2,53.4,true,closed,0.54,clear,986.2,22.1,,,,,,,,,,,,,,,,,
+1067,synthetic_healthcare,2024-07-27T14:11,,,,,,,,,,,,David Nair,david.nair@example.com,516-90-2192,asthma,Aetna,8461.97,109,106/69,lisinopril,Dr. Khan,Riverside Medical,2024-07-27T01:54,AB-,none,emergency
+676,synthetic_healthcare,2024-02-19T16:07,,,,,,,,,,,,Jennifer Garcia,jennifer.garcia@example.com,627-97-9722,type-2 diabetes,BlueCross,287.39,79,158/60,none,Dr. Chen,Riverside Medical,2024-03-29T22:04,A+,none,telehealth
+361,smart_home_iot,2024-08-24T14:36,dev_9821,2.9,74.6,false,closed,3.4,storm,1026.5,26.8,158.146.237.162,,,,,,,,,,,,,,,,
+631,synthetic_healthcare,2024-09-06T08:11,,,,,,,,,,,,Jennifer Kumar,jennifer.kumar@example.com,306-10-3337,covid-19,Aetna,12382.77,86,133/81,sertraline,Dr. Garcia,Lakeside Clinic,2024-06-17T11:05,A+,none,emergency
+1125,synthetic_healthcare,2024-08-08T16:15,,,,,,,,,,,,Arjun Garcia,arjun.garcia@example.com,,asthma,BlueCross,8887.53,70,152/86,ibuprofen,Dr. Davis,Riverside Medical,2024-02-07T03:46,O+,latex,outpatient
+737,synthetic_healthcare,2024-09-20T07:53,,,,,,,,,,,,Michael Kumar,,,type-2 diabetes,Kaiser,11637.23,118,139/63,ibuprofen,Dr. Kumar,Lakeside Clinic,2024-06-28T14:50,A-,peanuts,outpatient
+1083,synthetic_healthcare,2024-07-17T01:16,,,,,,,,,,,,David Garcia,,499-71-4211,influenza,Aetna,14013.85,112,117/84,metformin,Dr. Davis,City General,2024-09-18T22:17,O-,latex,telehealth
+353,smart_home_iot,2024-12-10T20:02,dev_4115,17.5,34.0,true,closed,1.11,cloudy,1030.1,50.2,,,,,,,,,,,,,,,,,
+253,smart_home_iot,2024-04-26T07:59,dev_3750,23.6,87.4,false,closed,0.16,cloudy,995.0,4.1,,"-89.7694,-41.0626",,,,,,,,,,,,,,,
+803,synthetic_healthcare,2024-05-17T13:45,,,,,,,,,,,,Wei Chen,wei.chen@example.com,234-44-2391,type-2 diabetes,Aetna,7607.28,108,101/60,none,Dr. Khan,St. Mary's,2024-02-04T18:59,O+,penicillin,emergency
+497,smart_home_iot,2024-07-17T20:17,dev_9313,9.9,69.4,false,closed,4.85,snow,1020.0,48.0,,,,,,,,,,,,,,,,,
+647,synthetic_healthcare,2024-08-02T04:43,,,,,,,,,,,,Mary Chen,mary.chen@example.com,139-25-7304,influenza,UnitedHealth,11463.23,87,149/82,sertraline,Dr. Garcia,Riverside Medical,2024-09-10T13:43,A+,latex,telehealth
+744,synthetic_healthcare,2024-08-24T03:44,,,,,,,,,,,,David Chen,,298-47-4103,anxiety disorder,UnitedHealth,8943.21,122,138/91,sertraline,Dr. Chen,City General,2024-09-05T00:04,A+,penicillin,outpatient
+590,smart_home_iot,2024-05-31T19:07,dev_3668,1.5,28.9,false,open,4.84,snow,1031.8,7.1,122.16.80.242,,,,,,,,,,,,,,,,
+901,synthetic_healthcare,2024-05-21T01:35,,,,,,,,,,,,David Chen,david.chen@example.com,813-70-3269,migraine,UnitedHealth,1510.28,100,111/87,albuterol,Dr. Garcia,City General,2024-03-08T04:45,AB+,latex,inpatient
+661,synthetic_healthcare,2024-11-04T18:32,,,,,,,,,,,,Fatima Brown,fatima.brown@example.com,817-16-3933,covid-19,BlueCross,4542.6,75,101/95,ibuprofen,Dr. Nair,Lakeside Clinic,2024-09-03T19:34,O-,peanuts,telehealth
+1182,synthetic_healthcare,2024-11-10T03:28,,,,,,,,,,,,Fatima Williams,,999-54-5253,covid-19,Kaiser,5149.58,111,118/62,ibuprofen,Dr. Johnson,Lakeside Clinic,2024-09-13T09:15,B-,penicillin,telehealth
+893,synthetic_healthcare,2024-06-25T17:50,,,,,,,,,,,,Patricia Nair,,,influenza,UnitedHealth,4895.58,69,112/97,albuterol,Dr. Khan,Riverside Medical,2024-10-02T12:45,B+,latex,outpatient
+1093,synthetic_healthcare,2024-07-22T02:10,,,,,,,,,,,,Patricia Chen,,266-27-6421,anxiety disorder,BlueCross,950.87,96,155/97,sertraline,Dr. Chen,Lakeside Clinic,2024-07-15T05:06,O-,peanuts,emergency
+988,synthetic_healthcare,2024-07-13T09:45,,,,,,,,,,,,Mary Garcia,mary.garcia@example.com,666-57-3931,influenza,Kaiser,13987.68,86,150/60,albuterol,Dr. Williams,Riverside Medical,2024-07-05T20:48,A+,none,outpatient
+1040,synthetic_healthcare,2024-11-18T00:11,,,,,,,,,,,,Mary Brown,mary.brown@example.com,,migraine,Kaiser,8100.49,88,116/81,sertraline,Dr. Williams,St. Mary's,2024-01-17T00:38,O+,latex,inpatient
+795,synthetic_healthcare,2024-12-02T16:24,,,,,,,,,,,,James Chen,james.chen@example.com,202-76-6202,asthma,Kaiser,9944.07,59,160/100,none,Dr. Smith,St. Mary's,2024-02-19T20:01,O+,penicillin,inpatient
+531,smart_home_iot,2024-03-23T05:49,dev_2506,27.3,60.5,false,closed,0.43,snow,1008.5,12.6,,,,,,,,,,,,,,,,,
+158,smart_home_iot,2024-09-02T13:00,dev_4164,2.9,79.9,false,closed,2.62,clear,1004.0,5.7,,,,,,,,,,,,,,,,,
+727,synthetic_healthcare,2024-03-11T13:42,,,,,,,,,,,,Arjun Brown,arjun.brown@example.com,,hypertension,Cigna,1317.81,73,140/61,none,Dr. Davis,City General,2024-02-10T09:20,O-,none,outpatient
+360,smart_home_iot,2024-06-12T18:53,dev_6483,6.7,45.2,false,closed,0.2,clear,1001.1,40.8,,,,,,,,,,,,,,,,,
+355,smart_home_iot,2024-07-28T04:13,dev_5501,17.1,88.9,false,closed,1.19,snow,987.7,31.5,,,,,,,,,,,,,,,,,
+1136,synthetic_healthcare,2024-02-11T02:56,,,,,,,,,,,,Priya Brown,,466-94-3674,asthma,BlueCross,1690.77,82,130/86,metformin,Dr. Nair,St. Mary's,2024-03-31T12:31,A+,peanuts,emergency
+388,smart_home_iot,2024-09-28T02:13,dev_5162,11.2,51.7,false,open,3.66,rain,1015.7,31.1,,,,,,,,,,,,,,,,,
+203,smart_home_iot,2024-10-16T19:37,dev_2025,21.0,76.0,true,closed,1.7,storm,986.8,40.2,,,,,,,,,,,,,,,,,
+1018,synthetic_healthcare,2024-10-04T06:49,,,,,,,,,,,,Patricia Johnson,patricia.johnson@example.com,739-14-6194,asthma,Cigna,8093.26,109,118/62,metformin,Dr. Smith,Riverside Medical,2024-08-30T01:19,B+,peanuts,telehealth
+204,smart_home_iot,2024-04-24T02:34,dev_7367,22.5,61.1,false,closed,4.24,snow,990.4,40.4,,,,,,,,,,,,,,,,,
+36,smart_home_iot,2024-01-27T12:22,dev_8461,13.6,64.1,true,locked,3.51,storm,1004.0,8.9,,,,,,,,,,,,,,,,,
+169,smart_home_iot,2024-03-30T02:31,dev_1724,13.1,36.4,true,open,0.79,rain,994.0,55.0,,,,,,,,,,,,,,,,,
+507,smart_home_iot,2024-01-22T07:16,dev_3394,9.4,81.5,true,closed,0.9,rain,1001.7,38.2,,"-37.5005,50.0207",,,,,,,,,,,,,,,
+89,smart_home_iot,2024-09-06T19:12,dev_2768,17.1,83.7,true,open,1.68,cloudy,983.9,16.5,,,,,,,,,,,,,,,,,
+711,synthetic_healthcare,2024-06-05T21:16,,,,,,,,,,,,James Chen,james.chen@example.com,,influenza,Kaiser,9446.62,118,106/60,lisinopril,Dr. Kumar,City General,2024-06-30T15:33,A-,latex,emergency
+643,synthetic_healthcare,2024-08-17T07:07,,,,,,,,,,,,James Johnson,james.johnson@example.com,990-72-2146,asthma,Aetna,9544.76,73,160/73,lisinopril,Dr. Johnson,St. Mary's,2024-08-03T18:29,B-,penicillin,outpatient
+826,synthetic_healthcare,2024-03-08T18:41,,,,,,,,,,,,James Garcia,james.garcia@example.com,928-88-8478,anxiety disorder,BlueCross,7145.7,86,116/83,sertraline,Dr. Nair,Lakeside Clinic,2024-09-04T01:18,O+,peanuts,outpatient
+960,synthetic_healthcare,2024-02-26T16:32,,,,,,,,,,,,Fatima Brown,fatima.brown@example.com,833-10-9265,type-2 diabetes,BlueCross,2233.78,64,144/79,lisinopril,Dr. Chen,Riverside Medical,2024-10-27T10:59,B-,none,outpatient
+408,smart_home_iot,2024-06-19T16:07,dev_7126,3.3,47.1,false,open,0.9,cloudy,981.9,45.9,70.211.113.191,,,,,,,,,,,,,,,,
+1053,synthetic_healthcare,2024-06-14T13:36,,,,,,,,,,,,Arjun Garcia,,838-25-9919,hypertension,Kaiser,14635.81,85,137/65,none,Dr. Brown,Lakeside Clinic,2024-03-19T22:16,B+,latex,emergency
+223,smart_home_iot,2024-08-27T17:14,dev_5942,4.2,62.5,true,locked,2.02,fog,983.3,53.9,,,,,,,,,,,,,,,,,
+788,synthetic_healthcare,2024-01-13T09:45,,,,,,,,,,,,David Smith,david.smith@example.com,806-31-2196,influenza,Kaiser,13013.85,104,157/87,albuterol,Dr. Williams,Lakeside Clinic,2024-09-10T17:51,B-,peanuts,outpatient
+127,smart_home_iot,2024-01-21T21:12,dev_2229,25.2,48.4,true,open,0.8,snow,1020.7,26.3,61.187.185.99,,,,,,,,,,,,,,,,
+811,synthetic_healthcare,2024-01-03T00:57,,,,,,,,,,,,Michael Brown,michael.brown@example.com,304-98-2537,covid-19,Cigna,1493.14,114,138/70,metformin,Dr. Nair,St. Mary's,2024-05-05T14:17,A+,penicillin,emergency
+961,synthetic_healthcare,2024-01-06T21:43,,,,,,,,,,,,James Kumar,james.kumar@example.com,223-36-4042,type-2 diabetes,Aetna,3861.23,70,127/82,none,Dr. Chen,City General,2024-09-11T01:37,AB+,peanuts,telehealth
+1184,synthetic_healthcare,2024-11-15T18:35,,,,,,,,,,,,Linda Chen,linda.chen@example.com,146-74-5656,type-2 diabetes,Aetna,8178.0,67,114/81,sertraline,Dr. Davis,St. Mary's,2024-07-17T14:09,AB-,peanuts,inpatient
+233,smart_home_iot,2024-11-11T07:30,dev_5625,29.8,41.7,true,locked,2.34,rain,992.0,33.8,,,,,,,,,,,,,,,,,
+309,smart_home_iot,2024-08-23T14:36,dev_7371,5.7,74.9,false,locked,3.36,storm,1003.3,57.4,,,,,,,,,,,,,,,,,
+1059,synthetic_healthcare,2024-10-11T02:25,,,,,,,,,,,,James Smith,james.smith@example.com,297-17-9523,asthma,Cigna,5907.6,66,152/61,ibuprofen,Dr. Williams,Lakeside Clinic,2024-01-27T11:04,AB-,penicillin,outpatient
+1054,synthetic_healthcare,2024-05-28T01:20,,,,,,,,,,,,James Johnson,,185-88-9272,covid-19,Cigna,14872.02,67,129/92,ibuprofen,Dr. Khan,City General,2024-01-04T21:15,B+,penicillin,outpatient
+436,smart_home_iot,2024-09-06T05:03,dev_8625,16.2,86.3,true,locked,1.36,rain,1003.5,42.0,,,,,,,,,,,,,,,,,
+123,smart_home_iot,2024-04-24T21:43,dev_6080,18.2,89.2,false,closed,0.28,fog,991.5,21.4,,,,,,,,,,,,,,,,,
+1001,synthetic_healthcare,2024-05-02T08:59,,,,,,,,,,,,Robert Davis,,434-85-7174,type-2 diabetes,Aetna,1304.86,56,109/94,ibuprofen,Dr. Garcia,City General,2024-12-06T04:41,B+,none,outpatient
+868,synthetic_healthcare,2024-05-03T17:18,,,,,,,,,,,,Jennifer Khan,jennifer.khan@example.com,899-98-8084,hypertension,BlueCross,8655.09,55,139/84,metformin,Dr. Smith,St. Mary's,2024-04-27T09:02,O+,penicillin,emergency
+679,synthetic_healthcare,2024-01-02T21:02,,,,,,,,,,,,Patricia Williams,patricia.williams@example.com,511-55-1145,type-2 diabetes,BlueCross,7421.33,65,133/92,lisinopril,Dr. Chen,City General,2024-11-28T10:52,O-,none,inpatient
+475,smart_home_iot,2024-08-10T06:57,dev_1616,21.8,70.2,true,locked,4.15,rain,1000.9,0.3,31.48.185.221,,,,,,,,,,,,,,,,
+328,smart_home_iot,2024-07-15T11:46,dev_8734,24.4,30.4,false,open,4.47,snow,1024.0,17.5,,,,,,,,,,,,,,,,,
+191,smart_home_iot,2024-01-24T00:50,dev_3739,14.6,49.5,false,open,1.87,cloudy,1023.3,29.7,,,,,,,,,,,,,,,,,
+317,smart_home_iot,2024-10-08T13:21,dev_9814,19.0,63.9,true,locked,3.18,cloudy,1031.9,25.5,138.222.36.192,,,,,,,,,,,,,,,,
+68,smart_home_iot,2024-07-30T03:26,dev_9022,33.9,51.3,false,closed,1.73,snow,1002.6,56.0,,,,,,,,,,,,,,,,,
+132,smart_home_iot,2024-02-20T13:31,dev_4878,30.6,21.8,false,closed,4.04,snow,987.8,53.1,102.245.210.197,,,,,,,,,,,,,,,,
+1122,synthetic_healthcare,2024-11-19T21:45,,,,,,,,,,,,David Chen,,942-29-2293,migraine,Kaiser,1035.99,85,153/68,none,Dr. Garcia,City General,2024-01-12T16:21,A+,peanuts,telehealth
+183,smart_home_iot,2024-01-12T12:51,dev_2531,13.2,46.4,false,open,3.22,fog,990.3,30.0,,,,,,,,,,,,,,,,,
+943,synthetic_healthcare,2024-08-04T05:05,,,,,,,,,,,,Jennifer Nair,jennifer.nair@example.com,210-45-8470,fracture,UnitedHealth,10617.95,113,118/70,sertraline,Dr. Williams,Riverside Medical,2024-01-07T04:09,A-,none,emergency
+877,synthetic_healthcare,2024-02-16T16:12,,,,,,,,,,,,Patricia Khan,patricia.khan@example.com,474-88-2579,covid-19,BlueCross,11250.89,128,112/68,lisinopril,Dr. Khan,St. Mary's,2024-10-20T06:06,B+,penicillin,outpatient
+496,smart_home_iot,2024-05-05T04:34,dev_3423,11.8,57.8,true,locked,1.58,clear,1004.3,30.0,118.163.79.2,,,,,,,,,,,,,,,,
+156,smart_home_iot,2024-04-15T09:24,dev_1613,-4.6,59.8,true,closed,1.49,fog,1012.6,29.6,,,,,,,,,,,,,,,,,
+919,synthetic_healthcare,2024-05-12T08:50,,,,,,,,,,,,Patricia Nair,patricia.nair@example.com,781-61-3180,asthma,UnitedHealth,3317.03,79,136/72,none,Dr. Davis,Riverside Medical,2024-11-23T19:24,O-,none,telehealth
+1024,synthetic_healthcare,2024-02-11T17:29,,,,,,,,,,,,David Davis,david.davis@example.com,295-42-3100,influenza,Kaiser,1870.06,86,108/62,lisinopril,Dr. Brown,City General,2024-09-23T05:46,A-,latex,inpatient
+47,smart_home_iot,2024-05-16T15:28,dev_7498,37.4,33.9,true,open,3.52,rain,1031.0,36.0,145.21.177.137,,,,,,,,,,,,,,,,
+675,synthetic_healthcare,2024-12-10T22:59,,,,,,,,,,,,Michael Chen,michael.chen@example.com,889-50-2476,type-2 diabetes,Aetna,10970.9,66,110/96,metformin,Dr. Johnson,Riverside Medical,2024-07-20T18:19,O-,none,telehealth
+532,smart_home_iot,2024-04-19T21:34,dev_9268,31.2,50.3,false,open,2.13,rain,1017.5,27.2,,,,,,,,,,,,,,,,,
+665,synthetic_healthcare,2024-04-10T04:52,,,,,,,,,,,,Wei Garcia,wei.garcia@example.com,476-11-2966,type-2 diabetes,Aetna,1901.01,120,114/61,sertraline,Dr. Davis,Lakeside Clinic,2024-04-09T15:50,A-,none,inpatient
+334,smart_home_iot,2024-03-09T01:12,dev_3578,11.3,70.2,true,locked,1.23,rain,1023.2,28.9,,,,,,,,,,,,,,,,,
+377,smart_home_iot,2024-03-31T13:22,dev_3583,17.5,68.0,false,locked,0.39,rain,1018.7,42.1,,"-48.1186,173.4033",,,,,,,,,,,,,,,
+962,synthetic_healthcare,2024-08-13T11:09,,,,,,,,,,,,Priya Garcia,priya.garcia@example.com,750-88-1686,covid-19,Aetna,7539.92,99,101/76,none,Dr. Garcia,Lakeside Clinic,2024-10-01T03:05,A-,latex,emergency
+65,smart_home_iot,2024-06-25T11:28,dev_2989,-3.7,64.1,true,locked,0.88,snow,980.8,24.5,216.58.236.243,"59.7858,-0.5848",,,,,,,,,,,,,,,
+1096,synthetic_healthcare,2024-01-03T00:40,,,,,,,,,,,,Patricia Nair,patricia.nair@example.com,,asthma,BlueCross,8368.75,78,143/66,albuterol,Dr. Kumar,Riverside Medical,2024-11-05T21:13,O+,latex,telehealth
+450,smart_home_iot,2024-07-30T00:52,dev_6119,22.6,83.3,true,closed,2.32,storm,1014.4,19.9,,,,,,,,,,,,,,,,,
+834,synthetic_healthcare,2024-02-10T15:48,,,,,,,,,,,,Robert Chen,robert.chen@example.com,,influenza,Aetna,5109.77,130,116/72,sertraline,Dr. Davis,Lakeside Clinic,2024-06-07T08:06,A+,latex,emergency
+157,smart_home_iot,2024-06-19T09:37,dev_5470,3.7,27.9,true,locked,2.35,rain,1023.1,0.8,,,,,,,,,,,,,,,,,
+1139,synthetic_healthcare,2024-04-08T14:53,,,,,,,,,,,,David Khan,david.khan@example.com,968-23-4710,migraine,Kaiser,2835.84,105,140/84,albuterol,Dr. Khan,Lakeside Clinic,2024-08-12T10:46,B-,none,telehealth
+366,smart_home_iot,2024-11-09T06:01,dev_6328,33.9,52.7,false,locked,2.28,fog,1012.4,35.4,,,,,,,,,,,,,,,,,
+718,synthetic_healthcare,2024-09-10T15:46,,,,,,,,,,,,David Nair,david.nair@example.com,809-83-7375,hypertension,Kaiser,11763.44,80,104/97,sertraline,Dr. Williams,Riverside Medical,2024-08-29T18:40,AB-,none,inpatient
+645,synthetic_healthcare,2024-07-02T23:18,,,,,,,,,,,,Priya Chen,priya.chen@example.com,878-29-8897,hypertension,BlueCross,6456.77,65,148/79,sertraline,Dr. Khan,St. Mary's,2024-07-20T06:53,B+,peanuts,telehealth
+782,synthetic_healthcare,2024-11-03T15:07,,,,,,,,,,,,Patricia Khan,patricia.khan@example.com,835-15-4845,migraine,Aetna,1235.99,111,107/92,metformin,Dr. Brown,St. Mary's,2024-04-28T14:47,AB-,latex,outpatient
+48,smart_home_iot,2024-05-14T22:05,dev_2129,17.8,43.9,false,closed,0.62,rain,1018.1,49.7,,,,,,,,,,,,,,,,,
+848,synthetic_healthcare,2024-07-14T15:21,,,,,,,,,,,,Mary Davis,mary.davis@example.com,,covid-19,BlueCross,12430.09,62,118/85,none,Dr. Smith,Riverside Medical,2024-05-25T10:16,O-,latex,outpatient
+1021,synthetic_healthcare,2024-11-30T12:55,,,,,,,,,,,,David Johnson,david.johnson@example.com,773-52-5408,hypertension,UnitedHealth,1105.71,130,100/66,ibuprofen,Dr. Smith,Lakeside Clinic,2024-10-21T17:31,AB-,latex,outpatient
+64,smart_home_iot,2024-01-01T10:03,dev_9889,15.8,23.8,false,locked,3.81,fog,1006.5,3.1,,"-38.1548,137.1048",,,,,,,,,,,,,,,
+933,synthetic_healthcare,2024-05-05T12:33,,,,,,,,,,,,Fatima Brown,fatima.brown@example.com,643-10-5123,fracture,UnitedHealth,1044.63,63,131/82,none,Dr. Smith,Lakeside Clinic,2024-01-30T02:37,O-,none,outpatient
+286,smart_home_iot,2024-08-04T05:47,dev_1785,24.8,65.7,true,open,3.48,storm,1006.7,7.4,,,,,,,,,,,,,,,,,
+1031,synthetic_healthcare,2024-08-07T00:37,,,,,,,,,,,,Priya Davis,priya.davis@example.com,465-22-7224,covid-19,Kaiser,3008.33,86,120/62,albuterol,Dr. Nair,Lakeside Clinic,2024-10-03T07:36,B-,none,emergency
+4,smart_home_iot,2024-12-01T19:08,dev_7201,-1.5,40.5,false,locked,1.04,clear,982.7,13.7,,"-48.0976,-143.6395",,,,,,,,,,,,,,,
+480,smart_home_iot,2024-03-19T16:52,dev_8454,3.0,46.1,false,locked,1.05,rain,1038.5,12.1,178.30.143.35,"-6.2038,-29.4394",,,,,,,,,,,,,,,
+200,smart_home_iot,2024-06-24T19:52,dev_6706,16.4,50.7,false,closed,0.43,clear,1028.6,6.9,,,,,,,,,,,,,,,,,
+193,smart_home_iot,2024-03-14T03:04,dev_8848,9.1,87.5,false,closed,3.7,fog,1009.5,34.6,97.143.201.94,"11.4931,33.2017",,,,,,,,,,,,,,,
+417,smart_home_iot,2024-05-29T07:57,dev_8239,-1.4,62.0,true,locked,1.46,fog,1013.5,49.5,38.28.178.10,"-84.1622,28.1134",,,,,,,,,,,,,,,
+332,smart_home_iot,2024-07-29T16:09,dev_9918,20.7,46.4,false,closed,2.98,clear,1011.0,22.6,,,,,,,,,,,,,,,,,
+699,synthetic_healthcare,2024-08-06T07:29,,,,,,,,,,,,Robert Chen,,253-95-5940,fracture,Cigna,13141.0,89,158/91,none,Dr. Nair,Riverside Medical,2024-10-22T04:10,A-,none,inpatient
+410,smart_home_iot,2024-08-09T08:10,dev_7232,27.4,47.6,true,locked,0.64,storm,1029.6,2.5,,,,,,,,,,,,,,,,,
+441,smart_home_iot,2024-05-27T17:52,dev_2140,21.9,68.0,false,closed,2.52,fog,983.7,13.1,149.0.75.170,"5.6260,-39.6062",,,,,,,,,,,,,,,
+592,smart_home_iot,2024-04-17T00:50,dev_8961,-3.7,30.0,false,open,4.69,rain,1033.3,12.9,,,,,,,,,,,,,,,,,
+136,smart_home_iot,2024-07-30T09:45,dev_3526,2.7,63.7,false,locked,0.3,clear,984.9,56.9,,,,,,,,,,,,,,,,,
+464,smart_home_iot,2024-11-22T09:50,dev_9154,1.7,64.8,true,locked,2.01,cloudy,1022.0,54.3,,,,,,,,,,,,,,,,,
+474,smart_home_iot,2024-02-02T10:55,dev_5648,13.7,76.5,false,locked,0.72,cloudy,1018.4,31.4,,,,,,,,,,,,,,,,,
+456,smart_home_iot,2024-09-04T00:45,dev_6172,38.3,67.8,true,open,4.6,fog,1001.2,50.7,,,,,,,,,,,,,,,,,
+927,synthetic_healthcare,2024-04-05T19:07,,,,,,,,,,,,Jennifer Chen,,445-15-5470,covid-19,Aetna,5047.15,59,108/99,metformin,Dr. Davis,City General,2024-04-20T05:07,O+,penicillin,telehealth
+228,smart_home_iot,2024-04-22T14:37,dev_3877,0.4,69.6,true,open,2.53,rain,1011.4,47.0,,,,,,,,,,,,,,,,,
+152,smart_home_iot,2024-10-08T11:08,dev_3399,8.1,40.1,true,closed,4.63,fog,995.4,28.7,138.138.139.36,"43.3604,-93.8585",,,,,,,,,,,,,,,
+841,synthetic_healthcare,2024-11-07T01:28,,,,,,,,,,,,Fatima Garcia,fatima.garcia@example.com,315-78-3785,anxiety disorder,Cigna,6091.84,128,105/100,ibuprofen,Dr. Khan,Riverside Medical,2024-01-31T06:04,B-,none,emergency
+1090,synthetic_healthcare,2024-03-13T12:10,,,,,,,,,,,,Arjun Nair,arjun.nair@example.com,695-40-5409,hypertension,Aetna,12591.36,81,125/79,metformin,Dr. Nair,Riverside Medical,2024-06-14T04:17,A-,peanuts,emergency
+897,synthetic_healthcare,2024-04-27T02:43,,,,,,,,,,,,Fatima Brown,,914-78-3109,type-2 diabetes,Kaiser,10648.64,123,120/66,sertraline,Dr. Brown,Riverside Medical,2024-09-18T06:10,B-,latex,emergency
+350,smart_home_iot,2024-07-28T07:29,dev_5098,26.2,87.6,false,open,3.81,storm,1020.9,53.8,,,,,,,,,,,,,,,,,
+816,synthetic_healthcare,2024-10-07T14:52,,,,,,,,,,,,Wei Nair,wei.nair@example.com,845-64-4502,asthma,BlueCross,5663.15,56,112/88,albuterol,Dr. Khan,St. Mary's,2024-01-03T01:03,AB+,peanuts,outpatient
+421,smart_home_iot,2024-12-06T00:28,dev_5705,14.2,79.3,false,locked,2.92,snow,1001.2,7.8,,,,,,,,,,,,,,,,,
+542,smart_home_iot,2024-11-02T08:54,dev_1895,26.1,75.2,true,closed,2.81,rain,1018.3,42.0,,,,,,,,,,,,,,,,,
+709,synthetic_healthcare,2024-05-22T05:28,,,,,,,,,,,,Fatima Nair,fatima.nair@example.com,,migraine,BlueCross,13455.95,119,106/92,lisinopril,Dr. Smith,Lakeside Clinic,2024-06-22T15:40,A+,peanuts,inpatient
+26,smart_home_iot,2024-07-23T05:16,dev_1158,0.0,86.2,true,locked,0.28,rain,1015.0,8.9,79.186.20.231,,,,,,,,,,,,,,,,
+693,synthetic_healthcare,2024-12-10T07:16,,,,,,,,,,,,Wei Kumar,,990-90-4377,covid-19,UnitedHealth,4918.0,81,137/100,ibuprofen,Dr. Williams,Lakeside Clinic,2024-03-25T08:49,O+,peanuts,inpatient
+993,synthetic_healthcare,2024-06-18T08:00,,,,,,,,,,,,David Chen,,,migraine,Kaiser,8309.97,60,159/90,metformin,Dr. Nair,Riverside Medical,2024-03-11T10:38,AB+,none,inpatient
+1103,synthetic_healthcare,2024-07-29T07:11,,,,,,,,,,,,Arjun Brown,arjun.brown@example.com,427-81-6047,fracture,BlueCross,1902.58,114,147/91,lisinopril,Dr. Williams,Lakeside Clinic,2024-04-15T12:41,B-,none,emergency
+664,synthetic_healthcare,2024-07-06T15:56,,,,,,,,,,,,Wei Nair,wei.nair@example.com,707-65-3434,anxiety disorder,UnitedHealth,587.17,85,125/91,albuterol,Dr. Davis,St. Mary's,2024-08-25T16:13,O+,none,telehealth
+891,synthetic_healthcare,2024-09-22T10:36,,,,,,,,,,,,Jennifer Kumar,jennifer.kumar@example.com,467-97-6636,migraine,UnitedHealth,4207.36,61,120/89,none,Dr. Kumar,St. Mary's,2024-03-17T05:35,AB-,latex,emergency
+168,smart_home_iot,2024-09-20T23:21,dev_2848,-3.6,66.2,true,open,1.11,clear,1015.6,26.8,,,,,,,,,,,,,,,,,
+659,synthetic_healthcare,2024-03-10T03:00,,,,,,,,,,,,David Chen,david.chen@example.com,,asthma,Aetna,5978.06,123,154/89,albuterol,Dr. Williams,Riverside Medical,2024-10-31T19:42,B-,latex,telehealth
+199,smart_home_iot,2024-01-09T22:37,dev_8909,-0.3,49.1,true,open,4.17,fog,988.5,18.7,,,,,,,,,,,,,,,,,
+510,smart_home_iot,2024-02-07T06:56,dev_4569,2.0,35.5,true,locked,3.11,snow,1030.8,42.8,,,,,,,,,,,,,,,,,
+116,smart_home_iot,2024-05-24T08:16,dev_9224,11.8,47.0,true,closed,1.2,rain,1035.8,50.4,,,,,,,,,,,,,,,,,
+50,smart_home_iot,2024-07-26T11:25,dev_7209,10.1,54.6,false,open,2.49,rain,1027.9,20.4,,,,,,,,,,,,,,,,,
+511,smart_home_iot,2024-05-31T22:49,dev_8544,36.2,28.2,true,open,2.45,rain,1021.5,8.3,,,,,,,,,,,,,,,,,
+696,synthetic_healthcare,2024-10-15T05:38,,,,,,,,,,,,Mary Khan,mary.khan@example.com,853-53-2392,asthma,UnitedHealth,7247.95,127,157/88,lisinopril,Dr. Kumar,Riverside Medical,2024-06-23T08:45,B+,penicillin,outpatient
+912,synthetic_healthcare,2024-09-26T11:01,,,,,,,,,,,,Michael Chen,,391-78-5693,fracture,Kaiser,3981.57,70,125/72,metformin,Dr. Khan,Lakeside Clinic,2024-03-14T02:30,B+,none,outpatient
+667,synthetic_healthcare,2024-08-27T18:46,,,,,,,,,,,,Mary Williams,,982-86-3948,hypertension,Kaiser,6752.71,95,107/62,lisinopril,Dr. Davis,St. Mary's,2024-08-25T14:51,B+,none,emergency
+697,synthetic_healthcare,2024-07-16T22:09,,,,,,,,,,,,Mary Smith,mary.smith@example.com,944-15-2684,fracture,Aetna,7712.21,108,109/60,lisinopril,Dr. Smith,St. Mary's,2024-06-04T12:21,O+,penicillin,emergency
+865,synthetic_healthcare,2024-10-07T07:32,,,,,,,,,,,,Mary Nair,mary.nair@example.com,973-56-8304,asthma,UnitedHealth,4873.31,84,129/83,albuterol,Dr. Brown,Riverside Medical,2024-04-02T23:21,A+,penicillin,outpatient
+274,smart_home_iot,2024-08-04T04:27,dev_5631,8.4,27.6,true,closed,4.94,fog,999.5,16.6,,,,,,,,,,,,,,,,,
+1164,synthetic_healthcare,2024-03-11T20:51,,,,,,,,,,,,David Chen,david.chen@example.com,661-35-5820,influenza,BlueCross,8051.69,127,136/99,ibuprofen,Dr. Williams,Lakeside Clinic,2024-08-08T23:27,O-,none,inpatient
+472,smart_home_iot,2024-09-25T16:07,dev_7586,9.6,88.3,true,closed,4.2,cloudy,1025.9,35.6,,"-64.5774,-30.5444",,,,,,,,,,,,,,,
+817,synthetic_healthcare,2024-07-02T01:28,,,,,,,,,,,,James Davis,james.davis@example.com,379-14-5504,covid-19,BlueCross,735.25,87,117/100,metformin,Dr. Davis,City General,2024-11-10T06:37,O-,none,telehealth
+518,smart_home_iot,2024-01-30T22:41,dev_6375,17.2,46.9,false,locked,3.71,fog,1038.6,26.6,,,,,,,,,,,,,,,,,
+1085,synthetic_healthcare,2024-05-14T05:34,,,,,,,,,,,,James Kumar,james.kumar@example.com,130-94-6904,anxiety disorder,BlueCross,10937.11,97,143/89,sertraline,Dr. Smith,City General,2024-09-02T00:51,A-,penicillin,emergency
+911,synthetic_healthcare,2024-10-10T16:58,,,,,,,,,,,,Jennifer Kumar,jennifer.kumar@example.com,714-11-7479,hypertension,BlueCross,2003.01,83,104/100,metformin,Dr. Johnson,St. Mary's,2024-11-24T11:41,O-,none,inpatient
+1154,synthetic_healthcare,2024-10-13T20:14,,,,,,,,,,,,Wei Johnson,wei.johnson@example.com,627-18-7493,covid-19,BlueCross,7616.93,120,157/64,ibuprofen,Dr. Nair,St. Mary's,2024-04-11T12:39,AB+,peanuts,emergency
+181,smart_home_iot,2024-09-11T01:59,dev_8054,31.3,83.7,true,open,2.67,cloudy,991.5,31.6,,,,,,,,,,,,,,,,,
+918,synthetic_healthcare,2024-01-08T14:57,,,,,,,,,,,,David Kumar,david.kumar@example.com,247-15-8535,anxiety disorder,Kaiser,12787.12,106,108/100,albuterol,Dr. Brown,Lakeside Clinic,2024-06-02T07:58,O+,latex,telehealth
+757,synthetic_healthcare,2024-08-24T14:44,,,,,,,,,,,,Mary Nair,mary.nair@example.com,708-22-5760,covid-19,Cigna,12975.57,70,147/97,none,Dr. Khan,City General,2024-09-12T10:26,B-,none,inpatient
+287,smart_home_iot,2024-03-15T19:38,dev_1152,8.6,66.3,false,locked,3.07,cloudy,1005.1,53.9,,,,,,,,,,,,,,,,,
+674,synthetic_healthcare,2024-01-20T05:56,,,,,,,,,,,,Fatima Nair,fatima.nair@example.com,824-41-7852,covid-19,UnitedHealth,6629.28,100,151/89,sertraline,Dr. Kumar,Riverside Medical,2024-12-12T20:05,O+,none,inpatient
+836,synthetic_healthcare,2024-01-13T23:12,,,,,,,,,,,,Priya Johnson,priya.johnson@example.com,465-14-9704,anxiety disorder,UnitedHealth,2694.49,123,106/68,none,Dr. Williams,Lakeside Clinic,2024-06-05T23:00,AB+,peanuts,telehealth
+1046,synthetic_healthcare,2024-07-29T00:22,,,,,,,,,,,,David Smith,,,hypertension,BlueCross,3182.11,107,138/99,sertraline,Dr. Garcia,Riverside Medical,2024-10-13T08:44,A+,none,inpatient
+215,smart_home_iot,2024-09-10T21:00,dev_6869,33.3,75.7,false,open,4.84,cloudy,1009.7,19.4,,,,,,,,,,,,,,,,,
+161,smart_home_iot,2024-05-13T19:38,dev_4618,4.9,29.3,true,closed,3.76,snow,1002.4,42.1,,,,,,,,,,,,,,,,,
+326,smart_home_iot,2024-10-09T02:01,dev_6004,16.9,27.6,true,closed,4.31,cloudy,1033.5,11.8,,,,,,,,,,,,,,,,,
+288,smart_home_iot,2024-04-12T22:19,dev_2867,30.3,54.8,true,closed,4.17,cloudy,1001.5,24.6,141.254.106.177,,,,,,,,,,,,,,,,
+571,smart_home_iot,2024-01-19T12:57,dev_6469,-4.6,64.1,false,closed,4.26,fog,1014.7,43.9,,"-18.0575,4.8081",,,,,,,,,,,,,,,
+1009,synthetic_healthcare,2024-08-02T23:45,,,,,,,,,,,,Priya Davis,priya.davis@example.com,301-65-1645,covid-19,Kaiser,8243.08,123,148/89,metformin,Dr. Kumar,Riverside Medical,2024-01-07T12:32,O+,none,outpatient
+939,synthetic_healthcare,2024-03-17T06:15,,,,,,,,,,,,Patricia Brown,patricia.brown@example.com,992-50-8801,fracture,Kaiser,5164.1,97,144/72,lisinopril,Dr. Nair,St. Mary's,2024-09-14T19:30,B-,penicillin,telehealth
+95,smart_home_iot,2024-08-21T23:59,dev_1430,22.4,66.0,false,open,0.98,fog,1025.7,55.3,,,,,,,,,,,,,,,,,
+458,smart_home_iot,2024-03-11T23:17,dev_9518,10.2,68.3,true,closed,2.78,fog,980.5,4.1,,,,,,,,,,,,,,,,,
+563,smart_home_iot,2024-03-22T15:21,dev_3540,36.9,56.9,true,closed,2.39,clear,1034.4,28.7,33.153.127.134,,,,,,,,,,,,,,,,
+748,synthetic_healthcare,2024-03-01T21:55,,,,,,,,,,,,Robert Johnson,robert.johnson@example.com,202-48-6499,covid-19,BlueCross,11043.44,124,116/91,albuterol,Dr. Nair,Lakeside Clinic,2024-01-05T22:29,AB-,peanuts,emergency
+378,smart_home_iot,2024-10-14T02:33,dev_6690,31.2,50.7,true,open,3.48,rain,1023.5,15.0,181.224.150.139,,,,,,,,,,,,,,,,
+82,smart_home_iot,2024-03-21T14:20,dev_2035,23.6,52.5,false,locked,2.1,cloudy,982.7,2.2,,"-47.7360,13.5168",,,,,,,,,,,,,,,
+1186,synthetic_healthcare,2024-06-08T22:04,,,,,,,,,,,,Jennifer Kumar,jennifer.kumar@example.com,,covid-19,Kaiser,4064.47,71,145/73,none,Dr. Brown,Riverside Medical,2024-04-21T16:28,AB-,penicillin,outpatient
+955,synthetic_healthcare,2024-03-14T19:12,,,,,,,,,,,,Michael Smith,michael.smith@example.com,787-44-4081,asthma,BlueCross,12170.48,60,155/96,ibuprofen,Dr. Khan,Lakeside Clinic,2024-10-15T08:17,B-,none,emergency
+146,smart_home_iot,2024-07-12T19:39,dev_9025,26.9,41.0,true,closed,1.72,clear,1038.8,35.0,,,,,,,,,,,,,,,,,
+172,smart_home_iot,2024-04-19T11:52,dev_3365,31.3,84.0,false,closed,2.83,cloudy,1003.3,15.3,,"-9.0384,-46.4121",,,,,,,,,,,,,,,
+942,synthetic_healthcare,2024-10-17T20:26,,,,,,,,,,,,Arjun Kumar,arjun.kumar@example.com,354-58-7930,hypertension,Cigna,3973.94,73,118/61,metformin,Dr. Chen,City General,2024-05-14T05:09,O-,penicillin,telehealth
+365,smart_home_iot,2024-01-31T07:27,dev_2702,6.8,30.9,false,closed,1.22,fog,997.1,37.6,215.87.14.9,,,,,,,,,,,,,,,,
+1153,synthetic_healthcare,2024-04-02T19:36,,,,,,,,,,,,Patricia Brown,patricia.brown@example.com,133-59-4760,migraine,Kaiser,7585.38,73,117/99,lisinopril,Dr. Nair,St. Mary's,2024-11-16T19:08,AB+,none,outpatient
+544,smart_home_iot,2024-12-08T10:10,dev_9055,16.2,48.9,false,locked,2.17,clear,1029.5,41.9,,,,,,,,,,,,,,,,,
+963,synthetic_healthcare,2024-01-10T22:47,,,,,,,,,,,,David Smith,david.smith@example.com,,fracture,Kaiser,1453.37,86,146/100,metformin,Dr. Garcia,Lakeside Clinic,2024-09-29T17:19,AB-,penicillin,telehealth
+1039,synthetic_healthcare,2024-01-20T14:02,,,,,,,,,,,,Linda Khan,linda.khan@example.com,977-24-8853,anxiety disorder,Kaiser,10709.74,72,103/93,lisinopril,Dr. Khan,St. Mary's,2024-10-17T21:16,B+,penicillin,outpatient
+125,smart_home_iot,2024-10-17T06:50,dev_9507,7.0,25.8,false,open,2.21,cloudy,1012.7,19.3,170.151.156.115,,,,,,,,,,,,,,,,
+1124,synthetic_healthcare,2024-09-11T20:06,,,,,,,,,,,,Fatima Kumar,fatima.kumar@example.com,687-10-6161,asthma,Aetna,4804.66,77,102/76,sertraline,Dr. Davis,City General,2024-10-21T02:56,AB+,none,telehealth
+1076,synthetic_healthcare,2024-11-25T12:23,,,,,,,,,,,,Jennifer Garcia,jennifer.garcia@example.com,,influenza,Aetna,289.08,75,140/65,ibuprofen,Dr. Davis,St. Mary's,2024-02-07T06:14,B-,peanuts,telehealth
+1063,synthetic_healthcare,2024-03-01T07:02,,,,,,,,,,,,David Davis,david.davis@example.com,,anxiety disorder,Cigna,12467.81,113,105/93,albuterol,Dr. Williams,Riverside Medical,2024-07-29T21:49,O+,none,inpatient
+1105,synthetic_healthcare,2024-08-04T23:01,,,,,,,,,,,,Jennifer Khan,jennifer.khan@example.com,609-24-4510,covid-19,Cigna,2143.07,126,160/93,lisinopril,Dr. Williams,St. Mary's,2024-01-11T05:21,A-,penicillin,emergency
+31,smart_home_iot,2024-06-07T21:16,dev_9379,0.2,83.0,true,closed,0.32,storm,980.1,55.5,,,,,,,,,,,,,,,,,
+38,smart_home_iot,2024-08-04T19:08,dev_6198,37.8,82.4,false,locked,2.28,cloudy,1024.6,28.5,,,,,,,,,,,,,,,,,
+214,smart_home_iot,2024-11-16T10:39,dev_2525,13.1,72.5,false,closed,4.76,rain,1014.9,52.1,,"84.9871,48.5426",,,,,,,,,,,,,,,
+463,smart_home_iot,2024-05-22T22:53,dev_3923,24.0,27.6,false,open,3.11,clear,1034.8,42.9,19.36.128.199,,,,,,,,,,,,,,,,
+938,synthetic_healthcare,2024-01-05T17:18,,,,,,,,,,,,Michael Williams,michael.williams@example.com,446-90-6089,anxiety disorder,Kaiser,1897.96,71,133/78,albuterol,Dr. Nair,St. Mary's,2024-05-14T13:19,O-,none,outpatient
+451,smart_home_iot,2024-04-17T06:24,dev_5738,2.5,68.7,false,locked,3.95,rain,983.7,28.4,14.149.13.74,,,,,,,,,,,,,,,,
+846,synthetic_healthcare,2024-11-05T14:06,,,,,,,,,,,,Robert Garcia,robert.garcia@example.com,477-40-3870,covid-19,UnitedHealth,4895.05,92,104/61,lisinopril,Dr. Davis,Lakeside Clinic,2024-06-16T04:29,B-,none,telehealth
+928,synthetic_healthcare,2024-09-01T15:11,,,,,,,,,,,,Michael Chen,michael.chen@example.com,443-56-9398,anxiety disorder,BlueCross,10632.63,71,160/82,none,Dr. Kumar,St. Mary's,2024-06-26T23:27,AB+,peanuts,outpatient
+115,smart_home_iot,2024-04-09T07:41,dev_8361,35.7,30.3,false,open,4.74,cloudy,1029.0,53.1,,,,,,,,,,,,,,,,,
+438,smart_home_iot,2024-07-03T22:31,dev_2686,13.3,70.0,true,closed,2.83,clear,1027.5,32.0,,,,,,,,,,,,,,,,,
+633,synthetic_healthcare,2024-04-16T06:34,,,,,,,,,,,,Wei Johnson,wei.johnson@example.com,814-37-9085,anxiety disorder,Kaiser,1888.76,102,104/66,sertraline,Dr. Nair,Lakeside Clinic,2024-06-13T04:20,B+,peanuts,inpatient
+649,synthetic_healthcare,2024-11-24T01:01,,,,,,,,,,,,Mary Khan,mary.khan@example.com,293-64-3716,anxiety disorder,Cigna,10402.21,119,134/84,sertraline,Dr. Kumar,Lakeside Clinic,2024-09-30T23:06,A-,none,emergency
+617,synthetic_healthcare,2024-04-30T16:49,,,,,,,,,,,,Fatima Chen,,,hypertension,Cigna,227.59,100,101/95,metformin,Dr. Williams,Riverside Medical,2024-06-09T08:20,B-,none,emergency
+239,smart_home_iot,2024-03-16T14:21,dev_8404,8.9,38.6,true,open,0.87,fog,998.3,42.3,,,,,,,,,,,,,,,,,
+851,synthetic_healthcare,2024-09-17T15:04,,,,,,,,,,,,Robert Davis,,749-49-8787,covid-19,Cigna,2384.26,71,109/98,albuterol,Dr. Chen,Riverside Medical,2024-08-19T20:06,B-,none,inpatient
+323,smart_home_iot,2024-04-15T19:45,dev_2103,6.3,33.8,false,closed,1.85,fog,1019.3,6.0,,,,,,,,,,,,,,,,,
+508,smart_home_iot,2024-01-28T23:19,dev_9419,3.7,64.0,true,locked,3.79,snow,999.4,19.0,,,,,,,,,,,,,,,,,
+401,smart_home_iot,2024-11-25T02:09,dev_6168,16.8,61.8,true,open,1.07,storm,1013.6,42.7,136.156.170.126,,,,,,,,,,,,,,,,
+543,smart_home_iot,2024-07-13T18:07,dev_4872,33.6,47.2,false,closed,1.57,cloudy,997.8,51.6,113.162.208.203,"65.9600,116.3512",,,,,,,,,,,,,,,
+108,smart_home_iot,2024-04-30T00:52,dev_2548,20.1,47.1,false,locked,4.27,snow,1032.4,20.0,,"-27.0323,168.3707",,,,,,,,,,,,,,,
+586,smart_home_iot,2024-09-21T12:20,dev_7926,39.4,27.7,true,closed,1.37,snow,1001.3,2.9,,"-36.3670,85.2691",,,,,,,,,,,,,,,
+251,smart_home_iot,2024-08-20T17:59,dev_8982,24.2,32.2,false,open,3.36,cloudy,1002.7,44.0,,,,,,,,,,,,,,,,,
+789,synthetic_healthcare,2024-05-02T13:36,,,,,,,,,,,,Priya Davis,priya.davis@example.com,731-23-1741,type-2 diabetes,Cigna,14252.79,107,140/88,none,Dr. Chen,Riverside Medical,2024-10-02T20:32,O-,penicillin,inpatient
+372,smart_home_iot,2024-02-15T12:36,dev_8183,27.7,36.3,true,open,2.52,rain,1005.2,47.1,,,,,,,,,,,,,,,,,
+545,smart_home_iot,2024-08-07T05:22,dev_9973,28.2,51.7,true,open,3.24,cloudy,1017.8,47.5,103.102.156.81,,,,,,,,,,,,,,,,
+244,smart_home_iot,2024-01-23T04:50,dev_2437,7.6,29.6,true,locked,4.43,snow,994.9,59.6,,"-21.1503,76.8134",,,,,,,,,,,,,,,
+754,synthetic_healthcare,2024-06-07T16:13,,,,,,,,,,,,Wei Nair,wei.nair@example.com,923-84-3280,asthma,Cigna,2104.51,125,112/79,albuterol,Dr. Johnson,Riverside Medical,2024-07-25T07:35,O-,none,inpatient
+1145,synthetic_healthcare,2024-10-12T04:23,,,,,,,,,,,,Robert Williams,robert.williams@example.com,,fracture,Aetna,1697.31,97,138/98,albuterol,Dr. Brown,City General,2024-01-04T08:00,O+,penicillin,inpatient
+280,smart_home_iot,2024-11-13T01:35,dev_3470,1.2,34.0,false,locked,4.47,storm,988.6,51.7,21.249.170.162,,,,,,,,,,,,,,,,
+566,smart_home_iot,2024-09-20T15:14,dev_8454,29.1,51.5,false,closed,4.84,cloudy,992.7,4.7,,,,,,,,,,,,,,,,,
+1098,synthetic_healthcare,2024-07-16T19:59,,,,,,,,,,,,Mary Williams,mary.williams@example.com,294-18-3069,asthma,Kaiser,2216.73,55,140/79,sertraline,Dr. Johnson,City General,2024-05-17T07:38,A+,none,inpatient
+28,smart_home_iot,2024-01-10T00:35,dev_3938,28.1,43.3,false,locked,4.33,cloudy,996.0,47.2,10.240.113.52,,,,,,,,,,,,,,,,
+1129,synthetic_healthcare,2024-10-23T20:21,,,,,,,,,,,,Mary Khan,,508-43-5982,influenza,UnitedHealth,11386.86,112,160/82,sertraline,Dr. Khan,St. Mary's,2024-07-26T22:14,O-,none,emergency
+232,smart_home_iot,2024-04-27T03:56,dev_5067,13.7,70.4,false,open,2.9,clear,1010.1,54.1,206.23.205.18,,,,,,,,,,,,,,,,
+373,smart_home_iot,2024-09-10T17:54,dev_1519,9.9,79.0,true,open,1.41,storm,984.3,28.2,216.128.195.213,"85.4277,77.2857",,,,,,,,,,,,,,,
+915,synthetic_healthcare,2024-11-03T01:56,,,,,,,,,,,,Linda Davis,linda.davis@example.com,,influenza,Kaiser,14465.51,62,107/64,ibuprofen,Dr. Khan,City General,2024-08-13T05:17,B+,peanuts,emergency
+619,synthetic_healthcare,2024-06-15T02:22,,,,,,,,,,,,Linda Nair,linda.nair@example.com,928-57-3807,anxiety disorder,Aetna,1847.92,71,150/72,lisinopril,Dr. Khan,Lakeside Clinic,2024-09-09T19:21,AB-,peanuts,telehealth
+814,synthetic_healthcare,2024-02-19T20:54,,,,,,,,,,,,Arjun Garcia,arjun.garcia@example.com,535-95-8728,migraine,Cigna,7545.6,70,115/95,ibuprofen,Dr. Chen,Lakeside Clinic,2024-09-14T03:15,O-,peanuts,emergency
+781,synthetic_healthcare,2024-03-23T19:13,,,,,,,,,,,,Wei Williams,,250-89-1812,asthma,Aetna,9846.64,78,143/92,ibuprofen,Dr. Davis,Riverside Medical,2024-01-16T06:36,B-,none,emergency
+761,synthetic_healthcare,2024-05-31T18:53,,,,,,,,,,,,David Williams,david.williams@example.com,128-46-8488,type-2 diabetes,Kaiser,5890.29,129,119/62,none,Dr. Davis,Lakeside Clinic,2024-01-16T12:31,AB-,penicillin,telehealth
+662,synthetic_healthcare,2024-04-13T01:14,,,,,,,,,,,,Michael Brown,michael.brown@example.com,817-80-7451,type-2 diabetes,UnitedHealth,4905.41,129,155/63,none,Dr. Kumar,Lakeside Clinic,2024-08-26T08:16,B+,none,inpatient
+293,smart_home_iot,2024-08-03T02:03,dev_8908,31.1,67.5,true,locked,1.96,rain,1016.7,51.8,,,,,,,,,,,,,,,,,
+818,synthetic_healthcare,2024-11-14T13:18,,,,,,,,,,,,Wei Khan,,926-23-1625,migraine,Aetna,9224.77,74,145/71,lisinopril,Dr. Johnson,Lakeside Clinic,2024-10-30T16:09,A-,none,telehealth
+380,smart_home_iot,2024-05-13T15:52,dev_8439,-5.0,64.7,false,locked,1.01,clear,1017.2,21.8,,,,,,,,,,,,,,,,,
+700,synthetic_healthcare,2024-02-23T19:19,,,,,,,,,,,,David Garcia,david.garcia@example.com,838-71-2102,type-2 diabetes,Kaiser,6457.6,90,109/65,albuterol,Dr. Williams,St. Mary's,2024-10-06T10:49,O+,peanuts,emergency
+180,smart_home_iot,2024-05-15T21:04,dev_1990,22.8,66.7,false,locked,2.49,clear,1011.9,24.7,185.140.146.5,,,,,,,,,,,,,,,,
+1041,synthetic_healthcare,2024-09-11T09:59,,,,,,,,,,,,Wei Johnson,wei.johnson@example.com,630-28-8247,type-2 diabetes,BlueCross,10836.12,124,105/80,ibuprofen,Dr. Williams,Riverside Medical,2024-11-04T11:10,AB-,none,outpatient
+1176,synthetic_healthcare,2024-08-29T18:00,,,,,,,,,,,,Priya Chen,priya.chen@example.com,327-97-4001,type-2 diabetes,BlueCross,13394.64,82,156/83,ibuprofen,Dr. Kumar,St. Mary's,2024-05-02T20:12,B+,latex,outpatient
+681,synthetic_healthcare,2024-02-10T07:00,,,,,,,,,,,,Linda Kumar,linda.kumar@example.com,141-27-7464,anxiety disorder,Cigna,13522.89,75,142/72,ibuprofen,Dr. Kumar,City General,2024-06-02T07:35,O-,none,telehealth
+17,smart_home_iot,2024-12-02T03:37,dev_2235,14.9,80.3,true,open,3.3,snow,1030.2,58.1,,,,,,,,,,,,,,,,,
+46,smart_home_iot,2024-04-03T07:05,dev_7043,2.6,62.5,true,open,4.83,clear,1014.7,55.7,,,,,,,,,,,,,,,,,
+1104,synthetic_healthcare,2024-10-22T04:33,,,,,,,,,,,,Jennifer Davis,jennifer.davis@example.com,832-24-3956,covid-19,Kaiser,12387.05,129,128/60,lisinopril,Dr. Davis,St. Mary's,2024-06-09T06:01,A-,penicillin,outpatient
+585,smart_home_iot,2024-09-26T10:40,dev_3064,18.4,57.9,true,open,2.61,rain,1011.3,45.4,8.132.123.214,,,,,,,,,,,,,,,,
+703,synthetic_healthcare,2024-11-06T16:21,,,,,,,,,,,,Arjun Chen,arjun.chen@example.com,348-36-4679,hypertension,UnitedHealth,1829.16,73,124/61,none,Dr. Chen,Riverside Medical,2024-01-20T16:35,A-,none,outpatient
+363,smart_home_iot,2024-04-07T09:12,dev_7479,7.2,51.1,false,locked,2.98,storm,1004.8,11.0,187.120.128.241,,,,,,,,,,,,,,,,
+1112,synthetic_healthcare,2024-07-22T07:15,,,,,,,,,,,,Wei Chen,wei.chen@example.com,740-77-3303,migraine,Aetna,8680.33,96,108/69,sertraline,Dr. Kumar,Lakeside Clinic,2024-02-16T21:32,A+,none,inpatient
+260,smart_home_iot,2024-10-31T18:30,dev_5400,20.4,30.6,true,open,3.37,snow,1004.8,45.4,16.198.214.248,,,,,,,,,,,,,,,,
+575,smart_home_iot,2024-02-17T00:03,dev_3839,4.0,62.4,true,closed,4.72,storm,998.2,12.6,5.183.133.92,,,,,,,,,,,,,,,,
+428,smart_home_iot,2024-09-30T15:03,dev_6050,26.7,42.0,true,closed,2.13,storm,1032.6,22.3,,,,,,,,,,,,,,,,,
+883,synthetic_healthcare,2024-07-12T06:48,,,,,,,,,,,,Robert Nair,robert.nair@example.com,262-22-3713,asthma,UnitedHealth,8149.06,109,154/72,albuterol,Dr. Smith,Lakeside Clinic,2024-04-17T22:49,O+,none,telehealth
+131,smart_home_iot,2024-08-31T03:40,dev_6692,26.9,58.5,false,closed,4.27,fog,1022.6,42.0,93.114.62.253,,,,,,,,,,,,,,,,
+783,synthetic_healthcare,2024-02-22T02:14,,,,,,,,,,,,James Nair,james.nair@example.com,,anxiety disorder,Cigna,7102.62,92,139/61,lisinopril,Dr. Nair,City General,2024-04-15T21:41,B+,none,outpatient
+1030,synthetic_healthcare,2024-01-02T05:27,,,,,,,,,,,,Robert Smith,robert.smith@example.com,435-98-7876,migraine,Aetna,7256.81,78,106/79,none,Dr. Chen,Riverside Medical,2024-09-10T09:58,AB+,none,inpatient
+792,synthetic_healthcare,2024-04-09T16:55,,,,,,,,,,,,Jennifer Garcia,jennifer.garcia@example.com,329-31-5726,fracture,Kaiser,11321.75,84,142/77,lisinopril,Dr. Johnson,St. Mary's,2024-07-20T00:52,B+,none,outpatient
+805,synthetic_healthcare,2024-07-13T03:12,,,,,,,,,,,,Arjun Brown,,491-12-9143,anxiety disorder,Cigna,11459.49,68,128/74,sertraline,Dr. Smith,Lakeside Clinic,2024-10-07T18:53,B-,latex,emergency
+555,smart_home_iot,2024-08-27T08:37,dev_8208,-2.6,30.4,true,open,0.28,rain,989.8,28.0,127.20.226.92,,,,,,,,,,,,,,,,
+968,synthetic_healthcare,2024-11-15T14:10,,,,,,,,,,,,Wei Nair,wei.nair@example.com,586-61-9308,asthma,UnitedHealth,1885.48,75,105/96,lisinopril,Dr. Brown,Lakeside Clinic,2024-08-28T05:57,AB-,none,emergency
+760,synthetic_healthcare,2024-10-25T00:35,,,,,,,,,,,,Fatima Brown,,274-75-9956,asthma,BlueCross,7248.56,92,142/66,sertraline,Dr. Garcia,Riverside Medical,2024-08-31T02:26,AB+,latex,telehealth
+895,synthetic_healthcare,2024-04-09T16:23,,,,,,,,,,,,James Garcia,james.garcia@example.com,329-98-4587,asthma,UnitedHealth,6650.11,82,109/60,albuterol,Dr. Brown,City General,2024-11-08T05:13,O-,latex,telehealth
+1150,synthetic_healthcare,2024-09-30T11:53,,,,,,,,,,,,Linda Khan,linda.khan@example.com,432-42-6931,fracture,Aetna,549.02,109,116/79,none,Dr. Nair,Riverside Medical,2024-08-25T11:04,O-,peanuts,inpatient
+739,synthetic_healthcare,2024-04-29T21:43,,,,,,,,,,,,Fatima Davis,fatima.davis@example.com,910-58-5422,influenza,UnitedHealth,8785.12,70,108/80,lisinopril,Dr. Davis,Lakeside Clinic,2024-08-19T21:20,O-,none,inpatient
+409,smart_home_iot,2024-03-14T20:23,dev_4351,-2.0,84.9,false,locked,2.5,rain,1032.0,53.3,,,,,,,,,,,,,,,,,
+688,synthetic_healthcare,2024-07-18T00:04,,,,,,,,,,,,Priya Nair,priya.nair@example.com,408-70-4309,influenza,Aetna,1987.25,108,135/76,sertraline,Dr. Nair,Riverside Medical,2024-06-12T06:53,A-,latex,outpatient
+550,smart_home_iot,2024-03-26T17:42,dev_8388,35.8,45.9,false,open,0.15,cloudy,1032.3,58.5,,,,,,,,,,,,,,,,,
+823,synthetic_healthcare,2024-09-10T23:21,,,,,,,,,,,,Jennifer Kumar,jennifer.kumar@example.com,194-72-6818,migraine,Cigna,11603.77,121,128/100,none,Dr. Williams,City General,2024-12-11T18:18,O+,penicillin,inpatient
+929,synthetic_healthcare,2024-01-31T20:57,,,,,,,,,,,,Wei Nair,,,hypertension,UnitedHealth,12108.9,68,115/64,lisinopril,Dr. Nair,City General,2024-02-26T01:43,B-,none,outpatient
+678,synthetic_healthcare,2024-04-06T09:25,,,,,,,,,,,,Linda Smith,linda.smith@example.com,855-90-7449,asthma,Cigna,13942.31,120,152/62,ibuprofen,Dr. Davis,Lakeside Clinic,2024-01-21T22:24,AB-,none,telehealth
+1109,synthetic_healthcare,2024-09-07T01:07,,,,,,,,,,,,Priya Garcia,,195-87-2886,influenza,BlueCross,802.37,74,146/69,metformin,Dr. Brown,St. Mary's,2024-02-12T23:47,O-,latex,telehealth
+551,smart_home_iot,2024-05-19T15:02,dev_7935,28.1,37.9,true,locked,0.39,rain,1035.9,28.3,,,,,,,,,,,,,,,,,
+800,synthetic_healthcare,2024-10-25T00:22,,,,,,,,,,,,James Kumar,james.kumar@example.com,,influenza,Kaiser,3156.52,69,160/99,sertraline,Dr. Nair,St. Mary's,2024-08-08T06:13,A+,none,telehealth
+957,synthetic_healthcare,2024-06-29T01:06,,,,,,,,,,,,Wei Khan,wei.khan@example.com,517-56-8073,type-2 diabetes,Kaiser,3857.75,72,121/82,none,Dr. Garcia,Lakeside Clinic,2024-10-01T09:57,B+,none,emergency
+758,synthetic_healthcare,2024-02-19T15:54,,,,,,,,,,,,Linda Williams,,,hypertension,BlueCross,9385.07,80,107/64,metformin,Dr. Williams,City General,2024-07-08T06:16,A-,penicillin,inpatient
+547,smart_home_iot,2024-05-17T09:04,dev_4677,-4.1,21.6,true,open,4.87,cloudy,995.7,51.1,159.219.133.39,"-23.7744,161.0077",,,,,,,,,,,,,,,
+766,synthetic_healthcare,2024-07-11T10:21,,,,,,,,,,,,Linda Johnson,linda.johnson@example.com,,asthma,Aetna,12165.33,55,123/86,sertraline,Dr. Khan,City General,2024-05-04T01:10,B+,none,telehealth
+58,smart_home_iot,2024-01-22T22:18,dev_2625,37.6,34.5,true,closed,3.34,cloudy,994.4,33.1,105.230.240.75,"-38.1411,-78.2214",,,,,,,,,,,,,,,
+831,synthetic_healthcare,2024-08-10T07:12,,,,,,,,,,,,Priya Chen,priya.chen@example.com,179-92-4769,influenza,BlueCross,2884.52,82,119/87,metformin,Dr. Nair,Lakeside Clinic,2024-08-26T03:07,B+,latex,inpatient
+1023,synthetic_healthcare,2024-06-05T10:58,,,,,,,,,,,,Linda Davis,linda.davis@example.com,782-59-4153,fracture,Cigna,2112.26,130,126/97,albuterol,Dr. Kumar,St. Mary's,2024-08-12T10:03,A-,latex,emergency
+1084,synthetic_healthcare,2024-08-15T01:27,,,,,,,,,,,,Priya Chen,priya.chen@example.com,617-73-3521,influenza,Cigna,7780.46,80,131/62,none,Dr. Khan,Riverside Medical,2024-09-05T03:35,A+,latex,inpatient
+750,synthetic_healthcare,2024-05-17T13:04,,,,,,,,,,,,Wei Johnson,wei.johnson@example.com,,covid-19,Kaiser,2690.29,99,156/81,ibuprofen,Dr. Davis,Lakeside Clinic,2024-12-10T03:51,AB+,peanuts,inpatient
+162,smart_home_iot,2024-10-18T23:56,dev_4578,29.3,67.6,true,locked,2.29,fog,1001.7,55.0,213.103.76.43,,,,,,,,,,,,,,,,
+159,smart_home_iot,2024-12-06T17:22,dev_5064,-4.7,46.9,false,closed,4.77,rain,1014.9,34.4,,,,,,,,,,,,,,,,,
+494,smart_home_iot,2024-05-15T09:43,dev_5720,29.6,23.3,false,closed,2.33,cloudy,1017.1,9.6,,,,,,,,,,,,,,,,,
+72,smart_home_iot,2024-11-13T14:59,dev_9864,-3.4,24.8,false,open,3.76,storm,1038.7,45.6,,"-60.0543,-72.1922",,,,,,,,,,,,,,,
+415,smart_home_iot,2024-02-24T15:30,dev_3656,34.1,32.5,true,closed,1.61,fog,1026.1,26.8,,"-66.3172,-106.9734",,,,,,,,,,,,,,,
+534,smart_home_iot,2024-11-06T11:39,dev_8106,37.1,70.9,true,locked,1.08,storm,988.9,9.0,,,,,,,,,,,,,,,,,
+503,smart_home_iot,2024-05-30T22:04,dev_3865,20.0,69.7,true,open,1.01,storm,997.4,29.4,,,,,,,,,,,,,,,,,
+1174,synthetic_healthcare,2024-06-25T04:05,,,,,,,,,,,,Michael Johnson,michael.johnson@example.com,,migraine,Cigna,3466.89,73,151/96,sertraline,Dr. Garcia,Lakeside Clinic,2024-08-03T22:34,B-,latex,emergency
+484,smart_home_iot,2024-02-05T16:19,dev_8412,17.3,25.8,true,locked,3.69,cloudy,988.0,17.7,,"-3.6391,-70.2588",,,,,,,,,,,,,,,
+1089,synthetic_healthcare,2024-12-11T17:31,,,,,,,,,,,,Arjun Nair,arjun.nair@example.com,116-88-6250,covid-19,Cigna,12386.94,83,100/72,albuterol,Dr. Davis,City General,2024-11-15T13:53,A-,none,telehealth
+747,synthetic_healthcare,2024-06-04T19:14,,,,,,,,,,,,Patricia Smith,patricia.smith@example.com,281-43-2261,influenza,Aetna,8942.56,115,137/60,ibuprofen,Dr. Brown,Lakeside Clinic,2024-02-09T19:49,A+,none,emergency
+118,smart_home_iot,2024-07-18T19:31,dev_9647,14.0,74.3,true,closed,0.7,cloudy,1005.2,47.6,,"72.9264,34.8261",,,,,,,,,,,,,,,
+749,synthetic_healthcare,2024-11-08T00:11,,,,,,,,,,,,Priya Garcia,priya.garcia@example.com,215-44-9508,hypertension,UnitedHealth,14681.27,83,142/69,albuterol,Dr. Garcia,City General,2024-03-29T23:19,O+,peanuts,inpatient
+383,smart_home_iot,2024-05-13T09:15,dev_4616,22.3,25.0,true,locked,2.51,clear,1008.1,38.3,,,,,,,,,,,,,,,,,
+1198,synthetic_healthcare,2024-05-28T05:48,,,,,,,,,,,,Michael Chen,michael.chen@example.com,301-10-1941,migraine,Kaiser,3523.67,111,129/89,albuterol,Dr. Chen,City General,2024-08-10T11:55,B-,penicillin,outpatient
+577,smart_home_iot,2024-10-07T02:53,dev_1764,29.7,59.0,true,locked,4.38,snow,1020.2,42.4,,,,,,,,,,,,,,,,,
+275,smart_home_iot,2024-08-25T04:36,dev_5895,3.5,56.2,true,open,4.05,snow,1004.2,19.2,7.254.151.67,,,,,,,,,,,,,,,,
+491,smart_home_iot,2024-01-30T04:32,dev_7400,35.4,40.2,true,open,0.91,clear,1021.8,29.8,,,,,,,,,,,,,,,,,
+694,synthetic_healthcare,2024-03-07T02:05,,,,,,,,,,,,Jennifer Williams,jennifer.williams@example.com,935-32-4094,covid-19,UnitedHealth,9741.66,57,119/70,lisinopril,Dr. Chen,St. Mary's,2024-01-26T06:53,B+,none,telehealth
+412,smart_home_iot,2024-04-17T04:40,dev_1893,26.0,83.3,false,locked,2.31,fog,1010.0,10.8,,,,,,,,,,,,,,,,,
+452,smart_home_iot,2024-02-16T04:10,dev_9283,-1.5,74.9,false,open,3.12,rain,1031.5,0.9,45.77.228.95,,,,,,,,,,,,,,,,
+540,smart_home_iot,2024-03-26T21:39,dev_7928,4.8,27.5,true,closed,2.25,rain,1031.8,3.4,,,,,,,,,,,,,,,,,
+779,synthetic_healthcare,2024-07-16T15:05,,,,,,,,,,,,Michael Nair,,684-60-1632,fracture,Cigna,4089.71,87,150/98,metformin,Dr. Johnson,Riverside Medical,2024-07-25T23:06,AB-,peanuts,inpatient
+174,smart_home_iot,2024-05-01T05:29,dev_5967,38.1,21.1,true,locked,0.67,storm,1034.9,41.7,,,,,,,,,,,,,,,,,
+638,synthetic_healthcare,2024-03-16T09:50,,,,,,,,,,,,Arjun Chen,arjun.chen@example.com,,asthma,Aetna,5400.12,77,100/85,none,Dr. Nair,City General,2024-05-21T16:45,B-,latex,inpatient
+492,smart_home_iot,2024-08-16T09:13,dev_1371,8.2,87.9,true,closed,1.8,storm,1024.3,1.3,6.118.171.106,,,,,,,,,,,,,,,,
+303,smart_home_iot,2024-07-04T01:52,dev_3903,26.1,32.2,true,open,2.0,snow,1016.4,19.3,,,,,,,,,,,,,,,,,
+835,synthetic_healthcare,2024-06-16T13:43,,,,,,,,,,,,Patricia Smith,patricia.smith@example.com,713-97-7050,fracture,BlueCross,5114.93,92,149/61,sertraline,Dr. Kumar,St. Mary's,2024-04-16T18:22,AB-,latex,outpatient
+201,smart_home_iot,2024-09-03T12:56,dev_3692,36.8,71.8,true,locked,0.88,snow,1005.6,27.7,,,,,,,,,,,,,,,,,
+1010,synthetic_healthcare,2024-12-04T06:08,,,,,,,,,,,,Jennifer Davis,jennifer.davis@example.com,,asthma,BlueCross,4029.33,59,152/74,none,Dr. Davis,Riverside Medical,2024-05-23T17:55,AB+,none,inpatient
+1094,synthetic_healthcare,2024-09-14T02:00,,,,,,,,,,,,Patricia Khan,patricia.khan@example.com,445-95-5581,migraine,Kaiser,6375.71,101,150/80,none,Dr. Davis,Riverside Medical,2024-03-05T17:25,B+,peanuts,outpatient
+81,smart_home_iot,2024-09-01T19:00,dev_5295,21.3,77.6,false,open,3.41,storm,981.5,53.1,,,,,,,,,,,,,,,,,
+1052,synthetic_healthcare,2024-11-06T13:19,,,,,,,,,,,,Michael Brown,michael.brown@example.com,,migraine,UnitedHealth,12441.6,87,137/80,none,Dr. Johnson,Lakeside Clinic,2024-09-22T05:18,B-,penicillin,outpatient
+1055,synthetic_healthcare,2024-02-08T20:45,,,,,,,,,,,,Patricia Chen,patricia.chen@example.com,214-80-3095,hypertension,UnitedHealth,10350.88,97,130/100,none,Dr. Garcia,Riverside Medical,2024-09-22T12:22,AB+,none,outpatient
+208,smart_home_iot,2024-10-11T06:12,dev_8492,20.5,74.1,false,locked,2.6,snow,986.9,46.5,,,,,,,,,,,,,,,,,
+310,smart_home_iot,2024-07-20T00:32,dev_1881,-4.4,37.6,false,open,4.57,fog,1022.6,22.1,,,,,,,,,,,,,,,,,
+546,smart_home_iot,2024-02-10T08:25,dev_3585,6.2,69.9,true,locked,3.46,rain,1007.1,52.4,45.167.144.51,"-23.8321,-38.3421",,,,,,,,,,,,,,,
+657,synthetic_healthcare,2024-05-19T14:59,,,,,,,,,,,,Michael Brown,michael.brown@example.com,836-42-8803,type-2 diabetes,UnitedHealth,13847.22,117,105/81,lisinopril,Dr. Davis,City General,2024-08-22T11:14,AB-,latex,telehealth
+1137,synthetic_healthcare,2024-05-01T00:59,,,,,,,,,,,,Fatima Smith,fatima.smith@example.com,,fracture,BlueCross,2238.1,70,139/66,ibuprofen,Dr. Nair,City General,2024-11-13T20:45,B-,peanuts,emergency
+704,synthetic_healthcare,2024-02-27T14:08,,,,,,,,,,,,James Williams,james.williams@example.com,474-28-2294,asthma,Aetna,266.17,108,109/71,ibuprofen,Dr. Williams,Riverside Medical,2024-06-20T04:32,O+,peanuts,telehealth
+282,smart_home_iot,2024-05-19T13:28,dev_1076,-3.3,34.0,false,open,4.47,snow,991.4,40.6,,,,,,,,,,,,,,,,,
+842,synthetic_healthcare,2024-06-13T09:15,,,,,,,,,,,,Wei Garcia,wei.garcia@example.com,,migraine,Kaiser,6518.44,57,148/78,sertraline,Dr. Garcia,St. Mary's,2024-05-16T15:17,B+,latex,outpatient
+444,smart_home_iot,2024-01-12T08:29,dev_4854,14.4,61.3,false,locked,1.98,storm,1006.1,12.7,36.96.196.216,,,,,,,,,,,,,,,,
+524,smart_home_iot,2024-07-15T19:12,dev_9955,-4.2,73.5,false,open,1.98,rain,1031.2,26.6,46.155.84.126,,,,,,,,,,,,,,,,
+301,smart_home_iot,2024-09-27T08:09,dev_7704,-0.2,62.8,true,open,4.66,storm,992.9,49.5,87.55.212.12,,,,,,,,,,,,,,,,
+606,synthetic_healthcare,2024-01-04T09:49,,,,,,,,,,,,Linda Smith,linda.smith@example.com,,asthma,Aetna,12258.91,93,151/74,lisinopril,Dr. Garcia,Riverside Medical,2024-01-14T09:31,AB+,latex,inpatient
+182,smart_home_iot,2024-05-24T12:08,dev_2294,11.8,48.4,true,locked,1.21,fog,1029.7,4.8,,,,,,,,,,,,,,,,,
+241,smart_home_iot,2024-10-19T16:33,dev_3290,0.5,24.3,true,open,1.07,storm,1002.3,37.8,,,,,,,,,,,,,,,,,
+889,synthetic_healthcare,2024-10-11T07:47,,,,,,,,,,,,Fatima Garcia,fatima.garcia@example.com,674-87-7157,anxiety disorder,Aetna,9056.8,130,153/66,sertraline,Dr. Johnson,City General,2024-10-05T04:12,B-,peanuts,telehealth
+276,smart_home_iot,2024-05-27T07:26,dev_7361,28.2,60.8,true,closed,3.66,cloudy,1021.2,38.3,,,,,,,,,,,,,,,,,
+790,synthetic_healthcare,2024-10-25T14:11,,,,,,,,,,,,Arjun Johnson,arjun.johnson@example.com,255-10-7060,covid-19,BlueCross,4860.92,77,132/97,albuterol,Dr. Johnson,St. Mary's,2024-04-18T06:16,O-,peanuts,outpatient
+346,smart_home_iot,2024-09-16T02:06,dev_1941,37.6,77.4,false,closed,0.15,fog,1035.8,31.1,201.118.86.173,"-46.9338,-179.8966",,,,,,,,,,,,,,,
+266,smart_home_iot,2024-11-16T00:26,dev_6431,26.1,23.5,false,closed,4.5,clear,1000.3,47.6,,,,,,,,,,,,,,,,,
+389,smart_home_iot,2024-04-19T08:21,dev_4635,4.7,42.0,false,locked,2.61,snow,1035.6,9.3,92.79.70.68,,,,,,,,,,,,,,,,
+930,synthetic_healthcare,2024-10-20T19:33,,,,,,,,,,,,Patricia Davis,patricia.davis@example.com,172-29-8549,migraine,Aetna,9219.47,62,145/68,lisinopril,Dr. Johnson,St. Mary's,2024-02-03T09:19,A-,none,telehealth
+343,smart_home_iot,2024-07-21T00:53,dev_8925,6.4,41.5,false,locked,2.05,cloudy,1031.3,39.6,,,,,,,,,,,,,,,,,
+772,synthetic_healthcare,2024-08-12T03:39,,,,,,,,,,,,Patricia Nair,,,hypertension,UnitedHealth,3541.94,130,100/74,ibuprofen,Dr. Khan,City General,2024-10-18T21:56,A+,penicillin,outpatient
+620,synthetic_healthcare,2024-01-17T19:39,,,,,,,,,,,,Priya Davis,priya.davis@example.com,,influenza,Cigna,3767.8,90,155/68,sertraline,Dr. Davis,Lakeside Clinic,2024-03-17T04:20,A-,latex,outpatient
+18,smart_home_iot,2024-03-01T13:14,dev_7658,16.9,35.0,false,open,0.91,clear,1039.1,15.9,,,,,,,,,,,,,,,,,
+705,synthetic_healthcare,2024-04-14T09:49,,,,,,,,,,,,Mary Williams,mary.williams@example.com,161-92-1526,influenza,Kaiser,2472.4,105,153/87,none,Dr. Garcia,Riverside Medical,2024-11-30T15:39,AB+,penicillin,telehealth
+854,synthetic_healthcare,2024-10-12T02:43,,,,,,,,,,,,Arjun Brown,arjun.brown@example.com,859-35-6956,hypertension,BlueCross,9425.92,97,132/64,albuterol,Dr. Khan,City General,2024-10-17T12:18,A+,latex,inpatient
+1163,synthetic_healthcare,2024-05-15T01:34,,,,,,,,,,,,Michael Johnson,michael.johnson@example.com,825-21-4683,fracture,Aetna,12131.82,124,120/66,ibuprofen,Dr. Davis,Riverside Medical,2024-10-08T05:33,O-,none,outpatient
+461,smart_home_iot,2024-04-02T05:40,dev_5826,16.0,85.5,false,closed,3.87,fog,1034.2,46.2,,,,,,,,,,,,,,,,,
+387,smart_home_iot,2024-11-24T14:02,dev_6163,19.8,89.8,false,closed,3.84,storm,1029.6,19.4,140.109.192.197,,,,,,,,,,,,,,,,
+628,synthetic_healthcare,2024-07-25T20:55,,,,,,,,,,,,Wei Davis,wei.davis@example.com,,anxiety disorder,UnitedHealth,14234.49,63,134/84,lisinopril,Dr. Garcia,City General,2024-04-29T17:27,O-,peanuts,outpatient
+403,smart_home_iot,2024-10-23T16:20,dev_1482,37.5,86.4,true,open,1.77,storm,1019.4,5.3,,,,,,,,,,,,,,,,,
+802,synthetic_healthcare,2024-03-31T13:12,,,,,,,,,,,,James Smith,james.smith@example.com,965-12-9627,type-2 diabetes,Kaiser,6017.23,117,102/70,albuterol,Dr. Kumar,City General,2024-03-24T17:48,B-,none,emergency
+884,synthetic_healthcare,2024-02-19T13:26,,,,,,,,,,,,Fatima Kumar,fatima.kumar@example.com,100-19-5117,fracture,UnitedHealth,13851.94,63,103/86,lisinopril,Dr. Williams,Lakeside Clinic,2024-10-26T10:36,B+,penicillin,telehealth
+904,synthetic_healthcare,2024-06-11T01:23,,,,,,,,,,,,James Davis,james.davis@example.com,139-78-2970,fracture,Cigna,1688.0,78,137/93,lisinopril,Dr. Johnson,Lakeside Clinic,2024-03-11T07:51,B+,none,emergency
+75,smart_home_iot,2024-04-14T17:21,dev_9955,2.1,50.9,false,locked,1.57,storm,1021.4,27.4,,,,,,,,,,,,,,,,,
+616,synthetic_healthcare,2024-05-02T05:02,,,,,,,,,,,,Priya Kumar,priya.kumar@example.com,528-52-3658,type-2 diabetes,BlueCross,13151.49,60,131/74,metformin,Dr. Brown,St. Mary's,2024-06-18T20:39,B-,penicillin,telehealth
+522,smart_home_iot,2024-06-27T03:55,dev_9147,5.4,86.0,true,open,3.72,clear,1009.9,1.6,155.167.78.78,,,,,,,,,,,,,,,,
+588,smart_home_iot,2024-07-08T04:54,dev_5057,-0.3,56.2,true,closed,2.33,cloudy,1022.7,49.7,16.217.66.122,,,,,,,,,,,,,,,,
+621,synthetic_healthcare,2024-11-17T06:43,,,,,,,,,,,,Wei Khan,wei.khan@example.com,483-73-9501,covid-19,UnitedHealth,4881.6,102,133/90,none,Dr. Garcia,Lakeside Clinic,2024-04-07T16:45,O+,none,outpatient
+124,smart_home_iot,2024-04-30T20:24,dev_5476,0.6,45.8,false,locked,2.25,storm,1000.3,11.2,,,,,,,,,,,,,,,,,
+741,synthetic_healthcare,2024-05-20T04:42,,,,,,,,,,,,Linda Garcia,linda.garcia@example.com,207-53-4418,migraine,Cigna,10651.0,74,154/92,metformin,Dr. Williams,St. Mary's,2024-11-29T18:13,AB-,latex,telehealth
+742,synthetic_healthcare,2024-10-10T23:55,,,,,,,,,,,,David Brown,david.brown@example.com,170-45-7931,influenza,Cigna,14276.3,128,141/66,lisinopril,Dr. Garcia,City General,2024-09-28T06:08,A-,penicillin,outpatient
+1194,synthetic_healthcare,2024-07-21T10:30,,,,,,,,,,,,Arjun Smith,arjun.smith@example.com,825-16-6565,asthma,BlueCross,8061.87,82,104/95,ibuprofen,Dr. Davis,St. Mary's,2024-07-04T03:31,O-,penicillin,emergency
+1049,synthetic_healthcare,2024-06-01T20:15,,,,,,,,,,,,Fatima Williams,fatima.williams@example.com,477-77-8059,asthma,Aetna,4699.01,87,105/89,metformin,Dr. Chen,Riverside Medical,2024-12-10T05:29,O+,penicillin,emergency
+1169,synthetic_healthcare,2024-06-12T13:51,,,,,,,,,,,,James Kumar,james.kumar@example.com,,influenza,Aetna,12363.75,99,143/78,albuterol,Dr. Garcia,City General,2024-04-26T03:07,O+,none,inpatient
+173,smart_home_iot,2024-07-14T00:27,dev_4120,-2.7,46.4,true,open,1.02,snow,1023.5,33.5,,,,,,,,,,,,,,,,,
+314,smart_home_iot,2024-02-28T00:36,dev_7814,19.4,48.2,false,open,4.43,fog,999.9,21.6,193.243.4.30,,,,,,,,,,,,,,,,
+807,synthetic_healthcare,2024-05-29T22:52,,,,,,,,,,,,Michael Nair,michael.nair@example.com,954-29-1598,migraine,Kaiser,9013.05,55,117/73,sertraline,Dr. Garcia,Lakeside Clinic,2024-04-23T23:10,B-,peanuts,telehealth
+479,smart_home_iot,2024-11-23T02:06,dev_6336,5.4,27.7,true,open,1.26,storm,1032.2,22.5,121.248.27.228,,,,,,,,,,,,,,,,
+785,synthetic_healthcare,2024-11-15T20:16,,,,,,,,,,,,Arjun Smith,arjun.smith@example.com,721-70-9592,covid-19,Cigna,4096.21,128,118/75,albuterol,Dr. Brown,Riverside Medical,2024-03-25T01:33,O-,peanuts,outpatient
+84,smart_home_iot,2024-12-07T21:34,dev_5583,-3.5,45.9,false,closed,4.76,rain,986.0,41.1,,,,,,,,,,,,,,,,,
+944,synthetic_healthcare,2024-04-24T18:51,,,,,,,,,,,,Fatima Chen,,,migraine,BlueCross,2735.74,59,141/78,albuterol,Dr. Davis,City General,2024-11-17T14:02,A+,penicillin,telehealth
+806,synthetic_healthcare,2024-04-23T02:09,,,,,,,,,,,,Patricia Williams,patricia.williams@example.com,,type-2 diabetes,Kaiser,2605.3,117,137/75,metformin,Dr. Williams,Lakeside Clinic,2024-08-12T10:57,O-,none,inpatient
+856,synthetic_healthcare,2024-08-01T05:43,,,,,,,,,,,,Priya Garcia,priya.garcia@example.com,575-22-9797,hypertension,Cigna,11867.04,64,112/90,metformin,Dr. Garcia,City General,2024-06-22T07:39,B-,none,inpatient

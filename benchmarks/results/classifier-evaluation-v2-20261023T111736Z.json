@@ -1,0 +1,1138 @@
+{
+  "evaluation": "synthetic-heldout-classifier-v2",
+  "created_utc": "2026-10-23T11:17:36.109892+00:00",
+  "seed": 20261023,
+  "rows_per_field": 128,
+  "split_counts": {
+    "development": 18,
+    "validation": 12,
+    "test": 24
+  },
+  "label_caveat": "Author-defined synthetic labels; not a legal standard or evidence of real-world accuracy.",
+  "label_rubric": {
+    "High": "direct identity/contact/account/precise location or sensitive individual-level health/financial data",
+    "Medium": "person-linked or sensitive-domain detail without direct identity",
+    "Low": "public, coarse, aggregate, or non-linkable operational data"
+  },
+  "threshold_selection": {
+    "validation_only": true,
+    "objective": "maximize macro-F1; ties prefer fewer under-tiered, then fewer over-tiered fields",
+    "selected_low_max": 5,
+    "selected_medium_max": 30
+  },
+  "methods": {
+    "adaptive": "Existing score model and data-set percentiles (40th/75th), computed only within held-out columns.",
+    "fixed_thresholds": "Existing score model with LOW_MAX=25 and MEDIUM_MAX=55.",
+    "rule_baseline": "Separate transparent policy: direct synthetic patterns or broad name tokens -> High; sensitive-domain tokens or high uniqueness -> Medium; otherwise Low.",
+    "validation_tuned_thresholds": "Existing score model and identifier override; cutoffs selected on validation split only."
+  },
+  "metrics": {
+    "adaptive": {
+      "sample_size": 24,
+      "labels_order": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "confusion_matrix_rows_expected_columns_predicted": [
+        [
+          8,
+          0,
+          0
+        ],
+        [
+          2,
+          2,
+          4
+        ],
+        [
+          1,
+          5,
+          2
+        ]
+      ],
+      "accuracy": 0.5,
+      "accuracy_bootstrap_95pct_ci": [
+        0.2916666666666667,
+        0.7083333333333334
+      ],
+      "macro_precision": 0.44877344877344877,
+      "macro_recall": 0.5,
+      "macro_f1": 0.464828738512949,
+      "macro_f1_bootstrap_95pct_ci": [
+        0.2984733893557423,
+        0.6280746057061845
+      ],
+      "per_tier": {
+        "Low": {
+          "precision": 0.7272727272727273,
+          "recall": 1.0,
+          "f1": 0.8421052631578947,
+          "support": 8,
+          "false_positive_rate": 0.1875,
+          "false_negative_rate": 0.0
+        },
+        "Medium": {
+          "precision": 0.2857142857142857,
+          "recall": 0.25,
+          "f1": 0.26666666666666666,
+          "support": 8,
+          "false_positive_rate": 0.3125,
+          "false_negative_rate": 0.75
+        },
+        "High": {
+          "precision": 0.3333333333333333,
+          "recall": 0.25,
+          "f1": 0.2857142857142857,
+          "support": 8,
+          "false_positive_rate": 0.25,
+          "false_negative_rate": 0.75
+        }
+      },
+      "assigned_tier_counts": {
+        "Low": 11,
+        "Medium": 7,
+        "High": 6
+      },
+      "under_classified_fields": 8,
+      "over_classified_fields": 4,
+      "estimated_total_encrypt_seconds": 0.0014269749372033402,
+      "estimated_all_low_encrypt_seconds": 0.00019598391372710466,
+      "estimated_extra_seconds_vs_all_low": 0.0012309910234762356
+    },
+    "fixed_thresholds": {
+      "sample_size": 24,
+      "labels_order": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "confusion_matrix_rows_expected_columns_predicted": [
+        [
+          8,
+          0,
+          0
+        ],
+        [
+          4,
+          2,
+          2
+        ],
+        [
+          5,
+          2,
+          1
+        ]
+      ],
+      "accuracy": 0.4583333333333333,
+      "accuracy_bootstrap_95pct_ci": [
+        0.25,
+        0.6666666666666666
+      ],
+      "macro_precision": 0.434640522875817,
+      "macro_recall": 0.4583333333333333,
+      "macro_f1": 0.3850505050505051,
+      "macro_f1_bootstrap_95pct_ci": [
+        0.20277777777777778,
+        0.5648214285714285
+      ],
+      "per_tier": {
+        "Low": {
+          "precision": 0.47058823529411764,
+          "recall": 1.0,
+          "f1": 0.64,
+          "support": 8,
+          "false_positive_rate": 0.5625,
+          "false_negative_rate": 0.0
+        },
+        "Medium": {
+          "precision": 0.5,
+          "recall": 0.25,
+          "f1": 0.3333333333333333,
+          "support": 8,
+          "false_positive_rate": 0.125,
+          "false_negative_rate": 0.75
+        },
+        "High": {
+          "precision": 0.3333333333333333,
+          "recall": 0.125,
+          "f1": 0.18181818181818182,
+          "support": 8,
+          "false_positive_rate": 0.125,
+          "false_negative_rate": 0.875
+        }
+      },
+      "assigned_tier_counts": {
+        "Low": 17,
+        "Medium": 4,
+        "High": 3
+      },
+      "under_classified_fields": 11,
+      "over_classified_fields": 2,
+      "estimated_total_encrypt_seconds": 0.0008444694249192253,
+      "estimated_all_low_encrypt_seconds": 0.00019598391372710466,
+      "estimated_extra_seconds_vs_all_low": 0.0006484855111921206
+    },
+    "rule_baseline": {
+      "sample_size": 24,
+      "labels_order": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "confusion_matrix_rows_expected_columns_predicted": [
+        [
+          8,
+          0,
+          0
+        ],
+        [
+          0,
+          8,
+          0
+        ],
+        [
+          1,
+          3,
+          4
+        ]
+      ],
+      "accuracy": 0.8333333333333334,
+      "accuracy_bootstrap_95pct_ci": [
+        0.6666666666666666,
+        0.9583333333333334
+      ],
+      "macro_precision": 0.872053872053872,
+      "macro_recall": 0.8333333333333334,
+      "macro_f1": 0.8166494668042655,
+      "macro_f1_bootstrap_95pct_ci": [
+        0.6202020202020202,
+        0.9568151147098515
+      ],
+      "per_tier": {
+        "Low": {
+          "precision": 0.8888888888888888,
+          "recall": 1.0,
+          "f1": 0.9411764705882353,
+          "support": 8,
+          "false_positive_rate": 0.0625,
+          "false_negative_rate": 0.0
+        },
+        "Medium": {
+          "precision": 0.7272727272727273,
+          "recall": 1.0,
+          "f1": 0.8421052631578947,
+          "support": 8,
+          "false_positive_rate": 0.1875,
+          "false_negative_rate": 0.0
+        },
+        "High": {
+          "precision": 1.0,
+          "recall": 0.5,
+          "f1": 0.6666666666666666,
+          "support": 8,
+          "false_positive_rate": 0.0,
+          "false_negative_rate": 0.5
+        }
+      },
+      "assigned_tier_counts": {
+        "Low": 9,
+        "Medium": 11,
+        "High": 4
+      },
+      "under_classified_fields": 4,
+      "over_classified_fields": 0,
+      "estimated_total_encrypt_seconds": 0.0014345179224619642,
+      "estimated_all_low_encrypt_seconds": 0.00019598391372710466,
+      "estimated_extra_seconds_vs_all_low": 0.0012385340087348595
+    },
+    "validation_tuned_thresholds": {
+      "sample_size": 24,
+      "labels_order": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "confusion_matrix_rows_expected_columns_predicted": [
+        [
+          8,
+          0,
+          0
+        ],
+        [
+          3,
+          1,
+          4
+        ],
+        [
+          1,
+          5,
+          2
+        ]
+      ],
+      "accuracy": 0.4583333333333333,
+      "accuracy_bootstrap_95pct_ci": [
+        0.25,
+        0.6666666666666666
+      ],
+      "macro_precision": 0.38888888888888884,
+      "macro_recall": 0.4583333333333333,
+      "macro_f1": 0.40952380952380957,
+      "macro_f1_bootstrap_95pct_ci": [
+        0.2539637445887446,
+        0.5632850241545894
+      ],
+      "per_tier": {
+        "Low": {
+          "precision": 0.6666666666666666,
+          "recall": 1.0,
+          "f1": 0.8,
+          "support": 8,
+          "false_positive_rate": 0.25,
+          "false_negative_rate": 0.0
+        },
+        "Medium": {
+          "precision": 0.16666666666666666,
+          "recall": 0.125,
+          "f1": 0.14285714285714285,
+          "support": 8,
+          "false_positive_rate": 0.3125,
+          "false_negative_rate": 0.875
+        },
+        "High": {
+          "precision": 0.3333333333333333,
+          "recall": 0.25,
+          "f1": 0.2857142857142857,
+          "support": 8,
+          "false_positive_rate": 0.25,
+          "false_negative_rate": 0.75
+        }
+      },
+      "assigned_tier_counts": {
+        "Low": 12,
+        "Medium": 6,
+        "High": 6
+      },
+      "under_classified_fields": 9,
+      "over_classified_fields": 4,
+      "estimated_total_encrypt_seconds": 0.0013609949382953346,
+      "estimated_all_low_encrypt_seconds": 0.00019598391372710466,
+      "estimated_extra_seconds_vs_all_low": 0.00116501102456823
+    }
+  },
+  "split_diagnostics": {
+    "development": {
+      "adaptive": {
+        "sample_size": 18,
+        "labels_order": [
+          "Low",
+          "Medium",
+          "High"
+        ],
+        "confusion_matrix_rows_expected_columns_predicted": [
+          [
+            6,
+            0,
+            0
+          ],
+          [
+            4,
+            2,
+            0
+          ],
+          [
+            0,
+            1,
+            5
+          ]
+        ],
+        "accuracy": 0.7222222222222222,
+        "accuracy_bootstrap_95pct_ci": [
+          0.5,
+          0.8902777777777702
+        ],
+        "macro_precision": 0.7555555555555555,
+        "macro_recall": 0.7222222222222222,
+        "macro_f1": 0.7011784511784511,
+        "macro_f1_bootstrap_95pct_ci": [
+          0.4851587301587301,
+          0.8916666666666666
+        ],
+        "per_tier": {
+          "Low": {
+            "precision": 0.6,
+            "recall": 1.0,
+            "f1": 0.75,
+            "support": 6,
+            "false_positive_rate": 0.3333333333333333,
+            "false_negative_rate": 0.0
+          },
+          "Medium": {
+            "precision": 0.6666666666666666,
+            "recall": 0.3333333333333333,
+            "f1": 0.4444444444444444,
+            "support": 6,
+            "false_positive_rate": 0.08333333333333333,
+            "false_negative_rate": 0.6666666666666666
+          },
+          "High": {
+            "precision": 1.0,
+            "recall": 0.8333333333333334,
+            "f1": 0.9090909090909091,
+            "support": 6,
+            "false_positive_rate": 0.0,
+            "false_negative_rate": 0.16666666666666666
+          }
+        },
+        "under_classified_fields": 5,
+        "over_classified_fields": 0
+      },
+      "fixed_thresholds": {
+        "sample_size": 18,
+        "labels_order": [
+          "Low",
+          "Medium",
+          "High"
+        ],
+        "confusion_matrix_rows_expected_columns_predicted": [
+          [
+            6,
+            0,
+            0
+          ],
+          [
+            6,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            4
+          ]
+        ],
+        "accuracy": 0.5555555555555556,
+        "accuracy_bootstrap_95pct_ci": [
+          0.3333333333333333,
+          0.7777777777777778
+        ],
+        "macro_precision": 0.4871794871794872,
+        "macro_recall": 0.5555555555555555,
+        "macro_f1": 0.47719298245614034,
+        "macro_f1_bootstrap_95pct_ci": [
+          0.2920634920634921,
+          0.5926328502415457
+        ],
+        "per_tier": {
+          "Low": {
+            "precision": 0.46153846153846156,
+            "recall": 1.0,
+            "f1": 0.631578947368421,
+            "support": 6,
+            "false_positive_rate": 0.5833333333333334,
+            "false_negative_rate": 0.0
+          },
+          "Medium": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 6,
+            "false_positive_rate": 0.08333333333333333,
+            "false_negative_rate": 1.0
+          },
+          "High": {
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "f1": 0.8,
+            "support": 6,
+            "false_positive_rate": 0.0,
+            "false_negative_rate": 0.3333333333333333
+          }
+        },
+        "under_classified_fields": 8,
+        "over_classified_fields": 0
+      },
+      "rule_baseline": {
+        "sample_size": 18,
+        "labels_order": [
+          "Low",
+          "Medium",
+          "High"
+        ],
+        "confusion_matrix_rows_expected_columns_predicted": [
+          [
+            6,
+            0,
+            0
+          ],
+          [
+            0,
+            6,
+            0
+          ],
+          [
+            0,
+            1,
+            5
+          ]
+        ],
+        "accuracy": 0.9444444444444444,
+        "accuracy_bootstrap_95pct_ci": [
+          0.8333333333333334,
+          1.0
+        ],
+        "macro_precision": 0.9523809523809524,
+        "macro_recall": 0.9444444444444445,
+        "macro_f1": 0.9440559440559441,
+        "macro_f1_bootstrap_95pct_ci": [
+          0.797979797979798,
+          1.0
+        ],
+        "per_tier": {
+          "Low": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 6,
+            "false_positive_rate": 0.0,
+            "false_negative_rate": 0.0
+          },
+          "Medium": {
+            "precision": 0.8571428571428571,
+            "recall": 1.0,
+            "f1": 0.9230769230769231,
+            "support": 6,
+            "false_positive_rate": 0.08333333333333333,
+            "false_negative_rate": 0.0
+          },
+          "High": {
+            "precision": 1.0,
+            "recall": 0.8333333333333334,
+            "f1": 0.9090909090909091,
+            "support": 6,
+            "false_positive_rate": 0.0,
+            "false_negative_rate": 0.16666666666666666
+          }
+        },
+        "under_classified_fields": 1,
+        "over_classified_fields": 0
+      },
+      "validation_tuned_thresholds": {
+        "sample_size": 18,
+        "labels_order": [
+          "Low",
+          "Medium",
+          "High"
+        ],
+        "confusion_matrix_rows_expected_columns_predicted": [
+          [
+            6,
+            0,
+            0
+          ],
+          [
+            5,
+            1,
+            0
+          ],
+          [
+            0,
+            1,
+            5
+          ]
+        ],
+        "accuracy": 0.6666666666666666,
+        "accuracy_bootstrap_95pct_ci": [
+          0.4444444444444444,
+          0.8888888888888888
+        ],
+        "macro_precision": 0.6818181818181818,
+        "macro_recall": 0.6666666666666666,
+        "macro_f1": 0.6216577540106952,
+        "macro_f1_bootstrap_95pct_ci": [
+          0.43333333333333335,
+          0.7999999999999999
+        ],
+        "per_tier": {
+          "Low": {
+            "precision": 0.5454545454545454,
+            "recall": 1.0,
+            "f1": 0.7058823529411765,
+            "support": 6,
+            "false_positive_rate": 0.4166666666666667,
+            "false_negative_rate": 0.0
+          },
+          "Medium": {
+            "precision": 0.5,
+            "recall": 0.16666666666666666,
+            "f1": 0.25,
+            "support": 6,
+            "false_positive_rate": 0.08333333333333333,
+            "false_negative_rate": 0.8333333333333334
+          },
+          "High": {
+            "precision": 1.0,
+            "recall": 0.8333333333333334,
+            "f1": 0.9090909090909091,
+            "support": 6,
+            "false_positive_rate": 0.0,
+            "false_negative_rate": 0.16666666666666666
+          }
+        },
+        "under_classified_fields": 6,
+        "over_classified_fields": 0
+      }
+    },
+    "validation": {
+      "adaptive": {
+        "sample_size": 12,
+        "labels_order": [
+          "Low",
+          "Medium",
+          "High"
+        ],
+        "confusion_matrix_rows_expected_columns_predicted": [
+          [
+            4,
+            0,
+            0
+          ],
+          [
+            1,
+            3,
+            0
+          ],
+          [
+            0,
+            2,
+            2
+          ]
+        ],
+        "accuracy": 0.75,
+        "accuracy_bootstrap_95pct_ci": [
+          0.5,
+          1.0
+        ],
+        "macro_precision": 0.7999999999999999,
+        "macro_recall": 0.75,
+        "macro_f1": 0.7407407407407406,
+        "macro_f1_bootstrap_95pct_ci": [
+          0.4166666666666667,
+          1.0
+        ],
+        "per_tier": {
+          "Low": {
+            "precision": 0.8,
+            "recall": 1.0,
+            "f1": 0.8888888888888888,
+            "support": 4,
+            "false_positive_rate": 0.125,
+            "false_negative_rate": 0.0
+          },
+          "Medium": {
+            "precision": 0.6,
+            "recall": 0.75,
+            "f1": 0.6666666666666666,
+            "support": 4,
+            "false_positive_rate": 0.25,
+            "false_negative_rate": 0.25
+          },
+          "High": {
+            "precision": 1.0,
+            "recall": 0.5,
+            "f1": 0.6666666666666666,
+            "support": 4,
+            "false_positive_rate": 0.0,
+            "false_negative_rate": 0.5
+          }
+        },
+        "under_classified_fields": 3,
+        "over_classified_fields": 0
+      },
+      "fixed_thresholds": {
+        "sample_size": 12,
+        "labels_order": [
+          "Low",
+          "Medium",
+          "High"
+        ],
+        "confusion_matrix_rows_expected_columns_predicted": [
+          [
+            4,
+            0,
+            0
+          ],
+          [
+            2,
+            1,
+            1
+          ],
+          [
+            1,
+            0,
+            3
+          ]
+        ],
+        "accuracy": 0.6666666666666666,
+        "accuracy_bootstrap_95pct_ci": [
+          0.4166666666666667,
+          0.9166666666666666
+        ],
+        "macro_precision": 0.7738095238095237,
+        "macro_recall": 0.6666666666666666,
+        "macro_f1": 0.6257575757575758,
+        "macro_f1_bootstrap_95pct_ci": [
+          0.31167388167388166,
+          0.9076923076923077
+        ],
+        "per_tier": {
+          "Low": {
+            "precision": 0.5714285714285714,
+            "recall": 1.0,
+            "f1": 0.7272727272727273,
+            "support": 4,
+            "false_positive_rate": 0.375,
+            "false_negative_rate": 0.0
+          },
+          "Medium": {
+            "precision": 1.0,
+            "recall": 0.25,
+            "f1": 0.4,
+            "support": 4,
+            "false_positive_rate": 0.0,
+            "false_negative_rate": 0.75
+          },
+          "High": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75,
+            "support": 4,
+            "false_positive_rate": 0.125,
+            "false_negative_rate": 0.25
+          }
+        },
+        "under_classified_fields": 3,
+        "over_classified_fields": 1
+      },
+      "rule_baseline": {
+        "sample_size": 12,
+        "labels_order": [
+          "Low",
+          "Medium",
+          "High"
+        ],
+        "confusion_matrix_rows_expected_columns_predicted": [
+          [
+            4,
+            0,
+            0
+          ],
+          [
+            0,
+            4,
+            0
+          ],
+          [
+            0,
+            0,
+            4
+          ]
+        ],
+        "accuracy": 1.0,
+        "accuracy_bootstrap_95pct_ci": [
+          1.0,
+          1.0
+        ],
+        "macro_precision": 1.0,
+        "macro_recall": 1.0,
+        "macro_f1": 1.0,
+        "macro_f1_bootstrap_95pct_ci": [
+          0.6666666666666666,
+          1.0
+        ],
+        "per_tier": {
+          "Low": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 4,
+            "false_positive_rate": 0.0,
+            "false_negative_rate": 0.0
+          },
+          "Medium": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 4,
+            "false_positive_rate": 0.0,
+            "false_negative_rate": 0.0
+          },
+          "High": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 4,
+            "false_positive_rate": 0.0,
+            "false_negative_rate": 0.0
+          }
+        },
+        "under_classified_fields": 0,
+        "over_classified_fields": 0
+      },
+      "validation_tuned_thresholds": {
+        "sample_size": 12,
+        "labels_order": [
+          "Low",
+          "Medium",
+          "High"
+        ],
+        "confusion_matrix_rows_expected_columns_predicted": [
+          [
+            4,
+            0,
+            0
+          ],
+          [
+            0,
+            3,
+            1
+          ],
+          [
+            0,
+            1,
+            3
+          ]
+        ],
+        "accuracy": 0.8333333333333334,
+        "accuracy_bootstrap_95pct_ci": [
+          0.5833333333333334,
+          1.0
+        ],
+        "macro_precision": 0.8333333333333334,
+        "macro_recall": 0.8333333333333334,
+        "macro_f1": 0.8333333333333334,
+        "macro_f1_bootstrap_95pct_ci": [
+          0.5555555555555555,
+          1.0
+        ],
+        "per_tier": {
+          "Low": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 4,
+            "false_positive_rate": 0.0,
+            "false_negative_rate": 0.0
+          },
+          "Medium": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75,
+            "support": 4,
+            "false_positive_rate": 0.125,
+            "false_negative_rate": 0.25
+          },
+          "High": {
+            "precision": 0.75,
+            "recall": 0.75,
+            "f1": 0.75,
+            "support": 4,
+            "false_positive_rate": 0.125,
+            "false_negative_rate": 0.25
+          }
+        },
+        "under_classified_fields": 1,
+        "over_classified_fields": 1
+      }
+    },
+    "test": {
+      "adaptive": {
+        "sample_size": 24,
+        "labels_order": [
+          "Low",
+          "Medium",
+          "High"
+        ],
+        "confusion_matrix_rows_expected_columns_predicted": [
+          [
+            8,
+            0,
+            0
+          ],
+          [
+            2,
+            2,
+            4
+          ],
+          [
+            1,
+            5,
+            2
+          ]
+        ],
+        "accuracy": 0.5,
+        "accuracy_bootstrap_95pct_ci": [
+          0.2916666666666667,
+          0.7083333333333334
+        ],
+        "macro_precision": 0.44877344877344877,
+        "macro_recall": 0.5,
+        "macro_f1": 0.464828738512949,
+        "macro_f1_bootstrap_95pct_ci": [
+          0.2972048073615411,
+          0.6293650793650793
+        ],
+        "per_tier": {
+          "Low": {
+            "precision": 0.7272727272727273,
+            "recall": 1.0,
+            "f1": 0.8421052631578947,
+            "support": 8,
+            "false_positive_rate": 0.1875,
+            "false_negative_rate": 0.0
+          },
+          "Medium": {
+            "precision": 0.2857142857142857,
+            "recall": 0.25,
+            "f1": 0.26666666666666666,
+            "support": 8,
+            "false_positive_rate": 0.3125,
+            "false_negative_rate": 0.75
+          },
+          "High": {
+            "precision": 0.3333333333333333,
+            "recall": 0.25,
+            "f1": 0.2857142857142857,
+            "support": 8,
+            "false_positive_rate": 0.25,
+            "false_negative_rate": 0.75
+          }
+        },
+        "under_classified_fields": 8,
+        "over_classified_fields": 4
+      },
+      "fixed_thresholds": {
+        "sample_size": 24,
+        "labels_order": [
+          "Low",
+          "Medium",
+          "High"
+        ],
+        "confusion_matrix_rows_expected_columns_predicted": [
+          [
+            8,
+            0,
+            0
+          ],
+          [
+            4,
+            2,
+            2
+          ],
+          [
+            5,
+            2,
+            1
+          ]
+        ],
+        "accuracy": 0.4583333333333333,
+        "accuracy_bootstrap_95pct_ci": [
+          0.25,
+          0.6666666666666666
+        ],
+        "macro_precision": 0.434640522875817,
+        "macro_recall": 0.4583333333333333,
+        "macro_f1": 0.3850505050505051,
+        "macro_f1_bootstrap_95pct_ci": [
+          0.1994949494949495,
+          0.5763762626262625
+        ],
+        "per_tier": {
+          "Low": {
+            "precision": 0.47058823529411764,
+            "recall": 1.0,
+            "f1": 0.64,
+            "support": 8,
+            "false_positive_rate": 0.5625,
+            "false_negative_rate": 0.0
+          },
+          "Medium": {
+            "precision": 0.5,
+            "recall": 0.25,
+            "f1": 0.3333333333333333,
+            "support": 8,
+            "false_positive_rate": 0.125,
+            "false_negative_rate": 0.75
+          },
+          "High": {
+            "precision": 0.3333333333333333,
+            "recall": 0.125,
+            "f1": 0.18181818181818182,
+            "support": 8,
+            "false_positive_rate": 0.125,
+            "false_negative_rate": 0.875
+          }
+        },
+        "under_classified_fields": 11,
+        "over_classified_fields": 2
+      },
+      "rule_baseline": {
+        "sample_size": 24,
+        "labels_order": [
+          "Low",
+          "Medium",
+          "High"
+        ],
+        "confusion_matrix_rows_expected_columns_predicted": [
+          [
+            8,
+            0,
+            0
+          ],
+          [
+            0,
+            8,
+            0
+          ],
+          [
+            1,
+            3,
+            4
+          ]
+        ],
+        "accuracy": 0.8333333333333334,
+        "accuracy_bootstrap_95pct_ci": [
+          0.6666666666666666,
+          0.9583333333333334
+        ],
+        "macro_precision": 0.872053872053872,
+        "macro_recall": 0.8333333333333334,
+        "macro_f1": 0.8166494668042655,
+        "macro_f1_bootstrap_95pct_ci": [
+          0.6333333333333333,
+          0.9547511312217195
+        ],
+        "per_tier": {
+          "Low": {
+            "precision": 0.8888888888888888,
+            "recall": 1.0,
+            "f1": 0.9411764705882353,
+            "support": 8,
+            "false_positive_rate": 0.0625,
+            "false_negative_rate": 0.0
+          },
+          "Medium": {
+            "precision": 0.7272727272727273,
+            "recall": 1.0,
+            "f1": 0.8421052631578947,
+            "support": 8,
+            "false_positive_rate": 0.1875,
+            "false_negative_rate": 0.0
+          },
+          "High": {
+            "precision": 1.0,
+            "recall": 0.5,
+            "f1": 0.6666666666666666,
+            "support": 8,
+            "false_positive_rate": 0.0,
+            "false_negative_rate": 0.5
+          }
+        },
+        "under_classified_fields": 4,
+        "over_classified_fields": 0
+      },
+      "validation_tuned_thresholds": {
+        "sample_size": 24,
+        "labels_order": [
+          "Low",
+          "Medium",
+          "High"
+        ],
+        "confusion_matrix_rows_expected_columns_predicted": [
+          [
+            8,
+            0,
+            0
+          ],
+          [
+            3,
+            1,
+            4
+          ],
+          [
+            1,
+            5,
+            2
+          ]
+        ],
+        "accuracy": 0.4583333333333333,
+        "accuracy_bootstrap_95pct_ci": [
+          0.25,
+          0.6666666666666666
+        ],
+        "macro_precision": 0.38888888888888884,
+        "macro_recall": 0.4583333333333333,
+        "macro_f1": 0.40952380952380957,
+        "macro_f1_bootstrap_95pct_ci": [
+          0.25396825396825395,
+          0.5628815628815628
+        ],
+        "per_tier": {
+          "Low": {
+            "precision": 0.6666666666666666,
+            "recall": 1.0,
+            "f1": 0.8,
+            "support": 8,
+            "false_positive_rate": 0.25,
+            "false_negative_rate": 0.0
+          },
+          "Medium": {
+            "precision": 0.16666666666666666,
+            "recall": 0.125,
+            "f1": 0.14285714285714285,
+            "support": 8,
+            "false_positive_rate": 0.3125,
+            "false_negative_rate": 0.875
+          },
+          "High": {
+            "precision": 0.3333333333333333,
+            "recall": 0.25,
+            "f1": 0.2857142857142857,
+            "support": 8,
+            "false_positive_rate": 0.25,
+            "false_negative_rate": 0.75
+          }
+        },
+        "under_classified_fields": 9,
+        "over_classified_fields": 4
+      }
+    }
+  },
+  "under_over_by_method": {
+    "adaptive": {
+      "under": 8,
+      "over": 4
+    },
+    "fixed_thresholds": {
+      "under": 11,
+      "over": 2
+    },
+    "rule_baseline": {
+      "under": 4,
+      "over": 0
+    },
+    "validation_tuned_thresholds": {
+      "under": 9,
+      "over": 4
+    }
+  },
+  "cost_model": "Sum nearest-size isolated encryption median from the supplied local benchmark; separate from confidentiality-risk interpretation. No benchmark means cost fields are null.",
+  "limitations": [
+    "Author-labeled synthetic data do not establish real-world classifier accuracy.",
+    "Held-out sample is modest and labels are rubric judgments.",
+    "Bootstrap intervals resample fields and do not account for new-domain distribution shift."
+  ],
+  "raw_csv": "classifier-evaluation-v2-20261023T111736Z.csv",
+  "dataset_config": "classifier-evaluation-v2-20261023T111736Z-config.json",
+  "benchmark_json": "benchmarks/results/tier-benchmark-20261023T111343Z-54179.json"
+}

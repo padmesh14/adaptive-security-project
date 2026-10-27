@@ -1,0 +1,22 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test",
+    "deploy:sepolia": "hardhat run scripts/deploy-sepolia.ts --network sepolia"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-node-test-runner": "^3.1.1",
+    "@nomicfoundation/hardhat-viem": "^3.0.10",
+    "@types/node": "^22.20.5",
+    "hardhat": "^3.20.0",
+    "solc": "^0.8.34",
+    "typescript": "~6.0.3"
+  },
+  "type": "module"
+}

@@ -1,0 +1,801 @@
+order_id,customer_full_name,customer_email,shipping_address_zip,customer_date_of_birth,product_category,order_amount,payment_method,credit_card_number,bank_iban,order_date,country,loyalty_points,delivery_rating,session_id
+ORD100000,Anika Silva,anika405.silva@gmail.com,19494,1989-02-12,Electronics,2274.71,Mastercard,4444 7851 2144 4943,DE64091390996030824628,2024-10-10,DE,844,5,sess_698951
+ORD100001,Yuki Brown,yuki100.brown@icloud.com,18229,1991-01-20,Books,1243.55,BankTransfer,4321 8628 8424 6924,,2024-12-25,BR,670,5,sess_414834
+ORD100002,Diego Chen,diego897.chen@outlook.com,68829,1973-10-03,Clothing,1282.27,Mastercard,,DE72601895559797114710,2026-12-10,CA,2331,4,sess_801133
+ORD100003,Noah Nguyen,noah964.nguyen@proton.me,56591,1965-10-04,Groceries,152.09,PayPal,4253 7519 7405 9134,DE67684268465632122330,2025-10-06,JP,2309,1,sess_252752
+ORD100004,Elena Novak,elena379.novak@icloud.com,84231,1975-03-23,Electronics,1144.33,BankTransfer,4408 7457 2696 8889,,2024-04-03,BR,3609,2,sess_215268
+ORD100005,Anika Haddad,anika54.haddad@gmail.com,10030,1991-03-18,Clothing,2372.63,BankTransfer,4895 4407 7164 3433,,2025-10-12,CA,1006,1,sess_990174
+ORD100006,Mia Kumar,mia492.kumar@proton.me,50875,1960-03-04,Toys,1852.18,ApplePay,,DE12385280841485253888,2025-11-08,BR,1961,4,sess_875813
+ORD100007,Omar Tanaka,omar531.tanaka@proton.me,56604,2001-01-01,Sports,1183.24,Mastercard,,,2025-12-12,FR,659,2,sess_207119
+ORD100008,Omar Chen,omar202.chen@outlook.com,36787,1985-10-20,Electronics,1201.29,PayPal,,DE94163726516761222029,2025-11-05,CA,2870,2,sess_675311
+ORD100009,Grace Silva,grace22.silva@gmail.com,95154,1961-09-24,Home & Kitchen,1087.35,Mastercard,,,2025-04-10,BR,4804,3,sess_371963
+ORD100010,Grace Petrov,grace855.petrov@yahoo.com,17982,2002-06-15,Beauty,2068.71,BankTransfer,4155 9577 9364 1306,,2024-10-01,DE,1411,2,sess_596493
+ORD100011,Zara Garcia,zara570.garcia@gmail.com,52727,1998-09-17,Groceries,1961.76,Visa,,DE34401878017598983478,2026-08-17,BR,4286,3,sess_686692
+ORD100012,Yuki Kumar,yuki141.kumar@proton.me,25941,1980-08-11,Clothing,1679.53,ApplePay,4685 5960 3004 3530,,2026-11-12,DE,2073,2,sess_590456
+ORD100013,Omar Garcia,omar408.garcia@proton.me,31337,1997-04-06,Beauty,2485.21,ApplePay,4200 6842 6218 2510,,2024-06-18,CA,3608,1,sess_503014
+ORD100014,Anika Lopez,anika639.lopez@outlook.com,77143,1959-02-26,Books,2429.38,Visa,4278 1648 3974 5430,,2025-11-27,JP,3325,2,sess_662664
+ORD100015,Diego Ito,diego507.ito@outlook.com,21725,1972-01-26,Home & Kitchen,1066.17,Visa,4017 2451 5268 2372,,2024-02-09,IN,3717,1,sess_455626
+ORD100016,Grace Petrov,grace949.petrov@outlook.com,91487,1963-01-17,Books,2345.62,Mastercard,4185 4305 6111 5997,,2024-05-15,DE,2216,3,sess_942718
+ORD100017,Alex Rossi,alex38.rossi@gmail.com,12416,2001-09-18,Books,1288.02,Mastercard,,DE93678684335326502014,2025-03-02,IN,3120,5,sess_803115
+ORD100018,Liam Haddad,liam249.haddad@outlook.com,15929,1984-03-06,Sports,1117.33,PayPal,4336 9963 6300 5005,DE49352056174833801412,2025-10-02,NG,184,3,sess_419023
+ORD100019,Omar Kim,omar600.kim@icloud.com,30349,1997-12-26,Beauty,1911.96,ApplePay,4741 3371 1717 9404,,2026-12-26,DE,4290,5,sess_696093
+ORD100020,Alex Ito,alex818.ito@yahoo.com,21153,1956-01-05,Toys,2398.99,ApplePay,,,2026-01-21,BR,4008,3,sess_103475
+ORD100021,Raj Kim,raj767.kim@icloud.com,80149,1960-11-17,Clothing,1865.59,ApplePay,4076 5350 4846 4362,,2026-08-16,NG,628,4,sess_816907
+ORD100022,Liam Patel,liam632.patel@yahoo.com,20154,1993-03-11,Sports,1630.58,PayPal,,DE71074137484777183417,2024-05-15,IN,4150,4,sess_381707
+ORD100023,Chidi Tanaka,chidi939.tanaka@yahoo.com,19779,1992-02-05,Sports,2382.09,Mastercard,,,2025-02-23,FR,1895,4,sess_609755
+ORD100024,Chidi Nguyen,chidi163.nguyen@gmail.com,74447,1998-08-13,Sports,1819.32,ApplePay,4323 2980 6428 1028,,2025-07-04,BR,96,3,sess_365512
+ORD100025,Noah Kim,noah403.kim@proton.me,87224,1959-06-14,Sports,2136.37,PayPal,4854 5679 3439 5084,,2025-09-11,BR,3058,4,sess_130420
+ORD100026,Chidi Novak,chidi563.novak@yahoo.com,20561,1958-12-14,Groceries,1539.21,Mastercard,,,2024-09-05,DE,3868,4,sess_460356
+ORD100027,Liam Muller,liam262.muller@outlook.com,63242,1996-04-10,Groceries,1395.52,ApplePay,4658 3648 2231 4405,,2025-09-08,CA,2726,4,sess_548185
+ORD100028,Carlos Novak,carlos198.novak@yahoo.com,21890,1966-06-18,Clothing,801.62,PayPal,4583 4311 1329 7763,,2026-09-07,NG,2213,3,sess_888645
+ORD100029,Priya Chen,priya285.chen@icloud.com,57204,1963-11-17,Books,236.03,Mastercard,4661 8304 8075 6112,,2024-03-02,NG,3877,5,sess_613618
+ORD100030,Alex Kim,alex401.kim@icloud.com,71361,1983-04-26,Clothing,563.38,Mastercard,4698 2784 8492 2392,,2024-01-26,DE,1905,5,sess_139417
+ORD100031,Liam Silva,liam642.silva@outlook.com,79239,1995-07-23,Clothing,253.11,PayPal,4596 4140 7358 5274,,2026-01-01,JP,3773,3,sess_431724
+ORD100032,Omar Chen,omar539.chen@yahoo.com,81696,1970-01-14,Sports,143.0,Mastercard,4690 7881 2328 5214,,2025-06-08,CA,279,3,sess_853225
+ORD100033,Elena Brown,elena699.brown@proton.me,35962,1955-05-24,Clothing,517.02,Mastercard,4839 4177 4781 8620,,2025-02-20,CA,4997,2,sess_334172
+ORD100034,Mia Petrov,mia933.petrov@gmail.com,87961,1964-07-02,Books,63.95,BankTransfer,4053 1985 4016 7444,,2026-06-24,IN,650,2,sess_445236
+ORD100035,Yuki Johnson,yuki669.johnson@icloud.com,71291,1957-05-22,Beauty,2098.62,PayPal,4111 1047 2281 5584,DE63183654610735873557,2024-11-14,BR,3315,1,sess_493811
+ORD100036,Priya Kumar,priya65.kumar@gmail.com,43687,1967-12-03,Toys,910.62,PayPal,,,2025-12-23,FR,2257,3,sess_103954
+ORD100037,Zara Kim,zara25.kim@yahoo.com,24058,1985-12-15,Beauty,1975.55,ApplePay,,DE73204293557591836236,2024-11-02,CA,4526,5,sess_441582
+ORD100038,Emma Petrov,emma905.petrov@gmail.com,19458,1971-10-03,Books,245.57,ApplePay,,,2024-04-05,NG,3775,5,sess_806854
+ORD100039,Omar Novak,omar868.novak@gmail.com,48525,1973-05-19,Sports,935.56,PayPal,4253 4043 5019 4858,DE84351643883170107375,2024-05-08,IN,412,2,sess_729662
+ORD100040,Kenji Tanaka,kenji953.tanaka@gmail.com,58789,1987-03-15,Sports,1938.62,Visa,4610 6729 4565 1613,,2024-01-07,JP,313,5,sess_867797
+ORD100041,Yuki Nguyen,yuki839.nguyen@outlook.com,63607,1998-06-06,Sports,199.45,Visa,,,2024-07-04,NG,4506,2,sess_770230
+ORD100042,Grace Kim,grace669.kim@yahoo.com,62136,1999-05-14,Sports,1671.19,ApplePay,,,2026-06-14,NG,149,3,sess_775784
+ORD100043,Yuki Okafor,yuki746.okafor@proton.me,36695,1955-07-06,Beauty,288.28,Visa,4904 6975 8551 3663,DE16826199582254282116,2025-04-10,DE,356,4,sess_429804
+ORD100044,Priya Haddad,priya949.haddad@proton.me,21310,2000-10-23,Home & Kitchen,1602.61,Mastercard,,,2024-08-06,BR,341,4,sess_643049
+ORD100045,Emma Okafor,emma368.okafor@gmail.com,29590,1970-12-27,Books,107.54,BankTransfer,,,2026-06-04,NG,4911,4,sess_676771
+ORD100046,Liam Petrov,liam316.petrov@icloud.com,42670,1982-07-22,Toys,1119.74,ApplePay,4003 9019 8623 4854,,2026-08-27,DE,3876,4,sess_212277
+ORD100047,Wei Silva,wei368.silva@proton.me,57884,1960-08-17,Electronics,106.43,Mastercard,4751 6140 9380 2310,DE74620191327423159425,2026-05-27,CA,1176,3,sess_626613
+ORD100048,Mia Tanaka,mia607.tanaka@outlook.com,90722,1987-04-11,Toys,96.9,Mastercard,4651 5557 6371 7174,DE43180578891486546592,2025-06-25,IN,3623,2,sess_285342
+ORD100049,Zara Patel,zara304.patel@icloud.com,43246,1974-11-28,Toys,1833.93,Visa,4297 8081 7843 9399,,2024-03-16,BR,373,1,sess_157035
+ORD100050,Alex Ito,alex364.ito@outlook.com,23941,1988-06-18,Books,1036.03,PayPal,4209 7000 8780 3598,DE41271124640085997987,2024-03-01,US,504,5,sess_126450
+ORD100051,Chidi Johnson,chidi244.johnson@yahoo.com,17651,2004-02-01,Books,359.96,Mastercard,4658 9305 7803 3861,,2024-05-21,US,3915,5,sess_106657
+ORD100052,Chidi Petrov,chidi764.petrov@proton.me,20548,2002-11-15,Home & Kitchen,568.74,Visa,4659 1635 3019 6497,,2026-05-23,US,2178,5,sess_812229
+ORD100053,Elena Lopez,elena996.lopez@outlook.com,48747,1996-04-03,Electronics,428.58,Mastercard,,,2024-12-11,BR,3184,3,sess_730436
+ORD100054,Omar Okafor,omar930.okafor@icloud.com,71537,1985-09-23,Electronics,2144.52,ApplePay,,,2025-04-13,IN,4630,2,sess_251618
+ORD100055,Priya Nguyen,priya115.nguyen@gmail.com,91522,1965-06-05,Electronics,82.02,Mastercard,,,2026-02-24,US,538,5,sess_898772
+ORD100056,Noah Tanaka,noah838.tanaka@icloud.com,97053,1959-12-13,Clothing,620.21,Mastercard,4035 2433 5708 8817,DE22345564054405598749,2026-01-26,NG,255,4,sess_643814
+ORD100057,Fatima Brown,fatima481.brown@gmail.com,80501,1991-04-23,Clothing,1438.48,PayPal,4001 9577 4310 5724,,2024-01-12,CA,783,4,sess_828978
+ORD100058,Emma Chen,emma607.chen@outlook.com,77520,1971-10-06,Sports,2039.03,Mastercard,4112 2325 9032 2713,,2025-02-13,NG,705,4,sess_777236
+ORD100059,Alex Brown,alex212.brown@outlook.com,44497,1982-09-17,Home & Kitchen,951.37,Mastercard,,DE86905958278527749325,2025-11-23,BR,4159,2,sess_380476
+ORD100060,Liam Haddad,liam159.haddad@yahoo.com,42450,2001-06-20,Toys,406.51,PayPal,,,2026-02-06,IN,1600,4,sess_258293
+ORD100061,Carlos Muller,carlos751.muller@outlook.com,67006,1972-04-04,Clothing,705.61,ApplePay,4012 7537 8152 4644,,2026-05-15,US,1161,3,sess_733034
+ORD100062,Chidi Nguyen,chidi759.nguyen@yahoo.com,66364,1999-10-19,Beauty,2115.75,BankTransfer,,,2026-02-15,NG,2564,3,sess_758796
+ORD100063,Fatima Petrov,fatima249.petrov@proton.me,92524,1965-05-28,Beauty,1209.45,Visa,,,2026-11-28,DE,2687,1,sess_507590
+ORD100064,Mia Garcia,mia40.garcia@outlook.com,81219,1968-03-23,Books,1300.45,Visa,,,2024-12-16,US,3030,5,sess_459506
+ORD100065,Elena Kumar,elena216.kumar@yahoo.com,61444,1987-02-24,Toys,1595.73,PayPal,4409 2007 1218 2231,,2025-11-23,FR,4752,3,sess_214565
+ORD100066,Omar Muller,omar760.muller@proton.me,79084,1969-07-15,Books,415.51,Visa,,,2025-11-18,BR,1198,3,sess_798391
+ORD100067,Elena Kumar,elena302.kumar@icloud.com,95145,1963-08-12,Books,672.22,ApplePay,,,2026-03-16,US,2303,3,sess_356866
+ORD100068,Liam Singh,liam492.singh@proton.me,66163,1994-11-03,Toys,386.12,PayPal,,DE82528590031449192327,2025-03-07,NG,4378,2,sess_739121
+ORD100069,Zara Kim,zara685.kim@icloud.com,93439,1974-04-16,Books,1329.33,ApplePay,,DE25463277807727372890,2024-06-15,CA,2431,4,sess_493171
+ORD100070,Elena Petrov,elena984.petrov@gmail.com,33660,1995-06-21,Electronics,56.3,Visa,,,2025-02-17,CA,3970,2,sess_135543
+ORD100071,Yuki Petrov,yuki641.petrov@yahoo.com,54381,1961-11-12,Toys,1188.96,BankTransfer,4934 4452 5655 8130,,2025-09-02,JP,2399,3,sess_967942
+ORD100072,Mia Okafor,mia342.okafor@icloud.com,45611,1987-06-07,Groceries,1980.92,PayPal,4730 5902 3090 2434,,2024-07-24,NG,4467,5,sess_152113
+ORD100073,Chidi Muller,chidi112.muller@gmail.com,16081,1967-08-20,Electronics,1973.62,BankTransfer,,,2026-11-23,IN,1740,1,sess_799402
+ORD100074,Raj Johnson,raj104.johnson@yahoo.com,14846,1981-02-21,Electronics,925.33,Mastercard,,,2025-05-06,NG,280,3,sess_121382
+ORD100075,Elena Ito,elena658.ito@icloud.com,17158,1986-10-17,Electronics,2062.77,ApplePay,4940 7629 8314 2101,DE59992768117320600113,2024-03-16,US,2256,5,sess_354038
+ORD100076,Raj Johnson,raj945.johnson@gmail.com,57955,2004-12-23,Home & Kitchen,1825.66,Visa,4570 9160 8546 5162,,2024-12-02,US,496,1,sess_782305
+ORD100077,Zara Kim,zara399.kim@outlook.com,50959,2001-10-06,Groceries,1524.33,PayPal,4588 8188 8697 3727,DE24526767495440995902,2026-05-19,NG,2016,4,sess_506172
+ORD100078,Chidi Haddad,chidi790.haddad@yahoo.com,69148,1973-12-01,Toys,661.3,ApplePay,4942 1692 5727 3304,,2026-03-09,CA,2841,5,sess_189195
+ORD100079,Grace Novak,grace497.novak@proton.me,36270,2005-12-08,Sports,1519.21,ApplePay,4211 5173 1153 7307,,2024-09-26,FR,513,2,sess_517528
+ORD100080,Kenji Lopez,kenji919.lopez@outlook.com,78401,1975-08-17,Books,476.93,Mastercard,4825 5748 6944 6880,,2026-03-08,US,4040,3,sess_211273
+ORD100081,Noah Kumar,noah807.kumar@gmail.com,30467,1975-10-01,Toys,704.97,BankTransfer,4034 4352 8967 4499,,2025-07-04,CA,4858,5,sess_237262
+ORD100082,Sofia Patel,sofia347.patel@yahoo.com,33689,1979-02-01,Electronics,91.85,PayPal,,,2024-10-21,NG,982,1,sess_369687
+ORD100083,Anika Ito,anika239.ito@gmail.com,97781,1987-07-06,Groceries,2124.99,PayPal,,,2024-03-02,JP,2883,1,sess_679689
+ORD100084,Alex Patel,alex265.patel@icloud.com,94762,2003-08-02,Clothing,366.27,Visa,,,2025-10-19,CA,863,4,sess_439653
+ORD100085,Noah Rossi,noah400.rossi@gmail.com,59149,1985-07-06,Groceries,599.95,Mastercard,,,2025-12-07,US,1285,2,sess_181565
+ORD100086,Zara Brown,zara911.brown@yahoo.com,68621,1961-07-27,Electronics,1572.78,ApplePay,,,2024-08-04,FR,1169,3,sess_332417
+ORD100087,Priya Johnson,priya731.johnson@proton.me,82531,1964-08-28,Home & Kitchen,669.66,ApplePay,4026 5441 5858 6480,,2025-08-04,FR,3737,4,sess_219714
+ORD100088,Carlos Lopez,carlos59.lopez@yahoo.com,83392,1985-05-04,Sports,1888.35,PayPal,4267 4910 4901 2598,,2025-03-02,JP,1182,1,sess_563585
+ORD100089,Diego Singh,diego524.singh@yahoo.com,68065,1955-09-10,Home & Kitchen,903.45,Visa,,,2026-03-05,DE,4273,2,sess_846185
+ORD100090,Emma Tanaka,emma616.tanaka@gmail.com,21458,1993-12-16,Sports,442.42,Mastercard,,,2024-10-10,BR,82,1,sess_825869
+ORD100091,Diego Petrov,diego862.petrov@gmail.com,77955,1977-06-10,Groceries,230.37,ApplePay,,,2026-05-08,DE,4613,3,sess_138452
+ORD100092,Emma Brown,emma589.brown@icloud.com,10608,1977-09-15,Clothing,306.33,Mastercard,,,2025-12-28,NG,4721,1,sess_405703
+ORD100093,Fatima Chen,fatima458.chen@icloud.com,13360,1988-09-05,Electronics,612.63,Visa,4186 3750 2682 6110,,2024-01-04,BR,2141,1,sess_978006
+ORD100094,Zara Ito,zara476.ito@icloud.com,41243,1999-08-04,Toys,2174.47,Mastercard,4126 8616 9087 9204,,2024-02-04,NG,1121,5,sess_720559
+ORD100095,Omar Ali,omar151.ali@icloud.com,70562,2002-07-06,Electronics,2344.26,ApplePay,,,2026-09-02,NG,425,3,sess_454993
+ORD100096,Chidi Ali,chidi859.ali@outlook.com,67092,1991-06-27,Beauty,2119.84,Visa,4150 6790 5084 7916,,2024-06-04,DE,567,3,sess_554075
+ORD100097,Yuki Lopez,yuki686.lopez@gmail.com,39553,1963-07-13,Groceries,1584.86,Visa,4656 5354 5479 9884,,2024-10-04,JP,996,5,sess_114331
+ORD100098,Elena Ali,elena974.ali@gmail.com,47686,1962-05-12,Home & Kitchen,305.35,BankTransfer,,,2025-02-15,DE,3604,1,sess_636485
+ORD100099,Carlos Muller,carlos938.muller@proton.me,85673,1973-05-08,Clothing,1852.31,PayPal,,,2026-04-21,NG,1648,5,sess_844866
+ORD100100,Noah Kumar,noah914.kumar@icloud.com,49806,1994-08-16,Sports,82.25,PayPal,4524 9944 7277 7495,DE55235857443400281957,2026-01-17,NG,3603,3,sess_871136
+ORD100101,Fatima Lopez,fatima231.lopez@yahoo.com,64624,1976-11-12,Home & Kitchen,1689.98,BankTransfer,,,2026-02-24,CA,2201,2,sess_533097
+ORD100102,Fatima Nguyen,fatima421.nguyen@icloud.com,86786,1962-08-13,Home & Kitchen,1047.69,PayPal,,,2025-08-23,CA,2359,3,sess_407147
+ORD100103,Noah Okafor,noah539.okafor@icloud.com,88042,1979-11-11,Electronics,1968.76,ApplePay,4307 4018 9796 5981,,2025-10-13,BR,720,3,sess_439599
+ORD100104,Zara Ali,zara982.ali@outlook.com,36779,1982-01-01,Electronics,645.09,ApplePay,4549 6118 9822 8162,,2026-12-22,NG,3190,4,sess_475088
+ORD100105,Priya Haddad,priya693.haddad@outlook.com,69384,1955-11-03,Books,251.92,PayPal,4664 3526 4083 7901,,2025-10-19,FR,4342,1,sess_279015
+ORD100106,Noah Singh,noah376.singh@gmail.com,50714,1987-03-04,Sports,1726.27,BankTransfer,,,2024-09-10,BR,4136,2,sess_532285
+ORD100107,Emma Patel,emma646.patel@icloud.com,89053,1961-06-19,Electronics,1730.89,Visa,,,2026-09-01,JP,3256,1,sess_714675
+ORD100108,Alex Nguyen,alex202.nguyen@yahoo.com,75255,2004-09-19,Sports,2178.49,BankTransfer,4147 4252 7735 2990,DE76810112877960095235,2025-03-02,JP,814,5,sess_166083
+ORD100109,Noah Tanaka,noah461.tanaka@icloud.com,60548,1956-01-08,Beauty,1458.74,Visa,4635 4904 5085 4651,DE85250746947136936467,2024-04-03,DE,1392,3,sess_497420
+ORD100110,Emma Nguyen,emma995.nguyen@outlook.com,61908,1990-06-04,Toys,1336.71,ApplePay,4666 2072 3019 7918,,2025-09-08,NG,1566,4,sess_397362
+ORD100111,Noah Ali,noah447.ali@gmail.com,46586,1997-01-11,Home & Kitchen,608.29,Mastercard,4276 9927 3093 8263,,2024-03-12,FR,1773,4,sess_495201
+ORD100112,Kenji Tanaka,kenji305.tanaka@proton.me,76169,1968-04-28,Groceries,1689.88,PayPal,4450 7029 9759 5034,,2026-04-05,IN,4202,1,sess_668949
+ORD100113,Sofia Okafor,sofia30.okafor@icloud.com,29014,1974-01-13,Clothing,1738.19,Mastercard,4678 2785 2115 6922,,2025-04-03,JP,720,2,sess_402585
+ORD100114,Carlos Okafor,carlos290.okafor@outlook.com,62871,1984-11-21,Home & Kitchen,2342.17,Mastercard,4695 6757 7759 1413,,2026-08-08,NG,2884,1,sess_290481
+ORD100115,Liam Garcia,liam278.garcia@icloud.com,38729,2000-11-02,Beauty,104.8,Mastercard,4775 5965 3559 7238,,2026-05-21,DE,4624,2,sess_697861
+ORD100116,Mia Lopez,mia261.lopez@proton.me,97835,1998-10-12,Electronics,284.12,PayPal,,,2026-10-23,US,2002,1,sess_138934
+ORD100117,Anika Tanaka,anika796.tanaka@outlook.com,21290,1981-12-24,Beauty,2495.28,BankTransfer,,,2024-06-14,CA,2787,5,sess_874489
+ORD100118,Raj Lopez,raj56.lopez@yahoo.com,66144,1998-09-28,Home & Kitchen,1226.33,Mastercard,4719 5279 3859 9952,DE91384302556134227733,2024-09-23,CA,1090,3,sess_831958
+ORD100119,Liam Silva,liam906.silva@yahoo.com,87011,1991-04-11,Clothing,1372.91,Mastercard,,DE69631405730044314712,2025-08-15,FR,2371,2,sess_684614
+ORD100120,Wei Patel,wei12.patel@proton.me,73638,1960-12-23,Toys,2450.64,BankTransfer,4660 9009 8114 9001,DE79505149431200624528,2026-03-04,JP,2676,4,sess_293507
+ORD100121,Noah Singh,noah236.singh@outlook.com,27870,1990-06-27,Sports,602.25,Visa,4822 7606 1828 4546,,2025-12-06,JP,4936,5,sess_756926
+ORD100122,Wei Silva,wei705.silva@yahoo.com,31448,1963-08-21,Beauty,228.7,Visa,,,2024-12-12,US,262,5,sess_996876
+ORD100123,Diego Petrov,diego147.petrov@outlook.com,19436,1997-01-17,Beauty,2227.11,Visa,4682 3888 3694 7206,,2025-10-22,FR,4649,2,sess_591612
+ORD100124,Wei Novak,wei332.novak@icloud.com,70355,1982-09-21,Home & Kitchen,2436.05,BankTransfer,,,2024-12-22,FR,4990,3,sess_692469
+ORD100125,Kenji Petrov,kenji976.petrov@outlook.com,73010,1997-11-05,Sports,2163.83,BankTransfer,,DE34371295896583976413,2024-04-18,IN,1812,3,sess_781232
+ORD100126,Fatima Tanaka,fatima544.tanaka@outlook.com,74130,1969-09-15,Books,1355.36,Visa,,,2026-02-28,NG,601,4,sess_240807
+ORD100127,Diego Novak,diego520.novak@gmail.com,92129,2001-09-04,Groceries,2076.38,ApplePay,4991 4139 8784 2525,DE89063050093741261939,2024-12-28,FR,1376,3,sess_881644
+ORD100128,Anika Nguyen,anika846.nguyen@outlook.com,26085,1970-06-17,Toys,1805.84,Visa,,,2025-09-11,IN,279,2,sess_366969
+ORD100129,Noah Tanaka,noah711.tanaka@proton.me,12789,1992-08-04,Electronics,1222.68,Visa,,DE80462948470052787001,2024-10-27,NG,3897,2,sess_826578
+ORD100130,Raj Okafor,raj235.okafor@icloud.com,77763,1959-06-11,Books,781.59,Mastercard,4044 4463 3780 6914,,2025-10-15,NG,2897,3,sess_106278
+ORD100131,Anika Ito,anika496.ito@outlook.com,39703,1956-04-15,Electronics,1579.03,Mastercard,4279 2040 9192 5293,,2026-09-19,DE,279,5,sess_908360
+ORD100132,Fatima Tanaka,fatima793.tanaka@proton.me,92981,1991-11-04,Toys,1980.8,Mastercard,,,2026-02-10,FR,2970,5,sess_994648
+ORD100133,Omar Brown,omar894.brown@icloud.com,63210,1976-01-23,Toys,1681.02,ApplePay,4915 4988 4847 6721,DE36076769429124449851,2024-10-03,DE,2492,5,sess_470660
+ORD100134,Raj Brown,raj994.brown@proton.me,18879,1986-06-06,Sports,2244.84,BankTransfer,4168 5391 4881 1328,,2025-08-07,JP,4111,1,sess_306266
+ORD100135,Omar Patel,omar987.patel@yahoo.com,88777,1958-02-03,Toys,1798.94,Visa,4549 1245 6290 1451,,2025-12-01,CA,3320,5,sess_811944
+ORD100136,Anika Johnson,anika59.johnson@proton.me,15959,1960-11-20,Toys,1941.02,BankTransfer,4962 8591 1222 1421,,2026-11-11,US,3400,5,sess_844639
+ORD100137,Anika Johnson,anika96.johnson@gmail.com,30472,1968-03-17,Clothing,897.82,PayPal,4551 3513 6420 4768,,2025-12-16,US,2533,5,sess_840678
+ORD100138,Raj Novak,raj285.novak@outlook.com,78592,1988-05-05,Sports,27.56,ApplePay,4828 6939 3467 4738,,2024-01-20,DE,1001,1,sess_669661
+ORD100139,Diego Tanaka,diego569.tanaka@yahoo.com,43962,1993-06-24,Home & Kitchen,2257.63,Mastercard,4359 4974 8234 9174,,2025-07-15,BR,2652,1,sess_213040
+ORD100140,Alex Kim,alex827.kim@proton.me,98370,1977-01-08,Beauty,1027.77,ApplePay,,,2024-01-09,US,2148,4,sess_353576
+ORD100141,Omar Brown,omar209.brown@outlook.com,65785,1996-05-10,Groceries,545.44,BankTransfer,,,2025-03-27,JP,2314,1,sess_447632
+ORD100142,Alex Chen,alex894.chen@yahoo.com,31180,1975-11-20,Groceries,534.11,Visa,,,2026-06-02,CA,1493,4,sess_246589
+ORD100143,Liam Nguyen,liam825.nguyen@gmail.com,29913,1955-03-10,Home & Kitchen,1259.06,PayPal,4172 8610 7507 2478,,2026-11-23,NG,2749,1,sess_713704
+ORD100144,Omar Tanaka,omar812.tanaka@gmail.com,14964,1963-09-20,Books,1439.25,Visa,,DE50111728602382881857,2024-06-07,BR,593,3,sess_837759
+ORD100145,Emma Nguyen,emma271.nguyen@outlook.com,19033,1957-04-17,Electronics,1023.27,BankTransfer,,,2025-12-02,CA,4456,3,sess_675469
+ORD100146,Anika Petrov,anika896.petrov@outlook.com,62334,1982-06-18,Beauty,960.52,Mastercard,4394 7716 3343 1086,,2026-05-23,NG,1972,2,sess_795653
+ORD100147,Fatima Kim,fatima864.kim@icloud.com,14410,2000-01-13,Toys,1713.7,ApplePay,4323 8462 1015 8757,,2025-09-11,NG,1920,4,sess_472457
+ORD100148,Wei Okafor,wei539.okafor@outlook.com,90322,1997-11-27,Toys,184.63,BankTransfer,,,2025-05-27,CA,2848,5,sess_718126
+ORD100149,Mia Ito,mia227.ito@yahoo.com,18631,2003-09-12,Books,1321.05,PayPal,4176 3497 8541 3911,,2026-01-11,NG,2963,4,sess_229010
+ORD100150,Elena Silva,elena720.silva@outlook.com,59171,1961-06-12,Sports,1134.75,Visa,4297 8310 2831 8361,,2026-03-25,DE,48,2,sess_484749
+ORD100151,Mia Lopez,mia677.lopez@yahoo.com,91624,1978-09-11,Beauty,635.9,BankTransfer,4584 5254 1945 3923,,2026-05-11,JP,1981,3,sess_974660
+ORD100152,Raj Kim,raj538.kim@proton.me,21643,1967-03-14,Sports,1546.56,PayPal,,,2025-06-02,JP,3341,4,sess_779672
+ORD100153,Zara Rossi,zara361.rossi@yahoo.com,60509,1992-03-20,Books,2444.33,BankTransfer,4681 4328 6397 2159,DE67668670199776672176,2025-03-17,US,1903,2,sess_521189
+ORD100154,Grace Patel,grace948.patel@outlook.com,82594,1976-07-25,Groceries,299.71,Mastercard,,,2024-02-16,IN,1766,5,sess_576344
+ORD100155,Priya Tanaka,priya729.tanaka@outlook.com,73280,1958-09-23,Beauty,2109.82,Mastercard,,,2026-03-11,FR,1558,5,sess_106319
+ORD100156,Emma Novak,emma282.novak@icloud.com,44385,1960-06-13,Sports,1661.57,PayPal,4523 7884 1838 6027,,2025-07-28,JP,2498,2,sess_238150
+ORD100157,Priya Tanaka,priya550.tanaka@outlook.com,70846,1997-08-23,Home & Kitchen,917.49,PayPal,4941 1838 6148 1139,,2025-10-27,FR,289,3,sess_330364
+ORD100158,Raj Muller,raj206.muller@yahoo.com,87606,1994-08-13,Groceries,513.63,Mastercard,4444 3039 1802 3244,,2024-10-16,DE,116,5,sess_873009
+ORD100159,Emma Chen,emma227.chen@outlook.com,37659,1989-03-05,Books,1293.0,ApplePay,4803 2499 1824 7794,,2025-12-15,NG,1268,1,sess_829502
+ORD100160,Carlos Patel,carlos164.patel@proton.me,48487,2003-04-28,Toys,1768.82,Mastercard,4264 6314 9990 4515,DE95360562438137226561,2024-06-04,BR,4295,5,sess_176477
+ORD100161,Liam Chen,liam357.chen@gmail.com,75083,1960-04-16,Sports,2160.66,BankTransfer,4774 2448 4298 3288,,2024-10-10,US,4752,5,sess_205556
+ORD100162,Alex Brown,alex200.brown@yahoo.com,96052,1974-01-06,Toys,878.82,ApplePay,4760 6964 3930 2796,,2025-02-24,CA,783,5,sess_218439
+ORD100163,Emma Haddad,emma403.haddad@proton.me,14705,1957-01-17,Clothing,1035.46,Mastercard,4857 6781 2249 7139,,2026-03-12,DE,737,3,sess_105192
+ORD100164,Mia Muller,mia153.muller@outlook.com,22322,1961-04-04,Home & Kitchen,1242.84,BankTransfer,4332 8664 5029 3687,,2024-09-09,FR,1619,3,sess_523329
+ORD100165,Grace Tanaka,grace131.tanaka@yahoo.com,80096,1987-04-04,Electronics,268.86,Visa,4810 4455 4756 2426,,2024-05-01,NG,3221,5,sess_643284
+ORD100166,Fatima Muller,fatima584.muller@gmail.com,21052,1997-10-07,Books,612.68,BankTransfer,,DE41195103924517920566,2024-02-26,BR,1212,5,sess_811779
+ORD100167,Emma Silva,emma817.silva@outlook.com,28398,1968-04-08,Toys,1772.95,Visa,,,2025-01-16,FR,565,5,sess_767302
+ORD100168,Wei Tanaka,wei888.tanaka@gmail.com,57921,2005-07-03,Toys,1459.03,ApplePay,,,2024-05-27,JP,432,4,sess_972894
+ORD100169,Kenji Johnson,kenji446.johnson@proton.me,93854,2005-09-10,Clothing,174.74,PayPal,,,2024-04-19,CA,4600,2,sess_616550
+ORD100170,Kenji Patel,kenji402.patel@proton.me,92150,1998-06-27,Beauty,1018.57,Visa,4688 6563 7989 5993,DE72901766947258315679,2024-05-11,IN,2220,2,sess_835237
+ORD100171,Raj Petrov,raj677.petrov@icloud.com,41684,1962-04-22,Electronics,942.24,Mastercard,4340 3472 6937 3742,,2026-07-10,CA,2609,5,sess_929155
+ORD100172,Zara Tanaka,zara878.tanaka@yahoo.com,61240,1988-01-01,Home & Kitchen,263.84,Mastercard,4828 5109 6772 2653,,2026-09-22,NG,1106,3,sess_798674
+ORD100173,Elena Kim,elena527.kim@icloud.com,53402,1983-05-10,Toys,766.81,ApplePay,,,2024-11-16,CA,2979,1,sess_159747
+ORD100174,Fatima Novak,fatima387.novak@proton.me,50782,2003-09-05,Groceries,92.59,PayPal,4007 5447 3367 4074,,2026-09-02,NG,1421,5,sess_772657
+ORD100175,Sofia Ali,sofia299.ali@icloud.com,13382,1981-09-14,Clothing,2013.23,ApplePay,4997 6902 5546 6311,DE83708523802482409465,2026-03-09,JP,3889,2,sess_750867
+ORD100176,Anika Kumar,anika413.kumar@gmail.com,99332,1971-06-13,Toys,966.87,ApplePay,4208 8376 9212 7688,,2025-01-05,JP,4388,4,sess_793486
+ORD100177,Grace Petrov,grace771.petrov@gmail.com,46095,1980-06-23,Beauty,1325.71,PayPal,,DE67008945954318196142,2026-03-24,IN,3308,4,sess_982497
+ORD100178,Anika Okafor,anika402.okafor@proton.me,54149,1977-03-23,Home & Kitchen,1331.82,BankTransfer,4949 5730 3188 4490,,2024-07-03,US,4700,2,sess_705891
+ORD100179,Elena Okafor,elena220.okafor@icloud.com,45889,2005-11-26,Home & Kitchen,382.13,Mastercard,4919 5630 1548 7241,,2024-11-23,NG,2253,1,sess_909002
+ORD100180,Zara Haddad,zara845.haddad@icloud.com,45786,1993-04-08,Sports,239.13,BankTransfer,,,2025-01-23,IN,998,3,sess_329000
+ORD100181,Alex Kumar,alex645.kumar@yahoo.com,68572,1972-09-02,Groceries,1477.66,BankTransfer,,DE69173455893383498032,2024-09-09,NG,3067,1,sess_760613
+ORD100182,Sofia Kim,sofia599.kim@gmail.com,62447,1979-09-19,Beauty,569.57,Visa,,,2025-11-09,IN,3914,5,sess_240239
+ORD100183,Elena Kumar,elena993.kumar@icloud.com,69592,1967-06-20,Books,284.15,Mastercard,4198 2252 9457 1270,,2024-12-24,BR,2175,2,sess_687482
+ORD100184,Liam Nguyen,liam943.nguyen@icloud.com,12067,1959-06-07,Beauty,37.47,BankTransfer,4363 3681 6172 6809,,2024-12-06,FR,3448,1,sess_943563
+ORD100185,Raj Garcia,raj352.garcia@gmail.com,30168,1978-08-16,Clothing,2279.75,PayPal,4841 3102 2783 9655,,2026-07-07,FR,2063,1,sess_302464
+ORD100186,Sofia Lopez,sofia448.lopez@proton.me,31096,1982-03-05,Electronics,282.27,BankTransfer,4028 1149 2409 8597,,2024-10-18,IN,2649,3,sess_754920
+ORD100187,Grace Kumar,grace497.kumar@yahoo.com,10961,1970-04-12,Beauty,2202.09,Visa,4129 4275 8209 8477,,2026-11-23,CA,553,5,sess_859669
+ORD100188,Priya Chen,priya174.chen@proton.me,95446,1998-12-08,Groceries,1731.62,ApplePay,,DE73961330693031300706,2024-04-25,US,4556,5,sess_533836
+ORD100189,Sofia Patel,sofia158.patel@proton.me,12388,1985-02-25,Clothing,471.41,BankTransfer,4524 6296 2733 9352,,2025-01-03,US,4553,1,sess_626883
+ORD100190,Grace Haddad,grace628.haddad@icloud.com,80450,1959-12-02,Sports,1145.42,Visa,4213 1394 4069 9306,,2025-04-04,BR,3514,1,sess_742441
+ORD100191,Wei Novak,wei533.novak@outlook.com,98821,1961-02-24,Books,2125.08,Visa,4280 5959 6066 5845,DE87953011019386769931,2024-01-23,US,1106,4,sess_940043
+ORD100192,Priya Johnson,priya634.johnson@outlook.com,67899,1971-12-05,Sports,1970.28,PayPal,4391 2551 3656 8256,DE93795430680538550351,2026-03-04,US,2569,4,sess_757433
+ORD100193,Anika Brown,anika66.brown@icloud.com,25972,1984-03-07,Electronics,1626.6,BankTransfer,4939 7676 9500 2468,,2024-05-25,US,2131,4,sess_850578
+ORD100194,Fatima Johnson,fatima626.johnson@proton.me,90513,1998-03-23,Sports,1884.07,Mastercard,4983 1453 2503 4427,,2026-11-21,DE,568,5,sess_171231
+ORD100195,Chidi Muller,chidi80.muller@gmail.com,18770,1989-01-03,Toys,190.84,BankTransfer,4505 9360 5480 8373,DE22446627175530631355,2025-10-01,BR,595,1,sess_265712
+ORD100196,Kenji Muller,kenji678.muller@outlook.com,33672,1957-03-16,Clothing,2092.99,Visa,4667 2457 4657 2016,DE11425582254552813246,2024-04-21,BR,1794,4,sess_994578
+ORD100197,Noah Ali,noah657.ali@proton.me,44461,1955-01-04,Beauty,2091.88,Mastercard,4483 8181 8986 2897,DE81716177236701314577,2024-06-18,US,585,5,sess_333208
+ORD100198,Mia Tanaka,mia577.tanaka@icloud.com,59311,1962-01-14,Electronics,603.14,Mastercard,4323 4479 2662 2361,,2025-08-26,DE,609,4,sess_761648
+ORD100199,Anika Garcia,anika211.garcia@outlook.com,96892,2005-06-03,Clothing,1760.17,ApplePay,4184 9348 1178 9432,,2026-08-22,US,4400,2,sess_910091
+ORD100200,Mia Haddad,mia143.haddad@outlook.com,29010,1979-06-24,Electronics,2144.01,PayPal,,,2026-04-01,CA,671,4,sess_327507
+ORD100201,Priya Muller,priya450.muller@yahoo.com,35104,1974-12-11,Books,2348.91,ApplePay,4169 1206 6896 8933,,2025-06-17,CA,1738,5,sess_326891
+ORD100202,Yuki Chen,yuki207.chen@outlook.com,69844,1972-04-25,Toys,84.26,Mastercard,4684 1376 7126 3655,,2024-03-20,JP,4969,4,sess_598141
+ORD100203,Grace Novak,grace729.novak@proton.me,28047,1971-04-18,Clothing,688.36,ApplePay,4140 9555 3216 6262,,2024-03-08,NG,1372,1,sess_714034
+ORD100204,Raj Petrov,raj260.petrov@icloud.com,96730,1969-03-24,Sports,2419.55,ApplePay,4446 2705 1286 5745,DE32261864891737895883,2025-02-19,JP,4672,4,sess_290343
+ORD100205,Sofia Ali,sofia422.ali@outlook.com,78663,1971-11-27,Clothing,1754.1,Visa,,,2026-06-26,US,3644,4,sess_456547
+ORD100206,Emma Kumar,emma982.kumar@outlook.com,40527,1982-02-07,Beauty,1005.62,Mastercard,,,2026-12-12,NG,4049,3,sess_233760
+ORD100207,Omar Tanaka,omar901.tanaka@outlook.com,24823,1957-09-05,Beauty,1541.88,Visa,4465 6440 9895 6827,,2025-06-06,CA,144,2,sess_513169
+ORD100208,Noah Garcia,noah986.garcia@outlook.com,82120,1996-04-21,Books,1763.71,Mastercard,4870 5929 5190 3677,,2026-08-28,US,1624,1,sess_724442
+ORD100209,Grace Petrov,grace744.petrov@icloud.com,45709,1956-02-26,Electronics,2093.54,Visa,,DE39243001113275185546,2026-08-28,JP,2728,1,sess_188004
+ORD100210,Sofia Johnson,sofia272.johnson@gmail.com,18310,1994-01-23,Sports,333.75,PayPal,4503 3311 4086 1839,,2026-07-13,JP,136,2,sess_426505
+ORD100211,Wei Chen,wei97.chen@gmail.com,86836,1964-04-26,Groceries,2011.01,Mastercard,,,2025-10-14,DE,107,2,sess_710789
+ORD100212,Yuki Garcia,yuki861.garcia@proton.me,41578,2003-05-17,Beauty,1307.01,PayPal,,DE13384379323442203754,2025-06-17,JP,455,5,sess_430827
+ORD100213,Wei Muller,wei51.muller@outlook.com,77337,1970-03-06,Books,1157.08,Mastercard,4803 9303 9540 6944,,2025-09-10,IN,870,1,sess_754038
+ORD100214,Chidi Petrov,chidi496.petrov@gmail.com,43108,1997-09-08,Groceries,799.01,ApplePay,,,2026-06-18,CA,2577,5,sess_153533
+ORD100215,Fatima Kumar,fatima90.kumar@outlook.com,27439,1957-09-05,Clothing,1167.34,BankTransfer,4673 2122 6583 8165,,2024-07-23,IN,419,1,sess_402021
+ORD100216,Carlos Lopez,carlos110.lopez@gmail.com,51419,1965-09-20,Beauty,426.94,Mastercard,4826 7976 6538 6938,DE41781146732947632371,2026-06-26,BR,226,3,sess_637732
+ORD100217,Mia Silva,mia876.silva@icloud.com,52105,1975-03-24,Toys,1708.13,ApplePay,4000 4796 6632 1170,,2025-10-02,US,2679,2,sess_989709
+ORD100218,Anika Rossi,anika973.rossi@outlook.com,49527,1978-10-12,Beauty,948.72,Visa,,DE96693022448566423850,2025-03-28,FR,1139,5,sess_784151
+ORD100219,Priya Novak,priya467.novak@outlook.com,71632,2005-08-26,Books,1824.96,PayPal,4102 2939 6359 1425,,2024-04-12,IN,554,4,sess_877105
+ORD100220,Priya Tanaka,priya881.tanaka@proton.me,93895,1980-05-26,Groceries,2385.39,PayPal,,,2026-08-11,FR,2552,3,sess_701115
+ORD100221,Fatima Haddad,fatima602.haddad@icloud.com,18970,1985-08-14,Electronics,2201.75,Mastercard,4371 9892 6951 3045,,2026-01-15,NG,193,2,sess_550171
+ORD100222,Wei Johnson,wei537.johnson@outlook.com,77527,2005-12-12,Clothing,559.71,BankTransfer,,,2026-07-06,NG,630,4,sess_311522
+ORD100223,Anika Muller,anika337.muller@icloud.com,34486,1986-09-25,Electronics,1672.77,Mastercard,,,2026-03-06,US,4516,1,sess_696745
+ORD100224,Noah Patel,noah947.patel@gmail.com,37183,1987-01-17,Books,1279.44,Mastercard,4147 3510 8180 1498,,2026-12-09,JP,1915,4,sess_326947
+ORD100225,Diego Kumar,diego56.kumar@gmail.com,10743,1976-12-06,Books,1348.72,Mastercard,4179 4803 3865 4309,,2026-12-04,CA,4867,2,sess_385777
+ORD100226,Elena Lopez,elena54.lopez@proton.me,10227,1983-02-28,Clothing,2244.72,BankTransfer,,DE68238563332659644237,2024-03-07,FR,1019,5,sess_410518
+ORD100227,Emma Petrov,emma492.petrov@proton.me,87601,1986-08-09,Groceries,1298.68,ApplePay,4148 9194 3772 4816,DE99616156556279800758,2026-12-22,NG,3543,5,sess_412709
+ORD100228,Emma Novak,emma669.novak@gmail.com,99980,1964-11-12,Beauty,1978.59,BankTransfer,4224 6571 3562 7594,,2025-02-05,US,2647,4,sess_562226
+ORD100229,Mia Rossi,mia373.rossi@icloud.com,12599,1977-09-18,Toys,1599.73,ApplePay,4260 7342 5269 1274,,2025-02-12,US,2259,3,sess_401926
+ORD100230,Mia Johnson,mia962.johnson@proton.me,12851,1959-04-07,Electronics,1843.12,Mastercard,4233 4592 1943 8153,,2026-12-04,DE,4512,5,sess_193943
+ORD100231,Carlos Petrov,carlos858.petrov@yahoo.com,15225,2002-08-28,Beauty,1058.45,Mastercard,4308 1624 2377 1916,DE14052172123953516566,2025-08-08,CA,200,2,sess_273604
+ORD100232,Emma Silva,emma813.silva@outlook.com,92055,2002-11-02,Groceries,1327.88,Visa,,,2026-01-15,CA,188,5,sess_764094
+ORD100233,Anika Okafor,anika524.okafor@yahoo.com,16306,2005-09-17,Home & Kitchen,1244.41,ApplePay,4661 1075 9197 9435,,2025-07-23,BR,4668,4,sess_863764
+ORD100234,Elena Singh,elena983.singh@proton.me,86030,1994-03-11,Beauty,481.2,Mastercard,,,2024-10-23,FR,2607,5,sess_375030
+ORD100235,Zara Singh,zara163.singh@icloud.com,81568,1986-05-28,Clothing,1232.64,Visa,4779 2353 7788 5818,,2025-12-01,IN,4824,2,sess_207900
+ORD100236,Chidi Rossi,chidi898.rossi@gmail.com,89448,1982-08-24,Sports,207.99,ApplePay,,DE73431445388869475671,2024-12-27,DE,2418,1,sess_731159
+ORD100237,Grace Silva,grace361.silva@proton.me,42650,1971-09-02,Groceries,1197.39,Visa,4810 1563 4529 8611,,2026-02-24,JP,2811,5,sess_294305
+ORD100238,Carlos Garcia,carlos661.garcia@yahoo.com,75555,1971-06-06,Home & Kitchen,2266.46,Mastercard,4804 4667 5099 5252,,2024-03-20,JP,516,4,sess_658847
+ORD100239,Zara Kumar,zara218.kumar@gmail.com,64568,1985-06-22,Electronics,1863.09,Mastercard,,,2026-04-09,DE,4265,1,sess_681032
+ORD100240,Anika Okafor,anika911.okafor@yahoo.com,27969,1985-08-16,Sports,1410.23,Visa,4780 6382 3656 6616,,2025-07-04,DE,4085,5,sess_396340
+ORD100241,Anika Okafor,anika592.okafor@icloud.com,33358,1975-01-11,Books,1148.46,PayPal,4378 6936 8875 4240,,2026-11-06,FR,1542,5,sess_299670
+ORD100242,Liam Muller,liam993.muller@yahoo.com,86881,1959-07-01,Books,1385.13,Mastercard,4678 2935 4887 2808,,2024-04-22,US,2183,1,sess_547266
+ORD100243,Wei Rossi,wei321.rossi@icloud.com,11158,1987-07-12,Home & Kitchen,37.61,Mastercard,,,2024-02-07,IN,2190,5,sess_875596
+ORD100244,Diego Singh,diego692.singh@proton.me,63093,1999-01-03,Beauty,280.7,PayPal,4438 6967 1361 1446,,2025-10-18,NG,1319,3,sess_861336
+ORD100245,Noah Novak,noah137.novak@outlook.com,58505,1971-09-05,Home & Kitchen,399.62,Mastercard,4815 3044 3622 6067,,2026-02-18,CA,3380,4,sess_669992
+ORD100246,Alex Patel,alex242.patel@proton.me,28412,1970-01-08,Toys,607.48,Visa,,,2025-06-16,US,1821,1,sess_574612
+ORD100247,Diego Ali,diego946.ali@gmail.com,89172,1966-04-03,Sports,210.0,PayPal,,,2024-07-25,JP,607,5,sess_916819
+ORD100248,Raj Ali,raj703.ali@yahoo.com,32554,1974-07-11,Clothing,1766.98,ApplePay,,,2025-02-28,DE,478,3,sess_631516
+ORD100249,Priya Singh,priya49.singh@gmail.com,78277,2002-12-23,Books,1279.04,Mastercard,4214 8099 5242 8436,DE69036136184553453066,2026-07-03,DE,694,1,sess_159614
+ORD100250,Grace Tanaka,grace270.tanaka@gmail.com,60126,1987-11-16,Sports,489.08,ApplePay,4458 5783 2039 8758,DE18762029011530394525,2025-12-27,JP,1325,4,sess_559213
+ORD100251,Emma Nguyen,emma136.nguyen@gmail.com,81289,2001-07-28,Books,1593.65,Mastercard,,,2024-02-26,NG,753,2,sess_103798
+ORD100252,Carlos Patel,carlos896.patel@outlook.com,21037,1974-10-11,Groceries,2423.53,BankTransfer,4318 9499 4345 8912,,2024-06-12,BR,2272,5,sess_234938
+ORD100253,Diego Nguyen,diego429.nguyen@proton.me,97052,1993-03-02,Sports,693.1,ApplePay,,,2024-12-28,NG,4456,3,sess_407309
+ORD100254,Chidi Patel,chidi839.patel@outlook.com,73252,1975-12-22,Books,1824.55,PayPal,,,2024-06-24,BR,1915,4,sess_786388
+ORD100255,Sofia Brown,sofia711.brown@gmail.com,45755,1990-01-11,Toys,1027.03,ApplePay,,,2026-05-26,BR,2788,3,sess_595169
+ORD100256,Fatima Johnson,fatima500.johnson@gmail.com,58400,1967-05-16,Electronics,1781.59,PayPal,,,2025-05-14,DE,2572,2,sess_772542
+ORD100257,Emma Johnson,emma361.johnson@outlook.com,17951,1998-04-11,Electronics,2129.92,Visa,4196 3495 7138 9343,DE44786940662605155209,2026-04-07,US,4746,5,sess_740666
+ORD100258,Omar Muller,omar101.muller@yahoo.com,41549,1969-08-19,Toys,307.6,BankTransfer,4659 2474 9356 8540,DE37746503156363593608,2026-05-09,CA,3925,4,sess_114277
+ORD100259,Priya Okafor,priya474.okafor@yahoo.com,88515,1994-03-25,Groceries,1373.13,ApplePay,4979 2713 5259 8215,,2024-05-15,BR,17,1,sess_198046
+ORD100260,Wei Johnson,wei378.johnson@gmail.com,66700,1981-09-15,Sports,2298.2,PayPal,4730 3772 2641 9365,,2024-06-10,BR,1806,4,sess_475153
+ORD100261,Anika Haddad,anika630.haddad@icloud.com,83839,1972-05-25,Clothing,1547.25,PayPal,,,2026-11-11,DE,2690,1,sess_455069
+ORD100262,Emma Petrov,emma24.petrov@outlook.com,39131,1980-01-06,Books,1663.65,ApplePay,4264 4812 3823 8491,DE57006356078738212248,2024-12-20,DE,4174,3,sess_404518
+ORD100263,Grace Novak,grace138.novak@proton.me,90817,1962-03-09,Sports,756.03,Mastercard,4631 4640 8250 6238,,2025-08-15,DE,486,1,sess_184712
+ORD100264,Zara Haddad,zara34.haddad@icloud.com,77131,2001-03-09,Clothing,447.1,BankTransfer,4633 4764 8209 2424,,2026-08-18,BR,1494,2,sess_429283
+ORD100265,Anika Haddad,anika27.haddad@yahoo.com,54115,1978-02-03,Electronics,1562.26,Visa,4718 5793 5566 5926,,2024-04-15,JP,4530,1,sess_950073
+ORD100266,Priya Muller,priya234.muller@outlook.com,21991,1997-09-16,Home & Kitchen,957.73,BankTransfer,4804 8470 4222 4611,,2026-09-08,DE,2503,4,sess_147819
+ORD100267,Omar Garcia,omar223.garcia@proton.me,58262,1984-09-12,Groceries,71.3,PayPal,4163 6692 9130 7652,DE29627833359144517469,2026-04-11,NG,15,3,sess_366258
+ORD100268,Carlos Novak,carlos566.novak@icloud.com,83834,1995-03-23,Home & Kitchen,733.69,Visa,,,2025-07-27,NG,1549,1,sess_263716
+ORD100269,Elena Johnson,elena522.johnson@yahoo.com,51649,1969-11-28,Beauty,973.04,Mastercard,4739 4112 3641 8783,,2024-08-21,CA,812,1,sess_308917
+ORD100270,Raj Patel,raj911.patel@icloud.com,23358,1989-07-07,Sports,1577.9,BankTransfer,4586 3817 6681 7089,DE18242481090333144147,2024-05-01,JP,3780,2,sess_489594
+ORD100271,Omar Petrov,omar117.petrov@yahoo.com,11082,1962-06-24,Clothing,1133.35,ApplePay,,,2024-06-02,FR,3180,4,sess_783018
+ORD100272,Grace Okafor,grace230.okafor@outlook.com,64777,1959-10-26,Groceries,1693.57,BankTransfer,,,2025-05-06,NG,3339,2,sess_793019
+ORD100273,Priya Novak,priya221.novak@proton.me,85343,1970-09-17,Clothing,204.23,PayPal,,,2024-01-09,CA,1292,2,sess_592818
+ORD100274,Carlos Muller,carlos445.muller@yahoo.com,28706,1996-07-22,Electronics,1646.21,Visa,4737 6324 9517 4792,,2024-01-22,IN,2350,1,sess_929070
+ORD100275,Liam Muller,liam815.muller@icloud.com,31283,1962-02-24,Clothing,2488.93,PayPal,4741 7040 3943 7470,,2026-07-04,IN,4282,4,sess_414687
+ORD100276,Mia Kumar,mia393.kumar@gmail.com,67058,1969-07-07,Toys,1203.16,ApplePay,4773 5567 2794 1691,,2025-04-05,CA,3192,5,sess_389585
+ORD100277,Noah Silva,noah618.silva@icloud.com,32453,1982-03-09,Books,311.39,Visa,4034 8280 5960 8206,,2024-02-26,IN,3318,3,sess_630710
+ORD100278,Alex Okafor,alex373.okafor@yahoo.com,72045,1960-01-01,Home & Kitchen,1261.9,Visa,,,2026-09-03,DE,2372,4,sess_562525
+ORD100279,Sofia Ito,sofia247.ito@outlook.com,16148,1991-12-04,Beauty,766.76,Visa,,DE18939474296047954848,2024-02-26,CA,2788,2,sess_486657
+ORD100280,Fatima Singh,fatima521.singh@icloud.com,48176,2001-05-12,Books,1033.54,BankTransfer,4612 4949 8114 8620,,2026-04-05,DE,4571,1,sess_183389
+ORD100281,Sofia Johnson,sofia370.johnson@outlook.com,90767,1967-07-15,Home & Kitchen,1785.39,Visa,4820 2711 4021 8792,,2026-11-14,US,1565,4,sess_510032
+ORD100282,Elena Tanaka,elena384.tanaka@icloud.com,95224,1973-07-22,Beauty,1290.95,Mastercard,4144 9393 6531 8628,DE20318254775495282212,2026-09-07,CA,2757,1,sess_650099
+ORD100283,Carlos Silva,carlos735.silva@icloud.com,39313,1976-05-10,Clothing,672.41,ApplePay,,,2024-07-15,US,3609,4,sess_924557
+ORD100284,Alex Garcia,alex984.garcia@yahoo.com,62843,1971-04-01,Clothing,1157.71,ApplePay,4516 2478 5033 8346,,2024-06-19,US,1020,5,sess_122053
+ORD100285,Kenji Chen,kenji563.chen@yahoo.com,62244,1964-09-15,Sports,867.57,Mastercard,4725 6502 8105 4174,,2026-11-11,US,4103,3,sess_631461
+ORD100286,Fatima Patel,fatima342.patel@outlook.com,94631,1971-11-09,Beauty,1945.81,ApplePay,4478 6205 2798 3871,,2024-12-22,DE,1716,2,sess_319246
+ORD100287,Mia Singh,mia193.singh@outlook.com,68408,1985-01-21,Home & Kitchen,2034.88,Visa,4077 2102 8414 1505,DE71681632096354766080,2025-01-20,NG,1659,2,sess_451960
+ORD100288,Alex Nguyen,alex97.nguyen@gmail.com,65427,1986-12-16,Toys,2093.2,BankTransfer,4323 1205 7283 5286,,2024-08-18,NG,849,4,sess_202716
+ORD100289,Chidi Garcia,chidi510.garcia@proton.me,76143,1993-01-04,Groceries,2178.15,PayPal,4899 7902 5531 1045,,2024-06-19,CA,3103,1,sess_410344
+ORD100290,Zara Haddad,zara54.haddad@outlook.com,50228,1989-04-27,Beauty,2284.22,BankTransfer,,,2025-08-18,DE,3915,3,sess_765063
+ORD100291,Grace Patel,grace722.patel@outlook.com,97325,1955-03-11,Electronics,1914.11,Mastercard,4663 3698 5301 4900,,2024-12-23,FR,4806,2,sess_944485
+ORD100292,Fatima Ali,fatima450.ali@icloud.com,60553,1977-03-26,Groceries,441.57,BankTransfer,,,2025-01-17,JP,4039,1,sess_228115
+ORD100293,Emma Nguyen,emma407.nguyen@icloud.com,99336,2002-02-11,Toys,182.41,ApplePay,4310 9876 1662 2995,,2025-09-25,DE,3991,1,sess_327296
+ORD100294,Carlos Muller,carlos235.muller@gmail.com,17109,1971-02-25,Home & Kitchen,1934.02,BankTransfer,,,2025-03-06,FR,3216,2,sess_990068
+ORD100295,Kenji Kumar,kenji283.kumar@outlook.com,89278,1989-03-05,Toys,2223.57,Mastercard,,DE25340451478271156223,2024-01-03,NG,683,2,sess_358841
+ORD100296,Raj Patel,raj895.patel@proton.me,92034,1983-02-01,Beauty,854.93,Mastercard,4446 6682 8435 9711,,2024-07-03,JP,3429,3,sess_406158
+ORD100297,Fatima Tanaka,fatima448.tanaka@outlook.com,68240,1973-04-28,Groceries,762.69,BankTransfer,,,2025-02-19,CA,3502,3,sess_618526
+ORD100298,Sofia Okafor,sofia106.okafor@yahoo.com,75795,1999-11-06,Beauty,481.09,Visa,4391 6619 7162 3023,,2026-12-03,NG,1278,3,sess_530104
+ORD100299,Diego Silva,diego295.silva@outlook.com,68458,1984-05-28,Groceries,1532.12,BankTransfer,4943 5160 9196 1259,,2024-05-28,CA,3065,2,sess_547798
+ORD100300,Alex Kumar,alex421.kumar@yahoo.com,99439,2001-02-03,Books,778.87,Mastercard,4590 8444 8099 6989,,2024-02-10,IN,4777,4,sess_897013
+ORD100301,Elena Brown,elena585.brown@proton.me,92935,1965-04-21,Beauty,827.11,ApplePay,4505 8311 1608 9185,,2024-11-02,DE,461,3,sess_412503
+ORD100302,Wei Tanaka,wei243.tanaka@proton.me,49149,1983-09-14,Clothing,111.18,Visa,4212 2513 7231 3503,,2026-05-12,IN,1160,5,sess_440477
+ORD100303,Elena Ali,elena128.ali@gmail.com,20330,1986-06-02,Beauty,1565.68,PayPal,4238 5374 4046 8663,DE68529681345483185639,2025-01-01,CA,3530,3,sess_416162
+ORD100304,Mia Ali,mia587.ali@yahoo.com,49145,1968-12-21,Toys,1404.82,ApplePay,4835 7202 2359 1163,,2024-10-18,NG,2580,4,sess_318347
+ORD100305,Elena Novak,elena613.novak@yahoo.com,74137,1957-08-25,Books,818.83,Visa,,,2026-03-21,CA,1687,3,sess_661132
+ORD100306,Mia Haddad,mia189.haddad@yahoo.com,50729,1980-06-01,Clothing,745.49,Mastercard,4177 7781 5676 2913,,2026-03-04,JP,2062,5,sess_533564
+ORD100307,Sofia Kumar,sofia961.kumar@outlook.com,98951,1999-09-11,Sports,1647.58,Visa,4234 6259 4251 8049,,2025-01-24,JP,2309,1,sess_637792
+ORD100308,Sofia Silva,sofia218.silva@outlook.com,25295,1995-06-11,Clothing,1272.86,ApplePay,4592 8310 9172 5997,,2026-12-02,FR,3446,5,sess_929706
+ORD100309,Sofia Novak,sofia186.novak@proton.me,75383,1976-03-08,Sports,1522.79,Visa,4253 5045 1550 4228,,2024-03-18,CA,2871,4,sess_491609
+ORD100310,Priya Tanaka,priya682.tanaka@yahoo.com,65735,1988-08-07,Electronics,1779.03,Visa,4357 2928 8952 3439,,2024-11-04,DE,3080,2,sess_418150
+ORD100311,Yuki Ito,yuki784.ito@outlook.com,71634,1960-08-11,Beauty,521.95,PayPal,4503 9000 4281 4260,,2024-12-28,CA,1836,5,sess_901718
+ORD100312,Fatima Singh,fatima982.singh@yahoo.com,23416,1967-09-24,Toys,907.48,Visa,4768 9860 1710 5867,,2025-08-16,JP,2807,3,sess_954600
+ORD100313,Grace Nguyen,grace193.nguyen@proton.me,33278,1960-04-28,Toys,1694.88,ApplePay,4744 2040 2350 9659,,2026-01-20,DE,129,5,sess_611939
+ORD100314,Raj Haddad,raj677.haddad@outlook.com,46072,1956-07-19,Sports,1322.86,PayPal,4212 4438 4983 3400,DE91942765066081790627,2025-03-05,NG,1076,5,sess_540345
+ORD100315,Sofia Rossi,sofia88.rossi@yahoo.com,25107,1984-11-12,Clothing,2225.65,BankTransfer,4187 9483 4525 3252,DE52353106201773643289,2025-08-06,US,2818,5,sess_964310
+ORD100316,Yuki Singh,yuki927.singh@gmail.com,37546,1983-02-04,Toys,1622.02,BankTransfer,4151 1779 5406 1118,,2025-10-02,DE,2700,4,sess_758796
+ORD100317,Elena Kim,elena443.kim@yahoo.com,83529,1988-06-17,Beauty,372.79,PayPal,4995 2480 8218 1277,,2024-07-16,CA,1433,5,sess_225742
+ORD100318,Noah Patel,noah245.patel@icloud.com,12012,1964-01-23,Sports,2176.1,PayPal,,,2024-11-08,CA,2087,4,sess_565914
+ORD100319,Chidi Garcia,chidi240.garcia@yahoo.com,57897,1962-06-19,Groceries,2287.8,Visa,4220 2123 8292 8757,,2026-03-04,US,3448,4,sess_361702
+ORD100320,Diego Garcia,diego602.garcia@yahoo.com,67608,1976-04-19,Toys,230.27,BankTransfer,,DE76515901469285071583,2024-05-18,DE,4221,3,sess_367033
+ORD100321,Kenji Rossi,kenji458.rossi@yahoo.com,48427,1971-12-15,Books,2270.83,Mastercard,4454 3157 4501 6443,DE49676250642853642257,2026-09-20,BR,1125,2,sess_775288
+ORD100322,Anika Novak,anika272.novak@gmail.com,98298,2000-12-14,Home & Kitchen,177.02,PayPal,4111 5863 9181 6354,,2025-05-26,FR,445,5,sess_785684
+ORD100323,Fatima Ito,fatima46.ito@gmail.com,31535,1991-05-28,Clothing,2056.02,BankTransfer,,DE72857044165841395444,2026-02-08,US,695,5,sess_500415
+ORD100324,Noah Ito,noah192.ito@proton.me,54526,1972-04-21,Home & Kitchen,2164.61,BankTransfer,4183 2816 3852 1502,,2026-09-16,DE,4535,4,sess_708408
+ORD100325,Raj Johnson,raj43.johnson@outlook.com,21289,1956-11-11,Home & Kitchen,69.04,Visa,,DE47182628452272762246,2024-09-11,BR,3307,3,sess_939032
+ORD100326,Wei Lopez,wei338.lopez@icloud.com,69886,2002-02-25,Clothing,1420.69,BankTransfer,4896 6379 6276 7676,DE22126450241555277054,2025-12-17,IN,2576,1,sess_470401
+ORD100327,Diego Okafor,diego701.okafor@outlook.com,82601,1990-10-12,Groceries,688.02,Visa,,,2024-12-07,NG,321,1,sess_949336
+ORD100328,Diego Muller,diego568.muller@icloud.com,33670,1981-09-18,Clothing,337.67,Mastercard,4142 8243 1019 4902,DE11326822896740354870,2025-07-05,CA,1058,5,sess_728643
+ORD100329,Diego Singh,diego984.singh@gmail.com,74146,1990-09-05,Electronics,847.44,ApplePay,4028 9084 1742 3017,,2024-10-13,FR,1906,3,sess_786711
+ORD100330,Raj Kim,raj456.kim@icloud.com,83223,1983-10-10,Toys,1218.63,Mastercard,,DE25852863333350644008,2025-05-22,NG,4893,3,sess_897384
+ORD100331,Kenji Johnson,kenji483.johnson@proton.me,70800,1973-07-02,Clothing,1167.68,BankTransfer,4651 9305 1452 9001,,2024-05-12,IN,2693,1,sess_710253
+ORD100332,Noah Brown,noah397.brown@icloud.com,24722,1976-06-23,Toys,2040.81,Mastercard,4988 1379 2032 8564,,2026-06-08,IN,17,3,sess_326158
+ORD100333,Elena Novak,elena265.novak@outlook.com,43223,1989-01-03,Sports,1742.08,PayPal,4569 7266 5206 1301,,2024-05-09,US,3008,1,sess_710059
+ORD100334,Priya Ali,priya566.ali@icloud.com,95524,1984-02-20,Toys,183.4,PayPal,4147 2277 8517 8362,,2024-12-18,JP,4247,3,sess_959473
+ORD100335,Mia Rossi,mia419.rossi@icloud.com,83257,1991-04-03,Electronics,1358.72,BankTransfer,4817 8198 6629 4032,,2026-05-14,BR,23,1,sess_964275
+ORD100336,Grace Silva,grace132.silva@outlook.com,68049,1992-11-23,Home & Kitchen,1787.84,Visa,4373 6242 1303 1987,,2024-04-19,IN,3695,2,sess_178687
+ORD100337,Omar Garcia,omar236.garcia@yahoo.com,22950,1983-10-04,Toys,1090.0,ApplePay,,,2025-12-06,FR,3116,4,sess_293322
+ORD100338,Grace Garcia,grace696.garcia@gmail.com,69365,1990-08-04,Clothing,1866.87,PayPal,,DE96677629672748198255,2024-10-21,BR,2029,4,sess_823891
+ORD100339,Chidi Lopez,chidi962.lopez@proton.me,67226,1989-11-26,Home & Kitchen,512.37,PayPal,,,2024-05-04,CA,1476,4,sess_761199
+ORD100340,Raj Nguyen,raj413.nguyen@gmail.com,85975,1957-09-14,Books,72.44,BankTransfer,,DE54653593843035800409,2026-02-01,NG,4293,4,sess_882348
+ORD100341,Raj Brown,raj859.brown@gmail.com,93208,2002-10-23,Groceries,358.15,Visa,4853 8608 6123 5376,,2026-08-01,JP,2789,3,sess_118909
+ORD100342,Wei Kim,wei925.kim@proton.me,10555,1988-07-28,Clothing,1973.56,ApplePay,,,2024-05-01,NG,760,5,sess_969490
+ORD100343,Diego Ali,diego406.ali@yahoo.com,25776,1998-06-20,Electronics,1722.5,BankTransfer,4789 3709 9674 1130,DE39325560562873480356,2024-12-15,BR,2533,1,sess_989459
+ORD100344,Anika Okafor,anika588.okafor@yahoo.com,63493,1991-07-03,Clothing,247.28,PayPal,4497 1798 2434 1525,,2026-03-27,BR,4625,4,sess_513918
+ORD100345,Omar Rossi,omar354.rossi@yahoo.com,94148,1976-11-15,Home & Kitchen,1124.37,BankTransfer,4876 5952 4570 9848,,2025-10-22,FR,5,5,sess_930910
+ORD100346,Carlos Kim,carlos115.kim@yahoo.com,96250,1995-03-28,Electronics,406.68,Mastercard,4265 6990 7261 4362,,2025-11-08,FR,1104,4,sess_376019
+ORD100347,Noah Singh,noah332.singh@yahoo.com,12510,1987-05-24,Groceries,1658.21,Mastercard,4483 8491 4364 8932,,2024-09-15,IN,42,3,sess_293160
+ORD100348,Zara Novak,zara690.novak@yahoo.com,92373,1993-10-26,Beauty,1328.52,Visa,4587 5871 2245 2892,DE54139643469163466168,2024-03-05,JP,1229,2,sess_650167
+ORD100349,Yuki Chen,yuki548.chen@yahoo.com,37107,1970-03-05,Beauty,197.11,PayPal,,,2026-02-08,IN,4846,5,sess_118689
+ORD100350,Alex Garcia,alex589.garcia@icloud.com,88798,2003-02-04,Toys,604.68,BankTransfer,4986 6571 7130 7481,,2026-09-27,DE,4412,1,sess_413674
+ORD100351,Yuki Tanaka,yuki169.tanaka@icloud.com,62202,1983-04-14,Groceries,556.76,Visa,4437 7765 5396 5941,,2025-12-09,CA,352,4,sess_621670
+ORD100352,Noah Lopez,noah27.lopez@proton.me,31469,1989-05-10,Clothing,1226.13,Visa,4175 8198 8274 6703,,2025-09-11,NG,1094,4,sess_119301
+ORD100353,Grace Kim,grace994.kim@outlook.com,46869,1964-06-25,Toys,805.23,ApplePay,4815 1085 3443 3173,,2025-04-13,FR,3156,2,sess_691637
+ORD100354,Raj Ito,raj590.ito@icloud.com,15355,1996-10-20,Books,839.34,Visa,,DE84914567468534833742,2025-12-18,IN,1723,4,sess_934446
+ORD100355,Wei Petrov,wei518.petrov@outlook.com,19285,1962-02-12,Groceries,2036.41,ApplePay,4897 8830 7037 5223,,2025-03-02,DE,1650,5,sess_621506
+ORD100356,Zara Silva,zara230.silva@proton.me,44884,1984-01-04,Beauty,662.29,Mastercard,4624 5657 2741 5774,,2024-05-28,DE,1967,2,sess_746104
+ORD100357,Diego Ito,diego977.ito@proton.me,27522,1985-01-05,Books,1796.56,BankTransfer,4292 1844 6200 8599,DE59472412383721575862,2024-03-09,NG,96,5,sess_606612
+ORD100358,Fatima Kim,fatima769.kim@gmail.com,65515,1965-04-24,Clothing,572.77,Visa,4668 2247 7367 9534,,2026-12-02,DE,4418,5,sess_202754
+ORD100359,Mia Ito,mia765.ito@proton.me,52916,1960-06-23,Clothing,305.27,Visa,4241 5315 1768 6448,,2024-11-26,CA,1993,5,sess_612720
+ORD100360,Fatima Tanaka,fatima222.tanaka@yahoo.com,10622,1994-03-20,Electronics,2395.36,Visa,,,2025-04-28,IN,768,3,sess_350654
+ORD100361,Grace Haddad,grace849.haddad@gmail.com,33776,1993-04-20,Beauty,1928.68,BankTransfer,4103 4647 3923 1812,DE23446865709319705679,2025-10-21,NG,1484,1,sess_710317
+ORD100362,Anika Ito,anika485.ito@gmail.com,29711,1956-09-09,Toys,1336.7,ApplePay,,,2026-02-10,IN,2097,2,sess_634826
+ORD100363,Alex Novak,alex888.novak@yahoo.com,60475,2003-08-08,Toys,827.04,Mastercard,,,2025-04-10,IN,4805,5,sess_125951
+ORD100364,Alex Muller,alex346.muller@icloud.com,67858,1971-11-10,Home & Kitchen,948.21,Mastercard,,,2026-02-04,BR,4228,3,sess_132983
+ORD100365,Liam Ito,liam501.ito@proton.me,82667,1999-07-16,Electronics,1296.29,PayPal,4054 8990 7441 1035,,2024-02-20,US,4171,5,sess_598790
+ORD100366,Noah Ali,noah781.ali@yahoo.com,21440,1980-01-12,Beauty,1493.94,BankTransfer,4036 7275 8400 9527,,2026-03-02,FR,1019,1,sess_671411
+ORD100367,Emma Tanaka,emma724.tanaka@gmail.com,45213,1984-07-11,Home & Kitchen,460.11,BankTransfer,,DE18897199525270321198,2025-06-16,IN,2631,2,sess_926150
+ORD100368,Grace Silva,grace505.silva@icloud.com,52789,1971-11-10,Books,1152.95,PayPal,,,2026-04-06,DE,2428,4,sess_481049
+ORD100369,Chidi Kim,chidi781.kim@outlook.com,72714,1958-05-25,Sports,270.09,Visa,4890 6254 1787 8019,,2026-04-17,DE,601,4,sess_235158
+ORD100370,Liam Muller,liam873.muller@gmail.com,84475,1987-12-15,Groceries,325.71,BankTransfer,,,2025-01-09,IN,3027,2,sess_612724
+ORD100371,Omar Muller,omar450.muller@gmail.com,95339,1965-10-24,Sports,740.71,BankTransfer,,,2024-05-01,NG,3025,3,sess_681965
+ORD100372,Wei Ito,wei703.ito@outlook.com,74205,1982-09-17,Groceries,179.17,PayPal,4149 9760 2010 9148,,2024-11-02,FR,185,5,sess_832212
+ORD100373,Anika Rossi,anika619.rossi@icloud.com,36575,1961-02-12,Sports,190.98,BankTransfer,4474 4975 6960 5525,,2024-12-28,BR,563,2,sess_507831
+ORD100374,Elena Muller,elena624.muller@outlook.com,79062,2005-06-18,Toys,532.31,BankTransfer,,,2024-08-03,BR,2980,5,sess_595705
+ORD100375,Alex Tanaka,alex591.tanaka@yahoo.com,18065,1975-09-17,Home & Kitchen,330.81,PayPal,,,2025-12-07,CA,4568,2,sess_454805
+ORD100376,Wei Singh,wei493.singh@yahoo.com,48099,1985-09-02,Electronics,158.85,PayPal,,,2024-06-13,FR,566,5,sess_320855
+ORD100377,Raj Novak,raj472.novak@icloud.com,46347,1996-09-23,Groceries,2499.07,Mastercard,4518 2398 7654 8079,DE62208248617665684083,2026-03-25,FR,1584,3,sess_141417
+ORD100378,Noah Brown,noah186.brown@outlook.com,66746,1968-06-18,Clothing,705.93,ApplePay,4725 6410 5776 4665,,2026-06-23,NG,3455,1,sess_410162
+ORD100379,Fatima Chen,fatima151.chen@outlook.com,34095,1994-03-22,Toys,588.39,Mastercard,,,2025-03-23,JP,686,1,sess_808455
+ORD100380,Mia Petrov,mia888.petrov@icloud.com,96063,1989-08-24,Clothing,2122.56,ApplePay,,,2026-02-03,NG,512,3,sess_426110
+ORD100381,Noah Lopez,noah259.lopez@gmail.com,37508,1963-02-22,Books,2390.76,ApplePay,,,2024-03-07,FR,2348,5,sess_382059
+ORD100382,Zara Singh,zara447.singh@yahoo.com,65680,1992-03-22,Groceries,690.54,Visa,4438 5816 5535 1682,,2024-11-05,FR,464,1,sess_263590
+ORD100383,Mia Lopez,mia777.lopez@yahoo.com,59344,1966-09-10,Books,2007.22,Mastercard,4141 1525 9370 2345,,2026-08-12,IN,4213,4,sess_435594
+ORD100384,Chidi Novak,chidi39.novak@proton.me,76242,1990-01-13,Toys,116.9,Mastercard,,,2025-10-02,BR,4425,1,sess_240734
+ORD100385,Emma Ito,emma518.ito@gmail.com,60959,1956-03-08,Clothing,2477.81,ApplePay,4013 7711 9008 1688,,2025-02-07,IN,3326,1,sess_714805
+ORD100386,Kenji Kumar,kenji225.kumar@gmail.com,69690,1966-07-23,Groceries,1545.75,ApplePay,,,2026-01-13,FR,4099,5,sess_900728
+ORD100387,Grace Haddad,grace245.haddad@outlook.com,74682,1958-02-05,Toys,1329.65,Visa,,,2026-08-13,JP,3540,5,sess_751349
+ORD100388,Yuki Patel,yuki14.patel@yahoo.com,70911,1993-02-17,Home & Kitchen,224.94,BankTransfer,4137 7128 7723 1421,,2026-09-04,NG,3784,2,sess_531817
+ORD100389,Emma Garcia,emma799.garcia@proton.me,92207,2003-02-18,Groceries,886.83,Visa,,,2026-10-06,FR,3824,2,sess_603262
+ORD100390,Carlos Chen,carlos192.chen@yahoo.com,53981,1994-09-24,Books,1124.78,PayPal,,,2024-07-13,BR,3956,4,sess_840498
+ORD100391,Mia Brown,mia879.brown@proton.me,11555,1968-06-10,Sports,2397.37,Mastercard,,DE55218204852437839118,2024-11-20,IN,4493,4,sess_424483
+ORD100392,Grace Haddad,grace186.haddad@icloud.com,79254,1966-07-06,Clothing,1760.82,Mastercard,4426 1620 5634 8657,,2026-09-24,US,4326,3,sess_171770
+ORD100393,Zara Okafor,zara271.okafor@proton.me,19852,1988-12-22,Home & Kitchen,425.13,Mastercard,4746 7008 1613 3112,,2024-12-25,US,1322,2,sess_888690
+ORD100394,Sofia Nguyen,sofia714.nguyen@gmail.com,37869,1977-06-03,Groceries,329.03,ApplePay,,,2026-02-06,CA,531,2,sess_692427
+ORD100395,Diego Johnson,diego175.johnson@yahoo.com,52070,1962-04-24,Books,838.35,Visa,4786 7044 6931 2432,,2025-09-12,BR,3326,5,sess_856551
+ORD100396,Kenji Rossi,kenji144.rossi@yahoo.com,49411,2003-01-05,Sports,1788.28,PayPal,4526 8812 2195 9359,DE85473237950448018774,2026-09-20,CA,595,2,sess_958516
+ORD100397,Mia Silva,mia312.silva@outlook.com,24564,1980-01-03,Sports,624.53,BankTransfer,,,2025-10-06,NG,4086,5,sess_632491
+ORD100398,Grace Tanaka,grace976.tanaka@outlook.com,74946,1965-06-23,Sports,1722.95,BankTransfer,,DE76074635701447204962,2025-09-14,FR,4341,4,sess_797305
+ORD100399,Grace Brown,grace698.brown@gmail.com,24468,1960-01-24,Sports,1036.38,Visa,,,2026-11-26,BR,2605,5,sess_179608
+ORD100400,Priya Kim,priya595.kim@yahoo.com,54551,1969-03-28,Toys,2013.32,ApplePay,4137 2509 4944 8782,DE81017242558909868944,2025-11-14,FR,983,2,sess_820265
+ORD100401,Kenji Lopez,kenji985.lopez@gmail.com,47792,1993-06-26,Toys,1684.01,Visa,4901 5403 7502 6343,,2026-10-22,CA,2311,3,sess_388188
+ORD100402,Emma Garcia,emma553.garcia@gmail.com,41551,1963-12-12,Electronics,2260.95,BankTransfer,,,2025-08-03,BR,1777,5,sess_116034
+ORD100403,Zara Rossi,zara861.rossi@proton.me,83972,1998-03-27,Clothing,1273.89,Visa,4715 2690 1699 9069,,2026-10-10,IN,3285,1,sess_594617
+ORD100404,Priya Garcia,priya978.garcia@outlook.com,39009,1963-12-02,Clothing,1063.09,Mastercard,,,2025-04-13,CA,1736,4,sess_761255
+ORD100405,Zara Johnson,zara63.johnson@outlook.com,91245,2004-09-07,Groceries,1857.08,BankTransfer,4284 4553 9458 4500,,2025-09-22,DE,1713,5,sess_632980
+ORD100406,Kenji Ito,kenji63.ito@proton.me,76768,1999-08-01,Electronics,1961.39,ApplePay,4265 7722 6137 5690,,2025-05-15,BR,2546,3,sess_661176
+ORD100407,Diego Singh,diego164.singh@outlook.com,59198,1988-02-26,Toys,1737.6,ApplePay,,,2025-06-15,NG,3202,5,sess_903596
+ORD100408,Noah Johnson,noah921.johnson@outlook.com,28350,1955-01-07,Toys,853.93,Mastercard,,,2026-11-22,NG,1847,2,sess_433691
+ORD100409,Alex Singh,alex284.singh@gmail.com,37453,2003-12-25,Sports,2249.43,Mastercard,,DE93083014629913223310,2026-12-03,BR,1542,2,sess_139927
+ORD100410,Wei Muller,wei157.muller@gmail.com,30898,1997-03-03,Beauty,1555.73,PayPal,4807 1027 9914 5700,,2025-12-02,US,810,5,sess_858344
+ORD100411,Carlos Lopez,carlos755.lopez@yahoo.com,59381,1972-12-07,Clothing,391.38,Visa,4747 5213 3599 9821,,2026-01-07,JP,351,4,sess_771143
+ORD100412,Noah Kumar,noah10.kumar@yahoo.com,84076,1978-09-05,Beauty,2314.76,BankTransfer,4501 1538 4082 9966,,2024-06-26,NG,240,2,sess_999863
+ORD100413,Liam Tanaka,liam907.tanaka@proton.me,39420,1987-03-03,Books,1862.4,ApplePay,4939 9153 2517 6668,,2024-10-06,NG,2491,2,sess_892294
+ORD100414,Grace Ito,grace597.ito@icloud.com,27552,1964-10-19,Home & Kitchen,478.26,Visa,4796 5173 8976 5985,,2024-05-25,US,108,3,sess_660123
+ORD100415,Wei Muller,wei429.muller@gmail.com,20110,1987-10-26,Clothing,1591.07,BankTransfer,4213 3382 3901 4597,,2024-12-12,DE,3125,4,sess_871400
+ORD100416,Alex Kim,alex429.kim@gmail.com,12988,1962-03-26,Home & Kitchen,290.55,PayPal,4331 9606 4927 1499,,2024-11-07,NG,335,1,sess_707294
+ORD100417,Mia Brown,mia817.brown@gmail.com,89004,1966-02-03,Electronics,1945.22,Visa,4527 6864 5128 1404,,2025-12-14,JP,4314,5,sess_497009
+ORD100418,Priya Ito,priya404.ito@gmail.com,65137,1963-02-13,Sports,2031.76,Visa,4728 4270 4995 4784,DE34245101159197003552,2024-02-01,NG,4967,5,sess_820757
+ORD100419,Elena Johnson,elena582.johnson@outlook.com,38353,1971-03-27,Toys,2402.18,ApplePay,,,2026-02-08,IN,4669,3,sess_919681
+ORD100420,Emma Chen,emma371.chen@icloud.com,73417,1991-12-27,Groceries,1234.06,Visa,4319 4365 1700 7573,,2025-05-14,DE,4319,3,sess_539822
+ORD100421,Diego Silva,diego539.silva@icloud.com,57021,1967-08-11,Beauty,1560.73,Visa,4134 8522 2023 2487,DE58265094393350891765,2024-12-12,NG,4287,4,sess_451748
+ORD100422,Yuki Singh,yuki709.singh@yahoo.com,40076,2005-06-16,Toys,1251.02,Visa,4840 1212 9050 2903,,2026-12-13,CA,589,1,sess_830646
+ORD100423,Noah Lopez,noah624.lopez@yahoo.com,90614,1957-07-07,Sports,1195.65,Mastercard,4272 6181 6508 6389,DE40145139307632173699,2024-02-10,DE,540,4,sess_125824
+ORD100424,Carlos Kumar,carlos212.kumar@outlook.com,35078,1974-11-15,Books,1326.38,PayPal,,,2024-01-16,IN,1143,5,sess_883417
+ORD100425,Emma Petrov,emma25.petrov@gmail.com,97764,1971-04-19,Groceries,2436.1,PayPal,4281 6593 2043 9806,,2024-11-23,BR,494,5,sess_474904
+ORD100426,Omar Silva,omar81.silva@icloud.com,47997,1983-08-04,Electronics,1399.85,PayPal,4348 6863 8154 5170,,2025-04-12,FR,506,4,sess_412479
+ORD100427,Yuki Tanaka,yuki9.tanaka@yahoo.com,99808,1972-03-11,Groceries,2487.47,PayPal,,,2024-08-05,NG,2246,4,sess_789149
+ORD100428,Diego Silva,diego540.silva@icloud.com,48579,1961-01-25,Clothing,994.32,ApplePay,4132 1300 5094 5440,,2024-09-16,US,3991,1,sess_609853
+ORD100429,Zara Kim,zara410.kim@icloud.com,76608,1976-09-08,Home & Kitchen,1705.86,ApplePay,4842 2941 6235 5390,,2026-12-13,US,4290,2,sess_920583
+ORD100430,Priya Singh,priya553.singh@icloud.com,14326,2000-06-19,Toys,957.11,Visa,4538 8928 7252 5422,,2025-07-20,CA,1265,3,sess_341620
+ORD100431,Diego Garcia,diego749.garcia@yahoo.com,64050,1956-05-13,Clothing,731.09,Mastercard,4470 6197 1471 2133,,2025-11-05,DE,1866,4,sess_242734
+ORD100432,Sofia Ito,sofia331.ito@outlook.com,77879,1964-05-20,Clothing,1046.37,ApplePay,4317 7315 6760 1343,,2026-10-01,CA,1347,4,sess_716149
+ORD100433,Raj Chen,raj382.chen@gmail.com,40147,1984-12-07,Toys,140.87,PayPal,4635 5634 8776 5808,DE15592625362874981001,2025-05-16,DE,1162,4,sess_342765
+ORD100434,Noah Kumar,noah745.kumar@gmail.com,65119,1999-11-05,Groceries,1528.18,Visa,,DE31201940145504194595,2024-07-12,BR,1630,4,sess_720723
+ORD100435,Raj Chen,raj319.chen@yahoo.com,71500,1969-02-13,Sports,1058.08,PayPal,,,2024-12-18,NG,1478,1,sess_459055
+ORD100436,Diego Muller,diego364.muller@gmail.com,30385,1957-05-15,Sports,44.25,PayPal,,DE96571297826757977593,2025-11-22,NG,47,1,sess_499711
+ORD100437,Noah Petrov,noah915.petrov@icloud.com,84781,1957-09-10,Clothing,2315.31,BankTransfer,4370 7625 1722 8350,,2024-04-28,DE,1782,5,sess_623655
+ORD100438,Raj Lopez,raj999.lopez@outlook.com,74158,1984-07-16,Books,2440.99,Mastercard,4042 7244 6353 5927,,2024-06-27,CA,4797,1,sess_393882
+ORD100439,Omar Nguyen,omar318.nguyen@gmail.com,78796,1959-11-08,Beauty,1221.42,ApplePay,4744 5010 6943 7878,,2025-03-14,BR,496,2,sess_183639
+ORD100440,Grace Lopez,grace658.lopez@icloud.com,49268,2003-03-28,Beauty,2258.66,Mastercard,,DE77872059420805495363,2024-10-27,IN,4518,5,sess_534749
+ORD100441,Grace Petrov,grace9.petrov@icloud.com,64994,1994-10-14,Toys,2268.68,ApplePay,4009 3609 7752 3159,,2024-05-07,JP,873,1,sess_933126
+ORD100442,Fatima Muller,fatima275.muller@outlook.com,79334,1998-03-15,Sports,163.89,Visa,,,2026-09-05,JP,358,4,sess_707877
+ORD100443,Mia Garcia,mia138.garcia@gmail.com,51964,1997-06-03,Sports,2314.55,Visa,4419 1912 2437 6765,,2024-11-15,FR,4185,5,sess_787805
+ORD100444,Mia Okafor,mia951.okafor@outlook.com,63184,1991-11-18,Toys,864.76,ApplePay,,,2024-06-26,BR,3911,2,sess_397831
+ORD100445,Fatima Ito,fatima611.ito@yahoo.com,25145,1994-08-21,Books,602.38,Mastercard,4573 5965 6379 5578,,2025-12-07,CA,4014,1,sess_918591
+ORD100446,Chidi Lopez,chidi201.lopez@outlook.com,78715,1986-10-02,Books,1728.03,BankTransfer,4738 9173 5305 9127,,2026-12-02,BR,4042,3,sess_181181
+ORD100447,Grace Kim,grace121.kim@icloud.com,22984,1998-08-25,Groceries,1031.63,Visa,,,2026-10-03,CA,832,3,sess_569629
+ORD100448,Diego Patel,diego557.patel@icloud.com,12105,1969-04-15,Home & Kitchen,230.26,Visa,4758 2889 4510 1915,DE30630122857578084510,2024-03-28,NG,1365,4,sess_946095
+ORD100449,Emma Garcia,emma753.garcia@icloud.com,52428,1994-02-03,Home & Kitchen,1626.65,ApplePay,,,2026-12-18,IN,2709,4,sess_134769
+ORD100450,Diego Chen,diego870.chen@yahoo.com,59780,1958-05-04,Electronics,642.09,BankTransfer,4951 3774 6064 4432,,2024-12-03,NG,4243,1,sess_879917
+ORD100451,Noah Muller,noah298.muller@yahoo.com,65146,1987-05-20,Electronics,1575.66,PayPal,4806 3185 1881 5650,,2025-02-11,JP,870,4,sess_682297
+ORD100452,Fatima Kumar,fatima671.kumar@gmail.com,62074,2003-03-07,Clothing,998.91,PayPal,4108 6155 7246 7804,,2026-07-01,DE,3494,5,sess_683293
+ORD100453,Noah Haddad,noah333.haddad@gmail.com,13067,1997-05-22,Electronics,1620.15,Mastercard,,,2024-09-23,IN,2576,2,sess_772479
+ORD100454,Wei Muller,wei922.muller@icloud.com,46562,1981-08-20,Groceries,2350.49,PayPal,,,2025-10-10,BR,4463,5,sess_145971
+ORD100455,Omar Patel,omar667.patel@proton.me,25322,1964-11-12,Home & Kitchen,971.64,ApplePay,,,2025-09-18,IN,4977,1,sess_692280
+ORD100456,Priya Garcia,priya735.garcia@outlook.com,35739,2003-08-22,Clothing,417.36,PayPal,4844 9782 7973 2370,,2025-12-05,FR,630,2,sess_788508
+ORD100457,Raj Silva,raj563.silva@proton.me,81310,1961-06-24,Electronics,536.55,Visa,4540 4208 4258 9499,,2026-03-20,CA,3246,5,sess_812902
+ORD100458,Omar Singh,omar399.singh@gmail.com,87253,1985-09-17,Beauty,2472.78,Visa,,,2026-05-13,CA,4038,1,sess_543384
+ORD100459,Wei Okafor,wei778.okafor@outlook.com,35824,2005-06-05,Clothing,652.17,PayPal,4770 9583 9288 4190,,2026-10-26,US,4833,2,sess_835300
+ORD100460,Mia Silva,mia402.silva@gmail.com,89886,1958-05-14,Home & Kitchen,1390.0,BankTransfer,4013 6497 2198 7042,,2025-06-23,IN,1480,4,sess_933644
+ORD100461,Sofia Johnson,sofia149.johnson@outlook.com,90713,2000-01-12,Groceries,308.13,Visa,,,2025-10-23,CA,3406,2,sess_899831
+ORD100462,Kenji Johnson,kenji764.johnson@icloud.com,16643,1970-12-23,Home & Kitchen,2017.86,PayPal,,,2026-10-03,FR,2123,4,sess_445754
+ORD100463,Kenji Rossi,kenji825.rossi@proton.me,27195,1966-04-14,Home & Kitchen,2489.2,Mastercard,4048 8958 7483 9942,,2024-08-11,US,1309,5,sess_991113
+ORD100464,Noah Silva,noah111.silva@icloud.com,29443,1979-06-22,Groceries,2179.41,Visa,,,2025-06-16,NG,2277,3,sess_648994
+ORD100465,Grace Muller,grace102.muller@outlook.com,88214,1997-02-19,Electronics,1020.42,ApplePay,,,2025-08-04,IN,153,3,sess_417249
+ORD100466,Yuki Silva,yuki834.silva@gmail.com,63059,1960-04-27,Electronics,574.15,Mastercard,4055 3467 1187 5707,,2025-08-13,DE,3412,5,sess_843011
+ORD100467,Emma Muller,emma665.muller@outlook.com,67346,1987-12-08,Beauty,661.41,BankTransfer,4181 6717 1779 4796,,2025-09-02,FR,978,2,sess_839190
+ORD100468,Carlos Kim,carlos273.kim@yahoo.com,22451,1990-09-07,Beauty,2031.94,Mastercard,,,2024-06-07,IN,4905,3,sess_508347
+ORD100469,Raj Singh,raj579.singh@icloud.com,41232,1974-03-13,Toys,1680.97,ApplePay,4464 2794 6393 8784,,2025-08-06,NG,2204,5,sess_858711
+ORD100470,Chidi Chen,chidi935.chen@proton.me,64238,1998-02-11,Home & Kitchen,644.68,ApplePay,4454 1503 4716 1392,,2025-05-26,US,2510,4,sess_695121
+ORD100471,Grace Kumar,grace56.kumar@gmail.com,30130,1964-02-19,Sports,1297.64,ApplePay,,,2025-11-27,IN,104,4,sess_211511
+ORD100472,Omar Nguyen,omar289.nguyen@gmail.com,57770,2002-08-12,Clothing,261.39,Visa,,,2025-02-15,NG,814,4,sess_379966
+ORD100473,Wei Tanaka,wei367.tanaka@yahoo.com,47090,1982-07-24,Clothing,105.96,Mastercard,,DE63540855866553975278,2025-09-28,FR,1448,4,sess_668663
+ORD100474,Raj Rossi,raj936.rossi@outlook.com,76702,1965-10-13,Toys,506.65,Visa,,,2024-10-13,DE,1146,1,sess_972179
+ORD100475,Priya Muller,priya445.muller@yahoo.com,79096,2000-06-12,Clothing,2100.44,Visa,4978 1252 7656 8124,,2025-01-12,BR,2839,5,sess_762903
+ORD100476,Raj Petrov,raj823.petrov@yahoo.com,12792,1985-07-09,Beauty,1521.91,PayPal,4690 7616 7728 1037,DE11777740107075709834,2026-04-14,IN,2423,1,sess_556598
+ORD100477,Liam Ali,liam219.ali@gmail.com,98507,1972-05-24,Groceries,2035.49,Visa,,DE69986118155779217002,2025-07-25,CA,1073,5,sess_584007
+ORD100478,Grace Petrov,grace339.petrov@yahoo.com,12226,2000-03-06,Electronics,1313.36,Visa,4036 6438 4023 9899,,2026-02-23,BR,3349,4,sess_221943
+ORD100479,Raj Garcia,raj733.garcia@yahoo.com,57427,1976-12-08,Home & Kitchen,666.77,BankTransfer,4195 8207 2811 4280,,2026-12-25,IN,1100,2,sess_149470
+ORD100480,Fatima Ito,fatima647.ito@gmail.com,28349,2000-05-18,Beauty,2331.22,ApplePay,,,2026-04-10,US,3714,5,sess_214940
+ORD100481,Raj Brown,raj942.brown@proton.me,15887,1963-12-10,Beauty,1292.25,ApplePay,4814 7347 5703 5096,,2024-04-10,NG,1916,3,sess_860131
+ORD100482,Sofia Lopez,sofia419.lopez@outlook.com,71556,1970-06-27,Toys,2312.45,Mastercard,4683 8212 9580 9963,,2026-04-22,JP,4418,4,sess_350786
+ORD100483,Wei Okafor,wei423.okafor@outlook.com,51451,1966-09-15,Clothing,1513.89,PayPal,4831 9271 7853 9479,,2024-05-15,IN,2511,5,sess_665841
+ORD100484,Priya Singh,priya137.singh@outlook.com,65239,1976-12-18,Beauty,1818.1,BankTransfer,4888 7389 4157 3421,,2025-06-23,US,3758,4,sess_650252
+ORD100485,Mia Tanaka,mia722.tanaka@gmail.com,18714,1990-03-19,Electronics,1830.22,ApplePay,4990 6186 4082 7685,,2026-07-12,BR,3782,5,sess_124912
+ORD100486,Noah Lopez,noah366.lopez@icloud.com,74749,1992-04-14,Groceries,2338.76,BankTransfer,,,2026-10-22,BR,1917,3,sess_788372
+ORD100487,Liam Rossi,liam610.rossi@icloud.com,14232,1956-04-17,Books,778.98,BankTransfer,4518 3917 7735 2149,DE91561459226934332088,2024-09-22,CA,1757,2,sess_867899
+ORD100488,Yuki Haddad,yuki884.haddad@proton.me,23621,1999-09-22,Books,1788.75,PayPal,4948 4769 9564 6644,,2026-04-06,CA,3621,2,sess_401559
+ORD100489,Omar Nguyen,omar750.nguyen@gmail.com,66494,1994-04-14,Beauty,650.64,ApplePay,4146 1258 2669 6301,,2025-07-12,NG,4432,2,sess_247416
+ORD100490,Wei Petrov,wei823.petrov@outlook.com,64636,1969-04-02,Books,329.74,BankTransfer,4232 1444 4603 9791,,2025-01-05,DE,1510,2,sess_898142
+ORD100491,Grace Petrov,grace945.petrov@proton.me,17652,1968-10-05,Toys,1742.27,PayPal,4043 7030 5361 7749,DE63620253328720286665,2024-03-09,BR,2334,3,sess_162865
+ORD100492,Carlos Petrov,carlos184.petrov@outlook.com,45043,1970-09-01,Clothing,533.23,PayPal,,,2024-08-28,FR,3441,2,sess_613005
+ORD100493,Kenji Muller,kenji709.muller@gmail.com,20925,2000-11-18,Beauty,682.17,Mastercard,,,2024-06-20,BR,3810,5,sess_141904
+ORD100494,Liam Haddad,liam97.haddad@icloud.com,15695,1962-07-14,Home & Kitchen,1794.61,ApplePay,4640 5775 6284 7714,DE84996484629716985509,2025-10-18,NG,1912,5,sess_126472
+ORD100495,Elena Haddad,elena196.haddad@yahoo.com,84192,1975-03-11,Books,2208.95,ApplePay,4152 5038 7214 3940,,2024-12-02,FR,4402,3,sess_776762
+ORD100496,Chidi Ito,chidi406.ito@outlook.com,47391,1992-12-19,Toys,714.07,ApplePay,4307 1499 4155 8247,,2026-01-12,IN,759,5,sess_654548
+ORD100497,Anika Novak,anika56.novak@gmail.com,24809,1957-06-27,Sports,2170.43,Visa,,,2025-02-10,CA,744,1,sess_159685
+ORD100498,Zara Kumar,zara740.kumar@icloud.com,59034,1977-04-19,Clothing,689.56,BankTransfer,,,2025-08-25,FR,3551,3,sess_569791
+ORD100499,Sofia Johnson,sofia381.johnson@outlook.com,87741,1972-05-06,Clothing,1427.86,PayPal,4551 2931 8370 5724,,2025-10-15,FR,2392,3,sess_399949
+ORD100500,Fatima Singh,fatima188.singh@gmail.com,44510,2000-04-19,Beauty,789.95,Mastercard,,,2026-01-26,US,4519,1,sess_291708
+ORD100501,Grace Petrov,grace27.petrov@yahoo.com,71517,1975-10-01,Groceries,544.37,ApplePay,,,2025-06-03,BR,3389,1,sess_276261
+ORD100502,Omar Singh,omar462.singh@icloud.com,35019,1976-06-01,Beauty,1984.57,Visa,,,2025-06-18,NG,1193,5,sess_535789
+ORD100503,Anika Singh,anika748.singh@outlook.com,99159,1982-11-07,Beauty,180.48,ApplePay,4238 9464 2636 2174,,2024-06-10,JP,2437,1,sess_489962
+ORD100504,Grace Petrov,grace793.petrov@proton.me,78990,1990-10-13,Electronics,1371.29,BankTransfer,,,2024-03-23,BR,1087,1,sess_172072
+ORD100505,Liam Patel,liam42.patel@icloud.com,64479,1960-10-04,Books,1890.75,ApplePay,4022 8048 6000 2980,,2025-03-24,NG,3035,2,sess_482252
+ORD100506,Priya Kumar,priya122.kumar@outlook.com,97268,1979-01-28,Beauty,765.12,PayPal,,,2025-06-25,IN,1848,2,sess_443335
+ORD100507,Alex Lopez,alex276.lopez@icloud.com,91301,1964-03-04,Books,673.82,BankTransfer,4570 2180 3708 1921,,2026-10-02,US,2336,3,sess_125868
+ORD100508,Elena Ito,elena625.ito@outlook.com,98944,1986-07-07,Toys,231.81,PayPal,4951 9669 2152 8853,,2025-08-28,BR,2500,3,sess_618414
+ORD100509,Omar Novak,omar966.novak@outlook.com,48861,1966-11-14,Beauty,435.16,Mastercard,4492 2440 2672 4199,,2024-01-06,CA,309,5,sess_531770
+ORD100510,Alex Ito,alex74.ito@icloud.com,15809,1963-01-26,Toys,1766.65,ApplePay,,,2026-11-23,NG,2742,1,sess_448119
+ORD100511,Sofia Ali,sofia725.ali@proton.me,10658,1980-04-09,Beauty,421.2,Visa,4911 9709 4751 2419,,2025-08-11,US,350,2,sess_656912
+ORD100512,Chidi Rossi,chidi189.rossi@gmail.com,39247,1991-11-28,Electronics,452.33,Mastercard,4426 4557 6801 2108,DE52447201314683565688,2025-09-22,NG,1015,3,sess_935987
+ORD100513,Liam Lopez,liam369.lopez@yahoo.com,38358,1971-04-03,Clothing,1625.12,PayPal,,,2026-03-24,CA,4051,5,sess_637208
+ORD100514,Carlos Brown,carlos248.brown@outlook.com,27396,1977-11-10,Books,413.23,ApplePay,,,2024-09-07,BR,3996,1,sess_945499
+ORD100515,Wei Ali,wei996.ali@proton.me,87221,1955-09-08,Beauty,1855.22,BankTransfer,4584 4028 9645 6665,,2024-12-14,JP,3562,5,sess_906903
+ORD100516,Carlos Chen,carlos709.chen@outlook.com,39920,1957-04-26,Groceries,2338.45,BankTransfer,,DE85155366454628914947,2026-09-15,CA,4837,5,sess_399258
+ORD100517,Carlos Muller,carlos764.muller@icloud.com,21446,1973-11-17,Beauty,990.42,Mastercard,,,2025-11-09,US,2719,4,sess_124615
+ORD100518,Chidi Silva,chidi55.silva@icloud.com,74913,1956-05-04,Toys,1898.55,ApplePay,4255 3155 9919 9441,,2024-02-20,IN,2796,1,sess_781347
+ORD100519,Elena Silva,elena105.silva@yahoo.com,70728,1996-04-21,Groceries,2185.93,ApplePay,4402 7299 4460 8609,,2026-03-10,BR,856,5,sess_504586
+ORD100520,Raj Rossi,raj409.rossi@proton.me,89339,1980-11-14,Toys,1149.67,ApplePay,4689 3499 8570 8739,,2026-02-16,IN,1419,5,sess_730976
+ORD100521,Diego Brown,diego266.brown@gmail.com,90620,1980-06-13,Clothing,1123.96,BankTransfer,4644 3271 7681 8207,,2026-11-22,FR,3001,4,sess_608080
+ORD100522,Zara Petrov,zara415.petrov@icloud.com,68543,1962-01-16,Beauty,739.72,Mastercard,4684 9423 9616 9175,,2026-07-25,BR,1853,1,sess_854653
+ORD100523,Kenji Novak,kenji392.novak@outlook.com,62310,1984-06-08,Books,168.38,PayPal,,,2026-07-15,US,1077,5,sess_869142
+ORD100524,Grace Muller,grace329.muller@proton.me,44319,1977-02-11,Clothing,275.15,BankTransfer,4722 5871 1881 9302,DE48837932161785354543,2025-05-13,US,1282,5,sess_750930
+ORD100525,Raj Singh,raj628.singh@yahoo.com,94123,2001-01-01,Beauty,1598.94,Mastercard,4970 1990 2054 6751,,2026-01-28,DE,719,1,sess_623857
+ORD100526,Raj Kim,raj652.kim@proton.me,66495,1969-01-08,Beauty,51.05,PayPal,4976 5522 3266 5738,,2026-11-26,CA,3154,3,sess_798440
+ORD100527,Grace Nguyen,grace678.nguyen@gmail.com,58753,2001-11-14,Home & Kitchen,2454.54,BankTransfer,,DE17213149944485539619,2024-04-13,JP,1544,5,sess_566082
+ORD100528,Alex Rossi,alex945.rossi@yahoo.com,26188,1991-02-15,Beauty,881.79,PayPal,,,2024-09-24,NG,2644,2,sess_726696
+ORD100529,Raj Rossi,raj730.rossi@gmail.com,75035,1974-04-15,Electronics,2133.85,Visa,,DE60009356996921859226,2024-09-26,US,460,1,sess_207103
+ORD100530,Kenji Garcia,kenji274.garcia@outlook.com,31359,1998-02-20,Sports,2182.06,Visa,,DE61986342965027334511,2024-06-01,DE,1309,3,sess_786688
+ORD100531,Liam Muller,liam133.muller@proton.me,86020,1970-04-08,Beauty,591.93,ApplePay,,,2024-04-14,DE,3071,3,sess_324748
+ORD100532,Sofia Lopez,sofia540.lopez@yahoo.com,22452,1993-05-10,Groceries,467.54,Visa,4042 3263 4391 3222,,2026-03-01,FR,3033,1,sess_183696
+ORD100533,Sofia Silva,sofia922.silva@icloud.com,77537,1966-05-16,Groceries,1338.46,ApplePay,4754 8626 2966 6504,,2025-11-09,FR,4431,2,sess_613280
+ORD100534,Alex Kim,alex783.kim@proton.me,74219,1970-07-13,Books,347.83,Mastercard,,,2026-03-23,NG,2078,1,sess_458820
+ORD100535,Zara Silva,zara372.silva@yahoo.com,67384,1972-12-20,Groceries,172.98,Mastercard,4177 9276 2657 9597,DE69841559831086692971,2024-03-01,JP,4345,4,sess_286220
+ORD100536,Noah Rossi,noah650.rossi@gmail.com,35200,1964-04-22,Home & Kitchen,2016.56,ApplePay,4067 6459 2731 6682,,2024-02-23,DE,3940,3,sess_292366
+ORD100537,Mia Lopez,mia671.lopez@outlook.com,21905,1958-01-15,Sports,1382.2,BankTransfer,4157 4089 2824 9114,,2024-04-09,FR,1403,1,sess_789659
+ORD100538,Diego Garcia,diego554.garcia@proton.me,76368,1972-07-25,Home & Kitchen,1545.58,Visa,,DE12490100186037354213,2026-04-15,CA,2054,1,sess_531615
+ORD100539,Noah Tanaka,noah602.tanaka@proton.me,66503,1963-07-19,Electronics,1392.72,Visa,4039 4635 5506 7893,DE38829809923734768953,2024-07-22,DE,2457,2,sess_795805
+ORD100540,Anika Garcia,anika716.garcia@gmail.com,93104,1990-04-25,Toys,2442.41,PayPal,4310 1993 4923 3981,,2025-04-23,FR,2753,2,sess_884930
+ORD100541,Kenji Rossi,kenji240.rossi@proton.me,18789,1969-11-09,Toys,1381.66,Visa,4578 5596 1987 9440,,2025-12-07,US,40,3,sess_293651
+ORD100542,Wei Petrov,wei61.petrov@yahoo.com,47175,1958-03-05,Sports,414.22,PayPal,4818 3676 9110 6956,DE78989241340584805470,2025-07-26,NG,1725,4,sess_204650
+ORD100543,Priya Patel,priya972.patel@icloud.com,34126,1976-10-21,Electronics,74.5,Mastercard,4505 1225 4174 2140,DE27870823572515240246,2026-12-04,DE,1418,2,sess_704181
+ORD100544,Zara Ito,zara735.ito@gmail.com,40647,1986-12-01,Toys,1417.8,PayPal,,,2025-08-10,US,1816,5,sess_795891
+ORD100545,Kenji Okafor,kenji822.okafor@gmail.com,23829,1964-11-04,Clothing,1701.09,Visa,,,2026-10-28,DE,2657,2,sess_732584
+ORD100546,Wei Novak,wei114.novak@icloud.com,61345,1991-05-19,Beauty,2071.57,PayPal,,,2025-04-19,US,1617,4,sess_167928
+ORD100547,Sofia Ali,sofia834.ali@yahoo.com,95394,1955-08-01,Toys,2163.6,Visa,4039 4389 7138 6656,DE37815024130239854075,2026-08-09,IN,3432,2,sess_950463
+ORD100548,Carlos Novak,carlos551.novak@icloud.com,84775,2001-06-02,Sports,1954.59,PayPal,4495 9443 8378 9678,,2026-10-18,BR,4117,3,sess_580014
+ORD100549,Carlos Kumar,carlos181.kumar@yahoo.com,22545,1999-07-18,Sports,1995.64,ApplePay,,DE95168620769863470443,2026-06-08,JP,1006,1,sess_919033
+ORD100550,Emma Kim,emma722.kim@gmail.com,89937,1966-04-17,Electronics,2083.5,BankTransfer,,,2025-01-05,US,2158,3,sess_270931
+ORD100551,Chidi Rossi,chidi888.rossi@yahoo.com,12973,1972-06-08,Clothing,1017.04,Visa,4984 3233 9045 3991,DE47333442584499437228,2025-08-12,DE,4483,1,sess_862506
+ORD100552,Alex Novak,alex526.novak@gmail.com,35761,1962-09-15,Beauty,656.81,ApplePay,,,2025-01-04,US,2226,1,sess_345477
+ORD100553,Raj Muller,raj32.muller@proton.me,94366,1979-07-03,Home & Kitchen,10.81,ApplePay,,,2026-05-05,IN,3266,2,sess_876678
+ORD100554,Priya Brown,priya883.brown@outlook.com,72064,1975-02-14,Books,1036.97,Mastercard,4255 3816 5193 5958,,2026-07-27,CA,289,3,sess_433815
+ORD100555,Diego Garcia,diego56.garcia@proton.me,73106,1998-08-21,Groceries,1237.3,Visa,,,2025-06-10,DE,3705,5,sess_363931
+ORD100556,Raj Silva,raj622.silva@icloud.com,31328,1991-11-23,Electronics,2255.9,Visa,4796 6264 7808 6635,,2025-08-15,IN,3883,1,sess_255514
+ORD100557,Carlos Nguyen,carlos542.nguyen@gmail.com,84177,1979-02-15,Electronics,2053.64,BankTransfer,4668 9886 1445 6585,,2025-01-04,DE,4343,3,sess_313887
+ORD100558,Emma Okafor,emma656.okafor@outlook.com,42552,1970-09-07,Books,2410.73,BankTransfer,,,2024-09-05,BR,1962,2,sess_537770
+ORD100559,Priya Ali,priya453.ali@yahoo.com,41433,1985-05-14,Beauty,550.16,PayPal,4092 8780 1079 4479,,2024-05-16,BR,2508,4,sess_669494
+ORD100560,Elena Ito,elena329.ito@icloud.com,17041,1977-03-06,Home & Kitchen,1308.22,ApplePay,4105 3714 4271 2501,,2026-08-22,JP,3667,3,sess_322622
+ORD100561,Sofia Patel,sofia164.patel@outlook.com,58186,2000-05-09,Clothing,500.7,BankTransfer,,,2024-08-08,DE,1851,2,sess_925526
+ORD100562,Omar Patel,omar613.patel@proton.me,45668,1982-02-14,Sports,563.95,Visa,4212 9797 9893 3282,,2024-11-13,JP,1467,5,sess_385313
+ORD100563,Omar Brown,omar849.brown@proton.me,67689,1966-08-18,Toys,1889.5,BankTransfer,4181 8524 4214 9311,,2024-10-12,FR,2474,4,sess_853527
+ORD100564,Chidi Chen,chidi451.chen@icloud.com,78180,1994-12-13,Sports,921.7,BankTransfer,,,2025-08-13,JP,1679,3,sess_844819
+ORD100565,Grace Nguyen,grace267.nguyen@gmail.com,28563,1992-05-25,Toys,551.26,ApplePay,4629 2192 8050 8273,,2025-05-08,NG,3276,5,sess_675791
+ORD100566,Omar Muller,omar287.muller@gmail.com,69375,1991-03-25,Sports,735.24,Mastercard,4395 9005 3384 7167,,2025-01-19,DE,2261,5,sess_496839
+ORD100567,Anika Muller,anika105.muller@outlook.com,11971,1971-11-10,Books,125.03,Visa,,DE64944676988294313185,2024-05-10,US,2530,2,sess_203912
+ORD100568,Zara Brown,zara203.brown@gmail.com,78502,1955-05-03,Toys,846.93,ApplePay,,,2026-06-06,FR,2345,1,sess_194555
+ORD100569,Raj Nguyen,raj974.nguyen@icloud.com,82909,1961-08-07,Home & Kitchen,440.77,Mastercard,,,2024-12-18,US,2466,2,sess_287223
+ORD100570,Yuki Kim,yuki867.kim@yahoo.com,72702,1959-09-06,Groceries,431.42,ApplePay,4345 2500 3730 8936,,2025-10-01,JP,2906,1,sess_581634
+ORD100571,Grace Silva,grace170.silva@outlook.com,68743,1996-11-26,Books,1905.29,PayPal,,DE22530592831835800963,2024-05-06,IN,4822,4,sess_456681
+ORD100572,Grace Tanaka,grace717.tanaka@outlook.com,35205,1966-09-28,Home & Kitchen,1268.27,Visa,4135 2826 2984 4945,,2025-08-22,BR,3518,2,sess_706621
+ORD100573,Sofia Petrov,sofia879.petrov@proton.me,44732,1970-01-13,Sports,1847.0,PayPal,,,2025-01-14,BR,1987,5,sess_716144
+ORD100574,Chidi Okafor,chidi548.okafor@yahoo.com,74564,1981-05-14,Electronics,1078.68,ApplePay,4466 7106 4638 3230,,2026-01-18,CA,3767,1,sess_321612
+ORD100575,Carlos Johnson,carlos512.johnson@proton.me,95839,1974-01-02,Toys,233.78,Visa,4130 4604 4183 9712,,2024-01-27,CA,3016,4,sess_823877
+ORD100576,Omar Ali,omar635.ali@proton.me,43329,1986-01-26,Books,896.7,BankTransfer,,,2025-01-01,US,751,5,sess_330193
+ORD100577,Raj Petrov,raj615.petrov@gmail.com,76431,2005-05-09,Groceries,1160.78,Mastercard,,,2025-10-28,JP,4231,1,sess_743401
+ORD100578,Emma Tanaka,emma684.tanaka@proton.me,16107,1970-06-19,Groceries,2000.13,Mastercard,,,2025-06-26,NG,2587,3,sess_817019
+ORD100579,Mia Johnson,mia807.johnson@outlook.com,97160,1979-09-20,Clothing,624.23,Visa,4367 2907 1345 2633,,2024-09-28,DE,2127,5,sess_526886
+ORD100580,Zara Nguyen,zara270.nguyen@icloud.com,30159,1980-06-11,Electronics,227.94,Mastercard,4399 6463 3323 2283,,2026-11-22,FR,2078,2,sess_446529
+ORD100581,Carlos Singh,carlos373.singh@proton.me,61896,1984-04-11,Sports,521.64,Visa,,,2025-05-02,CA,4878,2,sess_707840
+ORD100582,Raj Okafor,raj233.okafor@yahoo.com,34093,1993-11-27,Home & Kitchen,825.79,BankTransfer,,,2026-12-10,IN,2139,5,sess_178932
+ORD100583,Alex Kumar,alex965.kumar@yahoo.com,85641,1972-03-07,Beauty,1275.67,Mastercard,4073 8335 7173 4050,DE24832583378508511379,2025-10-24,IN,403,5,sess_568239
+ORD100584,Zara Singh,zara571.singh@proton.me,40048,1988-06-06,Beauty,1004.65,ApplePay,4644 9110 8853 5196,DE17394784116756199256,2024-02-07,FR,1061,4,sess_156979
+ORD100585,Sofia Muller,sofia576.muller@proton.me,11628,1977-08-21,Home & Kitchen,1505.39,BankTransfer,,,2026-12-28,JP,879,5,sess_546099
+ORD100586,Omar Novak,omar993.novak@yahoo.com,67384,1976-05-07,Toys,809.11,BankTransfer,,DE49118728451714408300,2025-02-18,BR,4916,1,sess_343967
+ORD100587,Elena Nguyen,elena386.nguyen@icloud.com,76592,1979-06-16,Sports,1157.7,BankTransfer,4554 9598 5090 4073,,2024-02-25,JP,2578,1,sess_258644
+ORD100588,Diego Lopez,diego137.lopez@gmail.com,14137,1968-03-07,Sports,2160.9,PayPal,4995 1416 1605 1227,DE23577502086810962473,2026-11-20,CA,2933,1,sess_834668
+ORD100589,Yuki Rossi,yuki191.rossi@icloud.com,21964,2000-01-01,Clothing,1745.77,BankTransfer,4869 7237 9828 4896,,2026-04-17,JP,101,4,sess_786382
+ORD100590,Zara Brown,zara95.brown@proton.me,86778,1992-07-18,Electronics,1197.22,ApplePay,,DE41790741449481397054,2026-03-14,JP,541,5,sess_547020
+ORD100591,Zara Tanaka,zara462.tanaka@icloud.com,65599,1959-10-28,Beauty,1875.54,ApplePay,4711 7106 3927 7295,,2024-11-02,CA,4866,4,sess_497237
+ORD100592,Sofia Muller,sofia980.muller@yahoo.com,35547,1962-11-12,Toys,1594.54,BankTransfer,4010 6952 9538 2837,,2026-04-21,FR,288,5,sess_235852
+ORD100593,Diego Rossi,diego502.rossi@gmail.com,69440,1986-12-09,Clothing,1883.52,ApplePay,4231 4803 4726 8970,,2025-08-12,BR,3001,3,sess_874875
+ORD100594,Carlos Petrov,carlos174.petrov@outlook.com,35656,1961-09-01,Sports,241.94,BankTransfer,4274 8215 8135 8599,DE83383352992554310405,2026-01-08,DE,2670,2,sess_601427
+ORD100595,Priya Johnson,priya829.johnson@yahoo.com,50908,1995-02-06,Home & Kitchen,2352.26,BankTransfer,4321 9975 7138 7451,,2024-02-16,IN,959,3,sess_580882
+ORD100596,Emma Lopez,emma189.lopez@proton.me,92812,1980-08-23,Beauty,1157.06,Mastercard,4317 6556 5101 1242,DE59410993352207031291,2024-11-28,JP,1186,3,sess_637935
+ORD100597,Priya Novak,priya722.novak@outlook.com,26194,1979-02-06,Clothing,586.13,PayPal,4370 6518 9383 9780,,2025-09-16,IN,4486,4,sess_566173
+ORD100598,Sofia Muller,sofia426.muller@gmail.com,58025,1969-08-21,Clothing,1836.26,ApplePay,4056 9112 8900 2895,,2025-09-18,FR,3621,3,sess_652933
+ORD100599,Kenji Patel,kenji50.patel@yahoo.com,82104,2003-06-07,Home & Kitchen,1865.42,Mastercard,4156 4649 4178 6218,,2025-03-04,JP,476,3,sess_622770
+ORD100600,Mia Patel,mia782.patel@proton.me,74941,1992-06-14,Clothing,47.44,Visa,,,2026-12-21,DE,1685,2,sess_584242
+ORD100601,Priya Petrov,priya645.petrov@yahoo.com,85614,1980-06-03,Toys,2428.04,BankTransfer,,,2024-03-26,IN,3095,2,sess_228663
+ORD100602,Noah Nguyen,noah318.nguyen@proton.me,18493,2005-07-07,Beauty,385.04,Visa,4171 7639 8569 9290,,2024-03-23,US,4443,1,sess_237621
+ORD100603,Mia Petrov,mia256.petrov@gmail.com,82206,1973-03-02,Groceries,423.79,Mastercard,4474 3415 1216 9121,DE94893794740673578552,2026-02-24,DE,838,2,sess_849480
+ORD100604,Fatima Novak,fatima71.novak@gmail.com,23302,1977-04-11,Toys,1738.61,PayPal,4935 3483 8934 4729,DE43928859556882251369,2026-01-14,BR,3042,4,sess_258310
+ORD100605,Liam Chen,liam390.chen@yahoo.com,52391,1964-12-12,Toys,59.09,BankTransfer,4309 9771 8563 2887,,2024-09-14,BR,3829,3,sess_612346
+ORD100606,Sofia Okafor,sofia18.okafor@icloud.com,40054,1976-09-09,Beauty,1615.65,Mastercard,,DE53038928285756431896,2026-04-02,IN,1529,5,sess_405555
+ORD100607,Carlos Novak,carlos263.novak@outlook.com,71300,1967-03-13,Groceries,673.24,PayPal,,,2025-10-13,JP,1150,1,sess_781941
+ORD100608,Liam Lopez,liam266.lopez@proton.me,12797,2003-11-17,Sports,408.77,PayPal,4650 8430 5992 6858,,2025-10-09,DE,4473,2,sess_988337
+ORD100609,Mia Kim,mia843.kim@gmail.com,87321,1983-04-04,Sports,2470.73,PayPal,4601 9997 1591 1291,,2024-04-08,IN,2970,2,sess_566178
+ORD100610,Emma Ali,emma820.ali@icloud.com,74185,1960-12-24,Clothing,1942.07,BankTransfer,,DE86478585901388186365,2026-09-25,FR,1323,3,sess_134986
+ORD100611,Omar Johnson,omar721.johnson@icloud.com,35078,1970-02-08,Clothing,137.37,BankTransfer,,,2024-12-24,IN,1169,1,sess_756598
+ORD100612,Alex Haddad,alex21.haddad@icloud.com,96773,1955-01-16,Home & Kitchen,201.55,ApplePay,4977 4146 3858 2712,DE56202384720816966148,2026-06-24,BR,176,4,sess_709326
+ORD100613,Zara Chen,zara390.chen@yahoo.com,18226,1999-08-15,Groceries,354.6,Mastercard,,,2024-03-06,IN,2316,5,sess_862774
+ORD100614,Liam Garcia,liam690.garcia@gmail.com,37114,1987-04-06,Beauty,1258.11,Mastercard,,,2025-12-08,DE,4780,1,sess_546310
+ORD100615,Alex Garcia,alex591.garcia@proton.me,85804,1984-09-07,Books,67.89,ApplePay,,,2026-08-12,US,1765,4,sess_156485
+ORD100616,Yuki Tanaka,yuki509.tanaka@yahoo.com,93576,1979-08-06,Home & Kitchen,754.81,PayPal,,,2026-06-18,IN,3860,5,sess_315771
+ORD100617,Elena Patel,elena461.patel@yahoo.com,86604,1969-07-26,Electronics,757.68,Mastercard,,,2025-06-21,NG,510,5,sess_270904
+ORD100618,Priya Petrov,priya341.petrov@proton.me,85390,1982-06-15,Books,1166.72,ApplePay,,,2024-04-26,DE,2447,3,sess_941982
+ORD100619,Noah Lopez,noah937.lopez@proton.me,73736,1978-03-05,Beauty,592.84,ApplePay,,,2025-05-15,NG,1658,3,sess_171532
+ORD100620,Carlos Ito,carlos822.ito@proton.me,79080,1978-12-02,Electronics,1673.72,Visa,4957 1801 8789 8689,,2026-09-07,BR,4209,4,sess_219217
+ORD100621,Omar Lopez,omar711.lopez@gmail.com,44919,1965-08-10,Groceries,336.17,PayPal,4199 2505 5442 9086,DE81498295643094490988,2024-07-01,JP,3720,5,sess_669782
+ORD100622,Zara Nguyen,zara467.nguyen@outlook.com,34664,2000-07-07,Groceries,754.44,Visa,4105 1750 8814 5898,DE75232957921620804231,2025-09-28,DE,137,2,sess_201226
+ORD100623,Wei Singh,wei857.singh@gmail.com,97911,1970-05-06,Groceries,2248.45,Mastercard,,DE16256340431668042797,2026-01-19,US,1841,3,sess_606570
+ORD100624,Chidi Patel,chidi652.patel@yahoo.com,11764,1971-01-19,Books,1886.09,ApplePay,4383 6475 6158 3767,,2026-09-04,BR,68,4,sess_866856
+ORD100625,Noah Ito,noah961.ito@yahoo.com,47563,1958-01-14,Toys,948.88,ApplePay,,,2026-08-22,CA,2692,2,sess_660226
+ORD100626,Kenji Kumar,kenji49.kumar@icloud.com,31218,1969-07-24,Clothing,2285.42,ApplePay,4078 2097 4567 3726,,2024-11-08,FR,4686,2,sess_344113
+ORD100627,Emma Okafor,emma261.okafor@yahoo.com,75669,1980-01-11,Toys,1597.05,PayPal,,,2024-05-16,JP,3060,2,sess_545607
+ORD100628,Wei Chen,wei955.chen@gmail.com,62467,1970-03-02,Clothing,1135.69,Mastercard,4051 5837 7262 4960,,2024-11-01,FR,247,4,sess_249386
+ORD100629,Fatima Garcia,fatima189.garcia@icloud.com,71255,1995-04-10,Electronics,797.82,Mastercard,,,2026-05-02,FR,1916,4,sess_693000
+ORD100630,Fatima Haddad,fatima716.haddad@icloud.com,84440,1959-03-16,Home & Kitchen,144.32,PayPal,4972 8040 9375 2879,,2024-01-13,JP,1946,5,sess_160715
+ORD100631,Alex Petrov,alex337.petrov@icloud.com,59227,1999-03-25,Clothing,2173.62,Visa,4331 9972 9748 4531,,2024-10-26,CA,3864,2,sess_411972
+ORD100632,Elena Rossi,elena330.rossi@outlook.com,22042,1993-10-09,Toys,473.79,Visa,4689 7611 9568 3892,,2025-09-24,DE,1620,4,sess_148963
+ORD100633,Carlos Nguyen,carlos470.nguyen@proton.me,87922,1989-06-12,Clothing,995.52,Visa,,,2024-12-07,JP,4570,4,sess_830984
+ORD100634,Fatima Kim,fatima317.kim@outlook.com,70207,1955-07-26,Sports,946.0,PayPal,,,2026-03-09,FR,2595,1,sess_582990
+ORD100635,Yuki Lopez,yuki328.lopez@outlook.com,11957,1961-09-28,Electronics,482.47,PayPal,4721 5846 8226 8948,,2025-04-13,FR,509,1,sess_567056
+ORD100636,Anika Tanaka,anika368.tanaka@icloud.com,41428,1985-08-12,Groceries,1813.1,Visa,4246 4321 6222 3002,,2025-04-19,BR,3687,5,sess_376050
+ORD100637,Kenji Muller,kenji537.muller@proton.me,74214,1981-12-02,Groceries,351.77,PayPal,4156 3539 4658 3611,,2024-11-06,IN,4777,5,sess_643153
+ORD100638,Anika Petrov,anika73.petrov@yahoo.com,32852,1978-07-05,Sports,2051.8,PayPal,,,2025-10-23,NG,3633,2,sess_560549
+ORD100639,Carlos Singh,carlos990.singh@gmail.com,92417,1997-06-04,Home & Kitchen,487.65,PayPal,,DE39611299972553704274,2024-09-14,JP,3156,3,sess_231575
+ORD100640,Priya Muller,priya372.muller@gmail.com,14366,1976-05-16,Clothing,18.22,ApplePay,,,2026-09-14,JP,2338,3,sess_191057
+ORD100641,Sofia Tanaka,sofia631.tanaka@proton.me,97761,1986-07-24,Beauty,70.89,ApplePay,4132 5885 6922 3473,,2026-09-07,US,4700,4,sess_333559
+ORD100642,Emma Brown,emma824.brown@gmail.com,58144,2003-04-07,Sports,2067.07,BankTransfer,4764 1590 1095 7984,DE76525678236962283901,2024-10-06,NG,3012,1,sess_363533
+ORD100643,Emma Nguyen,emma67.nguyen@proton.me,47429,1974-06-22,Home & Kitchen,1554.73,ApplePay,4827 6225 3290 9310,,2025-01-05,FR,2654,5,sess_553627
+ORD100644,Fatima Patel,fatima597.patel@yahoo.com,17233,1969-03-12,Toys,397.04,PayPal,,DE28432153570369355529,2025-09-03,IN,753,4,sess_548229
+ORD100645,Yuki Singh,yuki972.singh@icloud.com,48080,1986-09-25,Groceries,1326.28,BankTransfer,,,2025-07-06,JP,4704,2,sess_410107
+ORD100646,Carlos Silva,carlos86.silva@outlook.com,21790,1999-11-02,Sports,1164.39,PayPal,4068 1761 3109 8623,,2025-03-13,BR,4446,3,sess_346918
+ORD100647,Omar Chen,omar444.chen@yahoo.com,18879,1990-07-20,Groceries,2062.97,ApplePay,4816 2853 6702 2010,,2024-08-16,NG,4554,5,sess_357269
+ORD100648,Kenji Rossi,kenji30.rossi@proton.me,68984,2004-05-24,Beauty,1290.08,BankTransfer,4144 4760 1737 1703,,2026-05-24,FR,1642,1,sess_443911
+ORD100649,Omar Okafor,omar570.okafor@icloud.com,96710,1958-06-06,Beauty,1384.95,Mastercard,4073 2595 2173 6066,,2026-07-19,NG,1935,3,sess_526830
+ORD100650,Omar Nguyen,omar546.nguyen@outlook.com,46423,1991-09-22,Sports,840.32,PayPal,4971 2009 7638 5296,,2025-06-18,NG,2716,1,sess_414758
+ORD100651,Fatima Patel,fatima534.patel@gmail.com,81134,1958-10-08,Sports,2341.76,Visa,4372 1533 4103 9921,,2025-01-20,JP,4927,4,sess_321251
+ORD100652,Yuki Okafor,yuki690.okafor@outlook.com,63219,1981-10-19,Beauty,522.58,PayPal,4291 7973 6423 3843,,2025-06-14,NG,955,3,sess_702203
+ORD100653,Sofia Rossi,sofia207.rossi@gmail.com,14185,1985-08-26,Beauty,1676.31,PayPal,,,2024-02-25,BR,4835,5,sess_603358
+ORD100654,Anika Patel,anika461.patel@outlook.com,12292,1955-08-05,Toys,1008.55,BankTransfer,4412 3663 7278 1233,DE20505366230251246841,2025-11-19,FR,2750,3,sess_425537
+ORD100655,Wei Lopez,wei831.lopez@icloud.com,36009,1955-09-04,Electronics,354.72,PayPal,4983 4702 6223 4406,,2025-01-10,BR,2091,3,sess_153387
+ORD100656,Anika Silva,anika194.silva@proton.me,21297,1964-03-17,Clothing,538.05,Mastercard,4919 8295 8890 7728,,2024-07-01,IN,1396,2,sess_834237
+ORD100657,Anika Okafor,anika316.okafor@yahoo.com,64049,1984-12-24,Clothing,2293.89,Mastercard,4726 8321 2994 3530,,2024-02-03,NG,3455,2,sess_741702
+ORD100658,Diego Muller,diego95.muller@proton.me,20412,1963-08-18,Toys,1018.07,ApplePay,4562 4396 7800 3815,,2025-01-15,BR,3499,2,sess_184712
+ORD100659,Zara Haddad,zara496.haddad@gmail.com,77425,1991-03-22,Toys,189.41,PayPal,4594 3038 4314 1625,,2026-10-04,BR,3287,1,sess_203524
+ORD100660,Kenji Nguyen,kenji62.nguyen@proton.me,63665,1957-07-02,Sports,912.51,ApplePay,4317 2943 7329 9778,,2025-01-01,FR,2270,5,sess_563106
+ORD100661,Elena Ito,elena390.ito@gmail.com,89573,1956-02-23,Books,82.84,Visa,4149 2210 1814 9925,,2024-04-22,NG,3841,4,sess_885399
+ORD100662,Yuki Kumar,yuki944.kumar@gmail.com,62690,1973-10-08,Toys,712.39,ApplePay,4067 3083 2328 6847,DE58937647861694270952,2024-05-14,CA,91,2,sess_718591
+ORD100663,Raj Kim,raj855.kim@outlook.com,70382,1984-11-23,Toys,1733.1,ApplePay,,,2024-05-06,CA,2002,2,sess_362614
+ORD100664,Liam Ali,liam68.ali@proton.me,78297,1969-03-06,Electronics,162.1,PayPal,4977 5082 1513 9547,,2024-10-08,BR,1903,3,sess_742974
+ORD100665,Zara Muller,zara395.muller@yahoo.com,35144,1962-03-21,Toys,1017.28,ApplePay,4238 1964 1269 5486,,2024-05-08,US,984,5,sess_720246
+ORD100666,Wei Rossi,wei176.rossi@gmail.com,39259,1991-08-17,Beauty,1407.52,BankTransfer,,,2025-10-23,JP,823,5,sess_296786
+ORD100667,Fatima Brown,fatima429.brown@proton.me,36165,1960-05-15,Toys,1167.08,BankTransfer,4353 4502 5844 3206,,2025-12-22,NG,746,2,sess_703366
+ORD100668,Wei Okafor,wei216.okafor@gmail.com,21165,1996-08-12,Clothing,396.5,ApplePay,4665 3510 6249 4596,,2024-12-07,FR,286,3,sess_101356
+ORD100669,Priya Garcia,priya19.garcia@icloud.com,52466,1984-08-16,Electronics,221.85,Mastercard,,,2025-12-20,BR,3968,3,sess_916357
+ORD100670,Elena Petrov,elena329.petrov@outlook.com,69730,1964-01-14,Home & Kitchen,953.29,BankTransfer,4115 9699 1041 2588,,2026-03-08,CA,4429,2,sess_226643
+ORD100671,Raj Ito,raj952.ito@icloud.com,68682,1995-05-24,Home & Kitchen,325.82,ApplePay,4976 4117 5533 8559,,2025-07-13,BR,4199,1,sess_748434
+ORD100672,Noah Haddad,noah100.haddad@outlook.com,62647,1968-10-08,Toys,2180.24,ApplePay,4281 5537 1765 8799,,2025-02-27,BR,3130,4,sess_569482
+ORD100673,Zara Muller,zara988.muller@gmail.com,39969,1963-08-26,Electronics,194.42,Mastercard,4183 5072 2165 9139,,2026-04-22,CA,3291,1,sess_483135
+ORD100674,Zara Nguyen,zara78.nguyen@outlook.com,45813,1984-04-18,Home & Kitchen,630.43,PayPal,4132 1975 1815 8883,DE28545077894554987915,2025-12-24,CA,3174,4,sess_960546
+ORD100675,Wei Tanaka,wei73.tanaka@icloud.com,75754,1981-05-01,Groceries,589.7,Mastercard,4457 9866 1911 5896,,2024-08-27,FR,148,3,sess_885726
+ORD100676,Omar Singh,omar376.singh@yahoo.com,54446,1997-06-08,Sports,1196.97,PayPal,4534 4654 5339 2344,,2024-01-06,NG,3067,4,sess_671266
+ORD100677,Zara Kim,zara565.kim@yahoo.com,99433,1964-10-25,Groceries,2343.84,PayPal,4281 1198 7213 8110,,2025-05-27,FR,4603,2,sess_763261
+ORD100678,Anika Rossi,anika795.rossi@proton.me,71362,1960-06-19,Electronics,656.43,ApplePay,,,2025-12-25,CA,2456,1,sess_944115
+ORD100679,Priya Patel,priya707.patel@outlook.com,27678,1997-06-12,Groceries,1277.9,PayPal,4155 7055 8492 2655,DE67674445918626966606,2025-02-18,US,1343,5,sess_691648
+ORD100680,Anika Nguyen,anika156.nguyen@yahoo.com,73236,1978-08-28,Electronics,1554.03,ApplePay,4562 6693 1514 9953,DE37877677484028984614,2026-05-26,DE,4326,1,sess_852498
+ORD100681,Diego Ito,diego889.ito@gmail.com,27920,2005-09-22,Toys,1007.95,Mastercard,4785 2490 6717 6032,,2024-11-23,IN,225,5,sess_997144
+ORD100682,Priya Ali,priya869.ali@outlook.com,33596,1986-02-04,Beauty,1381.49,PayPal,,,2024-01-28,BR,4466,4,sess_524927
+ORD100683,Liam Singh,liam315.singh@icloud.com,77997,1972-09-13,Toys,1008.12,ApplePay,4357 1889 1252 4323,,2025-09-26,NG,315,5,sess_264488
+ORD100684,Chidi Chen,chidi645.chen@yahoo.com,21899,1970-05-13,Beauty,1966.28,BankTransfer,4279 4918 1950 3196,,2026-05-22,NG,1969,3,sess_650477
+ORD100685,Yuki Johnson,yuki274.johnson@outlook.com,48067,1958-05-14,Toys,199.8,Mastercard,,,2026-10-26,NG,1606,3,sess_105564
+ORD100686,Diego Singh,diego652.singh@yahoo.com,38009,2000-08-02,Electronics,612.48,PayPal,4459 1107 9267 9125,,2024-12-10,IN,3785,1,sess_235353
+ORD100687,Liam Kumar,liam91.kumar@yahoo.com,35620,1983-04-05,Sports,2490.34,Mastercard,,DE78265316905946066862,2024-10-13,IN,1923,2,sess_236266
+ORD100688,Elena Muller,elena5.muller@proton.me,17689,1998-11-25,Home & Kitchen,1459.23,Mastercard,4814 3980 1017 1619,,2024-04-21,NG,596,3,sess_892880
+ORD100689,Liam Petrov,liam330.petrov@yahoo.com,91739,1984-04-08,Beauty,1674.06,BankTransfer,4779 1149 6807 9411,,2025-06-12,IN,2140,3,sess_695649
+ORD100690,Zara Silva,zara659.silva@yahoo.com,31309,1970-11-12,Clothing,1534.59,BankTransfer,,,2025-09-12,DE,95,1,sess_869074
+ORD100691,Raj Ali,raj567.ali@yahoo.com,37961,1959-03-03,Clothing,372.79,BankTransfer,,DE85423253443579985450,2026-11-11,BR,2766,4,sess_860798
+ORD100692,Zara Haddad,zara735.haddad@icloud.com,15753,1987-09-11,Sports,2162.4,Visa,,,2024-02-16,NG,4914,4,sess_883541
+ORD100693,Wei Patel,wei663.patel@gmail.com,10767,1982-03-05,Groceries,757.01,Visa,,,2025-04-20,US,2401,1,sess_707433
+ORD100694,Liam Brown,liam955.brown@yahoo.com,34401,1985-05-11,Books,2315.59,Visa,,,2025-02-01,BR,3149,3,sess_233525
+ORD100695,Diego Singh,diego589.singh@yahoo.com,83198,2004-01-05,Books,1275.73,BankTransfer,4267 4101 4494 4163,,2024-05-01,CA,299,5,sess_239678
+ORD100696,Raj Nguyen,raj231.nguyen@proton.me,39212,1968-03-16,Toys,2123.85,PayPal,,,2026-01-22,JP,3421,3,sess_863983
+ORD100697,Zara Tanaka,zara69.tanaka@yahoo.com,36692,1966-01-15,Toys,2140.85,Mastercard,4959 4272 3610 7242,,2026-05-04,NG,1873,3,sess_380883
+ORD100698,Zara Kim,zara589.kim@icloud.com,63761,1975-04-25,Toys,1437.88,Visa,4848 3535 8920 4542,,2024-12-22,BR,3245,3,sess_446194
+ORD100699,Yuki Ito,yuki568.ito@outlook.com,93040,1997-08-21,Clothing,2342.68,ApplePay,4113 1122 2755 8697,,2024-05-20,BR,1158,5,sess_122315
+ORD100700,Fatima Johnson,fatima76.johnson@outlook.com,67848,1967-06-23,Toys,1368.29,ApplePay,,,2025-04-19,DE,2019,1,sess_476019
+ORD100701,Zara Nguyen,zara225.nguyen@icloud.com,25003,1983-03-05,Clothing,695.42,ApplePay,4981 7412 8874 8933,,2024-01-07,NG,4427,3,sess_382722
+ORD100702,Liam Johnson,liam917.johnson@yahoo.com,13775,2005-12-01,Beauty,1035.94,PayPal,4314 7088 9479 9611,,2025-11-23,DE,3035,2,sess_561596
+ORD100703,Wei Patel,wei314.patel@icloud.com,89029,1982-05-21,Clothing,857.52,Mastercard,4004 6310 7062 2214,,2024-11-08,US,2247,3,sess_178070
+ORD100704,Raj Nguyen,raj587.nguyen@icloud.com,34335,1969-09-01,Beauty,1975.35,ApplePay,4019 4728 7827 9317,,2024-01-05,BR,1596,2,sess_859729
+ORD100705,Diego Novak,diego359.novak@outlook.com,75383,1987-01-22,Beauty,829.68,ApplePay,,,2025-04-05,CA,1423,3,sess_515095
+ORD100706,Grace Patel,grace769.patel@outlook.com,42413,1964-09-27,Books,2289.27,ApplePay,4365 4364 2229 7416,,2026-10-19,FR,2323,2,sess_150199
+ORD100707,Priya Nguyen,priya235.nguyen@proton.me,34519,1957-10-08,Beauty,1773.38,PayPal,4808 2542 7367 1049,,2026-10-21,BR,1087,5,sess_440099
+ORD100708,Fatima Silva,fatima452.silva@yahoo.com,60510,1969-06-02,Home & Kitchen,280.78,Mastercard,4508 5563 4544 3118,,2024-01-14,DE,234,2,sess_199685
+ORD100709,Carlos Brown,carlos525.brown@gmail.com,57756,1981-01-28,Electronics,1633.3,ApplePay,4465 2114 6806 7823,,2024-09-09,JP,2625,3,sess_644876
+ORD100710,Wei Ali,wei269.ali@icloud.com,64391,1986-04-11,Home & Kitchen,1726.56,Mastercard,4515 7708 7680 7860,,2025-03-06,IN,1504,4,sess_269598
+ORD100711,Alex Ali,alex446.ali@yahoo.com,75687,1967-07-12,Toys,2240.33,BankTransfer,,,2026-05-01,FR,3601,3,sess_836297
+ORD100712,Liam Muller,liam989.muller@gmail.com,12224,1993-09-21,Beauty,107.92,Visa,,,2026-12-25,BR,4781,5,sess_652961
+ORD100713,Carlos Garcia,carlos465.garcia@proton.me,68295,1967-01-25,Electronics,1679.71,Mastercard,,,2026-07-13,FR,4347,1,sess_538275
+ORD100714,Alex Tanaka,alex32.tanaka@gmail.com,70164,1978-10-09,Sports,999.73,Mastercard,4932 3997 2376 2547,,2025-08-13,DE,2362,1,sess_328375
+ORD100715,Wei Rossi,wei368.rossi@yahoo.com,40328,2002-10-13,Beauty,1250.65,PayPal,,,2024-08-21,DE,2848,2,sess_808738
+ORD100716,Zara Patel,zara381.patel@yahoo.com,76858,1983-04-28,Toys,2470.32,BankTransfer,4843 4067 7877 8246,,2025-06-26,FR,2510,5,sess_343173
+ORD100717,Zara Nguyen,zara745.nguyen@outlook.com,87510,2003-12-24,Toys,2051.08,PayPal,4942 2501 4017 4030,,2026-10-16,FR,4827,1,sess_257098
+ORD100718,Mia Petrov,mia309.petrov@gmail.com,39161,1974-05-10,Books,992.12,ApplePay,4949 6579 4018 3344,,2025-01-13,NG,2998,3,sess_932272
+ORD100719,Alex Petrov,alex402.petrov@outlook.com,53219,1988-11-28,Home & Kitchen,1650.19,Mastercard,4966 7772 9755 8561,,2025-04-11,BR,1914,5,sess_989838
+ORD100720,Wei Chen,wei994.chen@icloud.com,90699,1999-09-18,Groceries,1408.29,PayPal,,,2025-12-18,FR,4168,5,sess_710282
+ORD100721,Wei Kumar,wei873.kumar@proton.me,40975,1991-09-03,Groceries,1210.18,ApplePay,4968 9784 6493 8816,,2025-06-22,JP,865,1,sess_781801
+ORD100722,Alex Garcia,alex532.garcia@icloud.com,46603,1967-12-04,Toys,1302.16,Mastercard,4354 6916 8539 2533,,2024-12-22,FR,1254,5,sess_283269
+ORD100723,Grace Okafor,grace280.okafor@yahoo.com,65797,1998-02-12,Home & Kitchen,1261.77,PayPal,4274 6085 9248 9145,,2026-09-11,FR,1758,4,sess_385686
+ORD100724,Priya Johnson,priya189.johnson@yahoo.com,98236,2004-06-23,Home & Kitchen,417.99,Mastercard,,,2026-05-27,CA,1155,4,sess_566632
+ORD100725,Liam Petrov,liam783.petrov@icloud.com,60089,1989-04-10,Sports,1469.87,Visa,4820 4477 8482 9049,,2026-01-13,JP,1753,4,sess_611194
+ORD100726,Fatima Muller,fatima622.muller@gmail.com,44745,1999-10-05,Clothing,2061.89,Visa,4199 5887 9295 5375,,2025-11-21,JP,734,3,sess_221987
+ORD100727,Noah Garcia,noah826.garcia@proton.me,60174,1981-06-12,Clothing,2449.26,Visa,,,2025-02-07,FR,4409,2,sess_193113
+ORD100728,Fatima Patel,fatima631.patel@icloud.com,91488,1956-04-27,Electronics,626.6,ApplePay,4880 4634 4808 5247,,2024-07-02,JP,1164,5,sess_260468
+ORD100729,Diego Okafor,diego494.okafor@gmail.com,36466,1995-09-09,Beauty,1498.72,PayPal,4514 7539 2116 1012,DE44118751715830090980,2026-08-01,JP,507,3,sess_811715
+ORD100730,Kenji Singh,kenji45.singh@yahoo.com,45897,2003-04-25,Beauty,686.75,PayPal,4235 3267 8335 8650,DE59340386680382132620,2024-08-02,JP,254,4,sess_277075
+ORD100731,Sofia Singh,sofia354.singh@outlook.com,93044,1963-05-17,Groceries,2298.49,BankTransfer,4137 6952 7205 1063,,2024-10-19,JP,2108,2,sess_335819
+ORD100732,Chidi Silva,chidi345.silva@icloud.com,77037,1964-11-27,Toys,1535.7,BankTransfer,4516 2492 7436 5022,DE40818801367639827570,2024-11-15,BR,4838,3,sess_784109
+ORD100733,Omar Silva,omar62.silva@proton.me,50389,1976-06-06,Sports,461.17,ApplePay,4848 2927 4673 3033,,2025-05-06,BR,652,1,sess_651932
+ORD100734,Chidi Patel,chidi165.patel@proton.me,67663,1993-06-15,Sports,767.61,Mastercard,4130 9166 8531 7823,,2026-02-10,JP,3359,1,sess_158228
+ORD100735,Wei Petrov,wei114.petrov@gmail.com,99656,1997-03-11,Home & Kitchen,818.2,Mastercard,,,2025-08-13,NG,2613,4,sess_727684
+ORD100736,Diego Johnson,diego562.johnson@outlook.com,10139,2003-01-24,Toys,537.92,ApplePay,4181 7004 9737 4046,DE93292108085127498362,2025-01-10,IN,3521,1,sess_874152
+ORD100737,Liam Ali,liam949.ali@outlook.com,77032,1987-10-08,Beauty,1356.73,BankTransfer,4326 6627 7010 7643,DE90839976820190324081,2024-07-19,IN,3883,2,sess_811481
+ORD100738,Zara Kumar,zara974.kumar@outlook.com,18160,2004-07-20,Beauty,96.16,PayPal,4940 1750 7002 2623,,2025-02-27,BR,4312,3,sess_510802
+ORD100739,Mia Rossi,mia717.rossi@proton.me,56459,1972-07-15,Home & Kitchen,103.9,BankTransfer,4761 9952 4006 9496,,2026-07-27,NG,4250,3,sess_419799
+ORD100740,Alex Johnson,alex387.johnson@gmail.com,20556,1999-12-11,Books,691.66,PayPal,,,2025-04-13,DE,4068,2,sess_176436
+ORD100741,Emma Novak,emma785.novak@gmail.com,12754,1980-02-07,Toys,1387.68,ApplePay,,,2024-02-06,US,4627,4,sess_924567
+ORD100742,Kenji Silva,kenji643.silva@proton.me,94421,1993-05-01,Beauty,1079.33,ApplePay,,,2025-08-10,FR,1736,4,sess_142570
+ORD100743,Liam Chen,liam662.chen@icloud.com,78626,1980-05-19,Beauty,1023.61,Visa,4863 4106 9264 7870,,2025-11-06,IN,2576,2,sess_660417
+ORD100744,Zara Kumar,zara224.kumar@yahoo.com,19080,1991-03-06,Electronics,1883.99,BankTransfer,,,2026-03-17,FR,3413,5,sess_209827
+ORD100745,Carlos Singh,carlos279.singh@yahoo.com,96630,2003-08-01,Beauty,2252.72,Mastercard,4600 5480 2969 5010,DE49408520165121188702,2024-03-14,IN,1941,4,sess_910597
+ORD100746,Anika Novak,anika546.novak@gmail.com,82355,1978-07-01,Groceries,1859.44,Visa,4347 7344 2363 2465,,2025-05-14,JP,1076,1,sess_674591
+ORD100747,Emma Johnson,emma231.johnson@outlook.com,59776,1978-04-01,Home & Kitchen,439.91,PayPal,4396 9486 4483 6174,,2026-03-16,US,2309,1,sess_938940
+ORD100748,Alex Ito,alex449.ito@outlook.com,21673,1998-01-21,Home & Kitchen,2050.13,ApplePay,4235 8939 9898 7493,,2025-09-16,FR,4106,1,sess_946687
+ORD100749,Wei Kumar,wei61.kumar@gmail.com,23668,1980-06-21,Clothing,1085.78,BankTransfer,4620 3653 1832 9436,,2025-07-23,DE,1934,2,sess_729575
+ORD100750,Anika Lopez,anika483.lopez@outlook.com,54995,1967-01-03,Electronics,1356.89,ApplePay,,,2024-12-07,DE,2619,2,sess_135667
+ORD100751,Zara Singh,zara169.singh@outlook.com,65194,1975-12-18,Clothing,770.84,Visa,,,2026-06-27,NG,815,5,sess_826244
+ORD100752,Chidi Ito,chidi854.ito@icloud.com,70807,1982-08-14,Toys,843.19,BankTransfer,4716 3807 4098 1105,,2026-01-23,DE,4833,4,sess_812346
+ORD100753,Liam Haddad,liam500.haddad@outlook.com,94683,1988-06-01,Toys,614.22,Visa,,,2025-11-01,BR,4350,3,sess_757873
+ORD100754,Priya Johnson,priya968.johnson@icloud.com,82354,1964-12-18,Toys,230.45,ApplePay,,,2024-09-14,FR,4138,3,sess_899446
+ORD100755,Fatima Rossi,fatima470.rossi@gmail.com,79649,1982-07-07,Beauty,779.38,BankTransfer,,,2026-05-18,FR,4187,4,sess_653550
+ORD100756,Sofia Garcia,sofia864.garcia@outlook.com,18951,1997-10-21,Sports,1263.72,ApplePay,,DE85293432388158534039,2024-03-16,US,3998,2,sess_900885
+ORD100757,Yuki Garcia,yuki629.garcia@icloud.com,70866,1982-08-23,Books,361.0,BankTransfer,4770 7347 1875 2682,,2026-08-16,JP,143,2,sess_956808
+ORD100758,Liam Johnson,liam871.johnson@yahoo.com,35718,1966-12-18,Electronics,1864.53,BankTransfer,4584 7110 6725 8952,,2024-07-13,FR,2397,4,sess_881642
+ORD100759,Zara Silva,zara598.silva@icloud.com,68965,1958-06-24,Home & Kitchen,842.49,PayPal,4936 3695 8358 9810,DE46326736400977408090,2025-05-20,JP,727,4,sess_398883
+ORD100760,Chidi Tanaka,chidi227.tanaka@yahoo.com,14821,1986-07-07,Electronics,2402.8,Visa,,,2024-04-01,FR,1429,2,sess_243513
+ORD100761,Sofia Rossi,sofia662.rossi@proton.me,27497,1973-02-21,Electronics,2105.43,Visa,4686 6554 3493 8216,,2026-04-24,IN,3798,5,sess_213847
+ORD100762,Elena Nguyen,elena499.nguyen@outlook.com,59858,1967-03-21,Electronics,1282.96,Visa,4307 7214 8150 6107,,2025-02-05,JP,116,5,sess_810755
+ORD100763,Noah Nguyen,noah221.nguyen@proton.me,28234,1975-05-04,Electronics,2184.34,ApplePay,4664 3474 1689 3844,DE90471871639764868276,2024-06-01,FR,2281,4,sess_845705
+ORD100764,Chidi Ali,chidi981.ali@proton.me,75751,1988-02-25,Clothing,1292.17,PayPal,4419 2534 7573 7070,,2024-03-08,JP,3308,3,sess_971588
+ORD100765,Zara Patel,zara752.patel@outlook.com,89118,1993-10-26,Beauty,2063.19,BankTransfer,4946 4581 2742 7902,,2025-04-27,FR,1297,5,sess_315483
+ORD100766,Alex Silva,alex921.silva@icloud.com,25934,1983-06-17,Electronics,1825.72,PayPal,4588 1513 4198 5795,,2026-06-07,NG,956,2,sess_970987
+ORD100767,Omar Singh,omar613.singh@outlook.com,24875,1998-11-02,Clothing,647.83,BankTransfer,,DE79392515157501227190,2025-07-01,NG,507,2,sess_557110
+ORD100768,Elena Rossi,elena582.rossi@gmail.com,98309,1986-12-03,Clothing,36.35,Mastercard,4415 3490 7677 4694,,2025-01-18,IN,1931,1,sess_850952
+ORD100769,Omar Tanaka,omar474.tanaka@outlook.com,87669,1968-07-23,Beauty,2051.34,BankTransfer,4919 1137 7004 3759,DE97355623452355036509,2024-06-28,FR,4477,3,sess_903654
+ORD100770,Emma Nguyen,emma241.nguyen@yahoo.com,70829,2005-04-23,Toys,303.72,PayPal,4843 6728 8825 9194,,2026-03-01,DE,1141,4,sess_796460
+ORD100771,Kenji Muller,kenji792.muller@outlook.com,90100,1978-02-17,Electronics,2235.52,Mastercard,4555 6675 2004 8524,,2024-03-06,DE,1111,4,sess_838764
+ORD100772,Anika Singh,anika954.singh@proton.me,25621,1977-08-06,Electronics,1302.62,BankTransfer,,,2026-11-20,CA,276,5,sess_277327
+ORD100773,Noah Ito,noah303.ito@yahoo.com,49363,1969-08-15,Beauty,1246.68,Visa,4477 3738 5640 5283,,2026-11-11,NG,1413,2,sess_569782
+ORD100774,Wei Nguyen,wei309.nguyen@outlook.com,71806,1968-05-16,Home & Kitchen,1471.28,Mastercard,4032 5568 6444 1317,,2025-09-19,NG,2792,2,sess_908457
+ORD100775,Grace Ito,grace843.ito@gmail.com,88135,1974-04-14,Clothing,1588.21,Visa,4208 2678 9608 7729,,2025-07-10,BR,3597,4,sess_976812
+ORD100776,Yuki Patel,yuki77.patel@icloud.com,10680,1955-02-17,Sports,2458.52,BankTransfer,,,2025-03-22,IN,3784,4,sess_910233
+ORD100777,Emma Silva,emma884.silva@outlook.com,52867,1980-04-05,Toys,863.69,Visa,4484 3460 1445 1983,,2026-05-20,NG,2357,5,sess_838305
+ORD100778,Kenji Chen,kenji707.chen@gmail.com,25036,1997-04-05,Groceries,1296.09,Mastercard,4962 3845 2403 8499,,2026-10-21,US,3046,4,sess_264147
+ORD100779,Wei Chen,wei599.chen@outlook.com,50131,1985-12-07,Sports,580.08,PayPal,4759 2861 5907 9290,DE48848795660664189456,2026-02-05,US,3426,1,sess_898366
+ORD100780,Kenji Singh,kenji367.singh@outlook.com,51534,1966-09-26,Home & Kitchen,1334.09,BankTransfer,,DE77520456620450682566,2025-06-22,IN,3615,3,sess_370545
+ORD100781,Grace Kim,grace895.kim@yahoo.com,56314,1971-11-14,Books,1596.56,PayPal,,,2025-12-09,IN,1554,5,sess_802498
+ORD100782,Alex Muller,alex814.muller@gmail.com,28261,2004-01-09,Groceries,657.68,BankTransfer,,,2025-08-08,US,689,5,sess_557832
+ORD100783,Noah Silva,noah827.silva@icloud.com,19545,1957-04-10,Toys,1657.13,Mastercard,4703 8466 5340 2388,,2024-04-28,IN,2632,5,sess_409498
+ORD100784,Anika Lopez,anika526.lopez@yahoo.com,42292,1983-11-12,Beauty,589.11,Visa,4905 7152 5964 5320,,2025-07-03,FR,4660,5,sess_777853
+ORD100785,Sofia Garcia,sofia849.garcia@outlook.com,37673,1984-05-21,Sports,957.0,BankTransfer,,,2026-06-04,FR,2962,5,sess_264805
+ORD100786,Yuki Kim,yuki859.kim@icloud.com,72796,1964-09-25,Sports,1696.41,Mastercard,4217 1555 7396 4547,,2025-03-28,JP,2893,3,sess_717524
+ORD100787,Anika Singh,anika907.singh@icloud.com,31421,1958-11-12,Toys,1003.67,ApplePay,,,2024-03-16,NG,1502,2,sess_184634
+ORD100788,Anika Brown,anika666.brown@proton.me,70288,1986-09-26,Home & Kitchen,1002.5,Visa,4035 6152 9296 6848,,2024-09-01,BR,3824,5,sess_872916
+ORD100789,Omar Garcia,omar67.garcia@outlook.com,74849,2003-11-04,Home & Kitchen,2040.33,BankTransfer,,,2025-10-19,FR,1789,2,sess_905226
+ORD100790,Sofia Ito,sofia396.ito@icloud.com,95693,1988-11-04,Sports,400.31,PayPal,,DE52876492640742135755,2024-11-28,DE,1919,3,sess_642195
+ORD100791,Noah Rossi,noah242.rossi@gmail.com,15065,2001-04-24,Electronics,1835.45,ApplePay,4901 8026 9605 9894,,2024-11-26,DE,350,2,sess_795268
+ORD100792,Anika Kim,anika484.kim@proton.me,96988,1970-03-18,Clothing,760.75,Visa,,,2025-05-26,JP,1846,5,sess_495895
+ORD100793,Carlos Muller,carlos844.muller@gmail.com,89335,1966-01-17,Toys,2163.97,ApplePay,4044 9007 6917 7039,,2024-04-17,BR,4162,2,sess_507431
+ORD100794,Fatima Haddad,fatima926.haddad@icloud.com,54351,1983-08-13,Books,1062.57,BankTransfer,4391 4248 7705 2939,,2024-03-16,DE,1361,4,sess_690206
+ORD100795,Diego Garcia,diego752.garcia@gmail.com,78904,1983-05-26,Home & Kitchen,1211.67,Mastercard,4526 2294 2564 1665,,2026-12-12,FR,2555,3,sess_371565
+ORD100796,Emma Novak,emma950.novak@proton.me,96628,1979-05-01,Clothing,945.08,PayPal,4455 9689 1894 1797,,2025-03-18,IN,4469,4,sess_677812
+ORD100797,Zara Okafor,zara735.okafor@proton.me,15491,1996-03-24,Toys,2468.1,BankTransfer,,,2026-07-08,BR,2384,5,sess_112196
+ORD100798,Omar Ali,omar5.ali@yahoo.com,18942,1972-11-17,Groceries,46.4,Visa,4755 4109 6743 7354,,2025-02-09,CA,1858,2,sess_137147
+ORD100799,Elena Kumar,elena483.kumar@gmail.com,16922,1977-05-03,Electronics,2055.74,PayPal,4633 5302 4127 8027,,2026-08-22,FR,204,4,sess_353379

@@ -1,0 +1,505 @@
+{
+  "generator": "synthetic-column-catalog-v1",
+  "seed": 20261023,
+  "rows_per_column": 128,
+  "split_counts": {
+    "development": 18,
+    "validation": 12,
+    "test": 24
+  },
+  "rubric": {
+    "High": "direct identity/contact/account/precise location or sensitive individual-level health/financial data",
+    "Medium": "person-linked or sensitive-domain detail without direct identity",
+    "Low": "public, coarse, aggregate, or non-linkable operational data"
+  },
+  "caveat": "Author-defined synthetic labels; not a legal standard or evidence of real-world accuracy.",
+  "cases": [
+    {
+      "name": "mailbox_handle",
+      "tier": "High",
+      "kind": "email",
+      "rationale": "direct contact address",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "taxpayer_ref",
+      "tier": "High",
+      "kind": "ssn",
+      "rationale": "government-style unique identifier",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "subscriber_line",
+      "tier": "High",
+      "kind": "phone",
+      "rationale": "direct contact number",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "ledger_account",
+      "tier": "High",
+      "kind": "account",
+      "rationale": "financial account identifier",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "precise_fix",
+      "tier": "High",
+      "kind": "gps",
+      "rationale": "precise location trace",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "network_origin",
+      "tier": "High",
+      "kind": "ip",
+      "rationale": "potentially identifying network address",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "care_recipient",
+      "tier": "High",
+      "kind": "person_name",
+      "rationale": "direct personal name",
+      "split": "validation",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "payment_token",
+      "tier": "High",
+      "kind": "card",
+      "rationale": "payment credential-shaped synthetic value",
+      "split": "validation",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "travel_document",
+      "tier": "High",
+      "kind": "passport",
+      "rationale": "government travel identifier",
+      "split": "validation",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "birth_marker",
+      "tier": "High",
+      "kind": "dob",
+      "rationale": "directly identifying date of birth",
+      "split": "validation",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "clinical_narrative",
+      "tier": "High",
+      "kind": "sensitive_text",
+      "rationale": "individual-level health detail",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "face_template",
+      "tier": "High",
+      "kind": "unique_bio",
+      "rationale": "biometric-like unique vector",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "bank_routing_ref",
+      "tier": "High",
+      "kind": "account",
+      "rationale": "financial routing/account reference",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "contact_channel",
+      "tier": "High",
+      "kind": "missing_malformed_email",
+      "rationale": "contact field with malformed and valid values",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "home_position",
+      "tier": "High",
+      "kind": "gps",
+      "rationale": "precise coordinates mixed with blanks",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "member_secret_ref",
+      "tier": "High",
+      "kind": "opaque_unique",
+      "rationale": "unique person-linked reference",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "medical_claim_amount",
+      "tier": "High",
+      "kind": "money",
+      "rationale": "person-linked financial claim amount",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "voice_signature",
+      "tier": "High",
+      "kind": "unique_bio",
+      "rationale": "biometric-like feature values",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "care_category",
+      "tier": "Medium",
+      "kind": "health_category",
+      "rationale": "health category without direct identity",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "therapy_class",
+      "tier": "Medium",
+      "kind": "health_category",
+      "rationale": "treatment class without a person identifier",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "coverage_family",
+      "tier": "Medium",
+      "kind": "finance_category",
+      "rationale": "insurance product category",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "visit_band",
+      "tier": "Medium",
+      "kind": "health_category",
+      "rationale": "coarse health-service utilization",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "dose_range",
+      "tier": "Medium",
+      "kind": "health_category",
+      "rationale": "treatment intensity without identity",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "district_code",
+      "tier": "Medium",
+      "kind": "coarse_location",
+      "rationale": "coarse location that may support linkage",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "shift_pattern",
+      "tier": "Medium",
+      "kind": "schedule",
+      "rationale": "person-linked schedule pattern",
+      "split": "validation",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "device_session",
+      "tier": "Medium",
+      "kind": "opaque_unique",
+      "rationale": "unique operational session reference",
+      "split": "validation",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "energy_profile",
+      "tier": "Medium",
+      "kind": "numeric_wide",
+      "rationale": "fine-grained behavioral telemetry",
+      "split": "validation",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "billing_band",
+      "tier": "Medium",
+      "kind": "money",
+      "rationale": "financial amount band without account identifier",
+      "split": "validation",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "allergy_group",
+      "tier": "Medium",
+      "kind": "health_category",
+      "rationale": "sensitive health category",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "risk_segment",
+      "tier": "Medium",
+      "kind": "finance_category",
+      "rationale": "financial risk segment",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "service_duration",
+      "tier": "Medium",
+      "kind": "numeric_wide",
+      "rationale": "potentially linkable service behavior",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "treatment_phase",
+      "tier": "Medium",
+      "kind": "health_category",
+      "rationale": "health status over time",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "asset_serial",
+      "tier": "Medium",
+      "kind": "opaque_unique",
+      "rationale": "unique device reference that can link activity",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "work_zone",
+      "tier": "Medium",
+      "kind": "coarse_location",
+      "rationale": "workplace zone with contextual sensitivity",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "purchase_bracket",
+      "tier": "Medium",
+      "kind": "finance_category",
+      "rationale": "coarse personal spending category",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "wellness_index",
+      "tier": "Medium",
+      "kind": "numeric_wide",
+      "rationale": "individual-level wellness measurement",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "ambient_degrees",
+      "tier": "Low",
+      "kind": "ambient_numeric",
+      "rationale": "coarse ambient measurement",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "sky_state",
+      "tier": "Low",
+      "kind": "public_category",
+      "rationale": "public weather category",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "relay_online",
+      "tier": "Low",
+      "kind": "binary",
+      "rationale": "non-identifying device availability flag",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "protocol_revision",
+      "tier": "Low",
+      "kind": "public_category",
+      "rationale": "public software metadata",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "sample_bucket",
+      "tier": "Low",
+      "kind": "coarse_numeric",
+      "rationale": "coarse non-personal bucket",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "room_noise_band",
+      "tier": "Low",
+      "kind": "coarse_numeric",
+      "rationale": "coarse environmental measurement",
+      "split": "development",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "public_station",
+      "tier": "Low",
+      "kind": "public_category",
+      "rationale": "public infrastructure label",
+      "split": "validation",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "wind_class",
+      "tier": "Low",
+      "kind": "public_category",
+      "rationale": "coarse weather category",
+      "split": "validation",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "fan_state",
+      "tier": "Low",
+      "kind": "binary",
+      "rationale": "non-identifying equipment state",
+      "split": "validation",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "region_summary",
+      "tier": "Low",
+      "kind": "public_category",
+      "rationale": "public non-personal region label",
+      "split": "validation",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "firmware_track",
+      "tier": "Low",
+      "kind": "public_category",
+      "rationale": "public release channel",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "light_band",
+      "tier": "Low",
+      "kind": "coarse_numeric",
+      "rationale": "coarse ambient light measurement",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "event_counter",
+      "tier": "Low",
+      "kind": "coarse_numeric",
+      "rationale": "aggregate event count",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "calendar_quarter",
+      "tier": "Low",
+      "kind": "public_category",
+      "rationale": "coarse public time metadata",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "sensor_family",
+      "tier": "Low",
+      "kind": "all_missing",
+      "rationale": "synthetic field with all values missing; conservative fallback case",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "air_quality_band",
+      "tier": "Low",
+      "kind": "coarse_numeric",
+      "rationale": "coarse environmental measurement",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "maintenance_state",
+      "tier": "Low",
+      "kind": "public_category",
+      "rationale": "generic equipment state",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    },
+    {
+      "name": "rack_temperature",
+      "tier": "Low",
+      "kind": "ambient_numeric",
+      "rationale": "bounded non-personal telemetry",
+      "split": "test",
+      "rows": 128,
+      "seed": 20261023
+    }
+  ],
+  "split_policy": "Disjoint field names and value families; six development, four validation, and eight test cases per tier. Test set was not used for threshold selection."
+}

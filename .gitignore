@@ -1,0 +1,46 @@
+# Environment files (keep the template safe to commit)
+.env
+.env.*
+!.env.example
+
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+adaptive_api_dev.db
+*.db-wal
+*.db-shm
+*.sqlite3
+output/low_tier_store/
+frontend/node_modules/
+frontend/dist/
+.vercel/
+
+# Private keys and credentials
+*.pem
+*.key
+*.p12
+*.pfx
+*.secret
+*credentials*.json
+*service-account*.json
+credentials/
+.aws/
+id_rsa*
+id_ed25519*
+secrets/
+
+# Node / Hardhat generated dependencies and output
+blockchain/node_modules/
+blockchain/artifacts/
+blockchain/cache/
+blockchain/coverage/
+
+# Local run artifacts and generated frontend metadata
+output/*
+!output/.gitkeep
+frontend/tsconfig.tsbuildinfo
+.DS_Store

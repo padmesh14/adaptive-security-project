@@ -1,0 +1,7 @@
+[
+  {"inputs":[],"stateMutability":"nonpayable","type":"constructor"},
+  {"inputs":[{"internalType":"bytes32","name":"recordId","type":"bytes32"},{"internalType":"string","name":"cid","type":"string"}],"name":"storeCID","outputs":[],"stateMutability":"nonpayable","type":"function"},
+  {"inputs":[{"internalType":"bytes32","name":"recordId","type":"bytes32"}],"name":"getCID","outputs":[{"internalType":"string","name":"cid","type":"string"},{"internalType":"uint256","name":"timestamp","type":"uint256"},{"internalType":"address","name":"submittedBy","type":"address"}],"stateMutability":"view","type":"function"},
+  {"inputs":[],"name":"owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},
+  {"anonymous":false,"inputs":[{"indexed":true,"internalType":"bytes32","name":"recordId","type":"bytes32"},{"indexed":false,"internalType":"string","name":"cid","type":"string"},{"indexed":true,"internalType":"address","name":"submittedBy","type":"address"},{"indexed":false,"internalType":"uint256","name":"timestamp","type":"uint256"}],"name":"CIDStored","type":"event"}
+]

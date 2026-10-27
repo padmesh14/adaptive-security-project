@@ -1,0 +1,429 @@
+{
+  "benchmark": "crypto-components-v1",
+  "created_utc": "2026-10-23T11:14:45.723302+00:00",
+  "configuration": {
+    "sizes_bytes": [
+      1024,
+      16384,
+      262144,
+      1048576
+    ],
+    "repetitions": 30,
+    "warmups": 3,
+    "seed": 20261023,
+    "warmup_failures_by_operation": {}
+  },
+  "environment": {
+    "python": "3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]",
+    "platform": "macOS-15.8.1-arm64-arm-64bit",
+    "processor": "arm",
+    "logical_cpu_count": 8,
+    "cryptography": "50.0.2",
+    "numpy": "2.5.4"
+  },
+  "notes": {
+    "microbenchmarks": "ECDH keygen, agreement, HKDF, and AES-GCM isolate one operation; key pairs/shared inputs are pre-generated where the operation under test is agreement or derivation.",
+    "layer_experiments": "High layer-only cases use the existing ECDH/HKDF/AES helpers with the corresponding layer info labels; these are benchmark-only compositions, not production functions.",
+    "complete_operations": "Medium and High use the existing encrypt_for_tier entry points, including key setup and serialized result generation."
+  },
+  "raw_csv": "crypto-microbenchmark-20261023T111445Z-54270.csv",
+  "failed_measured_trials": 0,
+  "summary": [
+    {
+      "payload_bytes": 1024,
+      "operation": "High layer 1 experimental",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 9.829043313705673e-05,
+      "wall_median_seconds": 7.983349496498704e-05,
+      "wall_stdev_seconds": 5.5338901494352175e-05,
+      "wall_p95_seconds": 0.00015132066037040198
+    },
+    {
+      "payload_bytes": 1024,
+      "operation": "ECDH plus HKDF",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 3.5768035255993404e-05,
+      "wall_median_seconds": 3.500000457279384e-05,
+      "wall_stdev_seconds": 2.1126757893900636e-06,
+      "wall_p95_seconds": 4.013400757685304e-05
+    },
+    {
+      "payload_bytes": 1024,
+      "operation": "AES-GCM encryption",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 3.257097948032121e-06,
+      "wall_median_seconds": 3.145993105135858e-06,
+      "wall_stdev_seconds": 5.549259815882508e-07,
+      "wall_p95_seconds": 4.452154098544269e-06
+    },
+    {
+      "payload_bytes": 1024,
+      "operation": "ECDH agreement",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 3.748056478798389e-05,
+      "wall_median_seconds": 3.2083000405691564e-05,
+      "wall_stdev_seconds": 1.3078410778965362e-05,
+      "wall_p95_seconds": 7.368588703684508e-05
+    },
+    {
+      "payload_bytes": 1024,
+      "operation": "HKDF-SHA256 derivation",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 3.3527641789987685e-06,
+      "wall_median_seconds": 3.2710086088627577e-06,
+      "wall_stdev_seconds": 2.663316665317608e-07,
+      "wall_p95_seconds": 3.901754098478705e-06
+    },
+    {
+      "payload_bytes": 1024,
+      "operation": "High complete encryption",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.00017028900329023599,
+      "wall_median_seconds": 0.00015716701454948634,
+      "wall_stdev_seconds": 4.992605553380346e-05,
+      "wall_p95_seconds": 0.00021491875086212527
+    },
+    {
+      "payload_bytes": 1024,
+      "operation": "ECDH key-pair generation",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 1.5133303046847383e-05,
+      "wall_median_seconds": 1.3812503311783075e-05,
+      "wall_stdev_seconds": 3.11492067436866e-06,
+      "wall_p95_seconds": 2.1783864940516648e-05
+    },
+    {
+      "payload_bytes": 1024,
+      "operation": "Medium complete encryption",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.00010004856352073451,
+      "wall_median_seconds": 8.38959967950359e-05,
+      "wall_stdev_seconds": 5.7601532667147e-05,
+      "wall_p95_seconds": 0.0001320623399806208
+    },
+    {
+      "payload_bytes": 1024,
+      "operation": "High layer 2 experimental",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 7.680269870130966e-05,
+      "wall_median_seconds": 7.412550621666014e-05,
+      "wall_stdev_seconds": 8.225484944598755e-06,
+      "wall_p95_seconds": 8.384128595935179e-05
+    },
+    {
+      "payload_bytes": 16384,
+      "operation": "High layer 1 experimental",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.0001131748683595409,
+      "wall_median_seconds": 7.602050027344376e-05,
+      "wall_stdev_seconds": 0.00013079477624876903,
+      "wall_p95_seconds": 0.0002778626512736079
+    },
+    {
+      "payload_bytes": 16384,
+      "operation": "ECDH plus HKDF",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 5.193186613420645e-05,
+      "wall_median_seconds": 3.5520512028597295e-05,
+      "wall_stdev_seconds": 7.90043105923513e-05,
+      "wall_p95_seconds": 4.752483509946614e-05
+    },
+    {
+      "payload_bytes": 16384,
+      "operation": "AES-GCM encryption",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 5.588901694864035e-06,
+      "wall_median_seconds": 5.521011189557612e-06,
+      "wall_stdev_seconds": 6.238592291248265e-07,
+      "wall_p95_seconds": 6.898105493746698e-06
+    },
+    {
+      "payload_bytes": 16384,
+      "operation": "ECDH agreement",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 4.5366696819352605e-05,
+      "wall_median_seconds": 3.23335116263479e-05,
+      "wall_stdev_seconds": 2.3529583201590805e-05,
+      "wall_p95_seconds": 0.00010395203717052933
+    },
+    {
+      "payload_bytes": 16384,
+      "operation": "HKDF-SHA256 derivation",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 3.416803277408083e-06,
+      "wall_median_seconds": 3.3329997677356005e-06,
+      "wall_stdev_seconds": 4.0716078771946745e-07,
+      "wall_p95_seconds": 4.266703035682439e-06
+    },
+    {
+      "payload_bytes": 16384,
+      "operation": "High complete encryption",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.0002129471346658344,
+      "wall_median_seconds": 0.00019168699509464204,
+      "wall_stdev_seconds": 5.7878884417082014e-05,
+      "wall_p95_seconds": 0.0003017355906195005
+    },
+    {
+      "payload_bytes": 16384,
+      "operation": "ECDH key-pair generation",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 1.5330564929172395e-05,
+      "wall_median_seconds": 1.4500488759949803e-05,
+      "wall_stdev_seconds": 2.6154888549264916e-06,
+      "wall_p95_seconds": 2.172895619878545e-05
+    },
+    {
+      "payload_bytes": 16384,
+      "operation": "Medium complete encryption",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.0001529069326352328,
+      "wall_median_seconds": 0.00012525002239271998,
+      "wall_stdev_seconds": 9.492170753803664e-05,
+      "wall_p95_seconds": 0.00020963140123058104
+    },
+    {
+      "payload_bytes": 16384,
+      "operation": "High layer 2 experimental",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.0001298805291298777,
+      "wall_median_seconds": 8.56870028655976e-05,
+      "wall_stdev_seconds": 9.927163897001189e-05,
+      "wall_p95_seconds": 0.00036586659552995094
+    },
+    {
+      "payload_bytes": 262144,
+      "operation": "High layer 1 experimental",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.0001318235988340651,
+      "wall_median_seconds": 0.00011810350406449288,
+      "wall_stdev_seconds": 3.523468855084472e-05,
+      "wall_p95_seconds": 0.0002028037997661158
+    },
+    {
+      "payload_bytes": 262144,
+      "operation": "ECDH plus HKDF",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 3.8441633417581515e-05,
+      "wall_median_seconds": 3.5603996366262436e-05,
+      "wall_stdev_seconds": 7.144178819241964e-06,
+      "wall_p95_seconds": 5.7278948952443876e-05
+    },
+    {
+      "payload_bytes": 262144,
+      "operation": "AES-GCM encryption",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 5.2284696721471846e-05,
+      "wall_median_seconds": 3.868748899549246e-05,
+      "wall_stdev_seconds": 3.121711211161725e-05,
+      "wall_p95_seconds": 0.00012449549976736293
+    },
+    {
+      "payload_bytes": 262144,
+      "operation": "ECDH agreement",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 3.4192999980101986e-05,
+      "wall_median_seconds": 3.2208496122621e-05,
+      "wall_stdev_seconds": 9.060521871418599e-06,
+      "wall_p95_seconds": 3.69733985280618e-05
+    },
+    {
+      "payload_bytes": 262144,
+      "operation": "HKDF-SHA256 derivation",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 3.587465228823324e-06,
+      "wall_median_seconds": 3.4999975468963385e-06,
+      "wall_stdev_seconds": 4.7053820455484224e-07,
+      "wall_p95_seconds": 4.398102464620024e-06
+    },
+    {
+      "payload_bytes": 262144,
+      "operation": "High complete encryption",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.0008089403709163889,
+      "wall_median_seconds": 0.0007258750119945034,
+      "wall_stdev_seconds": 0.00015647828255548123,
+      "wall_p95_seconds": 0.0011462251481134443
+    },
+    {
+      "payload_bytes": 262144,
+      "operation": "ECDH key-pair generation",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 1.71598376861463e-05,
+      "wall_median_seconds": 1.4479010133072734e-05,
+      "wall_stdev_seconds": 1.3058425471282681e-05,
+      "wall_p95_seconds": 1.8356257351115338e-05
+    },
+    {
+      "payload_bytes": 262144,
+      "operation": "Medium complete encryption",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.0006938638291709746,
+      "wall_median_seconds": 0.0006213340093381703,
+      "wall_stdev_seconds": 0.00019709133780249777,
+      "wall_p95_seconds": 0.0011033517585019568
+    },
+    {
+      "payload_bytes": 262144,
+      "operation": "High layer 2 experimental",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.00013954993531418343,
+      "wall_median_seconds": 0.0001277705014217645,
+      "wall_stdev_seconds": 3.482810531528759e-05,
+      "wall_p95_seconds": 0.0002228453493444248
+    },
+    {
+      "payload_bytes": 1048576,
+      "operation": "High layer 1 experimental",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.0004667543039734786,
+      "wall_median_seconds": 0.00031860450690146536,
+      "wall_stdev_seconds": 0.0003322728848556441,
+      "wall_p95_seconds": 0.0012239774630870663
+    },
+    {
+      "payload_bytes": 1048576,
+      "operation": "ECDH plus HKDF",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 6.972223054617644e-05,
+      "wall_median_seconds": 4.38539864262566e-05,
+      "wall_stdev_seconds": 7.24725713820533e-05,
+      "wall_p95_seconds": 0.00020812485745409486
+    },
+    {
+      "payload_bytes": 1048576,
+      "operation": "AES-GCM encryption",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.00026486929952322197,
+      "wall_median_seconds": 0.000176270492374897,
+      "wall_stdev_seconds": 0.0002224605231825257,
+      "wall_p95_seconds": 0.000762283286894671
+    },
+    {
+      "payload_bytes": 1048576,
+      "operation": "ECDH agreement",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 7.916796797265609e-05,
+      "wall_median_seconds": 3.579151234589517e-05,
+      "wall_stdev_seconds": 0.00015114048441609835,
+      "wall_p95_seconds": 0.00029685000918107005
+    },
+    {
+      "payload_bytes": 1048576,
+      "operation": "HKDF-SHA256 derivation",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 9.55963235658904e-06,
+      "wall_median_seconds": 6.978982128202915e-06,
+      "wall_stdev_seconds": 7.278026104849575e-06,
+      "wall_p95_seconds": 2.154768881155176e-05
+    },
+    {
+      "payload_bytes": 1048576,
+      "operation": "High complete encryption",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.003613800068463509,
+      "wall_median_seconds": 0.0031367500050691888,
+      "wall_stdev_seconds": 0.0011496319783583255,
+      "wall_p95_seconds": 0.0057718897922313765
+    },
+    {
+      "payload_bytes": 1048576,
+      "operation": "ECDH key-pair generation",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.000133026465967608,
+      "wall_median_seconds": 2.7229005354456604e-05,
+      "wall_stdev_seconds": 0.00039794078020506885,
+      "wall_p95_seconds": 0.0005245874956017351
+    },
+    {
+      "payload_bytes": 1048576,
+      "operation": "Medium complete encryption",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.0028889513011866558,
+      "wall_median_seconds": 0.002471125000738539,
+      "wall_stdev_seconds": 0.0008764546041426887,
+      "wall_p95_seconds": 0.004705702197679782
+    },
+    {
+      "payload_bytes": 1048576,
+      "operation": "High layer 2 experimental",
+      "trials": 30,
+      "successful_trials": 30,
+      "failed_trials": 0,
+      "wall_mean_seconds": 0.0004957014694809914,
+      "wall_median_seconds": 0.0004183330020168796,
+      "wall_stdev_seconds": 0.00032300164463498207,
+      "wall_p95_seconds": 0.0008599793509347356
+    }
+  ]
+}

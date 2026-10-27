@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="760" viewBox="0 0 1120 760">
+<rect width="100%" height="100%" fill="white"/>
+<text x="95" y="38" font-family="sans-serif" font-size="22" font-weight="bold">Encryption tier benchmark</text>
+<text x="95" y="83" font-family="sans-serif" font-size="16">Encryption median (seconds, log scale)</text>
+<line x1="95" y1="340" x2="1080" y2="340" stroke="#555"/>
+<line x1="95" y1="95" x2="95" y2="340" stroke="#555"/>
+<line x1="95" y1="309.7" x2="1080" y2="309.7" stroke="#ddd"/>
+<text x="87" y="313.7" text-anchor="end" font-family="sans-serif" font-size="11">1e-05</text>
+<line x1="95" y1="233.2" x2="1080" y2="233.2" stroke="#ddd"/>
+<text x="87" y="237.2" text-anchor="end" font-family="sans-serif" font-size="11">0.0001</text>
+<line x1="95" y1="156.7" x2="1080" y2="156.7" stroke="#ddd"/>
+<text x="87" y="160.7" text-anchor="end" font-family="sans-serif" font-size="11">0.001</text>
+<text x="175.0" y="362" text-anchor="middle" font-family="sans-serif" font-size="12">1,024 B</text>
+<text x="450.0" y="362" text-anchor="middle" font-family="sans-serif" font-size="12">16,384 B</text>
+<text x="725.0" y="362" text-anchor="middle" font-family="sans-serif" font-size="12">262,144 B</text>
+<text x="1000.0" y="362" text-anchor="middle" font-family="sans-serif" font-size="12">1,048,576 B</text>
+<polyline points="175.0,328.8 450.0,270.2 725.0,180.7 1000.0,132.3" fill="none" stroke="#4e79a7" stroke-width="2"/>
+<circle cx="175.0" cy="328.8" r="4" fill="#4e79a7"/>
+<circle cx="450.0" cy="270.2" r="4" fill="#4e79a7"/>
+<circle cx="725.0" cy="180.7" r="4" fill="#4e79a7"/>
+<circle cx="1000.0" cy="132.3" r="4" fill="#4e79a7"/>
+<polyline points="175.0,317.6 450.0,247.8 725.0,155.9 1000.0,108.7" fill="none" stroke="#59a14f" stroke-width="2"/>
+<circle cx="175.0" cy="317.6" r="4" fill="#59a14f"/>
+<circle cx="450.0" cy="247.8" r="4" fill="#59a14f"/>
+<circle cx="725.0" cy="155.9" r="4" fill="#59a14f"/>
+<circle cx="1000.0" cy="108.7" r="4" fill="#59a14f"/>
+<polyline points="175.0,243.5 450.0,224.5 725.0,153.7 1000.0,108.2" fill="none" stroke="#f28e2b" stroke-width="2"/>
+<circle cx="175.0" cy="243.5" r="4" fill="#f28e2b"/>
+<circle cx="450.0" cy="224.5" r="4" fill="#f28e2b"/>
+<circle cx="725.0" cy="153.7" r="4" fill="#f28e2b"/>
+<circle cx="1000.0" cy="108.2" r="4" fill="#f28e2b"/>
+<polyline points="175.0,223.0 450.0,211.2 725.0,150.6 1000.0,106.2" fill="none" stroke="#e15759" stroke-width="2"/>
+<circle cx="175.0" cy="223.0" r="4" fill="#e15759"/>
+<circle cx="450.0" cy="211.2" r="4" fill="#e15759"/>
+<circle cx="725.0" cy="150.6" r="4" fill="#e15759"/>
+<circle cx="1000.0" cy="106.2" r="4" fill="#e15759"/>
+<line x1="95" y1="395" x2="113" y2="395" stroke="#4e79a7" stroke-width="3"/>
+<text x="119" y="399" font-family="sans-serif" font-size="12">SingleAESBaseline</text>
+<line x1="305" y1="395" x2="323" y2="395" stroke="#59a14f" stroke-width="3"/>
+<text x="329" y="399" font-family="sans-serif" font-size="12">Low</text>
+<line x1="515" y1="395" x2="533" y2="395" stroke="#f28e2b" stroke-width="3"/>
+<text x="539" y="399" font-family="sans-serif" font-size="12">Medium</text>
+<line x1="725" y1="395" x2="743" y2="395" stroke="#e15759" stroke-width="3"/>
+<text x="749" y="399" font-family="sans-serif" font-size="12">High</text>
+<text x="95" y="413" font-family="sans-serif" font-size="16">Decryption median (seconds, log scale)</text>
+<line x1="95" y1="670" x2="1080" y2="670" stroke="#555"/>
+<line x1="95" y1="425" x2="95" y2="670" stroke="#555"/>
+<line x1="95" y1="633.6" x2="1080" y2="633.6" stroke="#ddd"/>
+<text x="87" y="637.6" text-anchor="end" font-family="sans-serif" font-size="11">1e-05</text>
+<line x1="95" y1="555.2" x2="1080" y2="555.2" stroke="#ddd"/>
+<text x="87" y="559.2" text-anchor="end" font-family="sans-serif" font-size="11">0.0001</text>
+<line x1="95" y1="476.8" x2="1080" y2="476.8" stroke="#ddd"/>
+<text x="87" y="480.8" text-anchor="end" font-family="sans-serif" font-size="11">0.001</text>
+<text x="175.0" y="692" text-anchor="middle" font-family="sans-serif" font-size="12">1,024 B</text>
+<text x="450.0" y="692" text-anchor="middle" font-family="sans-serif" font-size="12">16,384 B</text>
+<text x="725.0" y="692" text-anchor="middle" font-family="sans-serif" font-size="12">262,144 B</text>
+<text x="1000.0" y="692" text-anchor="middle" font-family="sans-serif" font-size="12">1,048,576 B</text>
+<polyline points="175.0,658.1 450.0,581.1 725.0,486.2 1000.0,437.9" fill="none" stroke="#4e79a7" stroke-width="2"/>
+<circle cx="175.0" cy="658.1" r="4" fill="#4e79a7"/>
+<circle cx="450.0" cy="581.1" r="4" fill="#4e79a7"/>
+<circle cx="725.0" cy="486.2" r="4" fill="#4e79a7"/>
+<circle cx="1000.0" cy="437.9" r="4" fill="#4e79a7"/>
+<polyline points="175.0,658.5 450.0,581.1 725.0,486.0 1000.0,437.9" fill="none" stroke="#59a14f" stroke-width="2"/>
+<circle cx="175.0" cy="658.5" r="4" fill="#59a14f"/>
+<circle cx="450.0" cy="581.1" r="4" fill="#59a14f"/>
+<circle cx="725.0" cy="486.0" r="4" fill="#59a14f"/>
+<circle cx="1000.0" cy="437.9" r="4" fill="#59a14f"/>
+<polyline points="175.0,657.0 450.0,581.1 725.0,486.5 1000.0,437.9" fill="none" stroke="#f28e2b" stroke-width="2"/>
+<circle cx="175.0" cy="657.0" r="4" fill="#f28e2b"/>
+<circle cx="450.0" cy="581.1" r="4" fill="#f28e2b"/>
+<circle cx="725.0" cy="486.5" r="4" fill="#f28e2b"/>
+<circle cx="1000.0" cy="437.9" r="4" fill="#f28e2b"/>
+<polyline points="175.0,647.9 450.0,578.6 725.0,484.4 1000.0,436.5" fill="none" stroke="#e15759" stroke-width="2"/>
+<circle cx="175.0" cy="647.9" r="4" fill="#e15759"/>
+<circle cx="450.0" cy="578.6" r="4" fill="#e15759"/>
+<circle cx="725.0" cy="484.4" r="4" fill="#e15759"/>
+<circle cx="1000.0" cy="436.5" r="4" fill="#e15759"/>
+<line x1="95" y1="725" x2="113" y2="725" stroke="#4e79a7" stroke-width="3"/>
+<text x="119" y="729" font-family="sans-serif" font-size="12">SingleAESBaseline</text>
+<line x1="305" y1="725" x2="323" y2="725" stroke="#59a14f" stroke-width="3"/>
+<text x="329" y="729" font-family="sans-serif" font-size="12">Low</text>
+<line x1="515" y1="725" x2="533" y2="725" stroke="#f28e2b" stroke-width="3"/>
+<text x="539" y="729" font-family="sans-serif" font-size="12">Medium</text>
+<line x1="725" y1="725" x2="743" y2="725" stroke="#e15759" stroke-width="3"/>
+<text x="749" y="729" font-family="sans-serif" font-size="12">High</text>
+</svg>

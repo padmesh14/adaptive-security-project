@@ -1,0 +1,65 @@
+{
+  "_comment": "Edit this file to add support for a new domain. No Python code changes needed. name_keywords: substring matches against column NAMES. patterns: regexes tested against column VALUES.",
+
+  "name_keywords": {
+    "identifier": {
+      "keywords": ["name", "email", "ssn", "phone", "owner", "username", "fullname",
+                    "firstname", "lastname", "surname", "passport", "national_id",
+                    "aadhaar", "license_number", "customer_id", "user_id"],
+      "score": 35
+    },
+    "medical": {
+      "keywords": ["diagnosis", "medication", "blood", "heart", "health", "allergy",
+                    "prescription", "symptom", "treatment", "disease", "immunization",
+                    "mental_health", "disability"],
+      "score": 30
+    },
+    "financial": {
+      "keywords": ["billing", "insurance", "amount", "payment", "salary", "income",
+                    "credit_card", "card_number", "cvv", "iban", "bank_account",
+                    "routing_number", "tax_id", "net_worth", "loan"],
+      "score": 32
+    },
+    "location": {
+      "keywords": ["gps", "ip_address", "location", "coordinates", "address",
+                    "zipcode", "postal_code", "street", "geolocation"],
+      "score": 20
+    },
+    "biometric": {
+      "keywords": ["fingerprint", "facial", "iris_scan", "biometric", "voiceprint",
+                    "retina", "dna"],
+      "score": 38
+    },
+    "demographic": {
+      "keywords": ["date_of_birth", "dob", "age", "gender", "ethnicity", "religion",
+                    "nationality", "marital_status"],
+      "score": 18
+    },
+    "behavioral": {
+      "keywords": ["power_usage", "motion", "door", "device_id", "browsing_history",
+                    "purchase_history", "login_history", "session_id"],
+      "score": 10
+    },
+    "ambient": {
+      "keywords": ["temperature", "humidity", "weather", "pressure", "wind",
+                    "firmware", "room", "brightness", "noise_level"],
+      "score": 0
+    }
+  },
+
+  "patterns": {
+    "email": "^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$",
+    "ssn_like": "^\\d{3}-\\d{2}-\\d{4}$",
+    "gps": "^-?\\d{1,3}\\.\\d+,\\s*-?\\d{1,3}\\.\\d+$",
+    "ip_address": "^\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}$",
+    "phone": "^\\+?\\d[\\d\\-]{7,}$",
+    "credit_card": "^\\d{4}[- ]?\\d{4}[- ]?\\d{4}[- ]?\\d{4}$",
+    "iban": "^[A-Z]{2}\\d{2}[A-Z0-9]{10,30}$",
+    "date_of_birth": "^(19|20)\\d{2}-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])$",
+    "passport": "^[A-Z][0-9]{7,8}$",
+    "zipcode": "^\\d{5}(-\\d{4})?$"
+  },
+
+  "bounded_numeric_range": 500,
+  "bounded_numeric_penalty": -10
+}

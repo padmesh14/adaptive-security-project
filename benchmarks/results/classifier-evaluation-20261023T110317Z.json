@@ -1,0 +1,163 @@
+{
+  "evaluation": "synthetic-heuristic-classifier-v1",
+  "created_utc": "2026-10-23T11:03:17.666826+00:00",
+  "synthetic_rows": 100,
+  "labeled_columns": 9,
+  "label_caveat": "Expected tiers are explicit author-defined rubric labels for synthetic examples, not empirical ground truth or a validated domain standard.",
+  "label_rationale": {
+    "temperature_c": [
+      "Low",
+      "bounded ambient sensor measurement; synthetic values repeat"
+    ],
+    "weather_condition": [
+      "Low",
+      "non-identifying ambient category; synthetic values repeat"
+    ],
+    "motion_detected": [
+      "Low",
+      "non-identifying binary sensor state; synthetic values repeat"
+    ],
+    "diagnosis": [
+      "Medium",
+      "health category without a direct identifier; rubric assumes moderate sensitivity"
+    ],
+    "medication": [
+      "Medium",
+      "treatment category without a direct identifier; rubric assumes moderate sensitivity"
+    ],
+    "insurance_provider": [
+      "Medium",
+      "provider category without an account or person identifier"
+    ],
+    "owner_email": [
+      "High",
+      "synthetic direct contact identifier using the reserved .invalid domain"
+    ],
+    "owner_ssn_like": [
+      "High",
+      "synthetic pattern-only identifier generated for this test; not a real identifier"
+    ],
+    "patient_name": [
+      "High",
+      "synthetic direct personal-name field"
+    ]
+  },
+  "classifier_rules_file": "src/sensitivity_rules.json",
+  "benchmark_json": "benchmarks/results/tier-benchmark-20261023T110311Z-53218.json",
+  "metrics": {
+    "adaptive": {
+      "labels_order": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "confusion_matrix_rows_expected_columns_predicted": [
+        [
+          3,
+          0,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          3
+        ]
+      ],
+      "accuracy": 0.7777777777777778,
+      "macro_precision": 0.8666666666666667,
+      "macro_recall": 0.7777777777777777,
+      "macro_f1": 0.75,
+      "per_tier": {
+        "Low": {
+          "precision": 0.6,
+          "recall": 1.0,
+          "f1": 0.75,
+          "support": 3,
+          "false_positive_rate": 0.3333333333333333,
+          "false_negative_rate": 0.0
+        },
+        "Medium": {
+          "precision": 1.0,
+          "recall": 0.3333333333333333,
+          "f1": 0.5,
+          "support": 3,
+          "false_positive_rate": 0.0,
+          "false_negative_rate": 0.6666666666666666
+        },
+        "High": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 3,
+          "false_positive_rate": 0.0,
+          "false_negative_rate": 0.0
+        }
+      }
+    },
+    "fixed_thresholds": {
+      "labels_order": [
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "confusion_matrix_rows_expected_columns_predicted": [
+        [
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          0,
+          3
+        ]
+      ],
+      "accuracy": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0,
+      "per_tier": {
+        "Low": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 3,
+          "false_positive_rate": 0.0,
+          "false_negative_rate": 0.0
+        },
+        "Medium": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 3,
+          "false_positive_rate": 0.0,
+          "false_negative_rate": 0.0
+        },
+        "High": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 3,
+          "false_positive_rate": 0.0,
+          "false_negative_rate": 0.0
+        }
+      }
+    }
+  },
+  "under_tiered_count_by_mode": {
+    "adaptive": 2,
+    "fixed_thresholds": 0
+  },
+  "estimated_compute_delta_note": "When benchmark input is provided, each column uses the nearest measured payload size. The delta is a synthetic implementation-cost estimate; it does not validate the label or classify a real workload.",
+  "raw_csv": "classifier-evaluation-20261023T110317Z.csv"
+}
